@@ -1,0 +1,4 @@
+<favourites>
+	<favourite name="[COLOR teal]My Movies[/COLOR]" thumb="special://home/addons/script.incursion.artwork/resources/media/incursion/mymovies.png">ActivateWindow(10025,&quot;plugin://plugin.video.incursion/?action=mymovieNavigator&quot;,return)</favourite>
+	<favourite name="[COLOR gray]*Authorize* trakt here[/COLOR]" thumb="special://home/addons/script.incursion.artwork/resources/media/incursion/trakt.png">ActivateWindow(10025,&quot;plugin://plugin.video.incursion/?action=authTrakt&quot;,return)</favourite>
+</favourites>

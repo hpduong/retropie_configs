@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.wolfpack" name="Wolf Pack" version="4.2" provider-name="The Wolf Pack Crew">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.universalscrapers" version="0.5.5" />
+        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
+        <import addon="script.module.beautifulsoup" version="3.2.1" />
+        <import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.addon.common" version="2.0.0" />
+        <import addon="script.module.xmltodict" version="0.9.0" />
+		<import addon="script.module.wolfpack" version="2.1"/>
+		<import addon="repository.crt" version="1.1"/>
+		<import addon="repository.morepower" version="1.0"/>
+        <!--<import addon="script.module.web-pdb" version="1.0"/>-->
+        <import addon="script.module.resolveurl" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="[login|startup]" />
+    <extension point="xbmc.addon.metadata">
+      <summary lang="en"></summary>
+      <summary lang="he"></summary>
+      <description lang="en">This is an add-on made up of 3 original devs and a couple of great playlisters. This is an all in one add-on meaning there is something here for everyone. From movies, to tv shows, to cartoons to exercise videos. This add-on is Jen powered and many thanks for the template and to all involved.</description>
+      <description lang="he"></description>
+      <disclaimer lang="en"></disclaimer>
+      <disclaimer lang="he"></disclaimer>
+      <platform>all</platform>
+        <website></website>
+        <video_guide></video_guide>
+    </extension>
+</addon>

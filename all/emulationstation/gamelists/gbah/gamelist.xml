@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Advance Wars_2 - War Room C (X).zip</path>
+		<name>Advance Wars_2 - War Room C (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Advance Wars_2 - War Room C (X).png</marquee>
+		<video>./snap/Advance Wars_2 - War Room C (X).mp4</video>
+	</game>
+	<game>
+		<path>./Breath of Fresh Fire II (X).zip</path>
+		<name>Breath of Fresh Fire II (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Breath of Fresh Fire II (X).png</marquee>
+		<video>./snap/Breath of Fresh Fire II (X).mp4</video>
+	</game>
+	<game>
+		<path>./Castlevania - Revenge On Findesiecle X.zip</path>
+		<name>Castlevania - Revenge On Findesiecle X</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Castlevania - Revenge On Findesiecle X.png</marquee>
+		<video>./snap/Castlevania - Revenge On Findesiecle X.mp4</video>
+	</game>
+	<game>
+		<path>./Castlevania - Revenge On The Findesiecle (Final).zip</path>
+		<name>Castlevania - Revenge On The Findesiecle (Final)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Castlevania - Revenge On The Findesiecle (Final).png</marquee>
+		<video>./snap/Castlevania - Revenge On The Findesiecle (Final).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy VI Advance (X).zip</path>
+		<name>Final Fantasy VI Advance (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Final Fantasy VI Advance (X).png</marquee>
+		<video>./snap/Final Fantasy VI Advance (X).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy_Tactics - Advance (X).zip</path>
+		<name>Final Fantasy_Tactics - Advance (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Final Fantasy_Tactics - Advance (X).png</marquee>
+		<video>./snap/Final Fantasy_Tactics - Advance (X).mp4</video>
+	</game>
+	<game>
+		<path>./Fire Emblem 6 - Sword of Seals (T).zip</path>
+		<name>Fire Emblem 6 - Sword of Seals (T)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Fire Emblem 6 - Sword of Seals (T).png</marquee>
+		<video>./snap/Fire Emblem 6 - Sword of Seals (T).mp4</video>
+	</game>
+	<game>
+		<path>./Fire Emblem 6.5 - Shining Armor (X).gba.zip</path>
+		<name>Fire Emblem 6.5 - Shining Armor (X).gba</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Fire Emblem 6.5 - Shining Armor (X).gba.png</marquee>
+		<video>./snap/Fire Emblem 6.5 - Shining Armor (X).gba.mp4</video>
+	</game>
+	<game>
+		<path>./Fire Emblem 7 - AoTM (X).zip</path>
+		<name>Fire Emblem 7 - AoTM (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Fire Emblem 7 - AoTM (X).png</marquee>
+		<video>./snap/Fire Emblem 7 - AoTM (X).mp4</video>
+	</game>
+	<game>
+		<path>./Fire Emblem 7 - Death or Glory (X).zip</path>
+		<name>Fire Emblem 7 - Death or Glory (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Fire Emblem 7 - Death or Glory (X).png</marquee>
+		<video>./snap/Fire Emblem 7 - Death or Glory (X).mp4</video>
+	</game>
+	<game>
+		<path>./Fire Emblem 7 - Ostian Princess (X).zip</path>
+		<name>Fire Emblem 7 - Ostian Princess (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Fire Emblem 7 - Ostian Princess (X).png</marquee>
+		<video>./snap/Fire Emblem 7 - Ostian Princess (X).mp4</video>
+	</game>
+	<game>
+		<path>./Fire Emblem 7 - Sacred Contention (X).zip</path>
+		<name>Fire Emblem 7 - Sacred Contention (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Fire Emblem 7 - Sacred Contention (X).png</marquee>
+		<video>./snap/Fire Emblem 7 - Sacred Contention (X).mp4</video>
+	</game>
+	<game>
+		<path>./Fire Emblem 7 - The Last Promise (X).zip</path>
+		<name>Fire Emblem 7 - The Last Promise (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Fire Emblem 7 - The Last Promise (X).png</marquee>
+		<video>./snap/Fire Emblem 7 - The Last Promise (X).mp4</video>
+	</game>
+	<game>
+		<path>./Fire Emblem 7.5 - Elibian Nights (X).gba.zip</path>
+		<name>Fire Emblem 7.5 - Elibian Nights (X).gba</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Fire Emblem 7.5 - Elibian Nights (X).gba.png</marquee>
+		<video>./snap/Fire Emblem 7.5 - Elibian Nights (X).gba.mp4</video>
+	</game>
+	<game>
+		<path>./Golden Sun II - The Lost Age_RS (X).zip</path>
+		<name>Golden Sun II - The Lost Age_RS (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Golden Sun II - The Lost Age_RS (X).png</marquee>
+		<video>./snap/Golden Sun II - The Lost Age_RS (X).mp4</video>
+	</game>
+	<game>
+		<path>./Metroid - Other ZM.zip</path>
+		<name>Metroid - Other ZM</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Metroid - Other ZM.png</marquee>
+		<video>./snap/Metroid - Other ZM.mp4</video>
+	</game>
+	<game>
+		<path>./Metroid - ZM Boss Rush (X).zip</path>
+		<name>Metroid - ZM Boss Rush (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Metroid - ZM Boss Rush (X).png</marquee>
+		<video>./snap/Metroid - ZM Boss Rush (X).mp4</video>
+	</game>
+	<game>
+		<path>./Metroid - ZM Disturbance (X).zip</path>
+		<name>Metroid - ZM Disturbance (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Metroid - ZM Disturbance (X).png</marquee>
+		<video>./snap/Metroid - ZM Disturbance (X).mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon - Flora Sky (X).zip</path>
+		<name>Pokemon - Flora Sky (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Pokemon - Flora Sky (X).png</marquee>
+		<video>./snap/Pokemon - Flora Sky (X).mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon - Ultra Violet (X).zip</path>
+		<name>Pokemon - Ultra Violet (X)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Pokemon - Ultra Violet (X).png</marquee>
+		<video>./snap/Pokemon - Ultra Violet (X).mp4</video>
+	</game>
+	<game>
+		<path>./Super Robot Taisen J (T).zip</path>
+		<name>Super Robot Taisen J (T)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Super Robot Taisen J (T).png</marquee>
+		<video>./snap/Super Robot Taisen J (T).mp4</video>
+	</game>
+	<game>
+		<path>./Super Robot Wars 2 (T).zip</path>
+		<name>Super Robot Wars 2 (T)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Super Robot Wars 2 (T).png</marquee>
+		<video>./snap/Super Robot Wars 2 (T).mp4</video>
+	</game>
+	<game>
+		<path>./Tales of the World - ND 2 (T).zip</path>
+		<name>Tales of the World - ND 2 (T)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Tales of the World - ND 2 (T).png</marquee>
+		<video>./snap/Tales of the World - ND 2 (T).mp4</video>
+	</game>
+	<game>
+		<path>./Tales of the World - ND 3 (T).zip</path>
+		<name>Tales of the World - ND 3 (T)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Tales of the World - ND 3 (T).png</marquee>
+		<video>./snap/Tales of the World - ND 3 (T).mp4</video>
+	</game>
+	<game>
+		<path>./Yoshi's Island - Super Mario Advance 3 (Voice Removed).zip</path>
+		<name>Yoshi's Island - Super Mario Advance 3 (Voice Removed)</name>
+		<image>./boxart/gbah.png</image>
+		<marquee>./wheel/Yoshi's Island - Super Mario Advance 3 (Voice Removed).png</marquee>
+		<video>./snap/Yoshi's Island - Super Mario Advance 3 (Voice Removed).mp4</video>
+	</game>
+	<game>
+		<path>./Another World (Atari ST Reverse Engineering).zip</path>
+		<name>Another World (Atari ST Reverse Engineering)</name>
+		<image>./boxart/gbah.png</image>
+		<video>./snap/Another World (Atari ST Reverse Engineering).mp4</video>
+		<marquee>./wheel/Another World (Atari ST Reverse Engineering).png</marquee>
+		<playcount>1</playcount>
+		<lastplayed>20180312T164103</lastplayed>
+	</game>
+</gameList>

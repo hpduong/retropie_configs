@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>script.module.livenettv.net</defaultID>
+		<label>[COLOR teal]Live Nettv[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/script.module.livenettv.net/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://script.module.livenettv.net",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>script.module.startec-swiftstreamz</defaultID>
+		<label>[COLOR gray]Swift Streamz Tv[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/script.module.swiftstreamz/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://script.module.startec-swiftstreamz",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.selfless</defaultID>
+		<label>[COLOR teal]SelfLess[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.selfless/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.selfless",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]tons of live Channels[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.sli/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sli/?mode=get_list&amp;url=https%3A%2F%2Fraw.githubusercontent.com%2Ftubestrending%2Fvirus%2Fmaster%2Ftest&amp;name=%5BB%5D%5BCOLOR+cyan%5DChannels%5B%2FCOLOR%5D+for+%5BCOLOR+yellow%5DTv+Guide%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Fuserdata%2Faddon_data%2Fplugin.video.sli%2Fartcache%2Fi.imgur.comohogCZh.gif&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Fuserdata%2Faddon_data%2Fplugin.video.sli%2Fartcache%2Fi.imgur.comiXZgS5p.gif&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>script.module.startecmob/list_channels/channels</defaultID>
+		<label>[COLOR teal]mixed channels[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/script.module.startecmob/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://script.module.startecmob/list_channels/channels",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>script.module.uktvnow/list_channels/1</defaultID>
+		<label>[COLOR gray]UK &amp; USA Channels[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/script.module.uktvnow/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://script.module.uktvnow/list_channels/1",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]USA CHANNELS[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fvQlkLtY.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.selfless/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftubestrending%2Feverydayupdate%2Fmaster%2F4TH.txt&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+cyan%5DBliss+Tv+-+%5BCOLOR+lime%5D%5BB%5D+USA+CHANNELS+%5B%2FB%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2Fi.imgur.com%2FjppdYfH.jpg",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]selfless Lite[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.sli/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sli/?mode=get_list&amp;url=https%3A%2F%2Fraw.githubusercontent.com%2Ftubestrending%2Fvirus%2Fmaster%2Fav2&amp;name=%5BB%5D%5BCOLOR+cyan%5DLive+%5BI%5D%5BCOLOR+yellow%5DTv%5B%2FI%5D%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Fuserdata%2Faddon_data%2Fplugin.video.sli%2Fartcache%2Fi.imgur.comohogCZh.gif&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Fuserdata%2Faddon_data%2Fplugin.video.sli%2Fartcache%2Fi.imgur.comiXZgS5p.gif&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]Maverick IPTV[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fmavericktv.net%2fdata%2ficons%2fiptv.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.MaverickTV/?url=https%3A%2F%2Fpastebin.com%2Fraw%2F3x50tXuZ&amp;mode=1&amp;name=%5BCOLOR+lime%5D%5BB%5DMaverick+IPTV+Extra%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fmavericktv.net%2Fdata%2Ficons%2Fiptv.jpg&amp;fanart=http%3A%2F%2Fwww.artsfon.com%2Fpic%2F201511%2F1920x1080%2Fartsfon.com-75971.jpg",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.chronos</defaultID>
+		<label>[COLOR gray]Chronos[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.chronos/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.chronos",return)</action>
+	</shortcut>
+</shortcuts>

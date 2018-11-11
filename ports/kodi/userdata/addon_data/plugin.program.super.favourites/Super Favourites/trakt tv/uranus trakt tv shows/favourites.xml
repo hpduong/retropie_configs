@@ -1,0 +1,4 @@
+<favourites>
+	<favourite name="[COLOR teal]Trakt TV[/COLOR]" thumb="special://home/addons/script.uranus.artwork/resources/media/Default/trakt.png">ActivateWindow(10025,&quot;plugin://plugin.video.uranus/?action=tvshowstNavigator&quot;,return)</favourite>
+	<favourite name="[COLOR gray]Account settings for trakt[/COLOR]" thumb="special://home/addons/script.uranus.artwork/resources/media/Default/tools.png">ActivateWindow(10025,&quot;plugin://plugin.video.uranus/?action=openSettings&amp;query=2.1&quot;,return)</favourite>
+</favourites>

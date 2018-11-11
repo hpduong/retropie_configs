@@ -1,0 +1,9 @@
+<dir>
+    <title>Actors</title>
+    <link>file://shared lists/actors.xml</link>
+  </dir>
+
+<dir>
+    <title>Actresses</title>
+    <link>file://shared lists/actress.xml</link>
+  </dir>

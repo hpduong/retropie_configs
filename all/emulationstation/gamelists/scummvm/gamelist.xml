@@ -1,0 +1,808 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="" source="">
+		<path>./lsl6.svm</path>
+		<name>Leisure Suit Larry 6: Shape up or Slip Out</name>
+		<desc>He's the love gury looking for love at the wrong time and place.</desc>
+		<rating>0.7</rating>
+		<image>./boxart/lsl6.png</image>
+		<marquee>./wheel/lsl6.png</marquee>
+		<video>./snap/lsl6.mp4</video>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./atlantis.svm</path>
+		<name>atlantis</name>
+		<image>./boxart/atlantis.png</image>
+		<video>./snap/atlantis.mp4</video>
+		<marquee>./wheel/atlantis.png</marquee>
+		<playcount>3</playcount>
+		<lastplayed>20171226T231220</lastplayed>
+	</game>
+	<game>
+		<path>./sword1.svm</path>
+		<name>Broken Sword: The Shadow of the Templars</name>
+		<desc>George Stobbart is an American tourist on holiday in Paris in the autumn. The story opens with George's quiet coffee at a café rudely interrupted by the explosion of a bomb planted by a man dressed up as a clown. He sets off investigating the explosion and, gradually, he and photo-journalist Nico Collard are drawn into a globe-trotting adventure involving conspiracies, cults and murder, all revolving around the Knights Templar.
+
+The game, which was a critical and commercial success, was released as Circle of Blood in the United States.</desc>
+		<image>./boxart/sword1.png</image>
+		<video>./snap/sword1.mp4</video>
+		<marquee>./wheel/sword1.png</marquee>
+		<rating>0.78</rating>
+		<releasedate>19960930T000000</releasedate>
+		<developer>Revolution Software</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Adventure</genre>
+		<playcount>3</playcount>
+		<lastplayed>20171227T083911</lastplayed>
+	</game>
+	<game>
+		<path>./longbow.svm</path>
+		<name>Conquest of the Longbow: The Adventures of Robin Hood</name>
+		<desc>This game is set in medieval England. You play as Robin Hood. Your objective is to free King Richard from the French by raising money for his ransome. There are many different endings depending on the score you get. The game uses a mouse interface. There are arcade sequences built into the story, but their difficulty can be adjusted, or they can be completely turned off.</desc>
+		<image>./boxart/longbow.png</image>
+		<video>./snap/longbow.mp4</video>
+		<marquee>./wheel/longbow.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+		<playcount>2</playcount>
+		<lastplayed>20171227T085618</lastplayed>
+	</game>
+	<game>
+		<path>./camelot.svm</path>
+		<name>Conquests of Camelot: The Search for the Grail</name>
+		<desc>Sierra graphic adventure game from the 16-color era. Guide King Arthur as he searches for the Holy Grail in Britainnia and the Holy Land. Merlin's spirit is an ever-present guide as Arthur travels throughout Britainnia, and to Gaza and Jersulem. Along the way, Arthur will meet Gwynhyver, the Black Knight, and the Lady of the Lake, and he'll rescue Sir Launcelot and Sir Gawaine from danger. Finally, he must pass the tests of the six goddesses to prove his worth and receive the Grail.</desc>
+		<image>./boxart/camelot.png</image>
+		<video>./snap/camelot.mp4</video>
+		<marquee>./wheel/camelot.png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T090350</lastplayed>
+	</game>
+	<game>
+		<path>./dw-cd.svm</path>
+		<name>Discworld</name>
+		<image>./boxart/dw-cd.png</image>
+		<video>./snap/dw-cd.mp4</video>
+		<marquee>./wheel/dw-cd.png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<playcount>1</playcount>
+		<lastplayed>20171227T091344</lastplayed>
+	</game>
+	<game>
+		<path>./dw2-gb-1.svm</path>
+		<name>Discworld 2 - Missing Presumed</name>
+		<image>./boxart/dw2-gb-1.png</image>
+		<video>./snap/dw2-gb-1.mp4</video>
+		<marquee>./wheel/dw2-gb-1.png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<playcount>1</playcount>
+		<lastplayed>20171227T092334</lastplayed>
+	</game>
+	<game>
+		<path>./ecoquest2.svm</path>
+		<name>EcoQuest II: The Lost Secret of the Rainforest</name>
+		<desc>In the wake of the tremendous success of the original EcoQuest: The Search for Cetus, Sierra has decided to follow up with a sequel.
+
+In EcoQuest 2: Lost Secret of the Rainforest, you play the role of Adam Greene who, along with his father Noah - doctor of ecology, arrives in a country in the middle of the rainforest in order to make some ecological studies.
+
+After having separated from his father, Adam must venture into the rainforest, discover the secret of the mysterious Forest Heart and find the lost City of Gold in his pursuit of a remedy for the Grove People.</desc>
+		<image>./boxart/ecoquest2.png</image>
+		<video>./snap/ecoquest2.mp4</video>
+		<marquee>./wheel/ecoquest2.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T092539</lastplayed>
+	</game>
+	<game>
+		<path>./ecoquest-cd.svm</path>
+		<name>EcoQuest: The Search for Cetus</name>
+		<desc>In EcoQuest: The Search for Cetus, the player is cast into the role of Adam, the twelve-year-old son of the famous ecologist Noah Greene. One day, his father rescues a dolphin from an abandoned fish net. As Adam becomes more friendly with the creature, he is amazed to discover that the dolphin can talk! Adam finds out that his new friend is Delphineus, the messenger of the whale king Cetus. As a qualified scuba diver, Adam is chosen to venture into the underwater kingdom of animals known as Eluria, and help its inhabitants.
+
+The game's interface and basic gameplay are similar to those of other Sierra adventures: the player interacts with the environment by selecting icons that represent verb commands ("Look", "Talk", "Use", etc.) and applying them to objects or characters. Compared to most other adventure games by the same company, the difficulty level is lower, with the intention of making the game more suitable for younger players; for instance, it is impossible to "die" or get irrevocably stuck in the game. 
+
+Despite its supernatural elements, EcoQuest contains educational material. The inhabitants of the deep see are realistically depicted, and there is plenty of information concerning their life habits, environment, and the threats posed to them by human beings.</desc>
+		<image>./boxart/ecoquest-cd.png</image>
+		<video>./snap/ecoquest-cd.mp4</video>
+		<marquee>./wheel/ecoquest-cd.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T092837</lastplayed>
+	</game>
+	<game>
+		<path>./eob.svm</path>
+		<name>Eye of the Beholder</name>
+		<desc>Eye of the Beholder featured a first-person perspective in a three-dimensional dungeon, similar to Dungeon Master. The player controls four characters, initially, using a point-and-click interface to fight monsters. This can be increased to a maximum of six characters, by resurrecting one or more of the dead NPCs bone remains or finding NPCs that are found throughout the dungeons.</desc>
+		<image>./boxart/eob.png</image>
+		<video>./snap/eob.mp4</video>
+		<marquee>./wheel/eob.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Strategic Simulations, Inc.</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T093648</lastplayed>
+	</game>
+	<game>
+		<path>./eob2.svm</path>
+		<name>Eye of the Beholder II: The Legend of Darkmoon</name>
+		<desc>After the adventures of the first game, the heroes head to a local inn to rest and enjoy their newfound fame but a note gets slipped to them from Khelben "Blackstaff" Arunsun (Archmage of Waterdeep) who says that he sent a scout (Amber, a female elven thief/mage of neutral good alignment) to investigate reports of evil brewing in a temple known as Darkmoon but she has not returned. Khelben then transports the heroes to the temple to find Amber and continue the investigation, but it soon becomes apparent that not everything is as it seems....</desc>
+		<image>./boxart/eob2.png</image>
+		<video>./snap/eob2.mp4</video>
+		<marquee>./wheel/eob2.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Strategic Simulations, Inc.</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T094128</lastplayed>
+	</game>
+	<game>
+		<path>./gob1cd-us.svm</path>
+		<name>Gobliins 1</name>
+		<image>./boxart/gob1cd-us.png</image>
+		<video>./snap/gob1cd-us.mp4</video>
+		<marquee>./wheel/gob1cd-us.png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<playcount>1</playcount>
+		<lastplayed>20171227T094926</lastplayed>
+	</game>
+	<game>
+		<path>./hoyle3.svm</path>
+		<name>Hoyle Official Book of Games - Volume 3</name>
+		<image>./boxart/hoyle3.png</image>
+		<video>./snap/hoyle3.mp4</video>
+		<marquee>./wheel/hoyle3.png</marquee>
+		<releasedate>1993</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<playcount>1</playcount>
+		<lastplayed>20171227T094953</lastplayed>
+	</game>
+	<game>
+		<path>./ihnm.svm</path>
+		<name>I Have No Mouth and I Must Scream</name>
+		<image>./boxart/ihnm.png</image>
+		<video>./snap/ihnm.mp4</video>
+		<marquee>./wheel/ihnm.png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<playcount>1</playcount>
+		<lastplayed>20171227T095158</lastplayed>
+	</game>
+	<game>
+		<path>./jones-cd.svm</path>
+		<name>Jones in the Fast Lane</name>
+		<desc>Jones in the Fast Lane is a simulation of a person's life, presented as a turn-based strategy game. You can play by yourself, or compete with other human players or the computer-controlled Jones. At the beginning of the game you determine what your goals are, in four categories - Money, Happiness, Education and Career: the higher your goals, the longer the game. 
+
+The game itself is presented as something akin to a board game. The board represents the city where you live. Each turn (here, a turn represents a week of your life) you have limited time to act, and you have to choose how to spend it. Walking somewhere else costs you time, as well as working, learning, and looking for a job. 
+
+The first thing you should do is looking for a job at an employment center. Since initially you have no education, experience or work history, you can only choose the simplest, lowest-paying jobs - such as a janitor or a cook. Later on, as you enroll into various courses at an university, you'll get smart enough to get the high-ranking jobs. But remember that some jobs require you to buy and wear expensive clothes. 
+
+Work isn't mandatory, and you can dedicate time to working whenever you feel like it. The money you get can be spent in many ways. You can buy a snack at a fast food restaurant (you should eat something each week, or next week you'll have less time due to hunger). You can buy some appliances for your house, lottery tickets, newspapers and more. You can also store your money in the bank (a wise choice, considering the ubiquity of pickpockets) or invest into stock market. Remember that you have to pay rent for your house - if you don't pay for a long time, your landlord will garnish some amount from the money you earn at work. But if you get enough cash, you can rent a luxury apartment and move out of the stinky hole inside which you've been spending your life earlier!</desc>
+		<image>./boxart/jones-cd.png</image>
+		<video>./snap/jones-cd.mp4</video>
+		<marquee>./wheel/jones-cd.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T100001</lastplayed>
+	</game>
+	<game>
+		<path>./kq1sci.svm</path>
+		<name>King’s Quest I: Quest for the Crown</name>
+		<desc>Roberta Williams' King's Quest I: Quest for the Crown is a remake of King's Quest. It uses Sierra's 16-color SCI game interpreter, making it visually similar to the series' fourth installment, with more detailed EGA full-screen graphics and optional mouse support, while retaining text-based input and interaction. This version also has a musical score that supports sound cards, as opposed to the speaker-only output of the original release.
+
+Several changes have been made to the game's locations and script. A few new characters appear in the remake, and some of the conversations feature additional lines. A number of puzzles have slightly different solutions, and some objects are found in different places than they were in the original version.</desc>
+		<image>./boxart/kq1sci.png</image>
+		<video>./snap/kq1sci.mp4</video>
+		<marquee>./wheel/kq1sci.png</marquee>
+		<releasedate>19900201T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T100155</lastplayed>
+	</game>
+	<game>
+		<path>./kq2.svm</path>
+		<name>King’s Quest II: Romancing the Throne</name>
+		<desc>The Magic Mirror shows King Graham a vision about a beautiful woman, Valanice, imprisoned on the top of an ivory tower. Being charmed by her, he is teleported to the world of Kolyma to rescue her. There he must travel through sea, air, and even death to gain the keys that unlock the three doors to the enchanted island where Hagatha the witch has imprisoned Valanice.</desc>
+		<image>./boxart/kq2.png</image>
+		<video>./snap/kq2.mp4</video>
+		<marquee>./wheel/kq2.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19850501T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<playcount>2</playcount>
+		<lastplayed>20171227T100214</lastplayed>
+	</game>
+	<game>
+		<path>./kq3.svm</path>
+		<name>King’s Quest III: To Heir is Human</name>
+		<desc>Become Gwydion, young slave to the evil wizard manannan of Llewdor. Discover the wizard's secret spells and use his magic to free yourself from his thrall. Embark upon a dangerous voyage to another land. Scale snowy peaks and brave a terrible monster to free a kingdom from it's ravages.</desc>
+		<image>./boxart/kq3.png</image>
+		<video>./snap/kq3.mp4</video>
+		<marquee>./wheel/kq3.png</marquee>
+		<releasedate>19861101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T100234</lastplayed>
+	</game>
+	<game>
+		<path>./kq4sci.svm</path>
+		<name>King’s Quest IV: The Perils of Rosella</name>
+		<desc>King Graham and Queen Valanice were glad to have their children back. Graham thinks that it is time to pass onto them his old adventurers' hat. When he throws it across the room, he suffers a heart attack and collapses on the floor, and he is carried off to bed. The only way that Graham's health can be restored is by retrieving the magic fruit in the faraway land of Tamir. A beautiful fairy called Genesta offers Rosella the chance to be transported to the land, and find the fruit. But once she gets transported, she cannot be sent back unless she helps the fairy regain her talisman that was stolen by the evil witch, Lolotte.</desc>
+		<image>./boxart/kq4sci.png</image>
+		<video>./snap/kq4sci.mp4</video>
+		<marquee>./wheel/kq4sci.png</marquee>
+		<releasedate>19880816T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T100455</lastplayed>
+	</game>
+	<game>
+		<path>./kq5-cd.svm</path>
+		<name>King’s Quest V: Absence Makes the Heart Go Yonder</name>
+		<desc>Dark powers summon a cold wind from the north. The terrifying gust surrounds Sir Graham's castle, and mysteriously sweeps his fortress and family into the prison of oblivion. It's a bitter omen that chills the bones of every man, woman and child in the once peaceful Kingdom of Daventry. Who or what is responsible for this royal theft, and the misery that ravages the heart of Daventry? Has the ruthless wizard Manannan cast another evil spell? Or are the Black Forest Witch and the unforgiving Ice Queen using sinister powers to promote their wicked cause? Only you can answer these questions, as you assume the role of Sir Graham, then set forth on an adventure that will test your intelligence, challenge your skill and rip your courage to shreds.</desc>
+		<image>./boxart/kq5-cd.png</image>
+		<video>./snap/kq5-cd.mp4</video>
+		<marquee>./wheel/kq5-cd.png</marquee>
+		<releasedate>19901109T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T100520</lastplayed>
+	</game>
+	<game>
+		<path>./kq6-cd.svm</path>
+		<name>King’s Quest VI: Heir Today, Gone Tomorrow</name>
+		<desc>For months Prince Alexander of Daventry has shut himself away from the world, thinking only of Princess Cassima, who he met while imprisoned in the previous game. Eventually he can take it no longer, and he hires a ship to search for the Land of the Green Isles located on the edge of the world. After months of searching he finally sets sight upon the island kingdom, only for a freak storm to strike the ship, destroying it and leaving him the only survivor. His troubles are far from over, however, as he soon finds out that the King and Queen have passed away, the Greens Isles are on the brink of war, and his beloved Princess Cassima may even be held prisoner by the royal vizier.</desc>
+		<image>./boxart/kq6-cd.png</image>
+		<video>./snap/kq6-cd.mp4</video>
+		<marquee>./wheel/kq6-cd.png</marquee>
+		<releasedate>19920930T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T100655</lastplayed>
+	</game>
+	<game>
+		<path>./lgop2.svm</path>
+		<name>Leather Goddess of Phobos 2</name>
+		<image>./boxart/lgop2.png</image>
+		<video>./snap/lgop2.mp4</video>
+		<marquee>./wheel/lgop2.png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<playcount>1</playcount>
+		<lastplayed>20171227T100814</lastplayed>
+	</game>
+	<game>
+		<path>./lsl2.svm</path>
+		<name>Leisure Suit Larry 2: Goes Looking for Love (In Several Wrong Places)</name>
+		<desc>Leisure Suit Larry Goes Looking for Love (In Several Wrong Places) is the second game in Al Lowe's Leisure Suit Larry series. Continuing the plot of the previous game, the swinging single Larry Laffer has finally found his true love and is happily living with her. Right? Wrong!.. Because Larry is mercilessly thrown out by his great love and is left all alone, penniless, and womanless, in Los Angeles. Accidentally, Larry comes into contact with KGB agents who will pursue him all over the globe from now on. And there is also the evil doctor Noontonyt plotting evil schemes on a remote tropical island... Looks like Larry will have to forget about his women-related problems for now... or is it so?
+
+The second game in the series introduces an improved engine (allowing for full-screen graphics and mouse control for movement). As opposed to the first game, which relied on exploration of one large area, the sequel has a more linear progression, the player being continuously taken to new locations as dictated by the plot. There are less puzzles in this installment than in the previous game; however, the number of ways to die has increased, danger awaiting Larry in most places he visits.</desc>
+		<image>./boxart/lsl2.png</image>
+		<video>./snap/lsl2.mp4</video>
+		<marquee>./wheel/lsl2.png</marquee>
+		<releasedate>19881027T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T100853</lastplayed>
+	</game>
+	<game>
+		<path>./lsl3.svm</path>
+		<name>Leisure Suit Larry 3: Passionate Patti In Pursuit of the Pulsating Pectorals</name>
+		<desc>Passionate Patti in Pursuit of the Pulsating Pectorals! is the third game in Al Lowe's Leisure Suit Larry series. Larry Laffer has finally found the woman of his dreams, and can happily live with her together on the beautiful tropical island... until he gets thrown out of the house by his wife. His boss, who happens to be his (now ex-) father-in-law, fires him. Larry is all alone, without a woman, without a job, on an island that has long ceased to be a "tropical paradise" and is exploited by entertainers, lawyers, and alike. But never despair! Dressed in his irresistible leisure suit, Larry is about to conquer the world (or at least its female population) anew. Watch out, fairer sex, because Larry is back to his swinging self!</desc>
+		<image>./boxart/lsl3.png</image>
+		<video>./snap/lsl3.mp4</video>
+		<marquee>./wheel/lsl3.png</marquee>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T101100</lastplayed>
+	</game>
+	<game>
+		<path>./lsl5.svm</path>
+		<name>Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work</name>
+		<desc>Passionate Patti Does a Little Undercover Work! is (despite the number) the fourth game in Al Lowe's Leisure Suit Larry series. The middle-aged would-be-womanizer Larry Laffer fell off a boat during a cruise and sustained amnesia, forgetting how he and his sweetheart Patti got separated, how Larry got a job in LA, how Patti got a job with the FBI, and what happened in (the never released) Larry 4. Now Larry and Patti are working independently on two cases that are connected to each other, even though the heroes aren't aware of that. Larry's new bosses are involved in shady business, while Patti agrees to take a break from her career as a performing pianist and become an undercover agent. Will the two be together ever again?</desc>
+		<image>./boxart/lsl5.png</image>
+		<video>./snap/lsl5.mp4</video>
+		<marquee>./wheel/lsl5.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T101201</lastplayed>
+	</game>
+	<game>
+		<path>./lsl1sci.svm</path>
+		<name>Leisure Suit Larry In the Land of the Lounge Lizards</name>
+		<desc>Leisure Suit Larry 1: In the Land of the Lounge Lizards is a remake of the first game in the Leisure Suit Larry series. It introduces a new interface. Instead of typing commands, the player performs the desired actions by choosing appropriate icons, and then clicking on objects on the screen to interact with them. The graphics are now 256 color VGA. There is also much more music than in the original version, and it supports more advanced sound formats.</desc>
+		<image>./boxart/lsl1sci.png</image>
+		<video>./snap/lsl1sci.mp4</video>
+		<marquee>./wheel/lsl1sci.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T101410</lastplayed>
+	</game>
+	<game>
+		<path>./loom-vga.svm</path>
+		<name>Loom</name>
+		<desc>The Age of the Great Guilds has arrived. Communities and states comprised of people united by a common trade were created. The Guild of Weavers has achieved such mastery in their trade that they discovered the secret of weaving the very fabric of reality. They were treated with suspicion by other guilds, who eventually accused them of practicing witchcraft and banned them to a secluded island, which they called Loom.
+
+Bobbin Threadbare is a young man from the Guild of Weavers. He is outcast from the guild and blamed for the lack of prosperity in recent times, though he does not know why. On his seventeenth birthday he is summoned by the Elders of the guild, who intend to decide his fate. However, shortly thereafter all the inhabitants of the village except Bobbin are turned into swans. Bobbin finds out that he is the child of the Great Loom, found by Lady Cygna, who tried to use the loom's powers to save the guild. Bobbin's stepmother Dame Hetchel teaches him the art of weaving magical drafts, and Bobbin embarks on a journey to find the lost flock, and the answers to his questions.
+
+Loom is an adventure game that sets itself apart from other titles in the genre through its unique gameplay system: the player character does not carry items around, but rather manipulates objects through the use of spells (called "drafts" in the game). The drafts themselves are woven by playing magical notes on a special instrument called "distaff". All the puzzles in the game are solved by learning and correctly applying these drafts.
+
+Each draft is a sequence of four notes within one octave. The player learns new drafts by exploring the environment and interacting with it through a simple point-and-click interface. Once a draft has been learned, it may be applied in a different situation in order to solve a problem. Drafts range from simple general actions (such as opening) to more specific and complex commands, e.g. turning straw into gold. Drafts can also be "reversed", i.e. played backwards, in order to execute the opposite action (for example, closing something instead of opening). As the game progresses Bobbin learns to play higher notes on the distaff, allowing him to access more drafts.
+
+The game features three difficulty levels, differentiating them by changing the way the interface works. The easiest level displays names of the notes as well as marking the correspondent areas on the distaff; Standard level features the distaff with the marks at the bottom of the screen, but no written notes; whereas Expert does not display the marks at all, requiring the player to memorize and play the drafts by ear.
+
+The CD DOS version of the game has enhanced 256-color graphics, audio tracks, and full voice acting. However, it also removes a few close-up scenes and conversations. The FM Towns version preserves these scenes and includes similar graphical and musical enhancements, but has no voice acting.</desc>
+		<image>./boxart/loom-vga.png</image>
+		<video>./snap/loom-vga.mp4</video>
+		<marquee>./wheel/loom-vga.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Lucasarts</developer>
+		<publisher>Lucasarts</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T101527</lastplayed>
+	</game>
+	<game>
+		<path>./mh2.svm</path>
+		<name>Manhunter 2: San Francisco</name>
+		<desc>Picking up immediately where Manhunter: New York left off, Manhunter 2: San Francisco has the player crash-landing their stolen ship in the City by the Bay after trying unsuccessfully to keep up with enigmatic serial killer Phil. Left with no alternatives, the player assumes the identity of a local Manhunter and solves more crimes for the alien Orbs while searching for Phil and working for the local human resistance.
+
+Manhunter 2 presents the same urban decay and oppressive alien invader regime as visualized in the original, this time using streets and landmarks from the Bay Area. The Golden Gate Bridge, Coit Tower, Alcatraz prison, and the TransAmerica Pyramid all receive alien makeovers. New puzzles, new characters, and new investigations await as the player tracks Phil by his string of strangled corpses.
+
+All concepts and gameplay elements from Manhunter: New York return. The player again uses the MAD tracking device to follow suspects provided by the alien Orbs and uses clues found through first-person location investigation to discover the suspects' name. Occasional arcade sequences bring mixed challenges, and though they cannot be skipped, a new difficulty option has been implemented. The same point-and-click gameplay (no typing required) is used to navigate the game world.</desc>
+		<image>./boxart/mh2.png</image>
+		<video>./snap/mh2.mp4</video>
+		<marquee>./wheel/mh2.png</marquee>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Evryware</developer>
+		<publisher>Sierra Entertainment</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T101702</lastplayed>
+	</game>
+	<game>
+		<path>./monkey.svm</path>
+		<name>Monkey Island</name>
+		<desc>A graphical adventure by Ron Gilbert.</desc>
+		<image>./boxart/monkey.png</image>
+		<video>./snap/monkey.mp4</video>
+		<marquee>./wheel/monkey.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T101724</lastplayed>
+	</game>
+	<game>
+		<path>./monkey2.svm</path>
+		<name>Monkey Island 2: LeChuck's Revenge</name>
+		<desc>LeChuck's Revenge is set in the fictional Tri-Island Area of the Caribbean, several months after The Secret of Monkey Island. The game opens in medias res as Guybrush Threepwood hangs on a rope above a hole, narrating to Elaine Marley on a separate rope the events that led to this situation. The flashback sequence starts on Scabb Island and constitutes most of the playable game's setting. During it, Guybrush also visits Phatt Island, Booty Island, and Dinky Island, voyaging on two different pirate ships.</desc>
+		<image>./boxart/monkey2.png</image>
+		<video>./snap/monkey2.mp4</video>
+		<marquee>./wheel/monkey2.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T101918</lastplayed>
+	</game>
+	<game>
+		<path>./pq2.svm</path>
+		<name>Police Quest II: The Vengance</name>
+		<desc>Continue the police quest and get revenge lost of your partner.</desc>
+		<image>./boxart/pq2.png</image>
+		<video>./snap/pq2.mp4</video>
+		<marquee>./wheel/pq2.png</marquee>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T102003</lastplayed>
+	</game>
+	<game>
+		<path>./pq3.svm</path>
+		<name>Police Quest III: The Kindred</name>
+		<desc>Continue the police quest for kindred.</desc>
+		<image>./boxart/pq3.png</image>
+		<video>./snap/pq3.mp4</video>
+		<marquee>./wheel/pq3.png</marquee>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T102036</lastplayed>
+	</game>
+	<game>
+		<path>./pq1sci.svm</path>
+		<name>Police Quest: In Pursuit of the Death Angel</name>
+		<desc>This enhanced remake of Police Quest has been completely re-drawn using 256-color VGA graphics. Instead of the text-based interface of the original version, the remake features icons corresponding to the commands Walk, Look, Touch, and Talk for interaction with the game world.
+
+The two versions also have some gameplay-related differences. The driving sequences from the original game have been simplified: the player is no longer required to physically navigate the car and input is limited to making the right turns while the car is driven automatically, and occasionally braking at stop signs. The mandatory poker mini-game during the final segment of the game has been made optional. A few puzzles have different solutions, though not all of those are simplified, and in some instances the puzzles have become more complex in the remake.
+
+Story-wise, the game remains the same for the most part, but it also includes re-written and additional dialogue not seen in the earlier version.</desc>
+		<image>./boxart/pq1sci.png</image>
+		<video>./snap/pq1sci.mp4</video>
+		<marquee>./wheel/pq1sci.png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T102112</lastplayed>
+	</game>
+	<game>
+		<path>./qfg1vga.svm</path>
+		<name>Quest for Glory I: So You Want to Be a Hero</name>
+		<desc>Quest for Glory I: So You Want To Be A Hero is a remake of Hero's Quest: So You Want To Be A Hero.
+
+The remake features 256-color VGA graphics. Locations have been re-drawn, and character portraits appear during conversations. This version also has an icon-based interface instead of the text input of the original, very similar to the one used by Sierra for their adventure titles. The player selects dialogue choices from a dialogue menu, as opposed to typing in conversation topics in the earlier release. A few changes have been made to the dialogue, adding (or altering) some of the easter eggs and references to other games.
+
+Combat now features clay models for the enemies and stop-motion animation. The perspective has been switched to an over-the-shoulder view farther away from the player. Battle commands (two types of attacks, parry, and dodge) are displayed as icons on a shield in the corner of the screen. The player can switch to the spell menu at any time, and also click the middle of the screen to escape from combat.</desc>
+		<image>./boxart/qfg1vga.png</image>
+		<video>./snap/qfg1vga.mp4</video>
+		<marquee>./wheel/qfg1vga.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19920625T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T102309</lastplayed>
+	</game>
+	<game>
+		<path>./qfg2.svm</path>
+		<name>Quest for Glory II: Trial by Fire</name>
+		<image>./boxart/qfg2.png</image>
+		<video>./snap/qfg2.mp4</video>
+		<marquee>./wheel/qfg2.png</marquee>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T102335</lastplayed>
+	</game>
+	<game>
+		<path>./qfg3.svm</path>
+		<name>Quest for Glory III: Wages of War</name>
+		<image>./boxart/qfg3.png</image>
+		<video>./snap/qfg3.mp4</video>
+		<marquee>./wheel/qfg3.png</marquee>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T102432</lastplayed>
+	</game>
+	<game>
+		<path>./ringworld2-cd.svm</path>
+		<name>Ring World 2: Return to Ring World</name>
+		<image>./boxart/ringworld2-cd.png</image>
+		<video>./snap/ringworld2-cd.mp4</video>
+		<marquee>./wheel/ringworld2-cd.png</marquee>
+		<developer>Tsunami</developer>
+		<publisher>Tsunami</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T102610</lastplayed>
+	</game>
+	<game>
+		<path>./ringworld-cd.svm</path>
+		<name>Ring World: Revenge of the Patriach</name>
+		<image>./boxart/ringworld-cd.png</image>
+		<video>./snap/ringworld-cd.mp4</video>
+		<marquee>./wheel/ringworld-cd.png</marquee>
+		<developer>Tsunami</developer>
+		<publisher>Tsunami</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T102649</lastplayed>
+	</game>
+	<game>
+		<path>./samnmax-1.svm</path>
+		<name>Sam &amp; Max Hit the Road</name>
+		<desc>Grab your nightstick, squeal like a siren and Hit the Road with Sam &amp; Max, Freelance Police, as they attempt to crack their toughest case. Sam (a shamus canine) and Max (a hyperkinetic rabbity thing) are hot on the trail of a runaway carnival bigfoot across America's quirky underbelly in this deranged animated adventure!
+
+Help our frightening, furry flatfoots find the fugitive freak! Do it now!</desc>
+		<image>./boxart/samnmax-1.png</image>
+		<video>./snap/samnmax-1.mp4</video>
+		<marquee>./wheel/samnmax-1.png</marquee>
+		<rating>0.6333300000000001</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T102824</lastplayed>
+	</game>
+	<game>
+		<path>./sq1sci.svm</path>
+		<name>Space Quest I: The Sarien Encounter</name>
+		<desc>Space Quest 1: Roger Wilco in the Sarien Encounter is a remake of the original release of Space Quest: Chapter I - The Sarien Encounter. The new version has enhanced graphics (256 color VGA) and soundblaster support. It uses the SCI game engine (point-and-click interface, icons along the top) rather than the AGI engine (mixed point-and-click with text parser). Some of the puzzles have been slightly changed to accommodate the new interface and it is also possible to skip the arcade part. There are a few additional scenes and more elaborate text descriptions, mostly enhancing the humorous effect.</desc>
+		<image>./boxart/sq1sci.png</image>
+		<video>./snap/sq1sci.mp4</video>
+		<marquee>./wheel/sq1sci.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T103033</lastplayed>
+	</game>
+	<game>
+		<path>./sq2.svm</path>
+		<name>Space Quest II: Vohaul’s Revenge</name>
+		<desc>The ace janitor Roger Wilco thought he'd seen the last of Sludge Vohaul. However, like every evil scientist is supposed to, Vohaul returns with an even meaner scheme. This time he intends to infest the planet Xenon with thousands of genetically engineered door-to-door life insurance salesmen. The last thing he wants is Roger messing things up, and so the brave janitor is captured and brought to the planet Labion to spend the rest of his days working in Vohaul's mines. Fortunately, the shuttle that takes him to the mines crashes, and Roger is the only survivor. He will have to survive the dangers of the jungle planet Labion, and eventually stop Vohaul from executing his mad plan.</desc>
+		<image>./boxart/sq2.png</image>
+		<video>./snap/sq2.mp4</video>
+		<marquee>./wheel/sq2.png</marquee>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T103416</lastplayed>
+	</game>
+	<game>
+		<path>./sq3.svm</path>
+		<name>Space Quest III: The Pirates of Pestulan</name>
+		<image>./boxart/sq3.png</image>
+		<video>./snap/sq3.mp4</video>
+		<marquee>./wheel/sq3.png</marquee>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T103643</lastplayed>
+	</game>
+	<game>
+		<path>./sq4-cd.svm</path>
+		<name>Space Quest IV: And the Time Rippers</name>
+		<image>./boxart/sq4-cd.png</image>
+		<video>./snap/sq4-cd.mp4</video>
+		<marquee>./wheel/sq4-cd.png</marquee>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T104112</lastplayed>
+	</game>
+	<game>
+		<path>./sq5.svm</path>
+		<name>Space Quest V: The New Mutation</name>
+		<image>./boxart/sq5.png</image>
+		<video>./snap/sq5.mp4</video>
+		<marquee>./wheel/sq5.png</marquee>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T104554</lastplayed>
+	</game>
+	<game>
+		<path>./t7g.svm</path>
+		<name>The 7th Guest</name>
+		<desc>Henry Stauf's mansion had been abandoned for as long as anyone dare remember. Stauf was a master toy maker, a maker of amazing puzzles and this strange house was his greatest creation. Now, the mansion stands empty, rotting ever since the children started dying, ever since the six guests came. Now there are only the eerie lights and the terrible sing-song rhymes of the children...
+And suddenly, you are in the house. You move from room to haunted room, step by terrifying step, as scenes from that night of horror come to life. Because Stauf's game isn't over. There were six guests the world knew about - and there was one other. Stauf's mad mansion lives again. And only you can end the nightmare and learn the secret of The 7th Guest.</desc>
+		<image>./boxart/t7g.png</image>
+		<video>./snap/t7g.mp4</video>
+		<marquee>./wheel/t7g.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Trilobyte</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T104959</lastplayed>
+	</game>
+	<game>
+		<path>./comi.svm</path>
+		<name>The Curse of Monkey Island</name>
+		<desc>This third installment in the Monkey Island franchise is, like its predecessors, a humorous puzzle-solving adventure game. The game features cartoon-style SVGA graphics and (for the first time in the series) voice-overs for all the conversations. The interface no longer involves a list of verbs that occupies a part of the screen; instead the player chooses first the object to interact with, then the action from a menu that appears. Like the second game, The Curse of Monkey Island has two difficulty levels.</desc>
+		<image>./boxart/comi.png</image>
+		<video>./snap/comi.mp4</video>
+		<marquee>./wheel/comi.png</marquee>
+		<releasedate>19971031T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T105246</lastplayed>
+	</game>
+	<game>
+		<path>./dig.svm</path>
+		<name>The Dig</name>
+		<desc>A DEEP SPACE ADVENTURE BY SEAN CLARK IN COLLABORATION WITH FILMMAKER STEVEN SPIELBERG
+
+An asteroid the size of a small moon is on a crash course toward Earth, and only NASA veteran Boston Low has the expertise to stop it. Along for the ride are award-winning journalist Maggie Robbins and internationally renowned geologist Ludger Brink.
+
+Once the wayward asteroid is nuked into a safe orbit, the trio conducts a routine examination of the rocky surface.
+
+What they uncover is anything but routine.
+
+Low, Brink and Robbins unwittingly trigger a mechanism that transforms the asteroid into a crystal-like spacecraft. The team is hurtled across the galaxy to a planet so desolate, Brink is moved to name it Cocytus, after the 9th circle of Hell in Dante’s inferno. The bleak landscape was obviously once home to a highly evolved civilization, with remnants of sophisticated architecture, advanced technology and an intricate network of underground tunnels.
+
+But no Cocytans.
+
+Who were the original inhabitants of this once rich empire-turned-wasteland? What are those apparitions that mysteriously appear from time to time? Why have Low, Robbins, and Brink been brought to this place? And how can Low keep his team from unraveling in the face of such uncertainty? To return to Earth, they must dig for answers, both on the planet’s surface and deep within themselves.
+
+From the combined talents of LucasArts and legendary Steven Spielberg comes an epic adventure that plunges headlong into the very core of the unknown. And takes you with it.</desc>
+		<image>./boxart/dig.png</image>
+		<video>./snap/dig.mp4</video>
+		<marquee>./wheel/dig.png</marquee>
+		<rating>0.775</rating>
+		<releasedate>19951101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171227T110115</lastplayed>
+	</game>
+	<game>
+		<path>./ft.svm</path>
+		<name>Full Throttle</name>
+		<desc>The story is set in a dystopian future where motorized vehicles are giving way to anti-gravitational hovercrafts. A hardened biker named Ben is the leader of a motorcycle gang called the Polecats. As his gang rides down Highway 9, they come across an expensive white hovercraft limousine. Ben, in the lead, unceremoniously drives over the limousine, crushing the hood ornament. Unknown to the gang, the limo belongs to Malcolm Corley, the CEO and founder of the last domestic motorcycle manufacturer in the country, Corley Motors. Intrigued and impressed, Corley demands his driver catch up to the gang.</desc>
+		<image>./boxart/ft.png</image>
+		<video>./snap/ft.mp4</video>
+		<marquee>./wheel/ft.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950430T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<playcount>2</playcount>
+		<lastplayed>20171228T001756</lastplayed>
+	</game>
+	<game>
+		<path>./gk1.svm</path>
+		<name>Gabriel Knight: Sins of the Fathers</name>
+		<image>./boxart/gk1.png</image>
+		<video>./snap/gk1.mp4</video>
+		<marquee>./wheel/gk1.png</marquee>
+		<releasedate>1993</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<playcount>2</playcount>
+		<lastplayed>20171228T003055</lastplayed>
+	</game>
+	<game>
+		<path>./indy3-vga.svm</path>
+		<name>Indiana Jones and the Last Crusade</name>
+		<desc>It is 1938 and adventurer Indiana Jones is joined by his father on this quest, preventing Adolf Hitler from capturing the Holy Grail. He will have to deal with Nazi guards, the Luftwaffe and enemy spies as he tries to stop the tyrannical Nazi leader.
+
+The Graphic Adventure uses the same SCUMM gameplay system as the previous Maniac Mansion. Most of the screen is used for a visual rendition of the current scene. At the bottom of the screen are words, which can be clicked on using the mouse to activate their functions. For example, objects can be picked up, used, pushed or pulled, and turned on and off. Most locations are from the movie, but some further scenes are added.
+
+In keeping with Indiana's action-man persona, the game also features pure action scenes. Unlike most Lucasfilm adventures, you can die.
+
+Two PC versions of the game were released, one with 16 color EGA graphics, and one with 256 color VGA graphics.</desc>
+		<image>./boxart/indy3-vga.png</image>
+		<video>./snap/indy3-vga.mp4</video>
+		<marquee>./wheel/indy3-vga.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19890702T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure</genre>
+		<playcount>3</playcount>
+		<lastplayed>20171228T012640</lastplayed>
+	</game>
+	<game>
+		<path>./mh1.svm</path>
+		<name>Manhunter 1: New York</name>
+		<image>./boxart/mh1.png</image>
+		<video>./snap/mh1.mp4</video>
+		<marquee>./wheel/mh1.png</marquee>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Evryware</developer>
+		<publisher>Sierra Entertainment</publisher>
+		<genre>Adventure</genre>
+		<playcount>2</playcount>
+		<lastplayed>20171228T013710</lastplayed>
+	</game>
+	<game>
+		<path>./mothergoosehires.svm</path>
+		<name>mothergoosehires</name>
+		<playcount>1</playcount>
+		<lastplayed>20171228T015824</lastplayed>
+	</game>
+	<game>
+		<path>./atlantis.svm</path>
+		<name>atlantis</name>
+		<image>./boxart/atlantis.png</image>
+		<video>./snap/atlantis.mp4</video>
+		<marquee>./wheel/atlantis.png</marquee>
+		<playcount>4</playcount>
+		<lastplayed>20180313T124535</lastplayed>
+	</game>
+	<game>
+		<path>./sky.svm</path>
+		<name>Beneath a Steel Sky</name>
+		<desc>In futuristic Australia, there are giant cities owned solely by corporations, separated by a giant wasteland known as The Gap. When Robert Foster's Gap-dwelling tribe is killed by soldiers from Union City who capture him, everything changes for him. After a narrow escape from the helicopter bringing him there as it inexplicably crashes, Robert and his droid Joey must search the decaying city, attempting to befriend both the snobby rich and the frustrated poor as the two attempt to get out of the city, but in the middle of everything they uncover the dark truth about LINC, the bizarre computer which makes the city tick.</desc>
+		<image>./boxart/sky.png</image>
+		<video>./snap/sky.mp4</video>
+		<marquee>./wheel/sky.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940301T000000</releasedate>
+		<developer>Revolution Software Ltd.</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Adventure</genre>
+		<playcount>5</playcount>
+		<lastplayed>20180313T142158</lastplayed>
+	</game>
+	<game>
+		<path>./tentacle.svm</path>
+		<name>Day of the Tentacle</name>
+		<desc>Five years after the events of Maniac Mansion, Purple Tentacle—a mutant monster and lab assistant created by mad scientist Dr. Fred Edison—drinks toxic sludge from Dr. Fred's laboratory. The sludge causes him to grow a pair of flipper-like arms and develop a vastly increased intelligence and a thirst for global domination. Dr. Fred plans to resolve the issue by killing Purple Tentacle and his harmless, friendly brother Green Tentacle, but before he can Green Tentacle sends a plea of help to his old friend, the nerd Bernard Bernoulli. Bernard travels to the Edison family motel with his two housemates, deranged medical student Laverne and roadie Hoagie, and frees the tentacles. Purple Tentacle escapes to resume his quest to take over the world.</desc>
+		<image>./boxart/tentacle.png</image>
+		<video>./snap/tentacle.mp4</video>
+		<marquee>./wheel/tentacle.png</marquee>
+		<rating>0.76667</rating>
+		<releasedate>19930601T000000</releasedate>
+		<developer>Lucasarts</developer>
+		<publisher>Lucasarts</publisher>
+		<genre>Adventure</genre>
+		<playcount>5</playcount>
+		<lastplayed>20180313T142243</lastplayed>
+	</game>
+</gameList>

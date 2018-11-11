@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="General">
+		<setting id="debug" type="bool" label="Enable additonal debug" default="false" visible="true"/>
+	</category>
+	<category label="Adult Content">
+		<setting id="loggin_prefernce" type="select" label="Loggin Preference" values="Never|Once|Always" default="Never" />
+		<setting id="username" type="text" label="Username" default="skydarks" enable="!eq(-1,false)"/>
+        <setting id="password" type="text" label="Password" default="skydarks" option="hidden" enable="!eq(-2,false)"/>
+	</category>
+	<category label="Devoloper Mode">
+		<setting id="dev_mode" type="bool" label="Enable Dev Mode" default="false" visible="true"/>
+	</category>
+</settings>

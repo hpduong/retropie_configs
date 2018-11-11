@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]HD MOVIES[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fLrbqmP9.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=ALL+HD+MOVIES&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2FALL+HD+MOVIES&amp;image=https%3A%2F%2Fi.imgur.com%2FLrbqmP9.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]my trakt movies[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/script.extendedinfo/resources/skins/Default/media/tr.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=%5BCOLOR+teal%5Dtrakt+movies%5B%2FCOLOR%5D&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftrakt+movies&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.metalliq-forqed/movies/search</defaultID>
+		<label>[COLOR gray]Search[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.metalliq-forqed/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.metalliq-forqed/movies/search",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.metalliq-forqed/movies</defaultID>
+		<label>[COLOR teal]metalliq 4qed Movie sECTION[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fcellardoortv.com%2fstyle%2fthemes%2fdefault%2fmovies.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.metalliq-forqed/movies",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]comedy[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/script.uranus.artwork/resources/media/Default/collection.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=%5BCOLOR+gray%5Dcomedy%5B%2FCOLOR%5D&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fcomedy&amp;image=special%3A%2F%2Fhome%2Faddons%2Fscript.bkreborn.artwork%2Fresources%2Fmedia%2Fbkreborn%2Fcomedy.jpg&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]real-debrid movies[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fwJz3Bn0.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=%5BCOLOR+teal%5Dreal-debrid+movies%5B%2FCOLOR%5D&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Freal-debrid+movies&amp;image=https%3A%2F%2Fi.imgur.com%2FwJz3Bn0.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]eim movies[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/script.extendedinfo/resources/skins/Default/media/tm.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://script.extendedinfo?info=allmovies",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]HORROR MOVIES[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fimg.4plebs.org%2fboards%2fpol%2fimage%2f1458%2f28%2f1458284126880.gif/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=%5BCOLOR+teal%5DHORROR+MOVIES%5B%2FCOLOR%5D&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2FHORROR+MOVIES&amp;image=https%3A%2F%2Fimg.4plebs.org%2Fboards%2Fpol%2Fimage%2F1458%2F28%2F1458284126880.gif&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]24-7 movies[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fIimJyIj.jpg/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=%5BCOLOR+gray%5D24-7+movies%5B%2FCOLOR%5D&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2F24-7+movies&amp;image=https%3A%2F%2Fi.imgur.com%2FIimJyIj.jpg&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]Top Movie Scrapers[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fscript.incursion.artwork%2fresources%2fmedia%2fincursion%2fmovies.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=Top+Movie+Scrapers&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2FTop+Movie+Scrapers&amp;image=special%3A%2F%2Fhome%2Faddons%2Fscript.incursion.artwork%2Fresources%2Fmedia%2Fincursion%2Fmovies.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]4k movies[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fstephen-builds.uk%2fart%2fo.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=4k+movies&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2F4k+movies&amp;image=http%3A%2F%2Fstephen-builds.uk%2Fart%2Fo.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]MOVIE BOXSETS[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fwww.foxtel.com.au%2fcontent%2fdam%2ffoxtel%2fshared%2fchannel%2fBXS%2fboxsets-logo-colour.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=MOVIE+BOXSETS&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2FMOVIE+BOXSETS&amp;image=https%3A%2F%2Fwww.foxtel.com.au%2Fcontent%2Fdam%2Ffoxtel%2Fshared%2Fchannel%2FBXS%2Fboxsets-logo-colour.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+</shortcuts>

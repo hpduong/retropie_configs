@@ -1,0 +1,88 @@
+
+
+
+<dir>
+	<title>Digitals Fav's</title>
+	<link>file://digitalsfavs.xml</link>
+	<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+<dir>
+	<title>Mindfucks</title>
+	<link>file://Mindfucks.xml</link>
+	<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+<dir>
+	<title>100 Best Horror Movies Ever Made</title>
+  <link>file://100horror.xml</link>
+<summary>bloody disgusting.com the 100-best horror movies ever made ranked</summary>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+
+
+
+<dir>
+	<title>Futuristic Apocalypse</title>
+	 <link>file://Futuristic.xml</link>
+	<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+
+
+
+<dir>
+	<title>Hip-hop culture</title>
+	<link>file://Hiphop.xml</link>
+	<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+
+<dir>
+	<title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250[/COLOR]</title>
+	<link>file://imdb250.xml</link>
+	<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+	<fanart/>
+</dir>
+
+
+<dir>
+	<title>Tarantino Movies</title>
+	<link>file://Tarantino.xml</link>
+	<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+
+<dir>
+	<title>Gangster Movies</title>
+	<link>file://Gangster.xml</link>
+	<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+
+<dir>
+	<title>Stand Up Comedy</title>
+	<link>file://Standup.xml</link>
+	<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+<dir>
+	<title>Kids list</title>
+	<link>file://Kidslist.xml</link>
+	<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+
+<dir>
+	<title>Every Disney Movie</title>
+	<link>file://Everydisney.xml</link>
+	<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+
+<dir>
+	<title>Anime/Animated</title>
+	<link>file://Anime.xml</link>
+	<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>

@@ -1,0 +1,36 @@
+<settings>
+    <setting id="TRAKT_ACCESS_TOKEN" value="" />
+    <setting id="TRAKT_EXPIRES_AT" value="" />
+    <setting id="TRAKT_REFRESH_TOKEN" value="" />
+    <setting id="allow_debrid" value="true" />
+    <setting id="allow_openload" value="true" />
+    <setting id="allow_the_video_me" value="true" />
+    <setting id="allow_vidup_me" value="true" />
+    <setting id="autostart_queue" value="true" />
+    <setting id="cache_folder" value="special://profile/addon_data/plugin.video.beaverbox/" />
+    <setting id="debug" value="false" />
+    <setting id="default_link" value="BOTH" />
+    <setting id="disable_messages" value="false" />
+    <setting id="disable_metadata_dialog" value="false" />
+    <setting id="dlimage" value="false" />
+    <setting id="enable_gifs" value="false" />
+    <setting id="enable_offensive" value="false" />
+    <setting id="first_run" value="false" />
+    <setting id="hide_help" value="false" />
+    <setting id="include_watched_queue" value="false" />
+    <setting id="language_id" value="system" />
+    <setting id="lastfm_api_key" value="" />
+    <setting id="lastfm_secret" value="" />
+    <setting id="link_fallthrough" value="true" />
+    <setting id="metadata" value="false" />
+    <setting id="movie_metadata_provider" value="Trakt" />
+    <setting id="news_win" value="false" />
+    <setting id="settings_context" value="true" />
+    <setting id="tmdb_api_key" value="" />
+    <setting id="trailer_context" value="true" />
+    <setting id="trakt_api_client_id" value="" />
+    <setting id="trakt_api_client_secret" value="" />
+    <setting id="tv_metadata_provider" value="Trakt" />
+    <setting id="tvdb_api_key" value="" />
+    <setting id="use_link_dialog" value="true" />
+</settings>

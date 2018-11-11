@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Armor Battle.mgw</path>
+		<name>Armor Battle</name>
+		<marquee>./boxart/Armor Battle.png</marquee>
+		<video>./snap/Armor Battle.png</video>
+	</game>
+	<game>
+		<path>./Banana.mgw</path>
+		<name>Banana</name>
+		<marquee>./boxart/Banana.png</marquee>
+		<video>./snap/Banana.png</video>
+	</game>
+	<game>
+		<path>./Bomb Fight.mgw</path>
+		<name>Bomb Fight</name>
+		<marquee>./boxart/Bomb Fight.png</marquee>
+		<video>./snap/Bomb Fight.png</video>
+	</game>
+	<game>
+		<path>./Caccia al Ladro (VTech, Mini Time &amp; Fun).mgw</path>
+		<name>Caccia al Ladro (VTech, Mini Time &amp; Fun)</name>
+		<marquee>./boxart/Caccia al Ladro (VTech, Mini Time &amp; Fun).png</marquee>
+		<video>./snap/Caccia al Ladro (VTech, Mini Time &amp; Fun).png</video>
+	</game>
+	<game>
+		<path>./Casio-HF.mgw</path>
+		<name>Casio-HF</name>
+		<marquee>./boxart/Casio-HF.png</marquee>
+		<video>./snap/Casio-HF.png</video>
+	</game>
+	<game>
+		<path>./Casio-SF.mgw</path>
+		<name>Casio-SF</name>
+		<marquee>./boxart/Casio-SF.png</marquee>
+		<video>./snap/Casio-SF.png</video>
+	</game>
+	<game>
+		<path>./Cessate il Fuoco (VTech, Mini Time &amp; Fun).mgw</path>
+		<name>Cessate il Fuoco (VTech, Mini Time &amp; Fun)</name>
+		<marquee>./boxart/Cessate il Fuoco (VTech, Mini Time &amp; Fun).png</marquee>
+		<video>./snap/Cessate il Fuoco (VTech, Mini Time &amp; Fun).png</video>
+	</game>
+	<game>
+		<path>./Chicky Woggy copy.mgw</path>
+		<name>Chicky Woggy copy</name>
+		<marquee>./boxart/Chicky Woggy copy.png</marquee>
+		<video>./snap/Chicky Woggy copy.png</video>
+	</game>
+	<game>
+		<path>./Chicky Woggy.mgw</path>
+		<name>Chicky Woggy</name>
+		<marquee>./boxart/Chicky Woggy.png</marquee>
+		<video>./snap/Chicky Woggy.png</video>
+	</game>
+	<game>
+		<path>./Condor (VTech, Time &amp; Fun).mgw</path>
+		<name>Condor (VTech, Time &amp; Fun)</name>
+		<marquee>./boxart/Condor (VTech, Time &amp; Fun).png</marquee>
+		<video>./snap/Condor (VTech, Time &amp; Fun).png</video>
+	</game>
+	<game>
+		<path>./Condor.mgw</path>
+		<name>Condor</name>
+		<marquee>./boxart/Condor.png</marquee>
+		<video>./snap/Condor.png</video>
+	</game>
+	<game>
+		<path>./Crazy Chewy.mgw</path>
+		<name>Crazy Chewy</name>
+		<marquee>./boxart/Crazy Chewy.png</marquee>
+		<video>./snap/Crazy Chewy.png</video>
+	</game>
+	<game>
+		<path>./Defendo.mgw</path>
+		<name>Defendo</name>
+		<marquee>./boxart/Defendo.png</marquee>
+		<video>./snap/Defendo.png</video>
+	</game>
+	<game>
+		<path>./Donkey Kong (Nintendo, Multi Screen).mgw</path>
+		<name>Donkey Kong</name>
+		<marquee>./boxart/Donkey Kong (Nintendo, Multi Screen).png</marquee>
+		<video>./snap/Donkey Kong (Nintendo, Multi Screen).png</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Jr. (Nintendo, Table Top).mgw</path>
+		<name>Donkey Kong 2</name>
+		<marquee>./boxart/Donkey Kong Jr. (Nintendo, Table Top).png</marquee>
+		<video>./snap/Donkey Kong Jr. (Nintendo, Table Top).png</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Circus (Nintendo G&amp;W, Panorama).mgw</path>
+		<name>Donkey Kong Circus</name>
+		<marquee>./boxart/Donkey Kong Circus (Nintendo G&amp;W, Panorama).png</marquee>
+		<video>./snap/Donkey Kong Circus (Nintendo G&amp;W, Panorama).png</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Coleco.mgw</path>
+		<name>Donkey Kong Coleco</name>
+		<marquee>./boxart/Donkey Kong Coleco.png</marquee>
+		<video>./snap/Donkey Kong Coleco.png</video>
+	</game>
+	<game>
+		<path>./Donkey Kong II (Nintendo, Multi Screen).mgw</path>
+		<name>Donkey Kong II</name>
+		<marquee>./boxart/Donkey Kong II (Nintendo, Multi Screen).png</marquee>
+		<video>./snap/Donkey Kong II (Nintendo, Multi Screen).png</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Jr. (Coleco).mgw</path>
+		<name>Donkey Kong Jr Coleco</name>
+		<marquee>./boxart/Donkey Kong Jr. (Coleco).png</marquee>
+		<video>./snap/Donkey Kong Jr. (Coleco).png</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Jr. (Nintendo G&amp;W, Panorama).mgw</path>
+		<name>Donkey Kong Jr</name>
+		<marquee>./boxart/Donkey Kong Jr. (Nintendo G&amp;W, Panorama).png</marquee>
+		<video>./snap/Donkey Kong Jr. (Nintendo G&amp;W, Panorama).png</video>
+	</game>
+	<game>
+		<path>./Dungeons &amp; Dragons.mgw</path>
+		<name>Dungeons &amp; Dragons</name>
+		<marquee>./boxart/Dungeons &amp; Dragons.png</marquee>
+		<video>./snap/Dungeons &amp; Dragons.png</video>
+	</game>
+	<game>
+		<path>./Egg (Nintendo, Wide Screen).mgw</path>
+		<name>Egg</name>
+		<marquee>./boxart/Egg (Nintendo, Wide Screen).png</marquee>
+		<video>./snap/Egg (Nintendo, Wide Screen).png</video>
+	</game>
+	<game>
+		<path>./Engine Room.mgw</path>
+		<name>Engine Room</name>
+		<marquee>./boxart/Engine Room.png</marquee>
+		<video>./snap/Engine Room.png</video>
+	</game>
+	<game>
+		<path>./Escape.mgw</path>
+		<name>Escape</name>
+		<marquee>./boxart/Escape.png</marquee>
+		<video>./snap/Escape.png</video>
+	</game>
+	<game>
+		<path>./Explorers of Space.mgw</path>
+		<name>Explorers of Space</name>
+		<marquee>./boxart/Explorers of Space.png</marquee>
+		<video>./snap/Explorers of Space.png</video>
+	</game>
+	<game>
+		<path>./Fowling.mgw</path>
+		<name>Fowling</name>
+		<marquee>./boxart/Fowling.png</marquee>
+		<video>./snap/Fowling.png</video>
+	</game>
+	<game>
+		<path>./Frog Boaster.mgw</path>
+		<name>Frog Boaster</name>
+		<marquee>./boxart/Frog Boaster.png</marquee>
+		<video>./snap/Frog Boaster.png</video>
+	</game>
+	<game>
+		<path>./Galaxy II.mgw</path>
+		<name>Galaxy II</name>
+		<marquee>./boxart/Galaxy II.png</marquee>
+		<video>./snap/Galaxy II.png</video>
+	</game>
+	<game>
+		<path>./Grab Man.mgw</path>
+		<name>Grab Man</name>
+		<marquee>./boxart/Grab Man.png</marquee>
+		<video>./snap/Grab Man.png</video>
+	</game>
+	<game>
+		<path>./Hippo Teeth.mgw</path>
+		<name>Hippo Teeth</name>
+		<marquee>./boxart/Hippo Teeth.png</marquee>
+		<video>./snap/Hippo Teeth.png</video>
+	</game>
+	<game>
+		<path>./HippoT.mgw</path>
+		<name>HippoT</name>
+		<marquee>./boxart/HippoT.png</marquee>
+		<video>./snap/HippoT.png</video>
+	</game>
+	<game>
+		<path>./Hot Line.mgw</path>
+		<name>Hot Line</name>
+		<marquee>./boxart/Hot Line.png</marquee>
+		<video>./snap/Hot Line.png</video>
+	</game>
+	<game>
+		<path>./HotLine.mgw</path>
+		<name>HotLine</name>
+		<marquee>./boxart/HotLine.png</marquee>
+		<video>./snap/HotLine.png</video>
+	</game>
+	<game>
+		<path>./Las Vegas.mgw</path>
+		<name>Las Vegas</name>
+		<marquee>./boxart/Las Vegas.png</marquee>
+		<video>./snap/Las Vegas.png</video>
+	</game>
+	<game>
+		<path>./Lifeboat (Nintendo, Multi Screen).mgw</path>
+		<name>Lifeboat</name>
+		<marquee>./boxart/Lifeboat (Nintendo, Multi Screen).png</marquee>
+		<video>./snap/Lifeboat (Nintendo, Multi Screen).png</video>
+	</game>
+	<game>
+		<path>./Mario Bros. (Nintendo, Multi Screen).mgw</path>
+		<name>Mario Bros</name>
+		<marquee>./boxart/Mario Bros. (Nintendo, Multi Screen).png</marquee>
+		<video>./snap/Mario Bros. (Nintendo, Multi Screen).png</video>
+	</game>
+	<game>
+		<path>./Mario's Bombs Away (Nintendo G&amp;W, Panorama).mgw</path>
+		<name>Mario's Bombs Away</name>
+		<marquee>./boxart/Mario's Bombs Away (Nintendo G&amp;W, Panorama).png</marquee>
+		<video>./snap/Mario's Bombs Away (Nintendo G&amp;W, Panorama).png</video>
+	</game>
+	<game>
+		<path>./Mickey Mouse (Nintendo, Panorama Screen).mgw</path>
+		<name>Mickey Mouse</name>
+		<marquee>./boxart/Mickey Mouse (Nintendo, Panorama Screen).png</marquee>
+		<video>./snap/Mickey Mouse (Nintendo, Panorama Screen).png</video>
+	</game>
+	<game>
+		<path>./Mickey Mouse (Nintendo, Wide Screen).mgw</path>
+		<name>MickeyMP</name>
+		<marquee>./boxart/Mickey Mouse (Nintendo, Wide Screen).png</marquee>
+		<video>./snap/Mickey Mouse (Nintendo, Wide Screen).png</video>
+	</game>
+	<game>
+		<path>./Monkey Jump.mgw</path>
+		<name>Monkey Jump</name>
+		<marquee>./boxart/Monkey Jump.png</marquee>
+		<video>./snap/Monkey Jump.png</video>
+	</game>
+	<game>
+		<path>./Monkey.mgw</path>
+		<name>Monkey</name>
+		<marquee>./boxart/Monkey.png</marquee>
+		<video>./snap/Monkey.png</video>
+	</game>
+	<game>
+		<path>./Motor Cross.mgw</path>
+		<name>Motor Cross</name>
+		<marquee>./boxart/Motor Cross.png</marquee>
+		<video>./snap/Motor Cross.png</video>
+	</game>
+	<game>
+		<path>./Pac Man.mgw</path>
+		<name>Pac Man</name>
+		<marquee>./boxart/Pac Man.png</marquee>
+		<video>./snap/Pac Man.png</video>
+	</game>
+	<game>
+		<path>./Pancake.mgw</path>
+		<name>Pancake</name>
+		<marquee>./boxart/Pancake.png</marquee>
+		<video>./snap/Pancake.png</video>
+	</game>
+	<game>
+		<path>./Parachute (Nintendo, Wide Screen).mgw</path>
+		<name>Parachut</name>
+		<marquee>./boxart/Parachute (Nintendo, Wide Screen).png</marquee>
+		<video>./snap/Parachute (Nintendo, Wide Screen).png</video>
+	</game>
+	<game>
+		<path>./Pirate.mgw</path>
+		<name>Pirate</name>
+		<marquee>./boxart/Pirate.png</marquee>
+		<video>./snap/Pirate.png</video>
+	</game>
+	<game>
+		<path>./Roller Coaster.mgw</path>
+		<name>Roller Coaster</name>
+		<marquee>./boxart/Roller Coaster.png</marquee>
+		<video>./snap/Roller Coaster.png</video>
+	</game>
+	<game>
+		<path>./Safari.mgw</path>
+		<name>Safari</name>
+		<marquee>./boxart/Safari.png</marquee>
+		<video>./snap/Safari.png</video>
+	</game>
+	<game>
+		<path>./Sleep Walker.mgw</path>
+		<name>Sleep Walker</name>
+		<marquee>./boxart/Sleep Walker.png</marquee>
+		<video>./snap/Sleep Walker.png</video>
+	</game>
+	<game>
+		<path>./Snoopy Tennis (Nintendo, Wide Screen).mgw</path>
+		<name>Snoopy Tennis</name>
+		<marquee>./boxart/Snoopy Tennis (Nintendo, Wide Screen).png</marquee>
+		<video>./snap/Snoopy Tennis (Nintendo, Wide Screen).png</video>
+	</game>
+	<game>
+		<path>./Snoopy (Nintendo G&amp;W, Panorama).mgw</path>
+		<name>Snoopy</name>
+		<marquee>./boxart/Snoopy (Nintendo G&amp;W, Panorama).png</marquee>
+		<video>./snap/Snoopy (Nintendo G&amp;W, Panorama).png</video>
+	</game>
+	<game>
+		<path>./Snoopy (Nintendo, Table Top).mgw</path>
+		<name>SnoopyPS</name>
+		<marquee>./boxart/Snoopy (Nintendo, Table Top).png</marquee>
+		<video>./snap/Snoopy (Nintendo, Table Top).png</video>
+	</game>
+	<game>
+		<path>./Sub Chase.mgw</path>
+		<name>Sub Chase</name>
+		<marquee>./boxart/Sub Chase.png</marquee>
+		<video>./snap/Sub Chase.png</video>
+	</game>
+	<game>
+		<path>./Tennis Menace.mgw</path>
+		<name>Tennis Menace</name>
+		<marquee>./boxart/Tennis Menace.png</marquee>
+		<video>./snap/Tennis Menace.png</video>
+	</game>
+	<game>
+		<path>./Terrahawks The Battlehawk.mgw</path>
+		<name>Terrahawks The Battlehawk</name>
+		<marquee>./boxart/Terrahawks The Battlehawk.png</marquee>
+		<video>./snap/Terrahawks The Battlehawk.png</video>
+	</game>
+	<game>
+		<path>./Towering Rescue (Gakken, LCD Card Game).mgw</path>
+		<name>Towering Rescue (Gakken, LCD Card Game)</name>
+		<marquee>./boxart/Towering Rescue (Gakken, LCD Card Game).png</marquee>
+		<video>./snap/Towering Rescue (Gakken, LCD Card Game).png</video>
+	</game>
+	<game>
+		<path>./Tron.mgw</path>
+		<name>Tron</name>
+		<marquee>./boxart/Tron.png</marquee>
+		<video>./snap/Tron.png</video>
+	</game>
+	<game>
+		<path>./Turtle Bridge (Nintendo, Wide Screen).mgw</path>
+		<name>Turtle Bridge</name>
+		<marquee>./boxart/Turtle Bridge (Nintendo, Wide Screen).png</marquee>
+		<video>./snap/Turtle Bridge (Nintendo, Wide Screen).png</video>
+	</game>
+	<game>
+		<path>./Wild Man Jump.mgw</path>
+		<name>Wild Man Jump</name>
+		<marquee>./boxart/Wild Man Jump.png</marquee>
+		<video>./snap/Wild Man Jump.png</video>
+	</game>
+	<game>
+		<path>./Baseball.mgw</path>
+		<name>Baseball</name>
+		<marquee>./boxart/Baseball.png</marquee>
+		<video>./snap/Baseball.png</video>
+		<playcount>1</playcount>
+		<lastplayed>20180312T163602</lastplayed>
+	</game>
+</gameList>

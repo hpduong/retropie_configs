@@ -1,0 +1,1773 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./1000 Tiny Claws (USA).cso</path>
+		<name>1000 Tiny Claws (USA)</name>
+		<marquee>./wheel/1000 Tiny Claws (USA).png</marquee>
+		<video>./snap/1000 Tiny Claws (USA).mp4</video>
+	</game>
+	<game>
+		<path>./20Q (Europe).cso</path>
+		<name>20Q (Europe)</name>
+		<marquee>./wheel/20Q (Europe).png</marquee>
+		<video>./snap/20Q (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./3D Twist &amp; Match (USA).cso</path>
+		<name>3D Twist &amp; Match (USA)</name>
+		<marquee>./wheel/3D Twist &amp; Match (USA).png</marquee>
+		<video>./snap/3D Twist &amp; Match (USA).mp4</video>
+	</game>
+	<game>
+		<path>./4x4 Jam (USA).cso</path>
+		<name>4x4 Jam (USA)</name>
+		<marquee>./wheel/4x4 Jam (USA).png</marquee>
+		<video>./snap/4x4 Jam (USA).mp4</video>
+	</game>
+	<game>
+		<path>./5-in-1 Arcade Hits (USA).cso</path>
+		<name>5-in-1 Arcade Hits (USA)</name>
+		<marquee>./wheel/5-in-1 Arcade Hits (USA).png</marquee>
+		<video>./snap/5-in-1 Arcade Hits (USA).mp4</video>
+	</game>
+	<game>
+		<path>./5-in-1 Solitaire (USA).cso</path>
+		<name>5-in-1 Solitaire (USA)</name>
+		<marquee>./wheel/5-in-1 Solitaire (USA).png</marquee>
+		<video>./snap/5-in-1 Solitaire (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Actual Crimes - Jack the Ripper (USA).cso</path>
+		<name>Actual Crimes - Jack the Ripper (USA)</name>
+		<marquee>./wheel/Actual Crimes - Jack the Ripper (USA).png</marquee>
+		<video>./snap/Actual Crimes - Jack the Ripper (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Aero Racer (USA).cso</path>
+		<name>Aero Racer (USA)</name>
+		<marquee>./wheel/Aero Racer (USA).png</marquee>
+		<video>./snap/Aero Racer (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Age of Hammer Wars (USA).cso</path>
+		<name>Age of Hammer Wars (USA)</name>
+		<marquee>./wheel/Age of Hammer Wars (USA).png</marquee>
+		<video>./snap/Age of Hammer Wars (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Age of Zombies (USA).cso</path>
+		<name>Age of Zombies (USA)</name>
+		<marquee>./wheel/Age of Zombies (USA).png</marquee>
+		<video>./snap/Age of Zombies (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Alien Havoc (USA).cso</path>
+		<name>Alien Havoc (USA)</name>
+		<marquee>./wheel/Alien Havoc (USA).png</marquee>
+		<video>./snap/Alien Havoc (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Alien Zombie Death (USA).cso</path>
+		<name>Alien Zombie Death (USA)</name>
+		<marquee>./wheel/Alien Zombie Death (USA).png</marquee>
+		<video>./snap/Alien Zombie Death (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Alpha Mission (USA).cso</path>
+		<name>Alpha Mission (USA)</name>
+		<marquee>./wheel/Alpha Mission (USA).png</marquee>
+		<video>./snap/Alpha Mission (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ambassador Kane (Europe).cso</path>
+		<name>Ambassador Kane (Europe)</name>
+		<marquee>./wheel/Ambassador Kane (Europe).png</marquee>
+		<video>./snap/Ambassador Kane (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Ancient Game Treasures Mill (USA).cso</path>
+		<name>Ancient Game Treasures Mill (USA)</name>
+		<marquee>./wheel/Ancient Game Treasures Mill (USA).png</marquee>
+		<video>./snap/Ancient Game Treasures Mill (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Angry Birds (USA).cso</path>
+		<name>Angry Birds (USA)</name>
+		<marquee>./wheel/Angry Birds (USA).png</marquee>
+		<video>./snap/Angry Birds (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Apache Overkill (USA).cso</path>
+		<name>Apache Overkill (USA)</name>
+		<marquee>./wheel/Apache Overkill (USA).png</marquee>
+		<video>./snap/Apache Overkill (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Aquattack! (USA).cso</path>
+		<name>Aquattack! (USA)</name>
+		<marquee>./wheel/Aquattack! (USA).png</marquee>
+		<video>./snap/Aquattack! (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Arcade Air Hockey &amp; Bowling (USA).cso</path>
+		<name>Arcade Air Hockey &amp; Bowling (USA)</name>
+		<marquee>./wheel/Arcade Air Hockey &amp; Bowling (USA).png</marquee>
+		<video>./snap/Arcade Air Hockey &amp; Bowling (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Arcade Darts (USA).cso</path>
+		<name>Arcade Darts (USA)</name>
+		<marquee>./wheel/Arcade Darts (USA).png</marquee>
+		<video>./snap/Arcade Darts (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Arcade Essentials (USA).cso</path>
+		<name>Arcade Essentials (USA)</name>
+		<marquee>./wheel/Arcade Essentials (USA).png</marquee>
+		<video>./snap/Arcade Essentials (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Arcade Essentials Evolution (USA).cso</path>
+		<name>Arcade Essentials Evolution (USA)</name>
+		<marquee>./wheel/Arcade Essentials Evolution (USA).png</marquee>
+		<video>./snap/Arcade Essentials Evolution (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Arcade Pool (USA).cso</path>
+		<name>Arcade Pool (USA)</name>
+		<marquee>./wheel/Arcade Pool (USA).png</marquee>
+		<video>./snap/Arcade Pool (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Archibald's Adventures (USA).cso</path>
+		<name>Archibald's Adventures (USA)</name>
+		<marquee>./wheel/Archibald's Adventures (USA).png</marquee>
+		<video>./snap/Archibald's Adventures (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Arctic Adventures - Polar's Puzzles (USA).cso</path>
+		<name>Arctic Adventures - Polar's Puzzles (USA)</name>
+		<marquee>./wheel/Arctic Adventures - Polar's Puzzles (USA).png</marquee>
+		<video>./snap/Arctic Adventures - Polar's Puzzles (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Athena (USA).cso</path>
+		<name>Athena (USA)</name>
+		<marquee>./wheel/Athena (USA).png</marquee>
+		<video>./snap/Athena (USA).mp4</video>
+	</game>
+	<game>
+		<path>./BABEL - The King of the Blocks (USA).cso</path>
+		<name>BABEL - The King of the Blocks (USA)</name>
+		<marquee>./wheel/BABEL - The King of the Blocks (USA).png</marquee>
+		<video>./snap/BABEL - The King of the Blocks (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Basha Baloot (Europe).cso</path>
+		<name>Basha Baloot (Europe)</name>
+		<marquee>./wheel/Basha Baloot (Europe).png</marquee>
+		<video>./snap/Basha Baloot (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Basha Card Game Collection (Europe).cso</path>
+		<name>Basha Card Game Collection (Europe)</name>
+		<marquee>./wheel/Basha Card Game Collection (Europe).png</marquee>
+		<video>./snap/Basha Card Game Collection (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Basha Tarneeb (Europe).cso</path>
+		<name>Basha Tarneeb (Europe)</name>
+		<marquee>./wheel/Basha Tarneeb (Europe).png</marquee>
+		<video>./snap/Basha Tarneeb (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Basha Trix (Europe).cso</path>
+		<name>Basha Trix (Europe)</name>
+		<marquee>./wheel/Basha Trix (Europe).png</marquee>
+		<video>./snap/Basha Trix (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bashi Blocks (USA).cso</path>
+		<name>Bashi Blocks (USA)</name>
+		<marquee>./wheel/Bashi Blocks (USA).png</marquee>
+		<video>./snap/Bashi Blocks (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Battle Poker (USA).cso</path>
+		<name>Battle Poker (USA)</name>
+		<marquee>./wheel/Battle Poker (USA).png</marquee>
+		<video>./snap/Battle Poker (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Beach Buzzin' Chopper (Europe).cso</path>
+		<name>Beach Buzzin' Chopper (Europe)</name>
+		<marquee>./wheel/Beach Buzzin' Chopper (Europe).png</marquee>
+		<video>./snap/Beach Buzzin' Chopper (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Beam 'em Up (USA).cso</path>
+		<name>Beam 'em Up (USA)</name>
+		<marquee>./wheel/Beam 'em Up (USA).png</marquee>
+		<video>./snap/Beam 'em Up (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bee Wars (Europe).cso</path>
+		<name>Bee Wars (Europe)</name>
+		<marquee>./wheel/Bee Wars (Europe).png</marquee>
+		<video>./snap/Bee Wars (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bermuda Triangle (USA).cso</path>
+		<name>Bermuda Triangle (USA)</name>
+		<marquee>./wheel/Bermuda Triangle (USA).png</marquee>
+		<video>./snap/Bermuda Triangle (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Best of Solitaire (USA).cso</path>
+		<name>Best of Solitaire (USA)</name>
+		<marquee>./wheel/Best of Solitaire (USA).png</marquee>
+		<video>./snap/Best of Solitaire (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Blast Off (USA).cso</path>
+		<name>Blast Off (USA)</name>
+		<marquee>./wheel/Blast Off (USA).png</marquee>
+		<video>./snap/Blast Off (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Blimp - The Flying Adventures (USA).cso</path>
+		<name>Blimp - The Flying Adventures (USA)</name>
+		<marquee>./wheel/Blimp - The Flying Adventures (USA).png</marquee>
+		<video>./snap/Blimp - The Flying Adventures (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Block Cascade Fusion (USA).cso</path>
+		<name>Block Cascade Fusion (USA)</name>
+		<marquee>./wheel/Block Cascade Fusion (USA).png</marquee>
+		<video>./snap/Block Cascade Fusion (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bloons (USA).cso</path>
+		<name>Bloons (USA)</name>
+		<marquee>./wheel/Bloons (USA).png</marquee>
+		<video>./snap/Bloons (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bloons TD (USA).cso</path>
+		<name>Bloons TD (USA)</name>
+		<marquee>./wheel/Bloons TD (USA).png</marquee>
+		<video>./snap/Bloons TD (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Boom Beats (USA).cso</path>
+		<name>Boom Beats (USA)</name>
+		<marquee>./wheel/Boom Beats (USA).png</marquee>
+		<video>./snap/Boom Beats (USA).mp4</video>
+	</game>
+	<game>
+		<path>./BounceBack (Europe).cso</path>
+		<name>BounceBack (Europe)</name>
+		<marquee>./wheel/BounceBack (Europe).png</marquee>
+		<video>./snap/BounceBack (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bowling 3D (USA).cso</path>
+		<name>Bowling 3D (USA)</name>
+		<marquee>./wheel/Bowling 3D (USA).png</marquee>
+		<video>./snap/Bowling 3D (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Brainpipe (USA).cso</path>
+		<name>Brainpipe (USA)</name>
+		<marquee>./wheel/Brainpipe (USA).png</marquee>
+		<video>./snap/Brainpipe (USA).mp4</video>
+	</game>
+	<game>
+		<path>./BreakQuest (USA).cso</path>
+		<name>BreakQuest (USA)</name>
+		<marquee>./wheel/BreakQuest (USA).png</marquee>
+		<video>./snap/BreakQuest (USA).mp4</video>
+	</game>
+	<game>
+		<path>./BreakQuest - Extra Evolution (USA).cso</path>
+		<name>BreakQuest - Extra Evolution (USA)</name>
+		<marquee>./wheel/BreakQuest - Extra Evolution (USA).png</marquee>
+		<video>./snap/BreakQuest - Extra Evolution (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Brick Breaker (USA).cso</path>
+		<name>Brick Breaker (USA)</name>
+		<marquee>./wheel/Brick Breaker (USA).png</marquee>
+		<video>./snap/Brick Breaker (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bubble Trubble (USA).cso</path>
+		<name>Bubble Trubble (USA)</name>
+		<marquee>./wheel/Bubble Trubble (USA).png</marquee>
+		<video>./snap/Bubble Trubble (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bunny Dodge (USA).cso</path>
+		<name>Bunny Dodge (USA)</name>
+		<marquee>./wheel/Bunny Dodge (USA).png</marquee>
+		<video>./snap/Bunny Dodge (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Burnin' Rubber (USA).cso</path>
+		<name>Burnin' Rubber (USA)</name>
+		<marquee>./wheel/Burnin' Rubber (USA).png</marquee>
+		<video>./snap/Burnin' Rubber (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Busy Sweets Factory (USA).cso</path>
+		<name>Busy Sweets Factory (USA)</name>
+		<marquee>./wheel/Busy Sweets Factory (USA).png</marquee>
+		<video>./snap/Busy Sweets Factory (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Canabalt (USA).cso</path>
+		<name>Canabalt (USA)</name>
+		<marquee>./wheel/Canabalt (USA).png</marquee>
+		<video>./snap/Canabalt (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Car Jack Streets (USA).cso</path>
+		<name>Car Jack Streets (USA)</name>
+		<marquee>./wheel/Car Jack Streets (USA).png</marquee>
+		<video>./snap/Car Jack Streets (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Card Shark (USA).cso</path>
+		<name>Card Shark (USA)</name>
+		<marquee>./wheel/Card Shark (USA).png</marquee>
+		<video>./snap/Card Shark (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Carnivores - Dinosaur Hunter (USA).cso</path>
+		<name>Carnivores - Dinosaur Hunter (USA)</name>
+		<marquee>./wheel/Carnivores - Dinosaur Hunter (USA).png</marquee>
+		<video>./snap/Carnivores - Dinosaur Hunter (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Carnivores - Ice Age (USA).cso</path>
+		<name>Carnivores - Ice Age (USA)</name>
+		<marquee>./wheel/Carnivores - Ice Age (USA).png</marquee>
+		<video>./snap/Carnivores - Ice Age (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Caterpillar (USA).cso</path>
+		<name>Caterpillar (USA)</name>
+		<marquee>./wheel/Caterpillar (USA).png</marquee>
+		<video>./snap/Caterpillar (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Championship Manager 2010 Express (Europe).cso</path>
+		<name>Championship Manager 2010 Express (Europe)</name>
+		<marquee>./wheel/Championship Manager 2010 Express (Europe).png</marquee>
+		<video>./snap/Championship Manager 2010 Express (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Charge! Tank Squad (USA).cso</path>
+		<name>Charge! Tank Squad (USA)</name>
+		<marquee>./wheel/Charge! Tank Squad (USA).png</marquee>
+		<video>./snap/Charge! Tank Squad (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Chopper I (USA).cso</path>
+		<name>Chopper I (USA)</name>
+		<marquee>./wheel/Chopper I (USA).png</marquee>
+		<video>./snap/Chopper I (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Circles, Circles, Circles (USA).cso</path>
+		<name>Circles, Circles, Circles (USA)</name>
+		<marquee>./wheel/Circles, Circles, Circles (USA).png</marquee>
+		<video>./snap/Circles, Circles, Circles (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Coconut Dodge (USA).cso</path>
+		<name>Coconut Dodge (USA)</name>
+		<marquee>./wheel/Coconut Dodge (USA).png</marquee>
+		<video>./snap/Coconut Dodge (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Cohort Chess (USA).cso</path>
+		<name>Cohort Chess (USA)</name>
+		<marquee>./wheel/Cohort Chess (USA).png</marquee>
+		<video>./snap/Cohort Chess (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Core Blaster (USA).cso</path>
+		<name>Core Blaster (USA)</name>
+		<marquee>./wheel/Core Blaster (USA).png</marquee>
+		<video>./snap/Core Blaster (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Crime Spree (Europe).cso</path>
+		<name>Crime Spree (Europe)</name>
+		<marquee>./wheel/Crime Spree (Europe).png</marquee>
+		<video>./snap/Crime Spree (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Cubixx (USA).cso</path>
+		<name>Cubixx (USA)</name>
+		<marquee>./wheel/Cubixx (USA).png</marquee>
+		<video>./snap/Cubixx (USA).mp4</video>
+	</game>
+	<game>
+		<path>./D-Cube Planet (USA).cso</path>
+		<name>D-Cube Planet (USA)</name>
+		<marquee>./wheel/D-Cube Planet (USA).png</marquee>
+		<video>./snap/D-Cube Planet (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Days of Thunder (USA).cso</path>
+		<name>Days of Thunder (USA)</name>
+		<marquee>./wheel/Days of Thunder (USA).png</marquee>
+		<video>./snap/Days of Thunder (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Defenders of the Mystic Garden (USA).cso</path>
+		<name>Defenders of the Mystic Garden (USA)</name>
+		<marquee>./wheel/Defenders of the Mystic Garden (USA).png</marquee>
+		<video>./snap/Defenders of the Mystic Garden (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Deflector (USA).cso</path>
+		<name>Deflector (USA)</name>
+		<marquee>./wheel/Deflector (USA).png</marquee>
+		<video>./snap/Deflector (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Denki Blocks! (USA).cso</path>
+		<name>Denki Blocks! (USA)</name>
+		<marquee>./wheel/Denki Blocks! (USA).png</marquee>
+		<video>./snap/Denki Blocks! (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Digi-Tiles (USA).cso</path>
+		<name>Digi-Tiles (USA)</name>
+		<marquee>./wheel/Digi-Tiles (USA).png</marquee>
+		<video>./snap/Digi-Tiles (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Doodle Fit (USA).cso</path>
+		<name>Doodle Fit (USA)</name>
+		<marquee>./wheel/Doodle Fit (USA).png</marquee>
+		<video>./snap/Doodle Fit (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Doodle Pool (USA).cso</path>
+		<name>Doodle Pool (USA)</name>
+		<marquee>./wheel/Doodle Pool (USA).png</marquee>
+		<video>./snap/Doodle Pool (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dr. Maybee and the Adventures of Scarygirl (USA).cso</path>
+		<name>Dr. Maybee and the Adventures of Scarygirl (USA)</name>
+		<marquee>./wheel/Dr. Maybee and the Adventures of Scarygirl (USA).png</marquee>
+		<video>./snap/Dr. Maybee and the Adventures of Scarygirl (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dr. Mini Games (USA).cso</path>
+		<name>Dr. Mini Games (USA)</name>
+		<marquee>./wheel/Dr. Mini Games (USA).png</marquee>
+		<video>./snap/Dr. Mini Games (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dracula - Undead Awakening (USA).cso</path>
+		<name>Dracula - Undead Awakening (USA)</name>
+		<marquee>./wheel/Dracula - Undead Awakening (USA).png</marquee>
+		<video>./snap/Dracula - Undead Awakening (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Drums Challenge (USA).cso</path>
+		<name>Drums Challenge (USA)</name>
+		<marquee>./wheel/Drums Challenge (USA).png</marquee>
+		<video>./snap/Drums Challenge (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Duael Invaders (USA).cso</path>
+		<name>Duael Invaders (USA)</name>
+		<marquee>./wheel/Duael Invaders (USA).png</marquee>
+		<video>./snap/Duael Invaders (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ducati Challenge (USA).cso</path>
+		<name>Ducati Challenge (USA)</name>
+		<marquee>./wheel/Ducati Challenge (USA).png</marquee>
+		<video>./snap/Ducati Challenge (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dynogems (USA).cso</path>
+		<name>Dynogems (USA)</name>
+		<marquee>./wheel/Dynogems (USA).png</marquee>
+		<video>./snap/Dynogems (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Earthshield (USA).cso</path>
+		<name>Earthshield (USA)</name>
+		<marquee>./wheel/Earthshield (USA).png</marquee>
+		<video>./snap/Earthshield (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Echoes (USA).cso</path>
+		<name>Echoes (USA)</name>
+		<marquee>./wheel/Echoes (USA).png</marquee>
+		<video>./snap/Echoes (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Edge (USA).cso</path>
+		<name>Edge (USA)</name>
+		<marquee>./wheel/Edge (USA).png</marquee>
+		<video>./snap/Edge (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Enchanted Cavern (Europe).cso</path>
+		<name>Enchanted Cavern (Europe)</name>
+		<marquee>./wheel/Enchanted Cavern (Europe).png</marquee>
+		<video>./snap/Enchanted Cavern (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Enigmo (USA).cso</path>
+		<name>Enigmo (USA)</name>
+		<marquee>./wheel/Enigmo (USA).png</marquee>
+		<video>./snap/Enigmo (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Epyx's Impossible Mission (Europe).cso</path>
+		<name>Epyx's Impossible Mission (Europe)</name>
+		<marquee>./wheel/Epyx's Impossible Mission (Europe).png</marquee>
+		<video>./snap/Epyx's Impossible Mission (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Express Raider (USA).cso</path>
+		<name>Express Raider (USA)</name>
+		<marquee>./wheel/Express Raider (USA).png</marquee>
+		<video>./snap/Express Raider (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Family Games (USA).cso</path>
+		<name>Family Games (USA)</name>
+		<marquee>./wheel/Family Games (USA).png</marquee>
+		<video>./snap/Family Games (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Farm Frenzy (USA).cso</path>
+		<name>Farm Frenzy (USA)</name>
+		<marquee>./wheel/Farm Frenzy (USA).png</marquee>
+		<video>./snap/Farm Frenzy (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Farm Frenzy - Pizza Party (USA).cso</path>
+		<name>Farm Frenzy - Pizza Party (USA)</name>
+		<marquee>./wheel/Farm Frenzy - Pizza Party (USA).png</marquee>
+		<video>./snap/Farm Frenzy - Pizza Party (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Farm Frenzy 2 (USA).cso</path>
+		<name>Farm Frenzy 2 (USA)</name>
+		<marquee>./wheel/Farm Frenzy 2 (USA).png</marquee>
+		<video>./snap/Farm Frenzy 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Farm Frenzy 3 (USA).cso</path>
+		<name>Farm Frenzy 3 (USA)</name>
+		<marquee>./wheel/Farm Frenzy 3 (USA).png</marquee>
+		<video>./snap/Farm Frenzy 3 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Feisty Feet (USA).cso</path>
+		<name>Feisty Feet (USA)</name>
+		<marquee>./wheel/Feisty Feet (USA).png</marquee>
+		<video>./snap/Feisty Feet (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Fieldrunners (USA).cso</path>
+		<name>Fieldrunners (USA)</name>
+		<marquee>./wheel/Fieldrunners (USA).png</marquee>
+		<video>./snap/Fieldrunners (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Fighting Fantasy - Talisman of Death (USA).cso</path>
+		<name>Fighting Fantasy - Talisman of Death (USA)</name>
+		<marquee>./wheel/Fighting Fantasy - Talisman of Death (USA).png</marquee>
+		<video>./snap/Fighting Fantasy - Talisman of Death (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Fighting Fantasy - The Warlock of Firetop Mountain (USA).cso</path>
+		<name>Fighting Fantasy - The Warlock of Firetop Mountain (USA)</name>
+		<marquee>./wheel/Fighting Fantasy - The Warlock of Firetop Mountain (USA).png</marquee>
+		<video>./snap/Fighting Fantasy - The Warlock of Firetop Mountain (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Finger Connection (USA).cso</path>
+		<name>Finger Connection (USA)</name>
+		<marquee>./wheel/Finger Connection (USA).png</marquee>
+		<video>./snap/Finger Connection (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Fish Tank (USA).cso</path>
+		<name>Fish Tank (USA)</name>
+		<marquee>./wheel/Fish Tank (USA).png</marquee>
+		<video>./snap/Fish Tank (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Flick Fishing (USA).cso</path>
+		<name>Flick Fishing (USA)</name>
+		<marquee>./wheel/Flick Fishing (USA).png</marquee>
+		<video>./snap/Flick Fishing (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Floating Cloud God Saves the Pilgrims (USA).cso</path>
+		<name>Floating Cloud God Saves the Pilgrims (USA)</name>
+		<marquee>./wheel/Floating Cloud God Saves the Pilgrims (USA).png</marquee>
+		<video>./snap/Floating Cloud God Saves the Pilgrims (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Fly Fu (USA).cso</path>
+		<name>Fly Fu (USA)</name>
+		<marquee>./wheel/Fly Fu (USA).png</marquee>
+		<video>./snap/Fly Fu (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Flying Hamster, The (USA).cso</path>
+		<name>Flying Hamster, The (USA)</name>
+		<marquee>./wheel/Flying Hamster, The (USA).png</marquee>
+		<video>./snap/Flying Hamster, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Forest Puzzle (USA).cso</path>
+		<name>Forest Puzzle (USA)</name>
+		<marquee>./wheel/Forest Puzzle (USA).png</marquee>
+		<video>./snap/Forest Puzzle (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Fort Commander - King's Gambit (USA).cso</path>
+		<name>Fort Commander - King's Gambit (USA)</name>
+		<marquee>./wheel/Fort Commander - King's Gambit (USA).png</marquee>
+		<video>./snap/Fort Commander - King's Gambit (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Fort Commander II - Counterattack (USA).cso</path>
+		<name>Fort Commander II - Counterattack (USA)</name>
+		<marquee>./wheel/Fort Commander II - Counterattack (USA).png</marquee>
+		<video>./snap/Fort Commander II - Counterattack (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Fortix (USA).cso</path>
+		<name>Fortix (USA)</name>
+		<marquee>./wheel/Fortix (USA).png</marquee>
+		<video>./snap/Fortix (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Free Shot Frenzy (Europe).cso</path>
+		<name>Free Shot Frenzy (Europe)</name>
+		<marquee>./wheel/Free Shot Frenzy (Europe).png</marquee>
+		<video>./snap/Free Shot Frenzy (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Freekscape - Escape From Hell (USA).cso</path>
+		<name>Freekscape - Escape From Hell (USA)</name>
+		<marquee>./wheel/Freekscape - Escape From Hell (USA).png</marquee>
+		<video>./snap/Freekscape - Escape From Hell (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Funky Punch (USA).cso</path>
+		<name>Funky Punch (USA)</name>
+		<marquee>./wheel/Funky Punch (USA).png</marquee>
+		<video>./snap/Funky Punch (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Future Fight (Europe).cso</path>
+		<name>Future Fight (Europe)</name>
+		<marquee>./wheel/Future Fight (Europe).png</marquee>
+		<video>./snap/Future Fight (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Galcon Labs (USA).cso</path>
+		<name>Galcon Labs (USA)</name>
+		<marquee>./wheel/Galcon Labs (USA).png</marquee>
+		<video>./snap/Galcon Labs (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gamocracy One - Legend of Robot (USA).cso</path>
+		<name>Gamocracy One - Legend of Robot (USA)</name>
+		<marquee>./wheel/Gamocracy One - Legend of Robot (USA).png</marquee>
+		<video>./snap/Gamocracy One - Legend of Robot (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gang Wars (USA).cso</path>
+		<name>Gang Wars (USA)</name>
+		<marquee>./wheel/Gang Wars (USA).png</marquee>
+		<video>./snap/Gang Wars (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gold Fever (USA).cso</path>
+		<name>Gold Fever (USA)</name>
+		<marquee>./wheel/Gold Fever (USA).png</marquee>
+		<video>./snap/Gold Fever (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gold Medalist (USA).cso</path>
+		<name>Gold Medalist (USA)</name>
+		<marquee>./wheel/Gold Medalist (USA).png</marquee>
+		<video>./snap/Gold Medalist (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Golf Mania (USA).cso</path>
+		<name>Golf Mania (USA)</name>
+		<marquee>./wheel/Golf Mania (USA).png</marquee>
+		<video>./snap/Golf Mania (USA).mp4</video>
+	</game>
+	<game>
+		<path>./GreenTechPlus (Europe).cso</path>
+		<name>GreenTechPlus (Europe)</name>
+		<marquee>./wheel/GreenTechPlus (Europe).png</marquee>
+		<video>./snap/GreenTechPlus (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Guerrilla War (USA).cso</path>
+		<name>Guerrilla War (USA)</name>
+		<marquee>./wheel/Guerrilla War (USA).png</marquee>
+		<video>./snap/Guerrilla War (USA).mp4</video>
+	</game>
+	<game>
+		<path>./HAL 21 (USA).cso</path>
+		<name>HAL 21 (USA)</name>
+		<marquee>./wheel/HAL 21 (USA).png</marquee>
+		<video>./snap/HAL 21 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Hello Flowerz (USA).cso</path>
+		<name>Hello Flowerz (USA)</name>
+		<marquee>./wheel/Hello Flowerz (USA).png</marquee>
+		<video>./snap/Hello Flowerz (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Heracles Chariot Racing (USA).cso</path>
+		<name>Heracles Chariot Racing (USA)</name>
+		<marquee>./wheel/Heracles Chariot Racing (USA).png</marquee>
+		<video>./snap/Heracles Chariot Racing (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Hero of Sparta (USA).cso</path>
+		<name>Hero of Sparta (USA)</name>
+		<marquee>./wheel/Hero of Sparta (USA).png</marquee>
+		<video>./snap/Hero of Sparta (USA).mp4</video>
+	</game>
+	<game>
+		<path>./HISTORY - Egypt - Engineering an Empire (USA).cso</path>
+		<name>HISTORY - Egypt - Engineering an Empire (USA)</name>
+		<marquee>./wheel/HISTORY - Egypt - Engineering an Empire (USA).png</marquee>
+		<video>./snap/HISTORY - Egypt - Engineering an Empire (USA).mp4</video>
+	</game>
+	<game>
+		<path>./HISTORY - Ice Road Truckers (USA).cso</path>
+		<name>HISTORY - Ice Road Truckers (USA)</name>
+		<marquee>./wheel/HISTORY - Ice Road Truckers (USA).png</marquee>
+		<video>./snap/HISTORY - Ice Road Truckers (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Hive Sweeper (Europe).cso</path>
+		<name>Hive Sweeper (Europe)</name>
+		<marquee>./wheel/Hive Sweeper (Europe).png</marquee>
+		<video>./snap/Hive Sweeper (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Homerun Hitters (USA).cso</path>
+		<name>Homerun Hitters (USA)</name>
+		<marquee>./wheel/Homerun Hitters (USA).png</marquee>
+		<video>./snap/Homerun Hitters (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Hotel Mogul (USA).cso</path>
+		<name>Hotel Mogul (USA)</name>
+		<marquee>./wheel/Hotel Mogul (USA).png</marquee>
+		<video>./snap/Hotel Mogul (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Hungry Giraffe (USA).cso</path>
+		<name>Hungry Giraffe (USA)</name>
+		<marquee>./wheel/Hungry Giraffe (USA).png</marquee>
+		<video>./snap/Hungry Giraffe (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Hysteria Project (USA).cso</path>
+		<name>Hysteria Project (USA)</name>
+		<marquee>./wheel/Hysteria Project (USA).png</marquee>
+		<video>./snap/Hysteria Project (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Hysteria Project 2 (USA).cso</path>
+		<name>Hysteria Project 2 (USA)</name>
+		<marquee>./wheel/Hysteria Project 2 (USA).png</marquee>
+		<video>./snap/Hysteria Project 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./I Kill Zombies (USA).cso</path>
+		<name>I Kill Zombies (USA)</name>
+		<marquee>./wheel/I Kill Zombies (USA).png</marquee>
+		<video>./snap/I Kill Zombies (USA).mp4</video>
+	</game>
+	<game>
+		<path>./I Must Run! (USA).cso</path>
+		<name>I Must Run! (USA)</name>
+		<marquee>./wheel/I Must Run! (USA).png</marquee>
+		<video>./snap/I Must Run! (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Idiot Squad (USA).cso</path>
+		<name>Idiot Squad (USA)</name>
+		<marquee>./wheel/Idiot Squad (USA).png</marquee>
+		<video>./snap/Idiot Squad (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ikari III - The Rescue (USA).cso</path>
+		<name>Ikari III - The Rescue (USA)</name>
+		<marquee>./wheel/Ikari III - The Rescue (USA).png</marquee>
+		<video>./snap/Ikari III - The Rescue (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ikari Warriors (USA).cso</path>
+		<name>Ikari Warriors (USA)</name>
+		<marquee>./wheel/Ikari Warriors (USA).png</marquee>
+		<video>./snap/Ikari Warriors (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ikari Warriors II - Victory Road (USA).cso</path>
+		<name>Ikari Warriors II - Victory Road (USA)</name>
+		<marquee>./wheel/Ikari Warriors II - Victory Road (USA).png</marquee>
+		<video>./snap/Ikari Warriors II - Victory Road (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Impossible Game, The (USA).cso</path>
+		<name>Impossible Game, The (USA)</name>
+		<marquee>./wheel/Impossible Game, The (USA).png</marquee>
+		<video>./snap/Impossible Game, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Influence (USA).cso</path>
+		<name>Influence (USA)</name>
+		<marquee>./wheel/Influence (USA).png</marquee>
+		<video>./snap/Influence (USA).mp4</video>
+	</game>
+	<game>
+		<path>./International Snooker (Europe).cso</path>
+		<name>International Snooker (Europe)</name>
+		<marquee>./wheel/International Snooker (Europe).png</marquee>
+		<video>./snap/International Snooker (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Jane's Hotel (USA).cso</path>
+		<name>Jane's Hotel (USA)</name>
+		<marquee>./wheel/Jane's Hotel (USA).png</marquee>
+		<video>./snap/Jane's Hotel (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Jelly Pops (USA).cso</path>
+		<name>Jelly Pops (USA)</name>
+		<marquee>./wheel/Jelly Pops (USA).png</marquee>
+		<video>./snap/Jelly Pops (USA).mp4</video>
+	</game>
+	<game>
+		<path>./JellyCar 2 (USA).cso</path>
+		<name>JellyCar 2 (USA)</name>
+		<marquee>./wheel/JellyCar 2 (USA).png</marquee>
+		<video>./snap/JellyCar 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Jetpack Joyride (USA).cso</path>
+		<name>Jetpack Joyride (USA)</name>
+		<marquee>./wheel/Jetpack Joyride (USA).png</marquee>
+		<video>./snap/Jetpack Joyride (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Jewel Keepers - Easter Island (USA).cso</path>
+		<name>Jewel Keepers - Easter Island (USA)</name>
+		<marquee>./wheel/Jewel Keepers - Easter Island (USA).png</marquee>
+		<video>./snap/Jewel Keepers - Easter Island (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Kahoots (USA).cso</path>
+		<name>Kahoots (USA)</name>
+		<marquee>./wheel/Kahoots (USA).png</marquee>
+		<video>./snap/Kahoots (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Kaleidoscope - Interactive Synaesthesia Project (USA).cso</path>
+		<name>Kaleidoscope - Interactive Synaesthesia Project (USA)</name>
+		<marquee>./wheel/Kaleidoscope - Interactive Synaesthesia Project (USA).png</marquee>
+		<video>./snap/Kaleidoscope - Interactive Synaesthesia Project (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Karimogi (USA).cso</path>
+		<name>Karimogi (USA)</name>
+		<marquee>./wheel/Karimogi (USA).png</marquee>
+		<video>./snap/Karimogi (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Karoshi (Europe).cso</path>
+		<name>Karoshi (Europe)</name>
+		<marquee>./wheel/Karoshi (Europe).png</marquee>
+		<video>./snap/Karoshi (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Knight Fortix 2 (USA).cso</path>
+		<name>Knight Fortix 2 (USA)</name>
+		<marquee>./wheel/Knight Fortix 2 (USA).png</marquee>
+		<video>./snap/Knight Fortix 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./L.A. Gridlock (Europe).cso</path>
+		<name>L.A. Gridlock (Europe)</name>
+		<marquee>./wheel/L.A. Gridlock (Europe).png</marquee>
+		<video>./snap/L.A. Gridlock (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Labyrinth (USA).cso</path>
+		<name>Labyrinth (USA)</name>
+		<marquee>./wheel/Labyrinth (USA).png</marquee>
+		<video>./snap/Labyrinth (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Left to Die in Zombhai (Europe).cso</path>
+		<name>Left to Die in Zombhai (Europe)</name>
+		<marquee>./wheel/Left to Die in Zombhai (Europe).png</marquee>
+		<video>./snap/Left to Die in Zombhai (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Kunoichi (USA).cso</path>
+		<name>Legend of Kunoichi (USA)</name>
+		<marquee>./wheel/Legend of Kunoichi (USA).png</marquee>
+		<video>./snap/Legend of Kunoichi (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Let's Golf (USA).cso</path>
+		<name>Let's Golf (USA)</name>
+		<marquee>./wheel/Let's Golf (USA).png</marquee>
+		<video>./snap/Let's Golf (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Lock 'n' Chase (USA).cso</path>
+		<name>Lock 'n' Chase (USA)</name>
+		<marquee>./wheel/Lock 'n' Chase (USA).png</marquee>
+		<video>./snap/Lock 'n' Chase (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Love Cupid (USA).cso</path>
+		<name>Love Cupid (USA)</name>
+		<marquee>./wheel/Love Cupid (USA).png</marquee>
+		<video>./snap/Love Cupid (USA).mp4</video>
+	</game>
+	<game>
+		<path>./M.O.Z.O.X. Space Salvager (USA).cso</path>
+		<name>M.O.Z.O.X. Space Salvager (USA)</name>
+		<marquee>./wheel/M.O.Z.O.X. Space Salvager (USA).png</marquee>
+		<video>./snap/M.O.Z.O.X. Space Salvager (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mad Blocker Alpha (USA).cso</path>
+		<name>Mad Blocker Alpha (USA)</name>
+		<marquee>./wheel/Mad Blocker Alpha (USA).png</marquee>
+		<video>./snap/Mad Blocker Alpha (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mahjong Artifacts (USA).cso</path>
+		<name>Mahjong Artifacts (USA)</name>
+		<marquee>./wheel/Mahjong Artifacts (USA).png</marquee>
+		<video>./snap/Mahjong Artifacts (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mahjong Artifacts - Chapter 2 (USA).cso</path>
+		<name>Mahjong Artifacts - Chapter 2 (USA)</name>
+		<marquee>./wheel/Mahjong Artifacts - Chapter 2 (USA).png</marquee>
+		<video>./snap/Mahjong Artifacts - Chapter 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mahjong Solitaire (USA).cso</path>
+		<name>Mahjong Solitaire (USA)</name>
+		<marquee>./wheel/Mahjong Solitaire (USA).png</marquee>
+		<video>./snap/Mahjong Solitaire (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Manic Monkey Mayhem (USA).cso</path>
+		<name>Manic Monkey Mayhem (USA)</name>
+		<marquee>./wheel/Manic Monkey Mayhem (USA).png</marquee>
+		<video>./snap/Manic Monkey Mayhem (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Marbians, The (USA).cso</path>
+		<name>Marbians, The (USA)</name>
+		<marquee>./wheel/Marbians, The (USA).png</marquee>
+		<video>./snap/Marbians, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Marvin's Maze (USA).cso</path>
+		<name>Marvin's Maze (USA)</name>
+		<marquee>./wheel/Marvin's Maze (USA).png</marquee>
+		<video>./snap/Marvin's Maze (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Me Monstar - Hear Me Roar! (USA).cso</path>
+		<name>Me Monstar - Hear Me Roar! (USA)</name>
+		<marquee>./wheel/Me Monstar - Hear Me Roar! (USA).png</marquee>
+		<video>./snap/Me Monstar - Hear Me Roar! (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mecho Wars (USA).cso</path>
+		<name>Mecho Wars (USA)</name>
+		<marquee>./wheel/Mecho Wars (USA).png</marquee>
+		<video>./snap/Mecho Wars (USA).mp4</video>
+	</game>
+	<game>
+		<path>./MENA Speed (Europe).cso</path>
+		<name>MENA Speed (Europe)</name>
+		<marquee>./wheel/MENA Speed (Europe).png</marquee>
+		<video>./snap/MENA Speed (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Metara (Europe).cso</path>
+		<name>Metara (Europe)</name>
+		<marquee>./wheel/Metara (Europe).png</marquee>
+		<video>./snap/Metara (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Mighty Flip Champs! DX (USA).cso</path>
+		<name>Mighty Flip Champs! DX (USA)</name>
+		<marquee>./wheel/Mighty Flip Champs! DX (USA).png</marquee>
+		<video>./snap/Mighty Flip Champs! DX (USA).mp4</video>
+	</game>
+	<game>
+		<path>./MiniSquadron (USA).cso</path>
+		<name>MiniSquadron (USA)</name>
+		<marquee>./wheel/MiniSquadron (USA).png</marquee>
+		<video>./snap/MiniSquadron (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Monochrome Racing (USA).cso</path>
+		<name>Monochrome Racing (USA)</name>
+		<marquee>./wheel/Monochrome Racing (USA).png</marquee>
+		<video>./snap/Monochrome Racing (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Monopoly (USA).cso</path>
+		<name>Monopoly (USA)</name>
+		<marquee>./wheel/Monopoly (USA).png</marquee>
+		<video>./snap/Monopoly (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Monsters (Probably) Stole My Princess (USA).cso</path>
+		<name>Monsters (Probably) Stole My Princess (USA)</name>
+		<marquee>./wheel/Monsters (Probably) Stole My Princess (USA).png</marquee>
+		<video>./snap/Monsters (Probably) Stole My Princess (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mr. Hat and the Magic Cube (Europe).cso</path>
+		<name>Mr. Hat and the Magic Cube (Europe)</name>
+		<marquee>./wheel/Mr. Hat and the Magic Cube (Europe).png</marquee>
+		<video>./snap/Mr. Hat and the Magic Cube (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Music Quiz (USA).cso</path>
+		<name>Music Quiz (USA)</name>
+		<marquee>./wheel/Music Quiz (USA).png</marquee>
+		<video>./snap/Music Quiz (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mystery of the Crystal Portal, The (USA).cso</path>
+		<name>Mystery of the Crystal Portal, The (USA)</name>
+		<marquee>./wheel/Mystery of the Crystal Portal, The (USA).png</marquee>
+		<video>./snap/Mystery of the Crystal Portal, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Next Space, The (USA).cso</path>
+		<name>Next Space, The (USA)</name>
+		<marquee>./wheel/Next Space, The (USA).png</marquee>
+		<video>./snap/Next Space, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ninjamurai (USA).cso</path>
+		<name>Ninjamurai (USA)</name>
+		<marquee>./wheel/Ninjamurai (USA).png</marquee>
+		<video>./snap/Ninjamurai (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Nocturnal (Europe).cso</path>
+		<name>Nocturnal (Europe)</name>
+		<marquee>./wheel/Nocturnal (Europe).png</marquee>
+		<video>./snap/Nocturnal (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Nom Nation (Europe).cso</path>
+		<name>Nom Nation (Europe)</name>
+		<marquee>./wheel/Nom Nation (Europe).png</marquee>
+		<video>./snap/Nom Nation (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./NormalTanks (USA).cso</path>
+		<name>NormalTanks (USA)</name>
+		<marquee>./wheel/NormalTanks (USA).png</marquee>
+		<video>./snap/NormalTanks (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Nova (USA).cso</path>
+		<name>Nova (USA)</name>
+		<marquee>./wheel/Nova (USA).png</marquee>
+		<video>./snap/Nova (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Numba (Europe).cso</path>
+		<name>Numba (Europe)</name>
+		<marquee>./wheel/Numba (Europe).png</marquee>
+		<video>./snap/Numba (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./OMG-Z (USA).cso</path>
+		<name>OMG-Z (USA)</name>
+		<marquee>./wheel/OMG-Z (USA).png</marquee>
+		<video>./snap/OMG-Z (USA).mp4</video>
+	</game>
+	<game>
+		<path>./One Epic Game (USA).cso</path>
+		<name>One Epic Game (USA)</name>
+		<marquee>./wheel/One Epic Game (USA).png</marquee>
+		<video>./snap/One Epic Game (USA).mp4</video>
+	</game>
+	<game>
+		<path>./One Two Boat Racing (USA).cso</path>
+		<name>One Two Boat Racing (USA)</name>
+		<marquee>./wheel/One Two Boat Racing (USA).png</marquee>
+		<video>./snap/One Two Boat Racing (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Orbit (USA).cso</path>
+		<name>Orbit (USA)</name>
+		<marquee>./wheel/Orbit (USA).png</marquee>
+		<video>./snap/Orbit (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ozma Wars (USA).cso</path>
+		<name>Ozma Wars (USA)</name>
+		<marquee>./wheel/Ozma Wars (USA).png</marquee>
+		<video>./snap/Ozma Wars (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pac-Man Championship Edition (USA).cso</path>
+		<name>Pac-Man Championship Edition (USA)</name>
+		<marquee>./wheel/Pac-Man Championship Edition (USA).png</marquee>
+		<video>./snap/Pac-Man Championship Edition (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pachisi (Europe).cso</path>
+		<name>Pachisi (Europe)</name>
+		<marquee>./wheel/Pachisi (Europe).png</marquee>
+		<video>./snap/Pachisi (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pallurikio (USA).cso</path>
+		<name>Pallurikio (USA)</name>
+		<marquee>./wheel/Pallurikio (USA).png</marquee>
+		<video>./snap/Pallurikio (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Panda Craze (USA).cso</path>
+		<name>Panda Craze (USA)</name>
+		<marquee>./wheel/Panda Craze (USA).png</marquee>
+		<video>./snap/Panda Craze (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Paper Wars - Cannon Fodder (USA).cso</path>
+		<name>Paper Wars - Cannon Fodder (USA)</name>
+		<marquee>./wheel/Paper Wars - Cannon Fodder (USA).png</marquee>
+		<video>./snap/Paper Wars - Cannon Fodder (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Phase Shift - Threats Beyond the Network (Asia).cso</path>
+		<name>Phase Shift - Threats Beyond the Network (Asia)</name>
+		<marquee>./wheel/Phase Shift - Threats Beyond the Network (Asia).png</marquee>
+		<video>./snap/Phase Shift - Threats Beyond the Network (Asia).mp4</video>
+	</game>
+	<game>
+		<path>./Pile Up! Bakery (USA).cso</path>
+		<name>Pile Up! Bakery (USA)</name>
+		<marquee>./wheel/Pile Up! Bakery (USA).png</marquee>
+		<video>./snap/Pile Up! Bakery (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pinball Dreams (USA).cso</path>
+		<name>Pinball Dreams (USA)</name>
+		<marquee>./wheel/Pinball Dreams (USA).png</marquee>
+		<video>./snap/Pinball Dreams (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pinball Duel (USA).cso</path>
+		<name>Pinball Duel (USA)</name>
+		<marquee>./wheel/Pinball Duel (USA).png</marquee>
+		<video>./snap/Pinball Duel (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pinball Fantasies (USA).cso</path>
+		<name>Pinball Fantasies (USA)</name>
+		<marquee>./wheel/Pinball Fantasies (USA).png</marquee>
+		<video>./snap/Pinball Fantasies (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pipe Madness (USA).cso</path>
+		<name>Pipe Madness (USA)</name>
+		<marquee>./wheel/Pipe Madness (USA).png</marquee>
+		<video>./snap/Pipe Madness (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pix'n Love Rush (USA).cso</path>
+		<name>Pix'n Love Rush (USA)</name>
+		<marquee>./wheel/Pix'n Love Rush (USA).png</marquee>
+		<video>./snap/Pix'n Love Rush (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Piyotama (Europe).cso</path>
+		<name>Piyotama (Europe)</name>
+		<marquee>./wheel/Piyotama (Europe).png</marquee>
+		<video>./snap/Piyotama (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Prehistoric Isle (USA).cso</path>
+		<name>Prehistoric Isle (USA)</name>
+		<marquee>./wheel/Prehistoric Isle (USA).png</marquee>
+		<video>./snap/Prehistoric Isle (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Prisoners of War (USA).cso</path>
+		<name>Prisoners of War (USA)</name>
+		<marquee>./wheel/Prisoners of War (USA).png</marquee>
+		<video>./snap/Prisoners of War (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Psycho Soldier (USA).cso</path>
+		<name>Psycho Soldier (USA)</name>
+		<marquee>./wheel/Psycho Soldier (USA).png</marquee>
+		<video>./snap/Psycho Soldier (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Puzzle Scape (Europe).cso</path>
+		<name>Puzzle Scape (Europe)</name>
+		<marquee>./wheel/Puzzle Scape (Europe).png</marquee>
+		<video>./snap/Puzzle Scape (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Quiz Animania (USA).cso</path>
+		<name>Quiz Animania (USA)</name>
+		<marquee>./wheel/Quiz Animania (USA).png</marquee>
+		<video>./snap/Quiz Animania (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ramen Heaven (USA).cso</path>
+		<name>Ramen Heaven (USA)</name>
+		<marquee>./wheel/Ramen Heaven (USA).png</marquee>
+		<video>./snap/Ramen Heaven (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Rasmus Klump and the Big Maze (Denmark).cso</path>
+		<name>Rasmus Klump and the Big Maze (Denmark)</name>
+		<marquee>./wheel/Rasmus Klump and the Big Maze (Denmark).png</marquee>
+		<video>./snap/Rasmus Klump and the Big Maze (Denmark).mp4</video>
+	</game>
+	<game>
+		<path>./Rasmus Klump in Pingonesien (Denmark).cso</path>
+		<name>Rasmus Klump in Pingonesien (Denmark)</name>
+		<marquee>./wheel/Rasmus Klump in Pingonesien (Denmark).png</marquee>
+		<video>./snap/Rasmus Klump in Pingonesien (Denmark).mp4</video>
+	</game>
+	<game>
+		<path>./Rasmus Klump is Saving the Chickens (Denmark).cso</path>
+		<name>Rasmus Klump is Saving the Chickens (Denmark)</name>
+		<marquee>./wheel/Rasmus Klump is Saving the Chickens (Denmark).png</marquee>
+		<video>./snap/Rasmus Klump is Saving the Chickens (Denmark).mp4</video>
+	</game>
+	<game>
+		<path>./Red Bull X-Fighters (USA).cso</path>
+		<name>Red Bull X-Fighters (USA)</name>
+		<marquee>./wheel/Red Bull X-Fighters (USA).png</marquee>
+		<video>./snap/Red Bull X-Fighters (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Reef Aquarium (USA).cso</path>
+		<name>Reef Aquarium (USA)</name>
+		<marquee>./wheel/Reef Aquarium (USA).png</marquee>
+		<video>./snap/Reef Aquarium (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Retro Cave Flyer (USA).cso</path>
+		<name>Retro Cave Flyer (USA)</name>
+		<marquee>./wheel/Retro Cave Flyer (USA).png</marquee>
+		<video>./snap/Retro Cave Flyer (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Revoltin' Youth (USA).cso</path>
+		<name>Revoltin' Youth (USA)</name>
+		<marquee>./wheel/Revoltin' Youth (USA).png</marquee>
+		<video>./snap/Revoltin' Youth (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Robin Hood - The Return of Richard (USA).cso</path>
+		<name>Robin Hood - The Return of Richard (USA)</name>
+		<marquee>./wheel/Robin Hood - The Return of Richard (USA).png</marquee>
+		<video>./snap/Robin Hood - The Return of Richard (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Rocks N' Rockets (USA).cso</path>
+		<name>Rocks N' Rockets (USA)</name>
+		<marquee>./wheel/Rocks N' Rockets (USA).png</marquee>
+		<video>./snap/Rocks N' Rockets (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ronnie O'Sullivan's Snooker (USA).cso</path>
+		<name>Ronnie O'Sullivan's Snooker (USA)</name>
+		<marquee>./wheel/Ronnie O'Sullivan's Snooker (USA).png</marquee>
+		<video>./snap/Ronnie O'Sullivan's Snooker (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Route 66 (USA).cso</path>
+		<name>Route 66 (USA)</name>
+		<marquee>./wheel/Route 66 (USA).png</marquee>
+		<video>./snap/Route 66 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Rumble Trucks (USA).cso</path>
+		<name>Rumble Trucks (USA)</name>
+		<marquee>./wheel/Rumble Trucks (USA).png</marquee>
+		<video>./snap/Rumble Trucks (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Run Ghost Run (USA).cso</path>
+		<name>Run Ghost Run (USA)</name>
+		<marquee>./wheel/Run Ghost Run (USA).png</marquee>
+		<video>./snap/Run Ghost Run (USA).mp4</video>
+	</game>
+	<game>
+		<path>./SAR - Search and Rescue (USA).cso</path>
+		<name>SAR - Search and Rescue (USA)</name>
+		<marquee>./wheel/SAR - Search and Rescue (USA).png</marquee>
+		<video>./snap/SAR - Search and Rescue (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Sasuke Vs. Commander (USA).cso</path>
+		<name>Sasuke Vs. Commander (USA)</name>
+		<marquee>./wheel/Sasuke Vs. Commander (USA).png</marquee>
+		<video>./snap/Sasuke Vs. Commander (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Shapo (USA).cso</path>
+		<name>Shapo (USA)</name>
+		<marquee>./wheel/Shapo (USA).png</marquee>
+		<video>./snap/Shapo (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Sheep Defense (USA).cso</path>
+		<name>Sheep Defense (USA)</name>
+		<marquee>./wheel/Sheep Defense (USA).png</marquee>
+		<video>./snap/Sheep Defense (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Shift Extended (USA).cso</path>
+		<name>Shift Extended (USA)</name>
+		<marquee>./wheel/Shift Extended (USA).png</marquee>
+		<video>./snap/Shift Extended (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Shogi (USA).cso</path>
+		<name>Shogi (USA)</name>
+		<marquee>./wheel/Shogi (USA).png</marquee>
+		<video>./snap/Shogi (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Sky Force (USA).cso</path>
+		<name>Sky Force (USA)</name>
+		<marquee>./wheel/Sky Force (USA).png</marquee>
+		<video>./snap/Sky Force (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Smashbreak (USA).cso</path>
+		<name>Smashbreak (USA)</name>
+		<marquee>./wheel/Smashbreak (USA).png</marquee>
+		<video>./snap/Smashbreak (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Snake Warriors - Training (USA).cso</path>
+		<name>Snake Warriors - Training (USA)</name>
+		<marquee>./wheel/Snake Warriors - Training (USA).png</marquee>
+		<video>./snap/Snake Warriors - Training (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Sneezies (USA).cso</path>
+		<name>Sneezies (USA)</name>
+		<marquee>./wheel/Sneezies (USA).png</marquee>
+		<video>./snap/Sneezies (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Snowy - The Bear's Adventures (USA).cso</path>
+		<name>Snowy - The Bear's Adventures (USA)</name>
+		<marquee>./wheel/Snowy - The Bear's Adventures (USA).png</marquee>
+		<video>./snap/Snowy - The Bear's Adventures (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Solitaire (USA).cso</path>
+		<name>Solitaire (USA)</name>
+		<marquee>./wheel/Solitaire (USA).png</marquee>
+		<video>./snap/Solitaire (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Space Shooter for Two Bucks!, A (USA).cso</path>
+		<name>Space Shooter for Two Bucks!, A (USA)</name>
+		<marquee>./wheel/Space Shooter for Two Bucks!, A (USA).png</marquee>
+		<video>./snap/Space Shooter for Two Bucks!, A (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Spaceball Revolution (USA).cso</path>
+		<name>Spaceball Revolution (USA)</name>
+		<marquee>./wheel/Spaceball Revolution (USA).png</marquee>
+		<video>./snap/Spaceball Revolution (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Speedball 2 - Evolution (USA).cso</path>
+		<name>Speedball 2 - Evolution (USA)</name>
+		<marquee>./wheel/Speedball 2 - Evolution (USA).png</marquee>
+		<video>./snap/Speedball 2 - Evolution (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Spot the Differences! (USA).cso</path>
+		<name>Spot the Differences! (USA)</name>
+		<marquee>./wheel/Spot the Differences! (USA).png</marquee>
+		<video>./snap/Spot the Differences! (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Stand O'Food (USA).cso</path>
+		<name>Stand O'Food (USA)</name>
+		<marquee>./wheel/Stand O'Food (USA).png</marquee>
+		<video>./snap/Stand O'Food (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Star Hammer Tactics (USA).cso</path>
+		<name>Star Hammer Tactics (USA)</name>
+		<marquee>./wheel/Star Hammer Tactics (USA).png</marquee>
+		<video>./snap/Star Hammer Tactics (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Stellar Attack (USA).cso</path>
+		<name>Stellar Attack (USA)</name>
+		<marquee>./wheel/Stellar Attack (USA).png</marquee>
+		<video>./snap/Stellar Attack (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Stick Man Rescue (USA).cso</path>
+		<name>Stick Man Rescue (USA)</name>
+		<marquee>./wheel/Stick Man Rescue (USA).png</marquee>
+		<video>./snap/Stick Man Rescue (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Street Smart (USA).cso</path>
+		<name>Street Smart (USA)</name>
+		<marquee>./wheel/Street Smart (USA).png</marquee>
+		<video>./snap/Street Smart (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Sudoku (USA).cso</path>
+		<name>Sudoku (USA)</name>
+		<marquee>./wheel/Sudoku (USA).png</marquee>
+		<video>./snap/Sudoku (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Fruitfall Deluxe (Europe).cso</path>
+		<name>Super Fruitfall Deluxe (Europe)</name>
+		<marquee>./wheel/Super Fruitfall Deluxe (Europe).png</marquee>
+		<video>./snap/Super Fruitfall Deluxe (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Supermarket Mania (USA).cso</path>
+		<name>Supermarket Mania (USA)</name>
+		<marquee>./wheel/Supermarket Mania (USA).png</marquee>
+		<video>./snap/Supermarket Mania (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Swap Zap (Europe).cso</path>
+		<name>Swap Zap (Europe)</name>
+		<marquee>./wheel/Swap Zap (Europe).png</marquee>
+		<video>./snap/Swap Zap (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Sweet Reversi (USA).cso</path>
+		<name>Sweet Reversi (USA)</name>
+		<marquee>./wheel/Sweet Reversi (USA).png</marquee>
+		<video>./snap/Sweet Reversi (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tehra - Dark Warrior (USA).cso</path>
+		<name>Tehra - Dark Warrior (USA)</name>
+		<marquee>./wheel/Tehra - Dark Warrior (USA).png</marquee>
+		<video>./snap/Tehra - Dark Warrior (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Telegraph Crosswords (USA).cso</path>
+		<name>Telegraph Crosswords (USA)</name>
+		<marquee>./wheel/Telegraph Crosswords (USA).png</marquee>
+		<video>./snap/Telegraph Crosswords (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Telegraph Sudoku &amp; Kakuro (USA).cso</path>
+		<name>Telegraph Sudoku &amp; Kakuro (USA)</name>
+		<marquee>./wheel/Telegraph Sudoku &amp; Kakuro (USA).png</marquee>
+		<video>./snap/Telegraph Sudoku &amp; Kakuro (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Terminator, The (USA).cso</path>
+		<name>Terminator, The (USA)</name>
+		<marquee>./wheel/Terminator, The (USA).png</marquee>
+		<video>./snap/Terminator, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tetraminos (USA).cso</path>
+		<name>Tetraminos (USA)</name>
+		<marquee>./wheel/Tetraminos (USA).png</marquee>
+		<video>./snap/Tetraminos (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tetris (USA).cso</path>
+		<name>Tetris (USA)</name>
+		<marquee>./wheel/Tetris (USA).png</marquee>
+		<video>./snap/Tetris (USA).mp4</video>
+	</game>
+	<game>
+		<path>./This is Football Management (Europe).cso</path>
+		<name>This is Football Management (Europe)</name>
+		<marquee>./wheel/This is Football Management (Europe).png</marquee>
+		<video>./snap/This is Football Management (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Tiger Trouble (Europe).cso</path>
+		<name>Tiger Trouble (Europe)</name>
+		<marquee>./wheel/Tiger Trouble (Europe).png</marquee>
+		<video>./snap/Tiger Trouble (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Time Soldiers (USA).cso</path>
+		<name>Time Soldiers (USA)</name>
+		<marquee>./wheel/Time Soldiers (USA).png</marquee>
+		<video>./snap/Time Soldiers (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tiny Hawk (Europe).cso</path>
+		<name>Tiny Hawk (Europe)</name>
+		<marquee>./wheel/Tiny Hawk (Europe).png</marquee>
+		<video>./snap/Tiny Hawk (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./TNK III (USA).cso</path>
+		<name>TNK III (USA)</name>
+		<marquee>./wheel/TNK III (USA).png</marquee>
+		<video>./snap/TNK III (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tonzurakko (USA).cso</path>
+		<name>Tonzurakko (USA)</name>
+		<marquee>./wheel/Tonzurakko (USA).png</marquee>
+		<video>./snap/Tonzurakko (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Top Gun (USA).cso</path>
+		<name>Top Gun (USA)</name>
+		<marquee>./wheel/Top Gun (USA).png</marquee>
+		<video>./snap/Top Gun (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Top Trumps - NBA All Stars (USA).cso</path>
+		<name>Top Trumps - NBA All Stars (USA)</name>
+		<marquee>./wheel/Top Trumps - NBA All Stars (USA).png</marquee>
+		<video>./snap/Top Trumps - NBA All Stars (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Touch Racing Nitro (Europe).cso</path>
+		<name>Touch Racing Nitro (Europe)</name>
+		<marquee>./wheel/Touch Racing Nitro (Europe).png</marquee>
+		<video>./snap/Touch Racing Nitro (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Touchdown Fever (USA).cso</path>
+		<name>Touchdown Fever (USA)</name>
+		<marquee>./wheel/Touchdown Fever (USA).png</marquee>
+		<video>./snap/Touchdown Fever (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Trailblazer (USA).cso</path>
+		<name>Trailblazer (USA)</name>
+		<marquee>./wheel/Trailblazer (USA).png</marquee>
+		<video>./snap/Trailblazer (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Treasures of Montezuma, The (USA).cso</path>
+		<name>Treasures of Montezuma, The (USA)</name>
+		<marquee>./wheel/Treasures of Montezuma, The (USA).png</marquee>
+		<video>./snap/Treasures of Montezuma, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Twin Blades (USA).cso</path>
+		<name>Twin Blades (USA)</name>
+		<marquee>./wheel/Twin Blades (USA).png</marquee>
+		<video>./snap/Twin Blades (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Urbanix (USA).cso</path>
+		<name>Urbanix (USA)</name>
+		<marquee>./wheel/Urbanix (USA).png</marquee>
+		<video>./snap/Urbanix (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Vanguard (USA).cso</path>
+		<name>Vanguard (USA)</name>
+		<marquee>./wheel/Vanguard (USA).png</marquee>
+		<video>./snap/Vanguard (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Vanguard II (USA).cso</path>
+		<name>Vanguard II (USA)</name>
+		<marquee>./wheel/Vanguard II (USA).png</marquee>
+		<video>./snap/Vanguard II (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Vector TD (USA).cso</path>
+		<name>Vector TD (USA)</name>
+		<marquee>./wheel/Vector TD (USA).png</marquee>
+		<video>./snap/Vector TD (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Velocity (USA).cso</path>
+		<name>Velocity (USA)</name>
+		<marquee>./wheel/Velocity (USA).png</marquee>
+		<video>./snap/Velocity (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Vempire (USA).cso</path>
+		<name>Vempire (USA)</name>
+		<marquee>./wheel/Vempire (USA).png</marquee>
+		<video>./snap/Vempire (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Vibes (USA).cso</path>
+		<name>Vibes (USA)</name>
+		<marquee>./wheel/Vibes (USA).png</marquee>
+		<video>./snap/Vibes (USA).mp4</video>
+	</game>
+	<game>
+		<path>./VT Tennis (USA).cso</path>
+		<name>VT Tennis (USA)</name>
+		<marquee>./wheel/VT Tennis (USA).png</marquee>
+		<video>./snap/VT Tennis (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Wackylands Boss (USA).cso</path>
+		<name>Wackylands Boss (USA)</name>
+		<marquee>./wheel/Wackylands Boss (USA).png</marquee>
+		<video>./snap/Wackylands Boss (USA).mp4</video>
+	</game>
+	<game>
+		<path>./War of Sonria (Europe).cso</path>
+		<name>War of Sonria (Europe)</name>
+		<marquee>./wheel/War of Sonria (Europe).png</marquee>
+		<video>./snap/War of Sonria (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Where is my Heart (USA).cso</path>
+		<name>Where is my Heart (USA)</name>
+		<marquee>./wheel/Where is my Heart (USA).png</marquee>
+		<video>./snap/Where is my Heart (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Who's That Flying (USA).cso</path>
+		<name>Who's That Flying (USA)</name>
+		<marquee>./wheel/Who's That Flying (USA).png</marquee>
+		<video>./snap/Who's That Flying (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Widget's Odyssey (USA).cso</path>
+		<name>Widget's Odyssey (USA)</name>
+		<marquee>./wheel/Widget's Odyssey (USA).png</marquee>
+		<video>./snap/Widget's Odyssey (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Widget's Odyssey 2 (USA).cso</path>
+		<name>Widget's Odyssey 2 (USA)</name>
+		<marquee>./wheel/Widget's Odyssey 2 (USA).png</marquee>
+		<video>./snap/Widget's Odyssey 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Wizorb (USA).cso</path>
+		<name>Wizorb (USA)</name>
+		<marquee>./wheel/Wizorb (USA).png</marquee>
+		<video>./snap/Wizorb (USA).mp4</video>
+	</game>
+	<game>
+		<path>./World Ping Pong Championship (Europe).cso</path>
+		<name>World Ping Pong Championship (Europe)</name>
+		<marquee>./wheel/World Ping Pong Championship (Europe).png</marquee>
+		<video>./snap/World Ping Pong Championship (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Yeti Sports Pengu Throw (USA).cso</path>
+		<name>Yeti Sports Pengu Throw (USA)</name>
+		<marquee>./wheel/Yeti Sports Pengu Throw (USA).png</marquee>
+		<video>./snap/Yeti Sports Pengu Throw (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Young Thor (USA).cso</path>
+		<name>Young Thor (USA)</name>
+		<marquee>./wheel/Young Thor (USA).png</marquee>
+		<video>./snap/Young Thor (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Yummy Yummy Cooking Jam (USA).cso</path>
+		<name>Yummy Yummy Cooking Jam (USA)</name>
+		<marquee>./wheel/Yummy Yummy Cooking Jam (USA).png</marquee>
+		<video>./snap/Yummy Yummy Cooking Jam (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Zenonia (USA).cso</path>
+		<name>Zenonia (USA)</name>
+		<marquee>./wheel/Zenonia (USA).png</marquee>
+		<video>./snap/Zenonia (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Zombie Racers (USA).cso</path>
+		<name>Zombie Racers (USA)</name>
+		<marquee>./wheel/Zombie Racers (USA).png</marquee>
+		<video>./snap/Zombie Racers (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Zombie Tycoon (USA).cso</path>
+		<name>Zombie Tycoon (USA)</name>
+		<marquee>./wheel/Zombie Tycoon (USA).png</marquee>
+		<video>./snap/Zombie Tycoon (USA).mp4</video>
+	</game>
+	<game>
+		<path>./3 2 1 - Supercrash! (USA).cso</path>
+		<name>3 2 1 - Supercrash! (USA)</name>
+		<marquee>./wheel/3 2 1 - Supercrash! (USA).png</marquee>
+		<video>./snap/3 2 1 - Supercrash! (USA).mp4</video>
+		<playcount>4</playcount>
+		<lastplayed>20180313T100504</lastplayed>
+	</game>
+	<game>
+		<path>./Ace Armstrong vs. the Alien Scumbags! (USA).cso</path>
+		<name>Ace Armstrong vs. the Alien Scumbags! (USA)</name>
+		<marquee>./wheel/Ace Armstrong vs. the Alien Scumbags! (USA).png</marquee>
+		<video>./snap/Ace Armstrong vs. the Alien Scumbags! (USA).mp4</video>
+		<playcount>6</playcount>
+		<lastplayed>20180313T100437</lastplayed>
+	</game>
+	<game>
+		<path>./2D Adventures of Rotating Octopus Character, The (USA).cso</path>
+		<name>2D Adventures of Rotating Octopus Character, The (USA)</name>
+		<marquee>./wheel/2D Adventures of Rotating Octopus Character, The (USA).png</marquee>
+		<video>./snap/2D Adventures of Rotating Octopus Character, The (USA).mp4</video>
+		<playcount>4</playcount>
+		<lastplayed>20180313T103111</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,2213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameList>
+  <game id="106813" source="ScreenScraper">
+    <path>./10th Frame.zip</path>
+    <name>10th Frame</name>
+    <desc>Enlevez votre chemise, enfilez vos chaussures de bowling et prÃ©parez vous pour une partie avec 10th FRAME! GrÃ¢ce Ã  ses superbes graphisme et sa vue en perspective, cette simulation ressemble Ã  un vÃ©ritable bowling.
+Avec ses multiples niveaux de difficultÃ©, sa gestion de la physique et le dÃ©compte automatique des points, 10th FRAME est l'expÃ©rience de bowling ultime pour toute la famille.</desc>
+    <marquee>./wheel/10th Frame.png</marquee>
+    <marquee />
+    <video>./snap/10th Frame.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Bruce Carver</developer>
+    <publisher>Access Software</publisher>
+    <genre>Sport / Bowling</genre>
+    <players />
+  </game>
+  <game id="35861" source="ScreenScraper">
+    <path>./1942.zip</path>
+    <name>1942</name>
+    <desc>1942 sur Commodore 64 est un shoot'em up qui vous place aux commandes d'un avion amÃ©ricain face aux flottes japonaises. A chaque dÃ©but de niveau vous dÃ©collez de votre porte-avions pour survoler terres et mers en vue de dÃ©truire des formations entiÃ¨res d'avions ennemis, cela vous permettant d'acquÃ©rir des bonus pour vos armes.</desc>
+    <marquee>./wheel/1942.png</marquee>
+    <marquee />
+    <video>./snap/1942.mp4</video>
+    <thumbnail />
+    <rating>0.65</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Elite Systems</developer>
+    <publisher>Capcom</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+  </game>
+  <game id="109373" source="ScreenScraper">
+    <path>./Action Biker.zip</path>
+    <name>Action Biker</name>
+    <desc />
+    <marquee>./wheel/Action Biker.png</marquee>
+    <marquee />
+    <video>./snap/Action Biker.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer />
+    <publisher>Mastertronic</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36024" source="ScreenScraper">
+    <path>./Airborne Ranger.zip</path>
+    <name>Airborne Ranger</name>
+    <desc>Ce jeu d'action sur Commodore 64 vous permet d'incarner un Airborne Ranger dans l'armÃ©e amÃ©ricaine. Le quotidien de ces personnes implique souvent de se retrouver derriÃ¨re les lignes ennemies. Et c'est ce qu'il se passera dans les 12 missions du jeu. A vous de prÃ©parer au mieux chacun de vos objectifs en observant la carte avant de vous lancer dans le feu de l'action.</desc>
+    <marquee>./wheel/Airborne Ranger.png</marquee>
+    <marquee />
+    <video>./snap/Airborne Ranger.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>MicroProse</developer>
+    <publisher>MicroProse</publisher>
+    <genre>Simulation</genre>
+    <players>1</players>
+  </game>
+  <game id="109577" source="ScreenScraper">
+    <path>./Aliens (Electric Dreams).zip</path>
+    <name>Aliens</name>
+    <desc />
+    <marquee>./wheel/Aliens (Electric Dreams).png</marquee>
+    <marquee />
+    <video>./snap/Aliens (Electric Dreams).mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer />
+    <publisher>Activision</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36036" source="ScreenScraper">
+    <path>./Arkanoid - Revenge Of Doh.zip</path>
+    <name>Arkanoid 2 - Revenge of Doh</name>
+    <desc>Arkanoid : Revenge of Doh est casse briques sur Commodore 64. Vous contrÃ´lez une barre et devez rattraper des balles qui tombent du ciel pour casser des briques qui sont au sommet. Plus vous cassez de briques et plus vous gagnez de points. Cet opus rajoute de nouveaux niveaux.</desc>
+    <marquee>./wheel/Arkanoid - Revenge Of Doh.png</marquee>
+    <marquee />
+    <video>./snap/Arkanoid - Revenge Of Doh.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Taito</publisher>
+    <genre>Action</genre>
+    <players />
+  </game>
+  <game id="35867" source="ScreenScraper">
+    <path>./Arkanoid.zip</path>
+    <name>Arkanoid</name>
+    <desc>Arkanoid sur Commodore 64 est l'archÃ©type du casse briques. Vous contrÃ´lez une barre et vous devez rattraper des balles qui tombent du ciel pour casser des briques qui sont au sommet. Plus vous cassez des briques plus vous gagnez des points.</desc>
+    <marquee>./wheel/Arkanoid.png</marquee>
+    <marquee />
+    <video>./snap/Arkanoid.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>I-Imagine</developer>
+    <publisher>Taito</publisher>
+    <genre>Action</genre>
+    <players>1-2</players>
+  </game>
+  <game id="109679" source="ScreenScraper">
+    <path>./Armalyte.zip</path>
+    <name>Armalyte</name>
+    <desc>Entrez dans les zones interdites, au-delÃ  du cauchemar de Delta avec Armalyte ...
+Deux combattants de la libertÃ© perdus dans huit sections d'une galaxie mortelle. Leur propre dÃ©termination et leur contrÃ´le sont les seuls Ã©lÃ©ments les sÃ©parant de l'oubli.</desc>
+    <marquee>./wheel/Armalyte.png</marquee>
+    <marquee />
+    <video>./snap/Armalyte.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Cyberdyne Systems</developer>
+    <publisher>Thalamus</publisher>
+    <genre>Shoot'em up / Horizontal</genre>
+    <players />
+  </game>
+  <game id="36208" source="ScreenScraper">
+    <path>./Army Moves.zip</path>
+    <name>Army Moves</name>
+    <desc>Army Moves sur Commodore 64 est un jeu d'action qui comporte deux parties bien diffÃ©rentes. La premiÃ¨re vous place soit dans une Jeep avec laquelle vous devez Ã©viter les Jeeps ennemies et autres cratÃ¨res, soit dans un hÃ©licoptÃ¨re de combat avec lequel vous devez dÃ©truire des avions ennemis tout en Ã©vitant les tirs des unitÃ©s au sol. Dans la deuxiÃ¨me partie, vous jouez le soldat Ã  pied qui doit traverser la jungle.</desc>
+    <marquee>./wheel/Army Moves.png</marquee>
+    <marquee />
+    <video>./snap/Army Moves.mp4</video>
+    <thumbnail />
+    <rating>0.55</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Thunder Mountain</developer>
+    <publisher>Dinamic Software</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="109682" source="ScreenScraper">
+    <path>./Arnie.zip</path>
+    <name>Arnie</name>
+    <desc />
+    <marquee>./wheel/Arnie.png</marquee>
+    <marquee />
+    <video>./snap/Arnie.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Zeppelin Games</developer>
+    <publisher>Zeppelin Games</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="109736" source="ScreenScraper">
+    <path>./Auf Wiedersehen Monty.zip</path>
+    <name>10 Great Games II - Auf Wiedersehen Monty</name>
+    <desc>Pauvre, persÃ©cutÃ©, Monty Mole, incarcÃ©rÃ© dans la prison de Scudmore pour avoir empruntÃ© du charbon pour se rÃ©chauffer, s'est Ã©chappÃ© et a fui ces agrÃ©ables Ã®les. AllongÃ© Ã  Gibraltar, la planque de Monty a Ã©tÃ© divulguÃ© Ã  Intermole, qui repart Ã  sa poursuite.</desc>
+    <marquee>./wheel/Auf Wiedersehen Monty.png</marquee>
+    <marquee />
+    <video>./snap/Auf Wiedersehen Monty.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer />
+    <publisher>Ariolasoft</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36275" source="ScreenScraper">
+    <path>./Avenger (Gremlin).zip</path>
+    <name>Avenger</name>
+    <desc>Avenger est un jeu d'action/aventure sur Commodore 64 oÃ¹ vous incarnez un guerrier voulant venger son pÃ¨re et rÃ©cupÃ©rer les parchemins magiques qu'on lui a volÃ©s. Pour ce faire, vous devez vous aventurer aux abords d'un chÃ¢teau pour trouver les clÃ©s vous permettant d'y pÃ©nÃ©trer et pouvoir tuer les 3 gardes qui en gÃªnent l'accÃ¨s.</desc>
+    <marquee>./wheel/Avenger (Gremlin).png</marquee>
+    <marquee />
+    <video>./snap/Avenger (Gremlin).mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Gremlin</developer>
+    <publisher>Commodore</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="109752" source="ScreenScraper">
+    <path>./Aztec Challenge.zip</path>
+    <name>Aztec Challenge</name>
+    <desc>Au-dessus des AztÃ¨ques, l'ombre d'une des religions les plus barbares et les plus horribles que le monde ait connues. Chaque annÃ©e, les prÃªtres aztÃ¨ques sacrifient Ã  leurs nombreux dieux de nombreuses victimes humaines sans dÃ©fense. Une fois que vous Ãªtes choisi pour Ãªtre sacrifiÃ©, vous n'avez qu'une seule chance d'Ã©vasion; Vous devez concourir et remporter une difficile course d'endurance et d'obstacles et oser dÃ©montrer votre valeur.
+Maintenant que vous avez Ã©tÃ© choisi, vous devez dÃ©couvrir et rÃ©ussir le "DÃ©fi AztÃ¨que"!</desc>
+    <marquee>./wheel/Aztec Challenge.png</marquee>
+    <marquee />
+    <video>./snap/Aztec Challenge.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Paul Norman</developer>
+    <publisher>Cosmi</publisher>
+    <genre>Action</genre>
+    <players>1-2</players>
+  </game>
+  <game id="36130" source="ScreenScraper">
+    <path>./Barbarian.zip</path>
+    <name>Barbarian</name>
+    <desc>Le guerrier Hegor doit sauver le royaume en venant Ã  bout du malÃ©fique Lord Necron. Pour atteindre son ennemi, il faudra d'abord traverser plusieurs zones infestÃ©es d'ennemis en tout genre. Dans le jeu d'action Barbarian sur Commodore 64, le joueur dirige Hegor et doit lui donner les bonnes commandes pour l'aider Ã  progresser.</desc>
+    <marquee>./wheel/Barbarian.png</marquee>
+    <marquee />
+    <video>./snap/Barbarian.mp4</video>
+    <thumbnail />
+    <rating>0.6</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Psygnosis</developer>
+    <publisher>Psygnosis</publisher>
+    <genre>Beat'em All</genre>
+    <players>1</players>
+  </game>
+  <game id="35935" source="ScreenScraper">
+    <path>./Batman - The Movie.zip</path>
+    <name>Batman - The Movie</name>
+    <desc>Batman : The Movie est un jeu de plates-formes sur Commodore 64 dans lequel vous incarnez l'homme chauve-souris. Vous allez devoir l'aider Ã  arrÃªter les plans machiavÃ©liques du sinistre Joker. Pour ce faire vous serez aidÃ© par ses nombreux gadgets tels que le Bat-grapin et les Bat-fumigÃ¨nes. Le soft est aussi ponctuÃ© par des passages en Batmobile ainsi qu'en Bat-plane. Le titre retrace les grands moments du premier film de Tim Burton.</desc>
+    <marquee>./wheel/Batman - The Movie.png</marquee>
+    <marquee />
+    <video>./snap/Batman - The Movie.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Ocean</publisher>
+    <genre>Plateforme</genre>
+    <players />
+  </game>
+  <game id="109904" source="ScreenScraper">
+    <path>./BC II - Grog's Revenge.zip</path>
+    <name>BC II - Grog's Revenge</name>
+    <desc />
+    <marquee>./wheel/BC II - Grog's Revenge.png</marquee>
+    <marquee />
+    <video>./snap/BC II - Grog's Revenge.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer />
+    <publisher>U.S. Gold</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36203" source="ScreenScraper">
+    <path>./Beach Head 2.zip</path>
+    <name>Beach Head 2</name>
+    <desc>Beach Head II : The Dictator Strikes Back ! est un jeu d'action sur Commodore 64. Le dictateur du premier opus est de retour et il cherche Ã  se venger des forces alliÃ©es victorieuses de la derniÃ¨re guerre. AprÃ¨s avoir emportÃ© quelques otages, il se rÃ©fugie dans son Ã®le forteresse. Vous pouvez incarner au choix les forces du commandant, les forces alliÃ©es ou le dictateur.</desc>
+    <marquee>./wheel/Beach Head 2.png</marquee>
+    <marquee />
+    <video>./snap/Beach Head 2.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Access Games</developer>
+    <publisher>Access Games</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36818" source="ScreenScraper">
+    <path>./Beach Head.zip</path>
+    <name>Beach Head</name>
+    <desc>Beach Head sur Commodore 64 est un jeu d'action qui vous demande de reconquÃ©rir par tous les moyens une Ã®le oÃ¹ un dictateur a Ã©tabli sa base ! L'attaque de l'Ã®le comprend six phases distinctes, proposant chacune une jouabilitÃ© particuliÃ¨re telle que le survol de l'Ã®le en avion, la dÃ©fense de votre flotte navale, le dÃ©barquement sur la plage, la destruction du canon principal ennemi ou encore l'attaque finale sur la forteresse du dictateur.</desc>
+    <marquee>./wheel/Beach Head.png</marquee>
+    <marquee />
+    <video>./snap/Beach Head.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Access Games</developer>
+    <publisher>Access Games</publisher>
+    <genre>Tir</genre>
+    <players>1</players>
+  </game>
+  <game id="36417" source="ScreenScraper">
+    <path>./Beyond the Ice Palace.zip</path>
+    <name>Beyond the Ice Palace</name>
+    <desc>Beyond the Ice Palace est un jeu de plates-formes sorti sur Commodore 64. Vous ne disposez que de 9 vies pour traverser trois Ã©normes niveaux ponctuÃ©s par des boss gigantesques, sans compter tous les monstres qui tentent de vous barrer la route.</desc>
+    <marquee>./wheel/Beyond the Ice Palace.png</marquee>
+    <marquee />
+    <video>./snap/Beyond the Ice Palace.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Elite Systems</developer>
+    <publisher>Elite Systems</publisher>
+    <genre>Plateforme</genre>
+    <players>1</players>
+  </game>
+  <game id="36279" source="ScreenScraper">
+    <path>./Blue Max.zip</path>
+    <name>Blue Max</name>
+    <desc>BasÃ© sur le hÃ©ros de guerre anglais Max Chatsworth, surnommÃ© Blue Max par les Allemands, ce titre sur Commodore 64 vous met aux commandes d'un avion durant la PremiÃ¨re Guerre mondiale. Votre but est de bombarder diffÃ©rentes cibles au sol sans vous faire toucher.</desc>
+    <marquee>./wheel/Blue Max.png</marquee>
+    <marquee />
+    <video>./snap/Blue Max.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Synapse Software Corporation</developer>
+    <publisher>Synapse Software Corporation</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="36289" source="ScreenScraper">
+    <path>./Bombjack.zip</path>
+    <name>Bomb Jack</name>
+    <desc>Bomb Jack sur Commodore 64 est un jeu d'action/plates-formes oÃ¹ votre but est d'aider Jack Ã  attraper toutes les bombes de chaque niveau en un temps limitÃ© et en Ã©vitant de se faire attraper par les nombreux ennemis, tels que des oiseaux ou des momies. Ces ennemis se montrent de plus en plus rapides au fur et Ã  mesure que vous avancez dans le jeu.</desc>
+    <marquee>./wheel/Bombjack.png</marquee>
+    <marquee />
+    <video>./snap/Bombjack.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Tehkan</developer>
+    <publisher>Elite Systems</publisher>
+    <genre>Plateforme</genre>
+    <players>1</players>
+  </game>
+  <game id="36159" source="ScreenScraper">
+    <path>./Booty.zip</path>
+    <name>Booty</name>
+    <desc>Booty est un jeu de plates-formes sur Commodore 64. Vous incarnez Jim the Cabin Boy en plein abordage d'un bateau marchand et devez trouver un maximum de trÃ©sors pour en faire votre butin. Il vous faudra choisir stratÃ©giquement dans quel ordre vous fouillerez les diffÃ©rentes salles du navire car vous ne pouvez porter qu'une clÃ© Ã  la fois !</desc>
+    <marquee>./wheel/Booty.png</marquee>
+    <marquee />
+    <video>./snap/Booty.mp4</video>
+    <thumbnail />
+    <rating>1</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Firebird</developer>
+    <publisher>Firebird</publisher>
+    <genre>Plateforme</genre>
+    <players>1</players>
+  </game>
+  <game id="35836" source="ScreenScraper">
+    <path>./Boulder Dash.zip</path>
+    <name>Boulder Dash</name>
+    <desc>Boulder Dash est un jeu d'arcade sur Commodore 64. Le principe du soft consiste Ã  ramasser un nombre dÃ©fini de diamants pour ouvrir un passage vers le niveau suivant. Le personnage (surnommÃ© Rockford) doit creuser la terre pour se frayer un chemin. Il devra faire attention Ã  ne pas se faire Ã©craser par un rocher ou un diamant mais Ã©galement Ã  ne pas se faire toucher par les ennemis.</desc>
+    <marquee>./wheel/Boulder Dash.png</marquee>
+    <marquee />
+    <video>./snap/Boulder Dash.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>First Star Software</developer>
+    <publisher>First Star Software</publisher>
+    <genre>Divers</genre>
+    <players>1-2</players>
+  </game>
+  <game id="36442" source="ScreenScraper">
+    <path>./Bounder.zip</path>
+    <name>Bounder</name>
+    <desc>Bounder sur Commodore 64 est un jeu d'action/plates-formes dans lequel vous dÃ©placez une balle qui rebondit sans cesse avec pour but de lui faire traverser les 174 tableaux qui composent le jeu. Cependant faites attention aux nombreux piÃ¨ges se trouvant sur votre route, ainsi, Ã©vitez les pics ou autres trous sans fond et utilisez les bonus tels que les tÃ©lÃ©porteurs ou les tremplins vous permettant de rester dans les airs plus longtemps.</desc>
+    <marquee>./wheel/Bounder.png</marquee>
+    <marquee />
+    <video>./snap/Bounder.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Gremlin</developer>
+    <publisher>Gremlin Graphics</publisher>
+    <genre>Plateforme</genre>
+    <players />
+  </game>
+  <game id="110346" source="ScreenScraper">
+    <path>./Bounty Bob Strikes Back.zip</path>
+    <name>Bounty Bob Strikes Back</name>
+    <desc />
+    <marquee>./wheel/Bounty Bob Strikes Back.png</marquee>
+    <marquee />
+    <video>./snap/Bounty Bob Strikes Back.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer />
+    <publisher>U.S. Gold</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="110351" source="ScreenScraper">
+    <path>./Bozo's Night Out.zip</path>
+    <name>Bozo's Night Out</name>
+    <desc />
+    <marquee>./wheel/Bozo's Night Out.png</marquee>
+    <marquee />
+    <video>./snap/Bozo's Night Out.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer />
+    <publisher>Taskset</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36061" source="ScreenScraper">
+    <path>./Bruce Lee.zip</path>
+    <name>Bruce Lee</name>
+    <desc>Bruce Lee est un jeu d'action sur Commodore 64. Vous incarnez Bruce Lee et devez battre un magicien dans son repaire sous-terrain pour obtenir en rÃ©compense une incommensurable fortune. Il vous faudra pour cela combattre les ninjas qui vous barrent la route en utilisant les fameuses techniques de combat de Bruce Lee !</desc>
+    <marquee>./wheel/Bruce Lee.png</marquee>
+    <marquee />
+    <video>./snap/Bruce Lee.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Data Soft</developer>
+    <publisher>Data Soft</publisher>
+    <genre>Action</genre>
+    <players>1-2</players>
+  </game>
+  <game id="35833" source="ScreenScraper">
+    <path>./Bubble Bobble.zip</path>
+    <name>Bubble Bobble</name>
+    <desc>Bubble Bobble sur Commodore 64 est un jeu d'action dans lequel on incarne Bub et Bob, deux enfants transformÃ©s en dinosaures qui vont devoir sauver leurs fiancÃ©es des griffes de Bubbla. Le jeu se dÃ©roule sur des tableaux dans lesquels apparaissent des ennemis qu'il faut emprisonner dans des bulles avant de les faire exploser pour rÃ©cupÃ©rer des points, tout en prenant en compte les courants d'air susceptibles de faire dÃ©vier les bulles, le tout sur une centaine de niveaux.</desc>
+    <marquee>./wheel/Bubble Bobble.png</marquee>
+    <marquee />
+    <video>./snap/Bubble Bobble.mp4</video>
+    <thumbnail />
+    <rating>0.85</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Taito</publisher>
+    <genre>Plateforme</genre>
+    <players>1-2</players>
+  </game>
+  <game id="36499" source="ScreenScraper">
+    <path>./Bubble Dizzy.zip</path>
+    <name>Bubble Dizzy</name>
+    <desc>Bubble Dizzy est un jeu d'action/plates-formes sur Commodore 64. Le but est de remonter Ã  la surface de l'eau en se faisant porter par des bulles d'air avant de manquer d'oxygÃ¨ne. DiffÃ©rents bonus sont Ã  ramasser au contraire des mÃ©duses, crabes, requins, pieuvres et autres sales bÃªtes qu'il faut Ã©viter.</desc>
+    <marquee>./wheel/Bubble Dizzy.png</marquee>
+    <marquee />
+    <video>./snap/Bubble Dizzy.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Codemasters</developer>
+    <publisher>Codemasters</publisher>
+    <genre>Plateforme</genre>
+    <players>1</players>
+  </game>
+  <game id="36721" source="ScreenScraper">
+    <path>./Buggy Boy.zip</path>
+    <name>Buggy Boy</name>
+    <desc>Buggy Boy ou (Speed Buggy) sur Commodore 64 est un jeu de courses vous permettant de disputer des courses sur cinq circuits diffÃ©rents remplis d'obstacles. Vous devez par exemple Ã©viter les rochers et les troncs d'arbres en travers de la piste. Essayez Ã©galement d'attraper le maximum de drapeaux pour faire grimper votre score !</desc>
+    <marquee>./wheel/Buggy Boy.png</marquee>
+    <marquee />
+    <video>./snap/Buggy Boy.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Tatsumi Electronics</developer>
+    <publisher>Elite Systems</publisher>
+    <genre>Course, Conduite</genre>
+    <players>1</players>
+  </game>
+  <game id="35907" source="ScreenScraper">
+    <path>./California Games.zip</path>
+    <name>California Games</name>
+    <desc>Avec California Games sur Commodore 64 revivez les annÃ©es 80 avec ce jeu de sport multi-Ã©preuves (ou "jeu de sport Ã  plusieurs sÃ©ries d'Ã©preuves"). Exercez-vous au surf, au skateboard, au roller, au lancer de disque et Ã  bien d'autres activitÃ©s, seul ou contre vos amis (sept maximum). De quoi vous amuser pendant un moment !</desc>
+    <marquee>./wheel/California Games.png</marquee>
+    <marquee />
+    <video>./snap/California Games.mp4</video>
+    <thumbnail />
+    <rating>0.85</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Epyx</developer>
+    <publisher>Epyx</publisher>
+    <genre>Sport</genre>
+    <players>1-8</players>
+  </game>
+  <game id="36290" source="ScreenScraper">
+    <path>./Cauldron II - The Pumpkin Strikes Back.zip</path>
+    <name>Cauldron II - The Pumpkin Strikes Back</name>
+    <desc>Cauldron II : La Citrouille Contre Attaque sur Commodore 64 est un jeu d'action/plates-formes dont le but est d'aider la derniÃ¨re citrouille qui ne fut pas dÃ©truite par la sorciÃ¨re Ã  se venger. Vous devez donc acquÃ©rir plusieurs ingrÃ©dients ainsi qu'un cheveu de la sorciÃ¨re pour prÃ©parer une potion qui annulerait le sortilÃ¨ge qu'elle a lancÃ©. Vous contrÃ´lez donc une citrouille qui rÃ©agit comme une balle rebondissante dans un jeu de plates-formes.</desc>
+    <marquee>./wheel/Cauldron II - The Pumpkin Strikes Back.png</marquee>
+    <marquee />
+    <video>./snap/Cauldron II - The Pumpkin Strikes Back.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>The RamJam Corporation</developer>
+    <publisher>Palace Software</publisher>
+    <genre>Plateforme</genre>
+    <players />
+  </game>
+  <game id="36116" source="ScreenScraper">
+    <path>./Cauldron.zip</path>
+    <name>Cauldron</name>
+    <desc>Cauldron est un jeu d'aventure sorti sur Commodore 64. Vous incarnez une sorciÃ¨re dont l'objectif est d'assembler six ingrÃ©dients nÃ©cessaires afin de pouvoir terrasser votre ennemi jurÃ© : une citrouille malÃ©fique. Pour trouver ces ingrÃ©dients, vous devrez explorer des niveaux perchÃ©e sur votre balai.</desc>
+    <marquee>./wheel/Cauldron.png</marquee>
+    <marquee />
+    <video>./snap/Cauldron.mp4</video>
+    <thumbnail />
+    <rating>0.65</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Palace Software</developer>
+    <publisher>Palace Software</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="36609" source="ScreenScraper">
+    <path>./Combat School.zip</path>
+    <name>Combat School</name>
+    <desc>Combat School est un jeu d'action sur Commodore 64. Vous vous retrouvez en plein milieu d'un camp militaire et vous devez rÃ©aliser divers exercices de formation dans le but de sortir gradÃ© du camp.</desc>
+    <marquee>./wheel/Combat School.png</marquee>
+    <marquee />
+    <video>./snap/Combat School.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Konami</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="111196" source="ScreenScraper">
+    <path>./Comic Bakery.zip</path>
+    <name>Comic Bakery</name>
+    <desc>Here we are in a completely automated bakery. But what's this??!! A bunch of tricky Racoon Dogs hanging around trying to sneak off with the bread! Can you get Joe the Baker to guard his bread from the rascally Racoon Dogs?</desc>
+    <marquee>./wheel/Comic Bakery.png</marquee>
+    <marquee />
+    <video>./snap/Comic Bakery.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer />
+    <publisher>Imagine Software</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36230" source="ScreenScraper">
+    <path>./Creatures 2 Torture Trouble.zip</path>
+    <name>Creatures 2 - Torture Trouble</name>
+    <desc>Creatures 2 : Torture Trouble est un jeu d'action sur Commodore 64. Clyde Radcliff vit maintenant une vie paisible avec sa femme et ses 9 enfants. Mais c'est alors que des dÃ©mons arrivent Ã  s'Ã©chapper et dÃ©cident de se venger sur notre hÃ©ros en enlevant ses enfants. Clyde doit ainsi sauver sa progÃ©niture et Ã©liminer tous les dÃ©mons.</desc>
+    <marquee>./wheel/Creatures 2 Torture Trouble.png</marquee>
+    <marquee />
+    <video>./snap/Creatures 2 Torture Trouble.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Thalamus</developer>
+    <publisher>Apex Designs</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="111325" source="ScreenScraper">
+    <path>./Creatures.zip</path>
+    <name>Creatures</name>
+    <desc>Creatures relied on 'cutesy' graphics interspersed with very bloody 'torture screens' where between each level a single screen puzzle was presented to the player, who had to solve it (often in highly humorous fashion) or run out of time and lose the game, together with a very bloody end for the recipient of the torture.</desc>
+    <marquee>./wheel/Creatures.png</marquee>
+    <marquee />
+    <video>./snap/Creatures.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Apex Computer Productions</developer>
+    <publisher>Thalamus</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36493" source="ScreenScraper">
+    <path>./Decathlon.zip</path>
+    <name>Decathlon</name>
+    <desc>Decathlon sur Commodore 64 est un jeu de sport qui rassemble dix Ã©preuves d'athlÃ©tisme. Retrouvez les 100m, 400m, 1500m, 110m haies, lancer de poids, de javelot, de disque mais aussi le saut en longueur, en hauteur ou Ã  la perche. Faites preuve d'endurance et de dextÃ©ritÃ© pour amÃ©liorer votre score en faisant toujours de meilleurs temps.</desc>
+    <marquee>./wheel/Decathlon.png</marquee>
+    <marquee />
+    <video>./snap/Decathlon.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Activision</publisher>
+    <genre>Sport</genre>
+    <players>4+</players>
+  </game>
+  <game id="36611" source="ScreenScraper">
+    <path>./Deflektor.zip</path>
+    <name>Deflektor</name>
+    <desc>Deflektor est un jeu de rÃ©flexion (littÃ©ralement !) sur Commodore 64. Vous devez rediriger un faisceau de lumiÃ¨re Ã  travers une succession de 60 Ã©crans Ã  l'aide de miroirs. Chaque rÃ©flecteur possÃ¨de 16 angles de diversion diffÃ©rents.</desc>
+    <marquee>./wheel/Deflektor.png</marquee>
+    <marquee />
+    <video>./snap/Deflektor.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Vortex Software</developer>
+    <publisher>Gremlin Graphics</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1</players>
+  </game>
+  <game id="36292" source="ScreenScraper">
+    <path>./Delta.zip</path>
+    <name>Delta</name>
+    <desc>Delta est un jeu de shoot'em up sur Commodore 64. Dans la rÃ©gion de l'espace nommÃ©e Delta, la race Hsiffan Khanat utilise sa puissance spatiale pour voler et analyser les navires terriens. AccompagnÃ© de votre commando, vous devez mettre fin Ã  ces agissements.</desc>
+    <marquee>./wheel/Delta.png</marquee>
+    <marquee />
+    <video>./snap/Delta.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Thalamus</developer>
+    <publisher>Thalamus</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1-2</players>
+  </game>
+  <game id="36634" source="ScreenScraper">
+    <path>./Druid.zip</path>
+    <name>Druid</name>
+    <desc>Druid sur Commodore 64 est un jeu d'action/aventure vous permettant d'incarner un druide qui part Ã  la recherche de 4 crÃ¢nes magiques cachÃ©s dans 8 niveaux. Avant de trouver ces objets, vous devez tuer un grand nombre de monstres Ã  l'aide de vos Ã©clairs. Vous pouvez Ã©galement invoquer un golem qui peut Ãªtre contrÃ´lÃ© par un deuxiÃ¨me joueur.</desc>
+    <marquee>./wheel/Druid.png</marquee>
+    <marquee />
+    <video>./snap/Druid.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Firebird</developer>
+    <publisher>Firebird</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="35823" source="ScreenScraper">
+    <path>./Elite.zip</path>
+    <name>Elite</name>
+    <desc>Elite sur Commodore 64 est un jeu de simulation qui vous met aux commandes d'un vaisseau spatial dont vous Ãªtes le capitaine. Libre Ã  vous de choisir quel est votre but, vous pouvez vous enrichir en faisant du commerce dans les zones sÃ©curisÃ©es, ou prendre des risques dans les zones peuplÃ©es de pirates ou encore Ãªtre vous-mÃªme un pirate ! Vous pouvez visiter 8 galaxies comptant chacune plus d'une centaine de planÃ¨tes !</desc>
+    <marquee>./wheel/Elite.png</marquee>
+    <marquee />
+    <video>./snap/Elite.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>David Braben</developer>
+    <publisher>Firebird</publisher>
+    <genre>Simulation</genre>
+    <players>1</players>
+  </game>
+  <game id="36429" source="ScreenScraper">
+    <path>./Exolon.zip</path>
+    <name>Exolon</name>
+    <desc>Exolon sur Commodore 64 est un jeu d'action dans lequel vous contrÃ´lez un soldat qui a la possibilitÃ© de voler grÃ¢ce notamment Ã  un exosquelette renforcÃ©. Votre but est d'atteindre la fin du niveau en utilisant la disposition des plates-formes. Des ennemis sont prÃ©sents dans les niveaux mais peuvent Ãªtre Ã©vitÃ©s ce qui permet d'Ã©conomiser vos munitions de fusils et de missiles qui se font assez rares.</desc>
+    <marquee>./wheel/Exolon.png</marquee>
+    <marquee />
+    <video>./snap/Exolon.mp4</video>
+    <thumbnail />
+    <rating>0.6</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Hewson Consultants Ltd</developer>
+    <publisher>Hewson Consultants Ltd</publisher>
+    <genre>Action</genre>
+    <players />
+  </game>
+  <game id="111990" source="ScreenScraper">
+    <path>./Fairlight - A Prelude.zip</path>
+    <name>Fairlight - A Prelude</name>
+    <desc>Fairlight sur Commodore 64 est un jeu d'action/aventure oÃ¹ vous incarnez Isvar qui s'est retrouvÃ© piÃ©gÃ© dans un mystÃ©rieux chÃ¢teau. Pour rÃ©ussir Ã  s'Ã©chapper, vous devez utiliser de nombreux objets que vous trouverez Ã  travers les niveaux peuplÃ©s de crÃ©atures telles que des trolls.</desc>
+    <marquee>./wheel/Fairlight - A Prelude.png</marquee>
+    <marquee />
+    <video>./snap/Fairlight - A Prelude.mp4</video>
+    <thumbnail />
+    <rating>0.55</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>The Edge</developer>
+    <publisher>The Edge Software</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="36726" source="ScreenScraper">
+    <path>./Fernandez Must Die.zip</path>
+    <name>Fernandez Must Die</name>
+    <desc>Fernandez Must Die sur Commodore 64 est un jeu d'action dans lequel vous incarnez un hÃ©ros ayant la lourde tÃ¢che de libÃ©rer la rÃ©publique d'El Diablo du despote Fernandez. Votre mission est de dÃ©truire toutes les bases du despote tout en vous dÃ©barrassant des nombreux ennemis qui tentent de vous arrÃªter.</desc>
+    <marquee>./wheel/Fernandez Must Die.png</marquee>
+    <marquee />
+    <video>./snap/Fernandez Must Die.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Imageworks</developer>
+    <publisher>Imageworks</publisher>
+    <genre>Action</genre>
+    <players />
+  </game>
+  <game id="112078" source="ScreenScraper">
+    <path>./Firefly.zip</path>
+    <name>Firefly</name>
+    <desc />
+    <marquee>./wheel/Firefly.png</marquee>
+    <marquee />
+    <video>./snap/Firefly.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer />
+    <publisher>Ocean</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36005" source="ScreenScraper">
+    <path>./First Samurai.zip</path>
+    <name>First Samurai</name>
+    <desc>First Samurai vous emmÃ¨ne vous et votre Commodore 64 Ã  l'Ã©poque mÃ©diÃ©vale oÃ¹ rÃ¨gnent les samouraÃ¯s et le code du Bushidou. Vous incarnez un samouraÃ¯ qui dÃ©barque sur une terre inconnue. D'abord Ã  coups de poing et de pied, puis Ã  l'aide d'un sabre magique, vous devrez combattre de multiples ennemis. Heureusement, des objets spÃ©ciaux et des armes de jets pourront aussi Ãªtre utilisÃ©s pour vous aider Ã  traverser ce monde et trouver la sortie de chaque niveau.</desc>
+    <marquee>./wheel/First Samurai.png</marquee>
+    <marquee />
+    <video>./snap/First Samurai.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Imageworks</developer>
+    <publisher>Vivid Image</publisher>
+    <genre>Plateforme</genre>
+    <players>1</players>
+  </game>
+  <game id="112095" source="ScreenScraper">
+    <path>./First Strike.zip</path>
+    <name>First Strike</name>
+    <desc />
+    <marquee>./wheel/First Strike.png</marquee>
+    <marquee />
+    <video>./snap/First Strike.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer />
+    <publisher>Elite</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36541" source="ScreenScraper">
+    <path>./Flimbo's Quest.zip</path>
+    <name>Flimbo's Quest</name>
+    <desc>Flimbo's Quest est un jeu d'action sur Commodore 64. Votre copine Pearly a Ã©tÃ© kidnappÃ©e par le diabolique Fransz Dandruff. Durant 7 niveaux de plates-formes, vous avez la tÃ¢che de la libÃ©rer et de faire en sorte que l'on n'entende plus parler de Fransz.</desc>
+    <marquee>./wheel/Flimbo's Quest.png</marquee>
+    <marquee />
+    <video>./snap/Flimbo's Quest.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>System 3</developer>
+    <publisher>System 3</publisher>
+    <genre>Plateforme</genre>
+    <players>1</players>
+  </game>
+  <game id="112169" source="ScreenScraper">
+    <path>./Forbidden Forest.zip</path>
+    <name>Forbidden Forest</name>
+    <desc />
+    <marquee>./wheel/Forbidden Forest.png</marquee>
+    <marquee />
+    <video>./snap/Forbidden Forest.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer />
+    <publisher>Cosmi</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="112181" source="ScreenScraper">
+    <path>./Fort Apocalypse.zip</path>
+    <name>Fort Apocalypse</name>
+    <desc />
+    <marquee>./wheel/Fort Apocalypse.png</marquee>
+    <marquee />
+    <video>./snap/Fort Apocalypse.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19820101T000000</releasedate>
+    <developer />
+    <publisher>Synapse Software</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36360" source="ScreenScraper">
+    <path>./Freddy Hardest.zip</path>
+    <name>Freddy Hardest</name>
+    <desc>Freddy Hardest est un jeu d'action sur Commodore 64. Dans un avenir proche, New York est devenue une ville inhospitaliÃ¨re et dÃ©pravÃ©e remplie de voyous de tout genre. Heureusement Freddy Hardest est lÃ  pour rÃ©tablir l'ordre et la paix.</desc>
+    <marquee>./wheel/Freddy Hardest.png</marquee>
+    <marquee />
+    <video>./snap/Freddy Hardest.mp4</video>
+    <thumbnail />
+    <rating>0.45</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Dinamic Software</developer>
+    <publisher>Dinamic Software</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="36354" source="ScreenScraper">
+    <path>./Game Over.zip</path>
+    <name>Game Over</name>
+    <desc>Game Over est un shoot'em up sur Commodore 64. Vous devez parcourir les diffÃ©rents niveaux en tuant un maximum d'ennemis, le but Ã©tant d'avoir le meilleur score possible.</desc>
+    <marquee>./wheel/Game Over.png</marquee>
+    <marquee />
+    <video>./snap/Game Over.mp4</video>
+    <thumbnail />
+    <rating>0.45</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Imagine Software</developer>
+    <publisher>Dinamic Software</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1-2</players>
+  </game>
+  <game id="112582" source="ScreenScraper">
+    <path>./Ghost Hunters.zip</path>
+    <name>Ghost Hunters</name>
+    <desc />
+    <marquee>./wheel/Ghost Hunters.png</marquee>
+    <marquee />
+    <video>./snap/Ghost Hunters.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer />
+    <publisher>Codemasters</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="35950" source="ScreenScraper">
+    <path>./Ghostbusters.zip</path>
+    <name>Ghostbusters</name>
+    <desc>GhostBusters sur Commodore 64 est un jeu d'action basÃ© sur le film S.O.S. FantÃ´mes. Vous incarnez la fine Ã©quipe de chasseurs de fantÃ´mes et vous vous attaquez Ã  toutes formes d'activitÃ©s paranormales. ArmÃ© de votre fusil Ã  protons, capturez tous les revenants indÃ©sirables de New York et mettez Guzer, le dieu summÃ©rien, hors d'Ã©tat de nuire.</desc>
+    <marquee>./wheel/Ghostbusters.png</marquee>
+    <marquee />
+    <video>./snap/Ghostbusters.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Activision</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="35822" source="ScreenScraper">
+    <path>./Ghosts'n'Goblins.zip</path>
+    <name>Ghosts'n Goblins</name>
+    <desc>Ghosts'n Goblins est un jeu d'action/plates-formes sur Commodore 64. Arthur le brave chevalier doit sauver sa princesse bien-aimÃ©e des griffes du dÃ©mon King Astaroth. DiffÃ©rents challenges l'attende au fil des niveaux remplis de crÃ©atures malfaisantes Ã  abattre.</desc>
+    <marquee>./wheel/Ghosts'n'Goblins.png</marquee>
+    <marquee />
+    <video>./snap/Ghosts'n'Goblins.mp4</video>
+    <thumbnail />
+    <rating>0.85</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Elite Systems</developer>
+    <publisher>Capcom</publisher>
+    <genre>Plateforme</genre>
+    <players />
+  </game>
+  <game id="36439" source="ScreenScraper">
+    <path>./Green Beret.zip</path>
+    <name>Green Beret</name>
+    <desc>Green Beret, disponible sur Commodore 64, est un titre d'action dans lequel vous incarnez un bÃ©ret vert durant la Guerre Froide qui doit infiltrer le camp ennemi afin de dÃ©livrer des prisonniers. Avec votre fidÃ¨le poignard, vous allez ramasser des armes le long des niveaux qui vous permettront de vous frayer un chemin. Personnalisez votre partie avec quatre niveaux de difficultÃ© et partez sauver vos compatriotes.</desc>
+    <marquee>./wheel/Green Beret.png</marquee>
+    <marquee />
+    <video>./snap/Green Beret.mp4</video>
+    <thumbnail />
+    <rating>0.65</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Imagine Software</developer>
+    <publisher>Konami</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="36113" source="ScreenScraper">
+    <path>./H.E.R.O..zip</path>
+    <name>H.E.R.O.</name>
+    <desc>H.E.R.O. ou encore Helicopter Emergency Rescue Operation est un jeu d'action sur Commodore 64. Vous incarnez Roderick Hero et devez sauver des mineurs piÃ©gÃ©s par la soudaine activitÃ© volcanique. Vous disposez d'un rayon laser inclus dans le casque de Roderick pour vous dÃ©barrasser des nombreux animaux dangereux qui rÃ´dent dans la mine.</desc>
+    <marquee>./wheel/H.E.R.O..png</marquee>
+    <marquee />
+    <video>./snap/H.E.R.O..mp4</video>
+    <thumbnail />
+    <rating>0.85</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Activision</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="36020" source="ScreenScraper">
+    <path>./Head Over Heels.zip</path>
+    <name>Head Over Heels</name>
+    <desc>Head over Heels est un jeu d'aventure/rÃ©flexion sur Commodore 64. Vous pouvez jouer Mr Head et Mr Heels, capables de rassembler leurs forces pour anÃ©antir leurs adversaires. Les niveaux sont en 3 dimensions et les personnages doivent recueillir des couronnes pour avancer au niveau suivant.</desc>
+    <marquee>./wheel/Head Over Heels.png</marquee>
+    <marquee />
+    <video>./snap/Head Over Heels.mp4</video>
+    <thumbnail />
+    <rating>0.55</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Ocean</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="112799" source="ScreenScraper">
+    <path>./Heartland.zip</path>
+    <name>Heartland</name>
+    <desc />
+    <marquee>./wheel/Heartland.png</marquee>
+    <marquee />
+    <video>./snap/Heartland.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer />
+    <publisher>OCG</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="112903" source="ScreenScraper">
+    <path>./Horace Goes Skiing.zip</path>
+    <name>Horace Goes Skiing</name>
+    <desc />
+    <marquee>./wheel/Horace Goes Skiing.png</marquee>
+    <marquee />
+    <video>./snap/Horace Goes Skiing.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer />
+    <publisher>Melbourne House</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36044" source="ScreenScraper">
+    <path>./Hudson Hawk.zip</path>
+    <name>Hudson Hawk</name>
+    <desc>Hudson Hawk est un jeu d'action sur Commodore 64 basÃ© sur le film du mÃªme nom. Vous incarnez un voleur malicieux nommÃ© Hudson Hawk. Vous avez pour mission de voler trois oeuvres d'art de Da Vinci. Mais attention ce ne sera pas si facile que cela, des gardes de sÃ©curitÃ© et des chiens vous barrent la route !</desc>
+    <marquee>./wheel/Hudson Hawk.png</marquee>
+    <marquee />
+    <video>./snap/Hudson Hawk.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Special FX Ltd.</developer>
+    <publisher>Ocean</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="36664" source="ScreenScraper">
+    <path>./Hunchback.zip</path>
+    <name>Hunchback</name>
+    <desc>Hunchback est un jeu de plates-formes sur Commodore 64. Vous incarnez Quasimodo, le bossu de Notre-Dame et devez venir en aide Ã  la belle Esmeralda prisonniÃ¨re dans la plus haute tour. De nombreux lanciers, archers et chevaliers vont tenter de vous barrer la route mais Quasimodo est agile et peut sauter un peu partout en s'aidant notamment des cordes qui servent Ã  faire sonner les cloches !</desc>
+    <marquee>./wheel/Hunchback.png</marquee>
+    <marquee />
+    <video>./snap/Hunchback.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Century Electronics</developer>
+    <publisher>Ocean</publisher>
+    <genre>Plateforme</genre>
+    <players>1</players>
+  </game>
+  <game id="36674" source="ScreenScraper">
+    <path>./Hyper Sports.zip</path>
+    <name>Hyper Sports</name>
+    <desc>Hyper Sports est un jeu de sport sorti sur Commodore 64 qui vous propose de participer Ã  six Ã©preuves diffÃ©rentes : natation, tir, gymnastique, tir Ã  l'arc, triple saut et haltÃ©rophilie. Votre objectif est de rÃ©ussir chaque Ã©preuve dans l'ordre afin de pouvoir accÃ©der Ã  l'activitÃ© suivante.</desc>
+    <marquee>./wheel/Hyper Sports.png</marquee>
+    <marquee />
+    <video>./snap/Hyper Sports.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Imagine Software</developer>
+    <publisher>Konami</publisher>
+    <genre>Sport</genre>
+    <players />
+  </game>
+  <game id="36364" source="ScreenScraper">
+    <path>./I ball.zip</path>
+    <name>I, Ball</name>
+    <desc>Dans I, Ball sur Commodore 64, vous devez sauver vos amis Lover Ball, No Ball, Eddy Ball et Glow Ball des mains de Terry Ball ("terrible"). Ce jeu est un shoot'em up se dÃ©roulant sur 16 niveaux que vous devez parcourir en un temps limitÃ©, avec un nombre de vies dÃ©fini. Vos armes sont relativement faibles au dÃ©but mais vous pouvez ramasser des disques vous permettant d'amÃ©liorer leurs cadences de tir ainsi que la direction dans lesquelles les projectiles partent.</desc>
+    <marquee>./wheel/I ball.png</marquee>
+    <marquee />
+    <video>./snap/I ball.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Firebird</developer>
+    <publisher>Firebird</publisher>
+    <genre>Shoot'em Up</genre>
+    <players />
+  </game>
+  <game id="35860" source="ScreenScraper">
+    <path>./Impossible Mission 2.zip</path>
+    <name>Impossible Mission 2</name>
+    <desc>Impossible Mission II est un jeu d'action sur Commodore 64, inspirÃ© de la sÃ©rie Mission Impossible. Dans cette adaptation, vous avez 8 heures pour arrÃªter le Docteur Elvin, dangereux scientifique de gÃ©nie, et empÃªcher la Terre d'Ãªtre dÃ©truite. Partez Ã  sa poursuite dans son donjon et stoppez-le avant qu'il ne soit trop tard.</desc>
+    <marquee>./wheel/Impossible Mission 2.png</marquee>
+    <marquee />
+    <video>./snap/Impossible Mission 2.mp4</video>
+    <thumbnail />
+    <rating>0.9</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Novotrade International</developer>
+    <publisher>Epyx</publisher>
+    <genre>Plateforme</genre>
+    <players>1</players>
+  </game>
+  <game id="36062" source="ScreenScraper">
+    <path>./Impossible Mission.zip</path>
+    <name>Impossible Mission [Europe]</name>
+    <desc>Impossible Mission sur Commodore 64 est un jeu de plates-formes dans lequel vous incarnez un agent secret chargÃ© de neutraliser le professeur Atombender avant qu'il ne parvienne Ã  pirater le systÃ¨me informatique du gouvernement. Votre mission, si vous l'acceptez, est de rÃ©cupÃ©rer des indices permettant d'atteindre le systÃ¨me central et de le dÃ©truire.</desc>
+    <marquee>./wheel/Impossible Mission.png</marquee>
+    <marquee />
+    <video>./snap/Impossible Mission.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Epyx</developer>
+    <publisher>Epyx</publisher>
+    <genre>Plateforme</genre>
+    <players>1</players>
+  </game>
+  <game id="35886" source="ScreenScraper">
+    <path>./Indiana Jones And The Temple Of Doom.zip</path>
+    <name>Indiana Jones and the Temple of Doom</name>
+    <desc>Indiana Jones and the Temple of Doom sur Commodore 64 est un jeu d'action dans lequel vous incarnez Professeur Jones Ã  travers trois types de niveaux qui se rÃ©pÃ¨tent. Le premier est un jeu de plates-formes tandis que le deuxiÃ¨me vous place dans un wagon minier qu'il faut guider correctement jusqu'Ã  la sortie. Dans le troisiÃ¨me niveau, vous devez rÃ©cupÃ©rer l'artefact tout en Ã©vitant les ennemis. Une fois cela fait, vous refaites les mÃªmes niveaux mais qui ont alors gagnÃ© en complexitÃ©.</desc>
+    <marquee>./wheel/Indiana Jones And The Temple Of Doom.png</marquee>
+    <marquee />
+    <video>./snap/Indiana Jones And The Temple Of Doom.mp4</video>
+    <thumbnail />
+    <rating>0.3</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>U.S. Gold</developer>
+    <publisher>Mindscape</publisher>
+    <genre>Plateforme</genre>
+    <players>1</players>
+  </game>
+  <game id="36047" source="ScreenScraper">
+    <path>./Into The Eagle's Nest.zip</path>
+    <name>Into the Eagle's Nest</name>
+    <desc>Into the Eagle's Nest sur Commodore 64 est un jeu d'action dans lequel vous devez infiltrer un bÃ¢timent oÃ¹ un commandant ennemi a placÃ© son quartier gÃ©nÃ©ral. Vous devez libÃ©rer 3 soldats alliÃ©s, rÃ©cupÃ©rer le maximum d'oeuvres d'art volÃ©es et enfin dÃ©truire le bÃ¢timent. Le faible nombre de munitions et le nombre Ã©levÃ© d'ennemis obligent le joueur Ã  prÃ©parer son plan d'action plutÃ´t que de foncer sans rÃ©flÃ©chir.</desc>
+    <marquee>./wheel/Into The Eagle's Nest.png</marquee>
+    <marquee />
+    <video>./snap/Into The Eagle's Nest.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Pandora Box</developer>
+    <publisher>Mindscape</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="36629" source="ScreenScraper">
+    <path>./Jack The Nipper.zip</path>
+    <name>Jack the Nipper</name>
+    <desc>Jack the Nipper est un jeu d'action/aventure sur Commodore 64. Vous incarnez Jack, un mÃ©chant bambin, dont le but est de faire le plus de dÃ©gÃ¢ts et de carnages possible dans la ville. Pour cela, vous devez sauter sur certaines choses ou encore trouver des objets et les amener lÃ  oÃ¹ ils pourront causer le plus de problÃ¨mes. 50 niveaux sont disponibles.</desc>
+    <marquee>./wheel/Jack The Nipper.png</marquee>
+    <marquee />
+    <video>./snap/Jack The Nipper.mp4</video>
+    <thumbnail />
+    <rating>0.6</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Gremlin</developer>
+    <publisher>Gremlin Graphics</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="36374" source="ScreenScraper">
+    <path>./Jet Set Willy.zip</path>
+    <name>Jet Set Willy</name>
+    <desc>Jet Set Willy est un jeu mixant action et aventure sorti sur Commodore 64. Vous incarnez un personnage du nom de Willy, jeune propriÃ©taire d'une magnifique villa disposant de plus de 60 chambres. Votre objectif sera de ranger toutes les chambres avant que la femme de mÃ©nage vous laisse enfin dormir. Faites toutefois attention car chacune des chambres dispose de piÃ¨ges ou obstacles.</desc>
+    <marquee>./wheel/Jet Set Willy.png</marquee>
+    <marquee />
+    <video>./snap/Jet Set Willy.mp4</video>
+    <thumbnail />
+    <rating>0.25</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Software Projects</developer>
+    <publisher>Software Projects</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="36137" source="ScreenScraper">
+    <path>./Kane.zip</path>
+    <name>Kane</name>
+    <desc>Kane est un jeu d'action sur Commodore 64. Le jeu se dÃ©roule dans le Far West et se dÃ©compose en quatre parties : deux parties dans lesquelles il vous faudra tirer sur des oiseaux ou des ennemis et deux autres parties qui se dÃ©roulent Ã  dos de cheval et oÃ¹ il faudra sauter par-dessus des rochers ou encore des cactus.</desc>
+    <marquee>./wheel/Kane.png</marquee>
+    <marquee />
+    <video>./snap/Kane.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Mastertronic</developer>
+    <publisher>Mastertronic</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="35824" source="ScreenScraper">
+    <path>./Karateka.zip</path>
+    <name>Karateka</name>
+    <desc>Karateka est un jeu d'action sur Commodore 64. Le diabolique Akuma a dÃ©truit votre patrie et kidnappÃ© votre princesse Mariko. En tant que maÃ®tre en arts martiaux, vous Ãªtes le seul capable d'atteindre le palais d'Akuma pour se dresser contre lui.</desc>
+    <marquee>./wheel/Karateka.png</marquee>
+    <marquee />
+    <video>./snap/Karateka.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Broderbund Software</developer>
+    <publisher>Broderbund Software</publisher>
+    <genre>Combat</genre>
+    <players>1</players>
+  </game>
+  <game id="36200" source="ScreenScraper">
+    <path>./Kung-Fu Master.zip</path>
+    <name>Kung-Fu Master</name>
+    <desc>Kung-Fu Master est un beat'em all sur Commodore 64. Le mÃ©chant Mr X a capturÃ© une jolie fille nommÃ©e Sylvia. Ainsi le valeureux Thomas, maÃ®tre en kung-fu, se lance Ã  sa recherche. Dans chaque niveau une flopÃ©e de soldats ainsi qu'un boss tenteront de barrer la route Ã  notre hÃ©ros.</desc>
+    <marquee>./wheel/Kung-Fu Master.png</marquee>
+    <marquee />
+    <video>./snap/Kung-Fu Master.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Data East</developer>
+    <publisher>Irem</publisher>
+    <genre>Beat'em All</genre>
+    <players>1-2</players>
+  </game>
+  <game id="114187" source="ScreenScraper">
+    <path>./Law Of The West.zip</path>
+    <name>Law of the West</name>
+    <desc />
+    <marquee>./wheel/Law Of The West.png</marquee>
+    <marquee />
+    <video>./snap/Law Of The West.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer />
+    <publisher>Accolade</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="114209" source="ScreenScraper">
+    <path>./Led Storm.zip</path>
+    <name>LED Storm</name>
+    <desc />
+    <marquee>./wheel/Led Storm.png</marquee>
+    <marquee />
+    <video>./snap/Led Storm.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer />
+    <publisher>Go!</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36430" source="ScreenScraper">
+    <path>./Little Computer People.zip</path>
+    <name>Little Computer People</name>
+    <desc>Little Computer People sur Commodore 64 vous permet de voir un homme et son chien vivre leur vie dans leur maison. L'homme agit comme le ferait n'importe qui au quotidien, mais vous pouvez Ã©galement interagir avec lui en jouant aux cartes par exemple. Vous pouvez aussi lui donner des consignes et il vous enverra parfois des lettres oÃ¹ il dÃ©crit comment il vit et s'il est satisfait.</desc>
+    <marquee>./wheel/Little Computer People.png</marquee>
+    <marquee />
+    <video>./snap/Little Computer People.mp4</video>
+    <thumbnail />
+    <rating>0.85</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Activision</publisher>
+    <genre>StratÃ©gie</genre>
+    <players>1</players>
+  </game>
+  <game id="35922" source="ScreenScraper">
+    <path>./Lode Runner.zip</path>
+    <name>Lode Runner</name>
+    <desc>Lode Runner est un jeu de action/rÃ©flexion sorti sur Commodore 64. Le but consiste Ã  rÃ©cupÃ©rer un certain nombre de piÃ¨ces d'or afin d'activer un SAS qui vous permettra de passer au niveau suivant. Ce n'est Ã©videmment pas si facile car certaines des piÃ¨ces sont cachÃ©es dans des niveaux infÃ©rieurs. Pour y accÃ©der, le sol est constituÃ© de pierres qui peuvent Ãªtre dÃ©truites par le hÃ©ros mais qui se reconstituent au bout d'un moment. Des monstres seront lÃ  pour vous empÃªcher de triompher.</desc>
+    <marquee>./wheel/Lode Runner.png</marquee>
+    <marquee />
+    <video>./snap/Lode Runner.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Broderbund Software</developer>
+    <publisher>Broderbund Software</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1</players>
+  </game>
+  <game id="35850" source="ScreenScraper">
+    <path>./Maniac Mansion.zip</path>
+    <name>Maniac Mansion</name>
+    <desc>Maniac Mansion est un jeu d'aventure sur Commodore 64. L'hÃ´tel Edison a toujours Ã©tÃ© une vieille maison en bordure de la ville. Des rumeurs disent que d'Ã©tranges expÃ©riences sont en cours et que des crÃ©atures vivent parmi la famille Edison. Une fille nommÃ©e Sandy a disparu de l'Ã©cole locale. Son petit copain dÃ©cide d'aller fouiller la demeure. Il choisi d'embarquer deux autres amis dans son aventure.</desc>
+    <marquee>./wheel/Maniac Mansion.png</marquee>
+    <marquee />
+    <video>./snap/Maniac Mansion.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>LucasArts</developer>
+    <publisher>LucasArts</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="114488" source="ScreenScraper">
+    <path>./Manic Miner.zip</path>
+    <name>Manic Miner</name>
+    <desc />
+    <marquee>./wheel/Manic Miner.png</marquee>
+    <marquee />
+    <video>./snap/Manic Miner.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer />
+    <publisher>Software Projects</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="35827" source="ScreenScraper">
+    <path>./Mario Bros.zip</path>
+    <name>Mario Bros</name>
+    <desc>Les plombiers Mario et Luigi doivent se dÃ©barrasser des crÃ©atures sortant des canalisations dans Mario Bros. sur Commodore 64. Ce titre marque le premiÃ¨re apparition de Luigi dans un jeu vidÃ©o. Affrontez des tortues et collectez des piÃ¨ces dans des niveaux bonus. Mais faites cependant attention, il n'est pas encore possible de se dÃ©barrasser des ennemis en sautant directement dessus comme dans les Ã©pisodes suivants. Trouvez d'abord un moyen de les rendre inoffensifs.</desc>
+    <marquee>./wheel/Mario Bros.png</marquee>
+    <marquee />
+    <video>./snap/Mario Bros.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Atarisoft</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Action</genre>
+    <players>1-2</players>
+  </game>
+  <game id="36679" source="ScreenScraper">
+    <path>./Match Day II.zip</path>
+    <name>Match Day II</name>
+    <desc>Match Day II sur Commodore 64 est une simulation de foot vous permettant de choisir parmi 8 Ã©quipes diffÃ©rentes pour disputer des tournois ou des coupes. Le jeu propose une gestion du handicap et un systÃ¨me qui calcule en temps rÃ©el les rebonds du ballon. On peut Ã©galement dÃ©terminer Ã  quelle force on tape la balle Ã  chaque frappe.</desc>
+    <marquee>./wheel/Match Day II.png</marquee>
+    <marquee />
+    <video>./snap/Match Day II.mp4</video>
+    <thumbnail />
+    <rating>0.9</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Ocean</publisher>
+    <genre>Sport</genre>
+    <players>1-2</players>
+  </game>
+  <game id="114530" source="ScreenScraper">
+    <path>./Match Point.zip</path>
+    <name>Game Set and Match - Match Point</name>
+    <desc />
+    <marquee>./wheel/Match Point.png</marquee>
+    <marquee />
+    <video>./snap/Match Point.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer />
+    <publisher>Ocean</publisher>
+    <genre>Sport / Tennis</genre>
+    <players />
+  </game>
+  <game id="114564" source="ScreenScraper">
+    <path>./Mayhem In Monsterland.zip</path>
+    <name>Mayhem in Monsterland</name>
+    <desc />
+    <marquee>./wheel/Mayhem In Monsterland.png</marquee>
+    <marquee />
+    <video>./snap/Mayhem In Monsterland.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer />
+    <publisher>Apex</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36358" source="ScreenScraper">
+    <path>./Microprose Soccer.zip</path>
+    <name>Microprose Soccer</name>
+    <desc>MicroProse Soccer sur Commodore 64 est un jeu de sport divisÃ© en deux parties : le football en extÃ©rieur et en intÃ©rieur. Les rÃ¨gles en extÃ©rieur sont similaires au vrai football. L'intÃ©rieur, lui, est basÃ© sur des rÃ¨gles fictives avec moins de joueurs et un terrain plus petit. Vous pouvez paramÃ©trer le temps, les ralentis ainsi que la vitesse de jeu.</desc>
+    <marquee>./wheel/Microprose Soccer.png</marquee>
+    <marquee />
+    <video>./snap/Microprose Soccer.mp4</video>
+    <thumbnail />
+    <rating>0.9</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Sensible Software</developer>
+    <publisher>MicroProse</publisher>
+    <genre>Sport</genre>
+    <players />
+  </game>
+  <game id="36147" source="ScreenScraper">
+    <path>./Mighty Bombjack.zip</path>
+    <name>Mighty Bombjack</name>
+    <desc>Mighty Bomb Jack sur Commodore 64 est un jeu d'action oÃ¹ devez aller sauver un roi et sa fille des griffes du dÃ©mon Belzebut. A travers 16 niveaux labyrinthiques, jouez d'agilitÃ© pour Ã©viter les monstres et rÃ©colter des bombes afin d'accumuler des points.</desc>
+    <marquee>./wheel/Mighty Bombjack.png</marquee>
+    <marquee />
+    <video>./snap/Mighty Bombjack.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Tecmo</developer>
+    <publisher>Elite Systems</publisher>
+    <genre>Plateforme</genre>
+    <players />
+  </game>
+  <game id="36651" source="ScreenScraper">
+    <path>./Mikie.zip</path>
+    <name>Mikie</name>
+    <desc>Mikie est un jeu d'action Ã  la troisiÃ¨me personne sur Commodore 64. Vous incarnez Mikie, un jeune Casanova notoire dont le passe-temps favori est de conquÃ©rir toutes les filles de son collÃ¨ge. Il vous faudra Ã©viter les professeurs, le gardien et le cantinier tout en obtenant des coeurs en criant dans la basse-cour, ou plutÃ´t dans la cour tout court.</desc>
+    <marquee>./wheel/Mikie.png</marquee>
+    <marquee />
+    <video>./snap/Mikie.mp4</video>
+    <thumbnail />
+    <rating>0.9</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Imagine Software</developer>
+    <publisher>Konami</publisher>
+    <genre>Action</genre>
+    <players>1-2</players>
+  </game>
+  <game id="36682" source="ScreenScraper">
+    <path>./Mission Elevator.zip</path>
+    <name>Mission Elevator</name>
+    <desc>Mission Elevator est un jeu d'aventure sur Commodore 64. Une bombe Ã  retardement a Ã©tÃ© cachÃ©e dans un gratte-ciel qui s'avÃ¨re Ãªtre le QG du FBI et vous devez la dÃ©samorcer. Le bÃ¢timent comporte plusieurs sections de 8 Ã©tages chacune et il vous faudra voler chaque clÃ© Ã  un ennemi pour accÃ©der Ã  la section suivante. Il en va de mÃªme pour les fragments du code secret nÃ©cessaire pour dÃ©samorcer la bombe situÃ©e au dernier niveau.</desc>
+    <marquee>./wheel/Mission Elevator.png</marquee>
+    <marquee />
+    <video>./snap/Mission Elevator.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Eurogold</developer>
+    <publisher>Eurogold</publisher>
+    <genre>Aventure</genre>
+    <players />
+  </game>
+  <game id="115423" source="ScreenScraper">
+    <path>./Myth - History in the Making.zip</path>
+    <name>Myth - History in the Making</name>
+    <desc>Myth : History in the Making est un jeu d'action sur Commodore 64. Vous incarnez un simple mortel qui a Ã©tÃ© appelÃ© par les dieux pour dÃ©truire plusieurs crÃ©atures mythologiques ayant empruntÃ© le mauvais chemin pour suivre le diabolique Dameron.</desc>
+    <marquee>./wheel/Myth - History in the Making.png</marquee>
+    <marquee />
+    <video>./snap/Myth - History in the Making.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>System 3</developer>
+    <publisher>System 3</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36131" source="ScreenScraper">
+    <path>./Navy Seals.zip</path>
+    <name>Navy Seals</name>
+    <desc>Navy SEALs est un pur jeu d'action sorti sur Commodore 64. Prouvez que tous les marines sont des super soldats en puissance et avancez sans crainte au long des niveaux remplis de soldats mÃ©chants armÃ©s jusqu'aux dents.</desc>
+    <marquee>./wheel/Navy Seals.png</marquee>
+    <marquee />
+    <video>./snap/Navy Seals.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Ocean</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="36117" source="ScreenScraper">
+    <path>./Nebulus.zip</path>
+    <name>Nebulus</name>
+    <desc>Nebulus est un jeu d'action sur Commodore 64. A la surface de la planÃ¨te Nebulus, huit tours mystÃ©rieuses apparaissent soudainement. Au joueur de les escalader l'une aprÃ¨s l'autre en Ã©vitant de succomber aux multiples dangers qui se mettent en travers de sa route. Sa mission : activer les mÃ©canismes de destruction situÃ©s au sommet de chaque tour.</desc>
+    <marquee>./wheel/Nebulus.png</marquee>
+    <marquee />
+    <video>./snap/Nebulus.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Hewson Consultants Ltd</developer>
+    <publisher>U.S. Gold</publisher>
+    <genre>Aventure</genre>
+    <players>2</players>
+  </game>
+  <game id="36685" source="ScreenScraper">
+    <path>./Nemesis The Warlock.zip</path>
+    <name>Nemesis the Warlock</name>
+    <desc>Nemesis the Warlock sur Commodore 64 est un jeu d'action oÃ¹ vous incarnez NÃ©mÃ©sis qui doit arrÃªter Torquemada et sa horde de monstres. Le jeu est composÃ© de 30 Ã©crans oÃ¹ vous devez vous dÃ©placer de plate-forme en plate-forme tout en Ã©liminant un certain nombre de monstre de maniÃ¨re Ã  pouvoir passer au niveau suivant. Mais il faut faire vite, sinon Torquemada transforme les corps des monstres en zombies.</desc>
+    <marquee>./wheel/Nemesis The Warlock.png</marquee>
+    <marquee />
+    <video>./snap/Nemesis The Warlock.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Martech</developer>
+    <publisher>Creative Reality</publisher>
+    <genre>Plateforme</genre>
+    <players>1</players>
+  </game>
+  <game id="35984" source="ScreenScraper">
+    <path>./Pac-land.zip</path>
+    <name>Pac-Land</name>
+    <desc>Pac-Land est un jeu de plates-formes sur Commodore 64. Contrairement Ã  la tradition, ce jeu Pac-Man est en vue de profil. Le hÃ©ros doit rapporter une fÃ©e Ã  Fairy-Land puis revenir chez lui. Mais les fantÃ´mes ne l'entendent pas de cette oreille et feront tout pour arrÃªter la boule jaune dans son pÃ©riple. Le jeu comporte 16 niveaux et peut Ãªtre pratiquÃ© Ã  deux joueurs.</desc>
+    <marquee>./wheel/Pac-land.png</marquee>
+    <marquee />
+    <video>./snap/Pac-land.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Quicksilva Ltd</developer>
+    <publisher>Namco</publisher>
+    <genre>Plateforme</genre>
+    <players>1-2</players>
+  </game>
+  <game id="36297" source="ScreenScraper">
+    <path>./Pac-Mania.zip</path>
+    <name>Pac-Mania</name>
+    <desc>Pac-Mania est un jeu d'action sur Commodore 64. Disposant d'une nouvelle vue isomÃ©trique, cet Ã©pisode de la sÃ©rie des Pac-Man vous propose toujours de guider le petit personnage Ã  travers des puzzles variÃ©s tout en dÃ©vorant les boules jaunes. Il vaut Ã©viter les fantÃ´mes qui vous pourchassent Ã  moins d'avoir avalÃ© un bonus qui vous permet de les manger. Au rang des nouveautÃ©s, Pac-Man et les fantÃ´mes peuvent dÃ©sormais sauter.</desc>
+    <marquee>./wheel/Pac-Mania.png</marquee>
+    <marquee />
+    <video>./snap/Pac-Mania.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Grandslam Entertainments Ltd.</developer>
+    <publisher>Teque Software</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="35875" source="ScreenScraper">
+    <path>./paperboy.zip</path>
+    <name>Paperboy</name>
+    <desc>Paperboy sur Commodore 64 est l'adaptation du succÃ¨s arcade du mÃªme nom. Vous incarnez un jeune livreur de journaux Ã  vÃ©lo et devez effectuer votre tÃ¢che le plus rapidement possible. Prenez garde tout de mÃªme aux divers obstacles, Ã  savoir les automobilistes, chiens, skaters et autres trous dans la chaussÃ©e.</desc>
+    <marquee>./wheel/paperboy.png</marquee>
+    <marquee />
+    <video>./snap/paperboy.mp4</video>
+    <thumbnail />
+    <rating>0.65</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Atari</developer>
+    <publisher>Mindscape</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="36692" source="ScreenScraper">
+    <path>./Park Patrol.zip</path>
+    <name>Park Patrol</name>
+    <desc>Park Patrol est un jeu d'action Ã  la 3Ã¨me personne sur Commodore 64. Le but du jeu est de ramasser 12 objets dissÃ©minÃ©s Ã  travers le parc comme par exemple des canettes de soda, des bouteilles ou encore des ballons. En plus de la collecte d'objets, vous devez occasionnellement sauver des nageurs un peu trop aventureux d'une noyade certaine dans le lac. Chacune de ces actions rapporte un certain nombre de points, mais il faudra Ã©viter les dangers du parc pour survivre.</desc>
+    <marquee>./wheel/Park Patrol.png</marquee>
+    <marquee />
+    <video>./snap/Park Patrol.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Activision</publisher>
+    <genre>Simulation</genre>
+    <players />
+  </game>
+  <game id="36298" source="ScreenScraper">
+    <path>./Pitstop II.zip</path>
+    <name>Pitstop II</name>
+    <desc>Pitstop II est un jeu de courses sur Commodore 64 pour les amateurs de Formule 1. L'Ã©cran est divisÃ© en deux parties, une pour le joueur et l'autre pour la voiture contrÃ´lÃ©e par l'ordinateur. Le but est donc de battre cette intelligence artificielle, sans oublier que d'autres concurrents vous compliquent la tÃ¢che. Deux humains peuvent s'affronter selon le mÃªme schÃ©ma en multijoueur.</desc>
+    <marquee>./wheel/Pitstop II.png</marquee>
+    <marquee />
+    <video>./snap/Pitstop II.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Epyx</developer>
+    <publisher>U.S. Gold</publisher>
+    <genre>Course, Conduite</genre>
+    <players>1-2</players>
+  </game>
+  <game id="36300" source="ScreenScraper">
+    <path>./Popeye (Parker).zip</path>
+    <name>Popeye</name>
+    <desc>Popeye est un jeu de plates-formes sur Commodore 64. Vous incarnez le cÃ©lÃ¨bre marin et devez gagner le coeur d'Olive. Celle-ci se trouve en haut de l'Ã©cran et laisse tomber des gages d'amour que vous devez collecter pour passer au niveau suivant oÃ¹ il s'agira d'Ã©viter Brutus. Vous pouvez assommer temporairement ce dernier en trouvant une boÃ®te d'Ã©pinards !</desc>
+    <marquee>./wheel/Popeye (Parker).png</marquee>
+    <marquee />
+    <video>./snap/Popeye (Parker).mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Parker Brothers</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Action</genre>
+    <players>1-2</players>
+  </game>
+  <game id="35973" source="ScreenScraper">
+    <path>./Predator.zip</path>
+    <name>Predator</name>
+    <desc>Predator sur Commodore 64 est un jeu d'action adaptÃ© du film Ã©ponyme mais qui ne reprend pas exactement le mÃªme scÃ©nario puisque notre hÃ©ros commence dÃ©jÃ  tout seul aprÃ¨s la mort de son escouade. La progression se dÃ©roule Ã  l'horizontal dans des niveaux oÃ¹ il faudra sauter, courir et tirer sur de nombreux ennemis. Le Predator faisant lui quelques rares apparitions.</desc>
+    <marquee>./wheel/Predator.png</marquee>
+    <marquee />
+    <video>./snap/Predator.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Software Studios</developer>
+    <publisher>Activision</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="36587" source="ScreenScraper">
+    <path>./Psycho Pigs UXB.zip</path>
+    <name>Psycho Pigs UXB</name>
+    <desc>Psycho Pigs UXB sur Commodore 64 est un jeu d'action dans lequel vous devez venir Ã  bout de vos ennemis Ã  l'aide de bombes que vous larguez. Ces derniÃ¨res peuvent exploser quand le dÃ©compte arrive Ã  0 ou quand elles touchent le sol. De nombreux bonus viendront vous aider au fil de l'aventure, vous permettant par exemple de larguer plusieurs bombes simultanÃ©ment.</desc>
+    <marquee>./wheel/Psycho Pigs UXB.png</marquee>
+    <marquee />
+    <video>./snap/Psycho Pigs UXB.mp4</video>
+    <thumbnail />
+    <rating>0.3</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>NMK</developer>
+    <publisher>U.S. Gold</publisher>
+    <genre>Action</genre>
+    <players>1-2</players>
+  </game>
+  <game id="36688" source="ScreenScraper">
+    <path>./Raging Beast.zip</path>
+    <name>Raging Beast - Ole!</name>
+    <desc>Raging Beast sur Commodore 64 est une simulation de matador oÃ¹ vous devez obtenir un maximum de points en attirant le taureau avec votre cape et en esquivant au dernier moment. Vous pouvez Ã©galement ranger votre cape pour courir plus vite en cas de danger, mais vous pouvez la ressortir Ã  tout moment pour Ã©viter le taureau.</desc>
+    <marquee>./wheel/Raging Beast.png</marquee>
+    <marquee />
+    <video>./snap/Raging Beast.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Jawx</developer>
+    <publisher>Firebird</publisher>
+    <genre>Simulation</genre>
+    <players />
+  </game>
+  <game id="36696" source="ScreenScraper">
+    <path>./Raid Over Moscow.zip</path>
+    <name>Raid Over Moscow</name>
+    <desc>Raid over Moscow sur Commodore 64 est un jeu d'action dans lequel vous devez dÃ©samorcer une bombe nuclÃ©aire russe qui vient d'Ãªtre lancÃ©e. Pour cela, vous avez Ã  dÃ©truire la base de lancement. Le jeu se dÃ©compose en 5 mini-jeux Ã  la jouabilitÃ© bien distincte. Au programme : le pilotage de votre avion Ã  basse altitude pour ne pas vous faire repÃ©rer ou le nettoyage de la base Ã  l'aide de votre fusil.</desc>
+    <marquee>./wheel/Raid Over Moscow.png</marquee>
+    <marquee />
+    <video>./snap/Raid Over Moscow.mp4</video>
+    <thumbnail />
+    <rating>0.85</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Access Games</developer>
+    <publisher>Access Games</publisher>
+    <genre>Action</genre>
+    <players />
+  </game>
+  <game id="36302" source="ScreenScraper">
+    <path>./Rainbow Islands.zip</path>
+    <name>Rainbow Islands</name>
+    <desc>Rainbow Islands est un jeu de plates-formes sur Commodore 64. Bub et Bob, les deux hÃ©ros de Bubble Bobble, sont redevenus humains au terme de leur prÃ©cÃ©dente aventure et ils doivent dÃ©sormais sauver les Ã®les arc-en-ciel d'une bande de monstres. Il faudra sauter et utiliser votre pouvoir pour crÃ©er des arcs-en-ciel au cours des sept mondes du jeu, divisÃ©s en quatre niveaux chacun.</desc>
+    <marquee>./wheel/Rainbow Islands.png</marquee>
+    <marquee />
+    <video>./snap/Rainbow Islands.mp4</video>
+    <thumbnail />
+    <rating>0.6</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Taito</publisher>
+    <genre>Plateforme</genre>
+    <players>1-2</players>
+  </game>
+  <game id="35958" source="ScreenScraper">
+    <path>./Rambo - First Blood Part II.zip</path>
+    <name>Rambo - First Blood Part II</name>
+    <desc>Rambo : First Blood Part II sur Commodore 64 (Ã©galement connu sous le nom de Secret Commando) est un jeu d'action oÃ¹ vous incarnez le cÃ©lÃ¨bre guerrier sans peur ni reproches, John Rambo. Seul ou Ã  2 joueurs, attaquez des camps ennemis au Vietnam et libÃ©rez vos compatriotes faits prisonniers.</desc>
+    <marquee>./wheel/Rambo - First Blood Part II.png</marquee>
+    <marquee />
+    <video>./snap/Rambo - First Blood Part II.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>PlatinumGames</developer>
+    <publisher>Ocean</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="35879" source="ScreenScraper">
+    <path>./Rambo III - The Rescue.zip</path>
+    <name>Rambo III - The Rescue</name>
+    <desc>Rambo III sur Commodore 64 est un jeu d'action basÃ© sur le film du mÃªme nom avec Sylvester Stallone. Le joueur incarne John Rambo parti en Afghanistan pour sauver le Colonel Trautman. Rambo dispose de plusieurs armes pour accomplir divers objectifs (trouver la sortie du niveau, sauver des otages, dÃ©truire un tank...) au cours des six missions du jeu.</desc>
+    <marquee>./wheel/Rambo III - The Rescue.png</marquee>
+    <marquee />
+    <video>./snap/Rambo III - The Rescue.mp4</video>
+    <thumbnail />
+    <rating>0.6</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Ocean</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="36708" source="ScreenScraper">
+    <path>./Ranarama.zip</path>
+    <name>Ranarama</name>
+    <desc>Rana Rama est un jeu d'aventure sur Commodore 64. Les cours d'apprentissage pour jeunes sorciers ont pour but de leur faire apprendre les bases du mÃ©tier. Malheureusement, personne n'a prÃ©venu l'apprenti Mervyn, qui a lancÃ© un sort pour que toutes les filles soient Ã  ses pieds. Cependant, le sort fut un Ã©chec total et toutes les filles du royaume furent transformÃ©es en grenouilles.</desc>
+    <marquee>./wheel/Ranarama.png</marquee>
+    <marquee />
+    <video>./snap/Ranarama.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Hewson Consultants Ltd</developer>
+    <publisher>Graftgold</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="36469" source="ScreenScraper">
+    <path>./Re-Bounder.zip</path>
+    <name>Re-Bounder</name>
+    <desc>Re-Bounder est un jeu d'action sur Commodore 64. Vous incarnez une balle de tennis qui rebondit encore et encore. Pour terminer tous les niveaux, il faut trouver les 16 bombes. Lors de vos rebonds, il vous faudra Ã©viter le sable, les clous et les divers ennemis que vous croiserez.</desc>
+    <marquee>./wheel/Re-Bounder.png</marquee>
+    <marquee />
+    <video>./snap/Re-Bounder.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Gremlin</developer>
+    <publisher>Gremlin Graphics</publisher>
+    <genre>Plateforme</genre>
+    <players />
+  </game>
+  <game id="36150" source="ScreenScraper">
+    <path>./Renegade.zip</path>
+    <name>Renegade</name>
+    <desc>Renegade est un beat'em all sur Commodore 64. Au cours d'une balade avec votre petite amie dans les rues de Brooklyn, celle-ci se fait kidnapper par une bande de rebelles. Votre objectif est donc de la sauver des griffes de ses ravisseurs. Le jeu est composÃ© de 5 niveaux diffÃ©rents et vous disposez d'une large palette d'attaques.</desc>
+    <marquee>./wheel/Renegade.png</marquee>
+    <marquee />
+    <video>./snap/Renegade.mp4</video>
+    <thumbnail />
+    <rating>0.35</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Taito</publisher>
+    <genre>Beat'em All</genre>
+    <players>1</players>
+  </game>
+  <game id="35962" source="ScreenScraper">
+    <path>./Rescue On Fractalus.zip</path>
+    <name>Rescue on Fractalus!</name>
+    <desc>Rescue on Fractalus! sur Commodore 64 est un jeu d'action 3D Ã  la premiÃ¨re personne. Le but est de venir en aide Ã  des pilotes Ã©chouÃ©s sur la planÃ¨te Fractalus. La mission commence Ã  bord du vaisseau-mÃ¨re et vous devez localiser les pilotes Ã  l'aide des instruments disponibles tout en dÃ©truisant vos ennemis au passage.</desc>
+    <marquee>./wheel/Rescue On Fractalus.png</marquee>
+    <marquee />
+    <video>./snap/Rescue On Fractalus.mp4</video>
+    <thumbnail />
+    <rating>0.55</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Lucasfilm Games</developer>
+    <publisher>Activision</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="114720" source="ScreenScraper">
+    <path>./Revenge of the Mutant Camels.zip</path>
+    <name>Revenge of the Mutant Camels</name>
+    <desc>A sequel of sorts to Attack of the Mutant Camels, this time the player controls a camel. The camel is armed by default with small blue shots, but can obtain other weapons and weapon upgrades by collecting power-ups during the game.
+The game features a host of bizarre enemies, including: British telephone boxes, Polo mints, exploding sheep, skiing kangaroos, guys sitting on flying toilets and even the jet plane controlled by the player in Attack of the Mutant Camels and a wave of Jeff Minters.</desc>
+    <marquee>./wheel/Revenge of the Mutant Camels.png</marquee>
+    <marquee />
+    <video>./snap/Revenge of the Mutant Camels.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Jeff Minter</developer>
+    <publisher>Llamasoft</publisher>
+    <genre>Shoot'em up / Horizontal</genre>
+    <players />
+  </game>
+  <game id="35866" source="ScreenScraper">
+    <path>./Rick Dangerous.zip</path>
+    <name>Rick Dangerous</name>
+    <desc>Rick Dangerous commence ses aventures dans un temple d'Amazonie Ã  la recherche d'une tribu perdue. Les autres niveaux le conduisent dans une pyramide Ã©gyptienne, un chÃ¢teau nazi puis finalement dans une base secrÃ¨te Ã  Londres. Ce jeu d'action/plates-formes sur Commodore 64 s'inspire fortement des pÃ©ripÃ©ties d'Indiana Jones.</desc>
+    <marquee>./wheel/Rick Dangerous.png</marquee>
+    <marquee />
+    <video>./snap/Rick Dangerous.mp4</video>
+    <thumbnail />
+    <rating>0.6</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>Firebird</developer>
+    <publisher>Core Design</publisher>
+    <genre>Plateforme</genre>
+    <players>1</players>
+  </game>
+  <game id="36468" source="ScreenScraper">
+    <path>./River Raid.zip</path>
+    <name>River Raid</name>
+    <desc>River Raid est un shoot'em up en vue de dessus sur Commodore 64. Vous contrÃ´lez un jet et devez dÃ©truire un pont vital Ã  l'ennemi. La riviÃ¨re que vous survolez est cependant gardÃ©e par des tanks, des hÃ©licoptÃ¨res et des avions ennemis. Le carburant est limitÃ© et vous devez aussi penser Ã  faire le plein en survolant des dÃ©pÃ´ts de carburant.</desc>
+    <marquee>./wheel/River Raid.png</marquee>
+    <marquee />
+    <video>./snap/River Raid.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Activision</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1-2</players>
+  </game>
+  <game id="114810" source="ScreenScraper">
+    <path>./Rock n' Bolt.zip</path>
+    <name>Rock n' Bolt</name>
+    <desc />
+    <marquee>./wheel/Rock n' Bolt.png</marquee>
+    <marquee />
+    <video>./snap/Rock n' Bolt.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer />
+    <publisher>Activision</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36139" source="ScreenScraper">
+    <path>./Saboteur II - Avenging Angel.zip</path>
+    <name>Saboteur II - Avenging Angel</name>
+    <desc>Saboteur II est un jeu d'aventure sur Commodore 64. AprÃ¨s l'assassinat de son frÃ¨re, Nina veut Ã  tout prix se venger. Dans votre arsenal, une large palette de techniques Kung-Fu ainsi que des armes et des munitions que vous pourrez ramasser pendant votre voyage. Pour atteindre votre objectif, vous devez rÃ©colter les 14 parties d'un mot de passe.</desc>
+    <marquee>./wheel/Saboteur II - Avenging Angel.png</marquee>
+    <marquee />
+    <video>./snap/Saboteur II - Avenging Angel.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Durell</developer>
+    <publisher>Durell</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="36093" source="ScreenScraper">
+    <path>./Saboteur.zip</path>
+    <name>Saboteur</name>
+    <desc>Saboteur sur Commodore 64 est un jeu d'action qui combine du beat'em up, et des sÃ©quences de plates-formes et d'aventure. Vous contrÃ´lez un samouraÃ¯ solitaire et devez infiltrer un bÃ¢timent en combattant les nombreux ennemis sur votre route et en trouvant des objets pour progresser dans l'aventure.</desc>
+    <marquee>./wheel/Saboteur.png</marquee>
+    <marquee />
+    <video>./snap/Saboteur.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Durell</developer>
+    <publisher>Cable</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="36195" source="ScreenScraper">
+    <path>./Scooby Doo.zip</path>
+    <name>Scooby Doo</name>
+    <desc>Scooby-Doo sur Commodore 64 est un jeu de plates-formes dans lequel les amis de Scooby (Fred, DaphnÃ©, Vera et Sammy) ont Ã©tÃ© kidnappÃ©s par un gÃ©nie diabolique, ils sont retenus dans un Ã©norme chÃ¢teau. Le joueur contrÃ´le Scooby et parcourt le chÃ¢teau en sautant et en se baissant pour Ã©viter les attaques des monstres et les piÃ¨ges tout en ripostant avec les nombreuses attaques du chien.</desc>
+    <marquee>./wheel/Scooby Doo.png</marquee>
+    <marquee />
+    <video>./snap/Scooby Doo.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Gargoyle Games</developer>
+    <publisher>Elite Systems</publisher>
+    <genre>Beat'em All</genre>
+    <players />
+  </game>
+  <game id="112986" source="ScreenScraper">
+    <path>./Seaside Special.zip</path>
+    <name>Seaside Special</name>
+    <desc />
+    <marquee>./wheel/Seaside Special.png</marquee>
+    <marquee />
+    <video>./snap/Seaside Special.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer />
+    <publisher>Taskset</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="116604" source="ScreenScraper">
+    <path>./Sentinel.zip</path>
+    <name>Sentinel</name>
+    <desc />
+    <marquee>./wheel/Sentinel.png</marquee>
+    <marquee />
+    <video>./snap/Sentinel.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer />
+    <publisher>Street Games</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36223" source="ScreenScraper">
+    <path>./Shao-Lin's Road.zip</path>
+    <name>Shao-Lin's Road</name>
+    <desc>Shao-Lin's Road est un jeu d'action sur Commodore 64. Vous incarnez un personnage nommÃ© Lee qui s'est fait prendre dans un piÃ¨ge du temple des Triades. Vous devez donc tout faire pour vous Ã©chapper vivant. Parfois, lorsque vous tuerez un membre de la Triade, un ballon d'Ã©nergie sera libÃ©rÃ© et vous obtiendrez alors une arme plus puissante.</desc>
+    <marquee>./wheel/Shao-Lin's Road.png</marquee>
+    <marquee />
+    <video>./snap/Shao-Lin's Road.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>The Edge</developer>
+    <publisher>Konami</publisher>
+    <genre>Beat'em All</genre>
+    <players />
+  </game>
+  <game id="36063" source="ScreenScraper">
+    <path>./Skate Or Die.zip</path>
+    <name>Skate or Die!</name>
+    <desc>Skate or Die est un jeu de sport sur Commodore 64. Le jeu vous propose 5 styles de skate diffÃ©rents et deux types d'Ã©preuves. Dans la premiÃ¨re, votre but est de marquer le plus de points de style possible et dans la deuxiÃ¨me Ã©preuve, vous devez terminer le parcours en moins de 90 secondes. Le magasin Rodney's Skate vous permet d'acheter de l'Ã©quipement.</desc>
+    <marquee>./wheel/Skate Or Die.png</marquee>
+    <marquee />
+    <video>./snap/Skate Or Die.mp4</video>
+    <thumbnail />
+    <rating>0.9</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Electronic Arts</developer>
+    <publisher>Electronic Arts</publisher>
+    <genre>Sport</genre>
+    <players>1-8</players>
+  </game>
+  <game id="36228" source="ScreenScraper">
+    <path>./Spy vs Spy 2 - The Island Caper.zip</path>
+    <name>Spy vs Spy 2 - The Island Caper</name>
+    <desc>Spy vs Spy II : The Island Caper est un jeu d'action sur Commodore 64. Vous contrÃ´lez des espions dÃ©barquÃ©s sur une Ã®le dÃ©serte. Cette fois, au lieu de rÃ©cupÃ©rer 4 articles pour pouvoir atteindre l'aÃ©roport, vous devez essayer de retrouver 3 piÃ¨ces d'un missile. Prenez garde aux nombreux piÃ¨ges qui se mettront au travers de votre route.</desc>
+    <marquee>./wheel/Spy vs Spy 2 - The Island Caper.png</marquee>
+    <marquee />
+    <video>./snap/Spy vs Spy 2 - The Island Caper.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Databyte</developer>
+    <publisher>First Star Software</publisher>
+    <genre>StratÃ©gie</genre>
+    <players />
+  </game>
+  <game id="36069" source="ScreenScraper">
+    <path>./Spy Vs Spy.zip</path>
+    <name>Spy vs Spy</name>
+    <desc>Spy vs Spy sur Commodore 64 est un jeu tirÃ© du comics amÃ©ricain du mÃªme nom. L'Ã©cran divisÃ© met 2 espions en scÃ¨ne, l'objectif Ã©tant pour chacun de remplir sa mission plus vite que le second. Seul contre l'ordinateur ou Ã  deux joueurs, faites preuve de rapiditÃ© mais aussi de malice, en plaÃ§ant judicieusement des piÃ¨ges de maniÃ¨re Ã  faire perdre du temps Ã  votre adversaire.</desc>
+    <marquee>./wheel/Spy Vs Spy.png</marquee>
+    <marquee />
+    <video>./snap/Spy Vs Spy.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>First Star Software</developer>
+    <publisher>First Star Software</publisher>
+    <genre>StratÃ©gie</genre>
+    <players />
+  </game>
+  <game id="115038" source="ScreenScraper">
+    <path>./Star Paws.zip</path>
+    <name>Star Paws</name>
+    <desc />
+    <marquee>./wheel/Star Paws.png</marquee>
+    <marquee />
+    <video>./snap/Star Paws.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer />
+    <publisher>Software Projects</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36383" source="ScreenScraper">
+    <path>./Starquake.zip</path>
+    <name>Starquake</name>
+    <desc>Starquake sur Commodore 64 est un jeu d'aventure dans lequel le joueur contrÃ´le un BLOB. En tant que BLOB, vous Ãªtes envoyÃ© sur une planÃ¨te instable et devez rÃ©unir un certain nombre d'objets et les amener dans le noyau de la planÃ¨te afin de l'empÃªcher d'exploser. Les monstres sont de plus en plus imprÃ©visibles au fur et Ã  mesure que l'on se rapproche du noyau et l'on peut choisir soit de leur tirer dessus soit de les Ã©viter.</desc>
+    <marquee>./wheel/Starquake.png</marquee>
+    <marquee />
+    <video>./snap/Starquake.mp4</video>
+    <thumbnail />
+    <rating>0.9</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Bubble Bus Software</developer>
+    <publisher>Bubble Bus Software</publisher>
+    <genre>Plateforme</genre>
+    <players>1</players>
+  </game>
+  <game id="36187" source="ScreenScraper">
+    <path>./Steg the Slug.zip</path>
+    <name>Steg the Slug</name>
+    <desc>Steg the Slug est un jeu d'action sur Commodore 64. Steg la limace doit nourrir sa famille de "T'yungunz". Pour ce faire, il doit faire des bulles pour attraper les larves et les guider Ã  travers le niveau en soufflant sur eux pour franchir tous les obstacles, jusqu'au nid oÃ¹ vivent les T'yungunz.</desc>
+    <marquee>./wheel/Steg the Slug.png</marquee>
+    <marquee />
+    <video>./snap/Steg the Slug.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Big Red Software</developer>
+    <publisher>Codemasters</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="36474" source="ScreenScraper">
+    <path>./Summer Games II.zip</path>
+    <name>Summer Games II</name>
+    <desc>Summer Games II sur Commodore 64 propose de nombreuses disciplines, allant du 110 mÃ¨tres haies Ã  l'escrime en passant par le plongeon. La plupart des Ã©preuves requiÃ¨rent un bon timing ou de marteler les boutons de la manette.</desc>
+    <marquee>./wheel/Summer Games II.png</marquee>
+    <marquee />
+    <video>./snap/Summer Games II.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Epyx</developer>
+    <publisher>Epyx</publisher>
+    <genre>Sport</genre>
+    <players>1-8</players>
+  </game>
+  <game id="36304" source="ScreenScraper">
+    <path>./Summer Games.zip</path>
+    <name>Summer Games</name>
+    <desc>Summer Games sur Commodore 64 est un jeu de sport dans lequel vous jouez un membre de l'Ã©quipe nationale amÃ©ricaine pendant les Jeux Olympiques d'Ã©tÃ©. Huit disciplines sont accessibles comme le sprint en vÃ©lo, le lancer de poids, les barres parallÃ¨les, les anneaux, ou encore le tir Ã  l'arc. Un mode multijoueur est disponible rendant les parties plus intÃ©ressantes.</desc>
+    <marquee>./wheel/Summer Games.png</marquee>
+    <marquee />
+    <video>./snap/Summer Games.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Epyx</developer>
+    <publisher>Epyx</publisher>
+    <genre>Sport</genre>
+    <players>1-8</players>
+  </game>
+  <game id="110182" source="ScreenScraper">
+    <path>./Tales Of The Arabian Nights.zip</path>
+    <name>Tales of the Arabian Nights</name>
+    <desc />
+    <marquee>./wheel/Tales Of The Arabian Nights.png</marquee>
+    <marquee />
+    <video>./snap/Tales Of The Arabian Nights.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer />
+    <publisher>Interceptor Micros</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36755" source="ScreenScraper">
+    <path>./Tapper.zip</path>
+    <name>Tapper</name>
+    <desc>Tapper sur Commodore 64 est un jeu d'arcade dans lequel le joueur incarne un barman. Le jeu consiste Ã  envoyer les biÃ¨res aux clients en les faisant glisser sur le comptoir sans en renverser et sans rater le retour des chopes vides que ceux-ci renvoient. Il est possible d'obtenir des bonus pour distraire les clients et ainsi Ã©viter d'Ãªtre dÃ©passÃ© par leur demande pour ne pas les faire attendre.</desc>
+    <marquee>./wheel/Tapper.png</marquee>
+    <marquee />
+    <video>./snap/Tapper.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Bally Midway</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1-2</players>
+  </game>
+  <game id="110214" source="ScreenScraper">
+    <path>./Terry's Big Adventure.zip</path>
+    <name>Terry's Big Adventure</name>
+    <desc />
+    <marquee>./wheel/Terry's Big Adventure.png</marquee>
+    <marquee />
+    <video>./snap/Terry's Big Adventure.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer />
+    <publisher>Grandslam Entertainment</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36122" source="ScreenScraper">
+    <path>./Test Drive.zip</path>
+    <name>Test Drive</name>
+    <desc>Test Drive est un jeu de courses sur Commodore 64. Un choix de 5 voitures est Ã  votre disposition dans ce jeu Ã  mi-chemin entre courses et arcade. Votre objectif est de rouler sur les routes de montagne Ã  la vitesse la plus rapide possible sans vous faire rattraper par les forces de l'ordre.</desc>
+    <marquee>./wheel/Test Drive.png</marquee>
+    <marquee />
+    <video>./snap/Test Drive.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Distinctive Software</developer>
+    <publisher>Accolade</publisher>
+    <genre>Course, Conduite</genre>
+    <players>1</players>
+  </game>
+  <game id="110224" source="ScreenScraper">
+    <path>./Thing Bounces Back.zip</path>
+    <name>Thing Bounces Back</name>
+    <desc />
+    <marquee>./wheel/Thing Bounces Back.png</marquee>
+    <image />
+    <marquee />
+    <video>./snap/Thing Bounces Back.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer />
+    <publisher>Gremlin Graphics</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="116718" source="ScreenScraper">
+    <path>./Train Robbers.zip</path>
+    <name>Train Robbers</name>
+    <desc />
+    <marquee>./wheel/Train Robbers.png</marquee>
+    <marquee />
+    <video>./snap/Train Robbers.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer />
+    <publisher>Firebird</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="110308" source="ScreenScraper">
+    <path>./Turbo Charge.zip</path>
+    <name>Turbo Charge</name>
+    <desc />
+    <marquee>./wheel/Turbo Charge.png</marquee>
+    <marquee />
+    <video>./snap/Turbo Charge.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer />
+    <publisher>System 3</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36080" source="ScreenScraper">
+    <path>./Turrican II - The Final Fight.zip</path>
+    <name>Turrican II - The Final Fight</name>
+    <desc>Turrican II : The Final Fight est un jeu d'action sur Commodore 64. En l'an 2035, vous devez lutter pour rÃ©tablir la paix et renverser un super ordinateur ayant pris le contrÃ´le. Votre personnage explore de vastes niveaux bourrÃ©s d'ennemis et de bonus. Il peut tirer dans toutes les directions et se servir d'un arsenal toujours plus puissant. Quelques zones en shoot'em up interviennent au fil de la progression.</desc>
+    <marquee>./wheel/Turrican II - The Final Fight.png</marquee>
+    <marquee />
+    <video>./snap/Turrican II - The Final Fight.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Rainbow Arts Software</developer>
+    <publisher>Factor 5</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="35904" source="ScreenScraper">
+    <path>./Turrican.zip</path>
+    <name>Turrican</name>
+    <desc>Turrican est un jeu d'action sur Commodore 64. Vous dirigez un soldat du futur Ã  l'arsenal variÃ© dans 13 niveaux rÃ©partis sur cinq mondes. Vous devez explorer les lieux pour en retrouver la sortie et vous dÃ©faire des multiples ennemis et piÃ¨ges qui les peuplent.</desc>
+    <marquee>./wheel/Turrican.png</marquee>
+    <marquee />
+    <video>./snap/Turrican.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Innerprise Software</developer>
+    <publisher>Rainbow Arts Software</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="36098" source="ScreenScraper">
+    <path>./Tusker.zip</path>
+    <name>Tusker</name>
+    <desc>Tusker est un jeu d'action sur Commodore 64. Trouver le mystÃ©rieux cimetiÃ¨re d'Ã©lÃ©phants en Afrique a Ã©tÃ© la quÃªte de la vie de votre pÃ¨re. Quand ce dernier disparaÃ®t, vous Ãªtes dÃ©terminÃ© Ã  dÃ©couvrir ce qui a pu lui arriver, ainsi que les secrets qu'il a emportÃ©s avec lui.</desc>
+    <marquee>./wheel/Tusker.png</marquee>
+    <marquee />
+    <video>./snap/Tusker.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>System 3</developer>
+    <publisher>System 3</publisher>
+    <genre>Aventure</genre>
+    <players>1</players>
+  </game>
+  <game id="35933" source="ScreenScraper">
+    <path>./Uridium.zip</path>
+    <name>Uridium</name>
+    <desc>Uridium est un shoot'em up sur Commodore 64. Votre systÃ¨me solaire vient de se faire attaquer par une horde de Super Dreadnoughts Ã  la recherche de minÃ©raux. Vous devez piloter votre vaisseau Ã  travers les niveaux assez difficiles, abattre tous les engins spatiaux de l'ennemi au sol et Ã©viter de nombreux dangers.</desc>
+    <marquee>./wheel/Uridium.png</marquee>
+    <marquee />
+    <video>./snap/Uridium.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Hewson Consultants Ltd</developer>
+    <publisher>Graftgold</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1-2</players>
+  </game>
+  <game id="110121" source="ScreenScraper">
+    <path>./Vendetta.zip</path>
+    <name>Vendetta</name>
+    <desc />
+    <marquee>./wheel/Vendetta.png</marquee>
+    <marquee />
+    <video>./snap/Vendetta.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer />
+    <publisher>System 3</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36404" source="ScreenScraper">
+    <path>./Who Dares Wins II.zip</path>
+    <name>Who Dares Wins II</name>
+    <desc>Who Dares Wins II sur Commodore 64 est un jeu d'action dÃ©filement vertical. Huit villes ont Ã©tÃ© envahies par des extraterrestres. Vous et votre commando Ãªtes chargÃ©s de rÃ©tablir la situation. ArmÃ© de votre fusil et de vos grenades, vous partez Ã©liminer les traces d'ennemis mais Ã©galement aider les compagnons que vous croiserez sur votre route.</desc>
+    <marquee>./wheel/Who Dares Wins II.png</marquee>
+    <marquee />
+    <video>./snap/Who Dares Wins II.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Alligata Software Ltd.</developer>
+    <publisher>Alligata Software Ltd.</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="35942" source="ScreenScraper">
+    <path>./Winter Games.zip</path>
+    <name>Winter Games</name>
+    <desc>Winter Games sur Commodore 64 est une simulation de jeux de sport se dÃ©roulant durant les Jeux Olympiques d'hiver. Au programme, plusieurs disciplines sont disponibles comme le patinage, le slalom ou encore la luge et le biathlon.</desc>
+    <marquee>./wheel/Winter Games.png</marquee>
+    <marquee />
+    <video>./snap/Winter Games.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Action Graphics</developer>
+    <publisher>Epyx</publisher>
+    <genre>Sport</genre>
+    <players>1-8</players>
+  </game>
+  <game id="35970" source="ScreenScraper">
+    <path>./Wizball.zip</path>
+    <name>Wizball</name>
+    <desc>Wizball est un jeu d'action sur Commodore 64. Avec l'aide de votre compagnon Cat, contribuez Ã  restaurer la couleur dans votre monde en rÃ©coltant des gouttes de peinture volÃ©es par vos ennemis. Plus vous collectez de gouttes, plus vous gagnez en capacitÃ©s spÃ©ciales.</desc>
+    <marquee>./wheel/Wizball.png</marquee>
+    <marquee />
+    <video>./snap/Wizball.mp4</video>
+    <thumbnail />
+    <rating>0.85</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Sensible Software</developer>
+    <publisher>Ocean</publisher>
+    <genre>Action</genre>
+    <players>1-4</players>
+  </game>
+  <game id="36666" source="ScreenScraper">
+    <path>./World Class Leaderboard.zip</path>
+    <name>World Class Leaderboard</name>
+    <desc>World Class Leader Board est un jeu de golf sur Commodore 64. Testez vos compÃ©tences de golfeur sur des parcours aussi variÃ©s que techniques tels que Cypress Creek ou Saint-Andrews. Les effets et voix digitalisÃ©es contribuent Ã  donner l'impression d'assister Ã  une retransmission tÃ©lÃ©visÃ©e.</desc>
+    <marquee>./wheel/World Class Leaderboard.png</marquee>
+    <marquee />
+    <video>./snap/World Class Leaderboard.mp4</video>
+    <thumbnail />
+    <rating>0.9</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Access Games</developer>
+    <publisher>Access Games</publisher>
+    <genre>Sport</genre>
+    <players>1-4</players>
+  </game>
+  <game id="36286" source="ScreenScraper">
+    <path>./World Games.zip</path>
+    <name>World Games</name>
+    <desc>World Games sur Commodore 64 est une compilation de jeux supposÃ©s reprÃ©senter le sport national d'une plÃ©thore de nations. Sorti Ã  l'origine sur Nes, il vous faudra passer par des Ã©preuves dÃ©sopilantes comme le saut de tonneaux, le slalom ou encore les plongeons.</desc>
+    <marquee>./wheel/World Games.png</marquee>
+    <marquee />
+    <video>./snap/World Games.mp4</video>
+    <thumbnail />
+    <rating>0.8</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Epyx</developer>
+    <publisher>Epyx Inc</publisher>
+    <genre>Sport</genre>
+    <players>1-8</players>
+  </game>
+  <game id="36490" source="ScreenScraper">
+    <path>./Yie ar Kung-Fu.zip</path>
+    <name>Yie Ar Kung-Fu</name>
+    <desc>Yie Ar Kung-Fu sur Commodore 64 est un jeu de combat dans lequel vous incarnez Oolong, un jeune combattant qui doit affronter onze maÃ®tres en arts martiaux, chacun ayant sa spÃ©cialitÃ©. Il va donc falloir adapter votre style pour chaque combat si vous voulez remporter le tournoi. AffÃ»tez Ã©galement votre maniement de l'arme blanche, de jet ou de poing, car vos opposants n'hÃ©siteront pas Ã  s'Ã©quiper.</desc>
+    <marquee>./wheel/Yie ar Kung-Fu.png</marquee>
+    <marquee />
+    <video>./snap/Yie ar Kung-Fu.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Imagine Software</developer>
+    <publisher>Konami</publisher>
+    <genre>Combat</genre>
+    <players>1</players>
+  </game>
+  <game id="109406" source="ScreenScraper">
+    <path>./Zamzara.zip</path>
+    <name>Zamzara</name>
+    <desc />
+    <marquee>./wheel/Zamzara.png</marquee>
+    <marquee />
+    <video>./snap/Zamzara.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer />
+    <publisher>Hewson</publisher>
+    <genre />
+    <players />
+  </game>
+  <game id="36270" source="ScreenScraper">
+    <path>./Zorro.zip</path>
+    <name>Zorro</name>
+    <desc>Zorro sur Commodore 64 est un jeu d'action/stratÃ©gie dans lequel vous incarnez le cÃ©lÃ¨bre justicier masquÃ©. Dans cet opus, vous devez dÃ©livrer une femme retenue prisonniÃ¨re ainsi qu'affronter le colonel et ses sbires. Pour cela, rien de tel que des combats Ã  l'Ã©pÃ©e.</desc>
+    <marquee>./wheel/Zorro.png</marquee>
+    <marquee />
+    <video>./snap/Zorro.mp4</video>
+    <thumbnail />
+    <rating>0.5</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Datasoft</developer>
+    <publisher>Datasoft</publisher>
+    <genre>StratÃ©gie</genre>
+    <players />
+  </game>
+</gameList>

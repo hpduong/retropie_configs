@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./badlands.daphne</path>
+		<name>Badlands</name>
+		<desc />
+		<image>./boxart/badlands.png</image>
+		<marquee>./wheel/badlands.png</marquee>
+		<video>./snap/badlands.mp4</video>
+		<rating />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount />
+		<lastplayed />
+	</game>
+	<game>
+		<path>./bega.daphne</path>
+		<name>Bega</name>
+		<desc />
+		<image>./boxart/bega.png</image>
+		<marquee>./wheel/bega.png</marquee>
+		<video>./snap/bega.mp4</video>
+		<rating />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount />
+		<lastplayed />
+	</game>
+	<game>
+		<path>./cobraab.daphne</path>
+		<name>Cobraab</name>
+		<desc />
+		<image>./boxart/cobraab.png</image>
+		<marquee>./wheel/cobraab.png</marquee>
+		<video>./snap/cobraab.mp4</video>
+		<rating />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount />
+		<lastplayed />
+	</game>
+	<game>
+		<path>./esh.daphne</path>
+		<name>Esh</name>
+		<desc />
+		<image>./boxart/esh.png</image>
+		<marquee>./wheel/esh.png</marquee>
+		<video>./snap/esh.mp4</video>
+		<rating />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount />
+		<lastplayed />
+	</game>
+	<game>
+		<path>./gpworld.daphne</path>
+		<name>Gpworld</name>
+		<desc />
+		<image>./boxart/gpworld.png</image>
+		<marquee>./wheel/gpworld.png</marquee>
+		<video>./snap/gpworld.mp4</video>
+		<rating />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount />
+		<lastplayed />
+	</game>
+	<game>
+		<path>./astron.daphne</path>
+		<name>Astron Belt</name>
+		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
+		<image>./boxart/astron.png</image>
+		<marquee>./wheel/astron.png</marquee>
+		<video>./snap/astron.mp4</video>
+		<rating />
+		<releasedate>19830515T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160615T020749</lastplayed>
+	</game>
+	<game>
+		<path>./cliff.daphne</path>
+		<name>Cliff Hanger</name>
+		<desc>Cliff Hanger is a laserdisc video game that was released by Stern Electronics in 1983. It used animation from Lupin III films, mostly from The Castle of Cagliostro and a couple of scenes from The Mystery of Mamo.</desc>
+		<image>./boxart/cliff.png</image>
+		<marquee>./wheel/cliff.png</marquee>
+		<video>./snap/cliff.mp4</video>
+		<rating />
+		<releasedate>19831201T000000</releasedate>
+		<developer>Stern</developer>
+		<publisher>Stern</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20160615T014826</lastplayed>
+	</game>
+	<game>
+		<path>./lair2.daphne</path>
+		<name>Dragon's Lair II: Time Warp</name>
+		<desc>Dragon's Lair II: Time Warp is a 1991 laserdisc video game by the Leland Corporation. It is regarded as the first "true" sequel to Dragon's Lair. It takes place years after the original Dragon's Lair.</desc>
+		<image>./boxart/lair2.png</image>
+		<marquee>./wheel/lair2.png</marquee>
+		<video>./snap/lair2.mp4</video>
+		<rating />
+		<releasedate>19910616T000000</releasedate>
+		<developer>LeLand Corporation</developer>
+		<publisher>Digital Leisure</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20160615T020551</lastplayed>
+	</game>
+	<game>
+		<path>./galaxy.daphne</path>
+		<name>Galaxy Ranger</name>
+		<desc>Galaxy Ranger was a laserdisc game created by Sega and manufactured by Bally / Midway in 1984.  It was released as a dedicated cabinet or a conversion kit for Astron Belt cabinets.  In Galaxy Ranger, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few "astro-dogfights" with enemy space fighters.</desc>
+		<image>./boxart/galaxy.png</image>
+		<marquee>./wheel/galaxy.png</marquee>
+		<video>./snap/galaxy.mp4</video>
+		<rating />
+		<releasedate>19840101T0000001201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160615T020519</lastplayed>
+	</game>
+	<game>
+		<path>./interstellar.daphne</path>
+		<name>Interstellar Laser Fantasy</name>
+		<desc>Interstellar Laser Fantasy was a laserdisc game manufactured by Funai in 1983.  The laserdisc background images were created by Japan-based company, Gakken.  In Interstellar, you fly the starship, "Ferald Runner".  Your mission is to fly to distant worlds battling alien spaceships and destroying alien bases.  Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.</desc>
+		<image>./boxart/interstellar.png</image>
+		<marquee>./wheel/interstellar.png</marquee>
+		<video>./snap/interstellar.mp4</video>
+		<rating />
+		<releasedate>19830101T0000001201T000000</releasedate>
+		<developer>FUNAI</developer>
+		<publisher>FUNAI</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20160615T021537</lastplayed>
+	</game>
+	<game>
+		<path>./mach3.daphne</path>
+		<name>M.A.C.H. 3</name>
+		<desc>Mach 3 is a 1987 video game by Loriciels for Amiga, Amstrad CPC, Atari ST, MSX, Thomson TO7, ZX Spectrum and IBM PC. It is a 3D shooter utilizing CGA 320x200 video mode. </desc>
+		<image>./boxart/mach3.png</image>
+		<marquee>./wheel/mach3.png</marquee>
+		<video>./snap/mach3.mp4</video>
+		<rating />
+		<releasedate>19910616T000000</releasedate>
+		<developer>Mylstar</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./sdq.daphne</path>
+		<name>Super Don Quix-ote</name>
+		<desc>Super Don Quix-ote is a laserdisc video game released by Universal in 1984. In it, the player controls the knight Don as he attempts to rescue a princess from an evil witch.</desc>
+		<image>./boxart/sdq.png</image>
+		<marquee>./wheel/sdq.png</marquee>
+		<video>./snap/sdq.mp4</video>
+		<rating />
+		<releasedate>19840101T000000</releasedate>
+		<developer>Universal</developer>
+		<publisher />
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./tq.daphne</path>
+		<name>Thayer's Quest</name>
+		<desc>Thayer's Quest is a laserdisc adventure game initially developed by RDI Video Systems in 1984 for their unreleased Halcyon console and later in arcades as a conversion kit for Dragon's Lair.</desc>
+		<image>./boxart/tq.png</image>
+		<marquee>./wheel/tq.png</marquee>
+		<video>./snap/tq.mp4</video>
+		<rating />
+		<releasedate>19840101T000000</releasedate>
+		<developer>RDI</developer>
+		<publisher>Interplay</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160615T022637</lastplayed>
+	</game>
+	<game>
+		<path>./uvt.daphne</path>
+		<name>Us Vs. Them</name>
+		<desc>Us vs. Them was released by Mylstar and Gottlieb as a conversion kit for M.A.C.H. 3 — a game that overlaid pixel-based action atop fly-by footage of real-world locations. </desc>
+		<image>./boxart/uvt.png</image>
+		<marquee>./wheel/uvt.png</marquee>
+		<video>./snap/uvt.mp4</video>
+		<rating />
+		<releasedate>19840101T000000</releasedate>
+		<developer>Mylstar</developer>
+		<publisher>Mylstar</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20160615T022637</lastplayed>
+	</game>
+	<game>
+		<path>./lair.daphne</path>
+		<name>Dragon's Lair</name>
+		<desc>Dragon's Lair is a video game franchise that began with the laserdisc video game Dragon's Lair originally released for the arcades in 1983.</desc>
+		<image>./boxart/lair.png</image>
+		<video>./snap/lair.mp4</video>
+		<marquee>./wheel/lair.png</marquee>
+		<rating></rating>
+		<releasedate>19830623T000000</releasedate>
+		<developer></developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20180314T110456</lastplayed>
+	</game>
+	<game>
+		<path>./lair2.daphne</path>
+		<name>Dragon's Lair II: Time Warp</name>
+		<desc>Dragon's Lair II: Time Warp is a 1991 laserdisc video game by the Leland Corporation. It is regarded as the first "true" sequel to Dragon's Lair. It takes place years after the original Dragon's Lair.</desc>
+		<image>./boxart/lair2.png</image>
+		<video>./snap/lair2.mp4</video>
+		<marquee>./wheel/lair2.png</marquee>
+		<rating></rating>
+		<releasedate>19910616T000000</releasedate>
+		<developer>LeLand Corporation</developer>
+		<publisher>Digital Leisure</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>3</playcount>
+		<lastplayed>20180314T110427</lastplayed>
+	</game>
+	<game>
+		<path>./ace.daphne</path>
+		<name>Space Ace</name>
+		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems.</desc>
+		<image>./boxart/ace.png</image>
+		<video>./snap/ace.mp4</video>
+		<marquee>./wheel/ace.png</marquee>
+		<rating></rating>
+		<releasedate>19840429T000000</releasedate>
+		<developer>AMS</developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Action</genre>
+		<playcount>3</playcount>
+		<lastplayed>20180314T110638</lastplayed>
+	</game>
+</gameList>

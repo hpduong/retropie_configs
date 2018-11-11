@@ -1,0 +1,11 @@
+plugin.video.uranus|direct.uranus.cdtv
+plugin.video.wolfpack|Wolf Pack
+plugin.video.Atriox|Atriox
+plugin.video.MaverickTV|direct.MaverickTV.cdtv
+plugin.video.StarTec|direct.startec.cdtv
+plugin.video.Asylum|Asylum
+plugin.video.tooontown|Tooontown
+plugin.video.oculus|Oculus
+plugin.video.incursion|Incursion
+plugin.video.digibox|direct.digibox.cdtv
+plugin.video.AtTheFlix|direct.AtTheFlix.cdtv

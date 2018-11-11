@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./JukeboxGranite.sh</path>
+		<name>Jukebox Granite</name>
+		<desc>Jukebox music player</desc>
+		<video>./snap/JukeboxGranite.jpg</video>
+		<marquee>./wheel/JukeboxGranite.png</marquee>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Media</genre>
+		<playcount></playcount>
+		<lastplayed></lastplayed>
+	</game>
+	<game>
+		<path>./JukeboxModern.sh</path>
+		<name>Jukebox Modern</name>
+		<desc>Jukebox music player</desc>
+		<video>./snap/JukeboxModern.jpg</video>
+		<marquee>./wheel/JukeboxModern.png</marquee>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Media</genre>
+		<playcount></playcount>
+		<lastplayed></lastplayed>
+	</game>
+	<game>
+		<path>./JukeboxNumberOne.sh</path>
+		<name>Jukebox NumberOne</name>
+		<desc>Jukebox music player</desc>
+		<video>./snap/JukeboxNumberOne.jpg</video>
+		<marquee>./wheel/JukeboxNumberOne.png</marquee>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Media</genre>
+		<playcount></playcount>
+		<lastplayed></lastplayed>
+	</game>
+	<game>
+		<path>./JukeboxSplat.sh</path>
+		<name>Jukebox Splat</name>
+		<desc>Jukebox music player</desc>
+		<video>./snap/JukeboxSplat.jpg</video>
+		<marquee>./wheel/JukeboxSplat.png</marquee>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Media</genre>
+		<playcount></playcount>
+		<lastplayed></lastplayed>
+	</game>
+    <game>
+		<path>./JukeboxTouchOne.sh</path>
+		<name>Jukebox TouchOne</name>
+		<desc>Jukebox music player</desc>
+		<video>./snap/JukeboxTouchOne.jpg</video>
+		<marquee>./wheel/JukeboxTouchOne.png</marquee>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Media</genre>
+		<playcount></playcount>
+		<lastplayed></lastplayed>
+	</game>
+	<game>
+		<path>./JukeboxWallJuke.sh</path>
+		<name>Jukebox WallJuke</name>
+		<desc>Jukebox music player</desc>
+		<video>./snap/JukeboxWallJuke.jpg</video>
+		<marquee>./wheel/JukeboxWallJuke.png</marquee>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Media</genre>
+		<playcount></playcount>
+		<lastplayed></lastplayed>
+	</game>
+	<game>
+		<path>./JukeboxWallSmall.sh</path>
+		<name>Jukebox WallSmall</name>
+		<desc>Jukebox music player</desc>
+		<video>./snap/JukeboxWallSmall.jpg</video>
+		<marquee>./wheel/JukeboxWallSmall.png</marquee>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Media</genre>
+		<playcount></playcount>
+		<lastplayed></lastplayed>
+	</game>
+	<game>
+		<path>./jukeboxconfigure.sh</path>
+		<name>Jukebox Configuration</name>
+		<desc>Configuration utility for the Fruitbox jukebox.</desc>
+		<video>./snap/jukeboxconfigure.png</video>
+		<marquee>./wheel/jukeboxconfigure.png</marquee>		
+		<playcount>12</playcount>
+		<lastplayed>20180423T141818</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="username">
+        <setting label="username" type="text"   id="user" default="name me here"/>
+		<setting label="greeting" type="bool" id="username" default="true"/>
+    </category>
+
+</settings>

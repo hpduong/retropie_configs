@@ -1,0 +1,4 @@
+<favourites>
+	<favourite name="[COLOR teal]My Movies[/COLOR]" thumb="special://home/addons/script.MadHouse.artwork/resources/media/triangulum/movmain.gif">ActivateWindow(10025,&quot;plugin://plugin.video.Asylum/?action=mymovieNavigator&quot;,return)</favourite>
+	<favourite name="[COLOR gray]Account settings for trakt[/COLOR]" thumb="special://home/addons/script.MadHouse.artwork/resources/media/triangulum/tools2.gif">ActivateWindow(10025,&quot;plugin://plugin.video.Asylum/?action=openSettings&amp;query=3.1&quot;,return)</favourite>
+</favourites>

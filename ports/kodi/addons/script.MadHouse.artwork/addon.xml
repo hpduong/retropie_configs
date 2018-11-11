@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.MadHouse.artwork" version="1.0.0.2" name="MadHouse Artwork" provider-name="The Clown Prince">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Themes for the MadHouse Addons</summary>
+		<description>MadHouse and Thank You LockDown For All You Have Done For Us All</description>
+		<platform>all</platform>
+	</extension>
+</addon>

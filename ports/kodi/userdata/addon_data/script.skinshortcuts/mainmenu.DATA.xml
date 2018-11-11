@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>13005</defaultID>
+		<label>[COLOR teal]A[/COLOR][COLOR gray]pp[/COLOR][COLOR teal]s[/COLOR]</label>
+		<label2>Common menu item</label2>
+		<icon>Shutdown.png</icon>
+		<thumb />
+		<action>ActivateWindow(1133)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>videos</defaultID>
+		<label>[COLOR teal]a[/COLOR][COLOR gray]ddon[/COLOR][COLOR teal]s[/COLOR]</label>
+		<label2>Custom item</label2>
+		<icon>DefaultVideo.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,addons://sources/video/,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]m[/COLOR][COLOR gray]ovie[/COLOR][COLOR teal]s[/COLOR]</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=movies&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fmovies&amp;image=special%3A%2F%2Fhome%2Faddons%2Fplugin.video.nemesis%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]t[/COLOR][COLOR gray]v show[/COLOR][COLOR teal]s[/COLOR]</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=tv+shows&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv+shows&amp;image=special%3A%2F%2Fhome%2Faddons%2Fscript.covenant.artwork%2Fresources%2Fmedia%2Fexuary%2Ftvshows.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]k[/COLOR][COLOR gray]id[COLOR teal]s[/COLOR]</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.tooontown/fanart.jpg</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=special%3A%2F%2Fhome%2Faddons%2Fplugin.video.nemesis%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]S[/COLOR][COLOR gray]PORT[/COLOR][COLOR teal]S[/COLOR]</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=sports&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fsports&amp;image=special%3A%2F%2Fhome%2Faddons%2Fplugin.video.prosport%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>livetv</defaultID>
+		<label>[COLOR teal]L[/COLOR][COLOR gray]ive T[/COLOR][COLOR teal]V[/COLOR]</label>
+		<label2>Custom item</label2>
+		<icon>special://skin/extras/icons/livetv.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=live+tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Flive+tv&amp;image=http%3A%2F%2Fapk.co%2Fimages%2Fmobdro-2014-freemium.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>programs</defaultID>
+		<label>[COLOR teal]P[/COLOR][COLOR gray]rogram[/COLOR][COLOR teal]s[/COLOR]</label>
+		<label2>Common menu item</label2>
+		<icon>DefaultProgram.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,Addons,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>settings</defaultID>
+		<label>[COLOR teal]S[/COLOR][COLOR gray]etting[/COLOR][COLOR teal]s[/COLOR]</label>
+		<label2>Common menu item</label2>
+		<icon>special://skin/extras/icons/settings.png</icon>
+		<thumb />
+		<action>ActivateWindow(Settings)</action>
+	</shortcut>
+</shortcuts>

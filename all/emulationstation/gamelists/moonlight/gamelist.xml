@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./720p30fps.sh</path>
+		<name>Steam 720p30fps</name>
+		<desc>Steam your Games on your PI</desc>
+		<video>./snap/steam.mp4</video>
+		<marquee>./wheel/steam.png</marquee>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Media</genre>
+		<playcount></playcount>
+		<lastplayed>20170928T181034</lastplayed>
+	</game>
+		<game>
+		<path>./720p60fps.sh</path>
+		<name>Steam 720p60fps</name>
+		<desc>Steam your Games on your PI</desc>
+		<video>./snap/steam.mp4</video>
+		<marquee>./wheel/steam.png</marquee>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Media</genre>
+		<playcount></playcount>
+		<lastplayed>20170928T181034</lastplayed>
+	</game>
+		<game>
+		<path>./1080p30fps.sh</path>
+		<name>Steam 1080p30fps</name>
+		<desc>Steam your Games on your PI</desc>
+		<video>./snap/steam.mp4</video>
+		<marquee>./wheel/steam.png</marquee>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Media</genre>
+		<playcount></playcount>
+		<lastplayed>20170928T181034</lastplayed>
+	</game>
+		<game>
+		<path>./1080p60fps.sh</path>
+		<name>Steam 1080p60fps</name>
+		<desc>Steam your Games on your PI</desc>
+		<video>./snap/steam.mp4</video>
+		<marquee>./wheel/steam.png</marquee>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Media</genre>
+		<playcount></playcount>
+		<lastplayed>20170928T181034</lastplayed>
+	</game>
+</gameList>

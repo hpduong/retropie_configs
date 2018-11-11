@@ -1,0 +1,195 @@
+Action
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Action[/COLOR]</title>
+  <link>file://imdb_action.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+Adventure
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Adventure[/COLOR]</title>
+  <link>file://imdb_adventure.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+
+Animation
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Animation[/COLOR]</title>
+  <link>file://imdb_animation.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+Comedy
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Comedy[/COLOR]</title>
+  <link>file://imdb_comedy.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+Crime
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Crime[/COLOR]</title>
+  <link>file://imdb_crime.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+Documentaries
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Documentaries[/COLOR]</title>
+  <link>file://imdb_docs.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+Drama
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Drama[/COLOR]</title>
+  <link>file://imdb_drama.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+Family
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Family[/COLOR]</title>
+  <link>file://imdb_family.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+Fantasy
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Fantasy[/COLOR]</title>
+  <link>file://imdb_fantasy.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+History
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 History[/COLOR]</title>
+  <link>file://imdb_history.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+Horror
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Horror[/COLOR]</title>
+ <link>file://imdb_horror.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+
+Music
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Music[/COLOR]</title>
+  <link>file://imdb_music.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+
+
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Mystery[/COLOR]</title>
+ <link>file://imdb_mystery.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+Romance
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Romance[/COLOR]</title>
+  <link>file://imdb_romance.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+
+Sci-Fi
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Sci-Fi[/COLOR]</title>
+  <link>file://imdb_scifi.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+Thriller
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Thriller[/COLOR]</title>
+  <link>file://imdb_thriller.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+War
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 War[/COLOR]</title>
+  <link>file://imdb_war.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>
+
+
+
+
+Western
+<dir>
+  <title>[COLOR white]IMDB[/COLOR] [COLOR yellow]Top 250 Western[/COLOR]</title>
+  <link>file://imdb_western.xml</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</dir>

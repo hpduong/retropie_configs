@@ -1,0 +1,14 @@
+{
+    "access_manager": {
+        "access_token": "", 
+        "current_user": "default", 
+        "default": {
+            "access_token": "", 
+            "last_key_hash": "a9289dac240dccdf49d0c580f2fd63d5", 
+            "refresh_token": "", 
+            "token_expires": -1
+        }, 
+        "last_origin": "plugin.video.youtube", 
+        "refresh_token": ""
+    }
+}

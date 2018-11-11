@@ -1,0 +1,36 @@
+<settings>
+    <setting id="5c0354a9eda7f5d9f222842ff4bc1204709c8d0675c63988f700a53e46c7e993" value="" />
+    <setting id="6b4fc97ab4dc5ec3458a03303c11f1cec164e7a45a3edbe006cba50334f3e087" value="" />
+    <setting id="A06CDA839FF29642" value="" />
+    <setting id="TRAKT_ACCESS_TOKEN" value="" />
+    <setting id="TRAKT_EXPIRES_AT" value="" />
+    <setting id="TRAKT_REFRESH_TOKEN" value="" />
+    <setting id="allow_debrid" value="false" />
+    <setting id="allow_openload" value="false" />
+    <setting id="allow_the_video_me" value="false" />
+    <setting id="allow_vidup_me" value="false" />
+    <setting id="autostart_queue" value="true" />
+    <setting id="b9b5e7ea541765974d447c51a66e8e57" value="" />
+    <setting id="cache_folder" value="special://profile/addon_data/plugin.video.sli/" />
+    <setting id="debug" value="false" />
+    <setting id="default_link" value="BOTH" />
+    <setting id="disable_messages" value="false" />
+    <setting id="disable_metadata_dialog" value="false" />
+    <setting id="dlimage" value="false" />
+    <setting id="enable_gifs" value="true" />
+    <setting id="enable_offensive" value="false" />
+    <setting id="first_run" value="false" />
+    <setting id="hide_help" value="false" />
+    <setting id="include_watched_queue" value="false" />
+    <setting id="language_id" value="system" />
+    <setting id="lastfm_api_key" value="" />
+    <setting id="lastfm_secret" value="" />
+    <setting id="link_fallthrough" value="false" />
+    <setting id="metadata" value="false" />
+    <setting id="movie_metadata_provider" value="Trakt" />
+    <setting id="news_win" value="true" />
+    <setting id="settings_context" value="true" />
+    <setting id="trailer_context" value="true" />
+    <setting id="tv_metadata_provider" value="Trakt" />
+    <setting id="use_link_dialog" value="true" />
+</settings>

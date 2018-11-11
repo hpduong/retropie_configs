@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameList>
+  <game>
+    <path>./Crazy Taxi (USA).gdi</path>
+    <name>Crazy Taxi</name>
+    <desc>Crazy Taxi is an arcade-like racer where the player takes the role of a taxi driver who weaves his way through crowded streets, across sidewalks and even under water, in a wild and frantic race to deliver passengers on time. The courses are largely set inside cities crowded with general traffic and pedestrians (which can't be run over, they dive away). The main goal is to bring as many customers as possible to their destination in time. Available customers are marked through circles and the colour represents the distance and the fare they offer. Green means long rides with plenty of money, and red ones are very short.</desc>
+    <marquee>./wheel/Crazy Taxi (USA).png</marquee>
+    <rating>1</rating>
+    <releasedate>20000124T000000</releasedate>
+    <developer>Hitmaker</developer>
+    <publisher>Sega</publisher>
+    <genre>Racing</genre>
+    <players>2</players>
+    <video>./snap/Crazy Taxi (USA).mp4</video>
+  </game>
+    <game>
+    <path>./Dead or Alive 2 (USA).cdi</path>
+    <name>Dead or Alive 2</name>
+    <desc>Fight !</desc>
+    <marquee>./wheel/Dead or Alive 2 (USA).png</marquee>
+    <rating>1</rating>
+    <releasedate>000000</releasedate>
+    <developer></developer>
+    <publisher>Sega</publisher>
+    <genre>Fighting</genre>
+    <players>2</players>
+    <video>./snap/Dead or Alive 2 (USA).mp4</video>
+  </game>
+  <game>
+    <path>./Marvel vs. Capcom 2 (USA).cdi</path>
+    <name>Marvel vs. Capcom 2</name>
+    <desc>Marvel vs. Capcom 2: New Age of Heroes is a fighting game, developed and published by Capcom. It is the fourth game in the Marvel vs. Capcom series of fighting games. With the fourth installment of this series, Capcom simplified the player controls to make the gameplay more accessible to the wider audience of casual players. The button configuration was trimmed down to 4 main buttons and 2 assist buttons. The game also features a different air-combo system and 3 on 3 tag, compared to the 2 on 2 tag from previous games in the series.</desc>
+    <marquee>./wheel/Marvel vs. Capcom 2 (USA).png</marquee>
+    <rating>1</rating>
+    <releasedate>20000630T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fighting</genre>
+    <players>2</players>
+    <video>./snap/Marvel vs. Capcom 2 (USA).mp4</video>
+  </game>
+  <game>
+    <path>./Power Stone 2 (USA).cdi</path>
+    <name>Power Stone 2</name>
+    <desc>Power Stone 2 adds heaps of new characters and environments to the already established crew, however there are now 4 players doing battle at a time in both single and multiplayer modes.
+
+This time, the top 2 from every round (in other words the two that survive each fight of 4 players) progress to the next round. And after a few rounds, you will battle it out with huge Bosses that take up most of the screen.</desc>
+    <marquee>./wheel/Power Stone 2 (USA).png</marquee>
+    <rating>0.7</rating>
+    <releasedate>20000823T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fighting</genre>
+    <players>4+</players>
+    <video>./snap/Power Stone 2 (USA).mp4</video>
+  </game>
+    <game>
+    <path>./Psychic Force 2012 (USA).cdi</path>
+    <name>Psychic Force 2012</name>
+    <desc>Fight !</desc>
+    <marquee>./wheel/Psychic Force 2012 (USA).png</marquee>
+    <rating></rating>
+    <releasedate>000000</releasedate>
+    <developer></developer>
+    <publisher></publisher>
+    <genre>Fighting</genre>
+    <players>2</players>
+    <video>./snap/Psychic Force 2012 (USA).mp4</video>
+  </game>
+    <game>
+    <path>./Sonic Adventure (USA).cdi</path>
+    <name>Sonic Adventure 2</name>
+    <desc>After discovering the existence of a secret weapon mentioned in the diary of his grandfather, Gerald Robotnik, Dr. Eggman infiltrates a high-security G.U.N. facility in search of it. This "weapon", a black hedgehog named Shadow who claims that he is the "Ultimate Life Form", offers to help Eggman take over the world, telling him to rendezvous with him at the abandoned Space Colony ARK with more Chaos Emeralds. Shadow proceeds in stealing one of the emeralds, and G.U.N. officials mistake him for Sonic. Sonic is apprehended shortly after he confronts Shadow, who demonstrates to Sonic the Chaos Control technique.</desc>
+    <marquee>./wheel/Sonic Adventure (USA).png</marquee>
+    <rating>0.7</rating>
+    <releasedate>20010619T000000</releasedate>
+    <developer>Sonic Team</developer>
+    <publisher>Sega</publisher>
+    <genre>Platform</genre>
+    <players>2</players>
+    <video>./snap/Sonic Adventure (USA).mp4</video>
+  </game>
+  <game>
+    <path>./Sonic Adventure 2 (USA).cdi</path>
+    <name>Sonic Adventure 2</name>
+    <desc>After discovering the existence of a secret weapon mentioned in the diary of his grandfather, Gerald Robotnik, Dr. Eggman infiltrates a high-security G.U.N. facility in search of it. This "weapon", a black hedgehog named Shadow who claims that he is the "Ultimate Life Form", offers to help Eggman take over the world, telling him to rendezvous with him at the abandoned Space Colony ARK with more Chaos Emeralds. Shadow proceeds in stealing one of the emeralds, and G.U.N. officials mistake him for Sonic. Sonic is apprehended shortly after he confronts Shadow, who demonstrates to Sonic the Chaos Control technique.</desc>
+    <marquee>./wheel/Sonic Adventure 2 (USA).png</marquee>
+    <rating>0.7</rating>
+    <releasedate>20010619T000000</releasedate>
+    <developer>Sonic Team</developer>
+    <publisher>Sega</publisher>
+    <genre>Platform</genre>
+    <players>2</players>
+    <video>./snap/Sonic Adventure 2 (USA).mp4</video>
+  </game>
+  <game>
+    <path>./Soul Calibur (USA).cdi</path>
+    <name>Soul Calibur</name>
+    <desc>This is a tale of souls and swords, transcending the world and all it's history, told for all eternity...
+
+The greatest weapons-based fighter returns, this time on Sega Dreamcast. Soul Calibur unleashes incredible graphics, fantastic fighters, and combos so amazing they'll make your head spin!
+
+Soul Calibur... The ultimate fighting game.</desc>
+    <marquee>./wheel/Soul Calibur (USA).png</marquee>
+    <releasedate>19990909T000000</releasedate>
+    <developer>Project Soul</developer>
+    <publisher>Namco</publisher>
+    <genre>Fighting</genre>
+    <players>2</players>
+    <video>./snap/Soul Calibur (USA).mp4</video>
+  </game>
+</gameList>

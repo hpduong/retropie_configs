@@ -1,0 +1,65 @@
+Arena 1:mpd://06601e3489890afdb3bdcaf46e87747e.m3u8
+Arena 2:mpd://9fc113e3cb65d67185903645c5a7d77b.m3u8
+Arena 3:mpd://205a864931b005cb983e67e717acc544.m3u8
+Arena 4:mpd://68b9d03354a24ea0cdcdf10413ccb635.m3u8
+Arena 5:mpd://eb8a164d416cea8ff08bd7742337b52c.m3u8
+At the Races:mpd://770491f6a94a4901fb248d5f6659d88a.m3u8
+Barca TV:mpd://51301e238855a098f2650290a71e3de0.m3u8
+Bein Sports 1:mpd://093bace1b3ab30f0f81062517cbd041b.m3u8
+Bein Sports 2:mpd://d53a1633dace80c6dd8368d1d679e50b.m3u8
+Bein Sports 3:mpd://ecd1661eb886ba1be6dc1844ab933717.m3u8
+beIN Sport Usa:mpd://03a52790c4f8fac2f87b274087041b87.m3u8
+Box Nation:mpd://96433d4a4b7fe9fdddcc23da704dce11.m3u8
+British Eurosport 1:mpd://7adc3be6083aeecdcfd51f2cc92d3713.m3u8
+British Eurosport 2:mpd://b17a4be223d6d945f21785dc401a0429.m3u8
+BT SPORT 1:mpd://feb9c19124327ffd2bae3c97249ea40e.m3u8
+BT SPORT 2:mpd://a0baff4a9870ad57efd54f32cf8be880.m3u8
+BT SPORT 3:mpd://ba7c7bb9f1f2be48a9041f6a308eaa92.m3u8
+BT SPORT ESPN:mpd://8a0b2af9d4b4eb4cf9967448b67714d6.m3u8
+BT SPORT EUROPE:mpd://9d8896af505619b4c912197f79833555.m3u8
+Canal+ Sport:mpd://71acd8666ea6c8155ff0e261b6f75e86.m3u8
+Chelsea TV:mpd://dc3b39d192930d7e940b1d58bda64bcf.m3u8
+ESPN:mpd://aca0a31d14c85e19f7023c9a3889f37b.m3u8
+ESPN:mpd://7b0ef842a6a1233a8a86a8533063a1a1.m3u8
+ESPN 2:mpd://7a39b11b9af247053ebd637ff1ca9db8.m3u8
+ESPN News:mpd://9d2247985e7b08766720fcb65864c49c.m3u8
+ESPN U:mpd://5a04e5bb28a009ab9e705cd588a3a908.m3u8
+Eurosport (version in German):mpd://db46a006dd1ae465e93e77842c9d151d.m3u8
+Fox Sports 2:mpd://b543594967ce3122d04138e344cdcff2.m3u8
+Golf Channel:mpd://5eed0d397932b4241d4866728c3b7fcf.m3u8
+Liverpool TV:mpd://71a00014007ea740e245d9a342300cab.m3u8
+MLB Network:mpd://fdfa99e57d0b886df98fa16b8cefa2b8.m3u8
+Motors TV (version in English):mpd://fde662273436c9c5f0b04ffd85682092.m3u8
+Movistar Deportes 1:mpd://cf5f4a34766719013b39b791de643632.m3u8
+Movistar F1:mpd://97706223a5ddbf5d770c8024cbc37edb.m3u8
+Movistar Futbol:mpd://0b899d96caf6e67527e4e476ca1de521.m3u8
+Movistar Golf:mpd://f460f879260a03c906e5f7b86eabc8e5.m3u8
+Movistar Moto GP:mpd://db8a1d01cfbb7fceb1d39c4f56347f5b.m3u8
+MUTV:mpd://50e67d468d54cd43a2bd100b5ef8a53e.m3u8
+NBA TV:mpd://ac36a3696ec781ba88e1469447723040.m3u8
+NBC Sport Network:mpd://e4d6b46ca81b601fe8461b43f641488c.m3u8
+NFL TV:mpd://877ad69c810ccc693b207cf11badc04a.m3u8
+Premier Sports:mpd://2d18f483dbcf20bf0cc41b916f026d6b.m3u8
+Racing UK:mpd://7e8c4145e3a4119dbe243813d877aca8.m3u8
+Real Madrid TV:mpd://866d51e7a75778917f01a4602a41964b.m3u8
+Sky Sport 1 (Deutschland):mpd://f99a45c353064b8ab4f95574a93c9245.m3u8
+Sky Sport 2 (Deutschland):mpd://231e7d1de87cb6ac16992717d34c6683.m3u8
+Sky Sports 1:mpd://3562f7795a18fc93d94ad2cb616c3d90.m3u8
+Sky Sports 2:mpd://c715e3cbca072810c4d5216b0827437b.m3u8
+Sky Sports 3:mpd://1b08968ed7063cf6d11c88e0c52cbb91.m3u8
+Sky Sports 4:mpd://1607ec4a5cdcb0acd48804076737f712.m3u8
+Sky Sports 5:mpd://ce89bce2a42f4d7df8854af633da1a86.m3u8
+Sky Sports F1:mpd://343b4b2909705b5f5babe196c05c7895.m3u8
+SPORT 1 (Germany):mpd://e5225eafe9137eb1ed44350c1a12a019.m3u8
+SportsNet One:mpd://a2b655b0f54f8fdd0c5640acbf1378a3.m3u8
+SportsNet Ontario:mpd://cc3c73333d405c31fef0b6247be099df.m3u8
+Star Sports 2:mpd://f9a3896a6c8ab06856cf96358abfc17a.m3u8
+Star Sports 4:mpd://4c0d9b0dc4545aa0d5549b45b18b6b64.m3u8
+Ten Cricket:mpd://24fbea42d08c89ba274936cd42dac5b4.m3u8
+Ten sports:mpd://21df7a8d68618dee295674bc956bacff.m3u8
+TSN 1:mpd://40beacf01f852160e0d3cf1d962449e6.m3u8
+TSN 2:mpd://bc42f627a6254b12a10dd090a8c7ff42.m3u8
+TSN 3:mpd://418e4380e1577624622d91b6a1997e5b.m3u8
+TSN 4:mpd://217ba763c8f90807fe76de76e36be045.m3u8
+TSN 5:mpd://feca97a90c0adc74a57a8a3c1e93a4df.m3u8
+WWE TV:mpd://cd61f0ea3b560a665ea813dab2505a2f.m3u8

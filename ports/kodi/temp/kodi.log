@@ -1,0 +1,455 @@
+﻿21:25:53.822 T:1911570432  NOTICE: special://profile/ is mapped to: special://masterprofile/
+21:25:53.822 T:1911570432  NOTICE: -----------------------------------------------------------------------
+21:25:53.822 T:1911570432  NOTICE: Starting Kodi (17.6 Git:20171115-d69a54a). Platform: Linux ARM 32-bit
+21:25:53.822 T:1911570432  NOTICE: Using Release Kodi x32 build (version for Raspberry Pi)
+21:25:53.822 T:1911570432  NOTICE: Kodi compiled Nov 23 2017 by GCC 6.3.0 for Linux ARM 32-bit version 4.9.53 (264501)
+21:25:53.823 T:1911570432  NOTICE: Running on Raspbian GNU/Linux 9 (stretch), kernel: Linux ARM 32-bit version 4.14.30-v7+
+21:25:53.828 T:1911570432  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+21:25:53.828 T:1911570432  NOTICE: Host CPU: ARMv7 Processor rev 4 (v7l), 4 cores available
+21:25:53.828 T:1911570432  NOTICE: ARM Features: Neon enabled
+21:25:53.828 T:1911570432  NOTICE: special://xbmc/ is mapped to: /usr/share/kodi
+21:25:53.828 T:1911570432  NOTICE: special://xbmcbin/ is mapped to: /usr/lib/arm-linux-gnueabihf/kodi
+21:25:53.828 T:1911570432  NOTICE: special://xbmcbinaddons/ is mapped to: /usr/lib/arm-linux-gnueabihf/kodi/addons
+21:25:53.828 T:1911570432  NOTICE: special://masterprofile/ is mapped to: /home/pi/.kodi/userdata
+21:25:53.828 T:1911570432  NOTICE: special://envhome/ is mapped to: /home/pi
+21:25:53.828 T:1911570432  NOTICE: special://home/ is mapped to: /home/pi/.kodi
+21:25:53.828 T:1911570432  NOTICE: special://temp/ is mapped to: /home/pi/.kodi/temp
+21:25:53.828 T:1911570432  NOTICE: special://logpath/ is mapped to: /home/pi/.kodi/temp
+21:25:53.828 T:1911570432  NOTICE: The executable running is: /usr/lib/arm-linux-gnueabihf/kodi/kodi_v7.bin
+21:25:53.828 T:1911570432  NOTICE: Local hostname: retropie
+21:25:53.828 T:1911570432  NOTICE: Log File is located: /home/pi/.kodi/temp//kodi.log
+21:25:53.828 T:1911570432  NOTICE: -----------------------------------------------------------------------
+21:25:53.902 T:1911570432   ERROR: DBus: Error org.freedesktop.DBus.Error.ServiceUnknown - The name org.freedesktop.UPower was not provided by any .service files
+21:25:53.972 T:1911570432  NOTICE: load settings...
+21:25:54.052 T:1911570432  NOTICE: Found 2 Lists of Devices
+21:25:54.052 T:1911570432  NOTICE: Enumerated PI devices:
+21:25:54.052 T:1911570432  NOTICE:     Device 1
+21:25:54.053 T:1911570432  NOTICE:         m_deviceName      : HDMI
+21:25:54.053 T:1911570432  NOTICE:         m_displayName     : HDMI
+21:25:54.053 T:1911570432  NOTICE:         m_displayNameExtra:
+21:25:54.053 T:1911570432  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+21:25:54.053 T:1911570432  NOTICE:         m_channels        : FL,FR
+21:25:54.053 T:1911570432  NOTICE:         m_sampleRates     : 8000,11025,16000,22050,24000,32000,44100,48000,88200,96000,176400,192000
+21:25:54.053 T:1911570432  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_S32NE,AE_FMT_S16NE,AE_FMT_S32LE,AE_FMT_S16LE,AE_FMT_FLOATP,AE_FMT_S32NEP,AE_FMT_S16NEP,AE_FMT_RAW
+21:25:54.053 T:1911570432  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512
+21:25:54.053 T:1911570432  NOTICE:     Device 2
+21:25:54.053 T:1911570432  NOTICE:         m_deviceName      : Analogue
+21:25:54.053 T:1911570432  NOTICE:         m_displayName     : Analogue
+21:25:54.053 T:1911570432  NOTICE:         m_displayNameExtra:
+21:25:54.053 T:1911570432  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+21:25:54.053 T:1911570432  NOTICE:         m_channels        : FL,FR
+21:25:54.053 T:1911570432  NOTICE:         m_sampleRates     : 48000
+21:25:54.053 T:1911570432  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_S32LE,AE_FMT_S16LE,AE_FMT_FLOATP,AE_FMT_S32NEP,AE_FMT_S16NEP
+21:25:54.053 T:1911570432  NOTICE:         m_streamTypes     : No passthrough capabilities
+21:25:54.053 T:1911570432  NOTICE:     Device 3
+21:25:54.053 T:1911570432  NOTICE:         m_deviceName      : Both
+21:25:54.053 T:1911570432  NOTICE:         m_displayName     : HDMI and Analogue
+21:25:54.053 T:1911570432  NOTICE:         m_displayNameExtra:
+21:25:54.053 T:1911570432  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+21:25:54.053 T:1911570432  NOTICE:         m_channels        : FL,FR
+21:25:54.053 T:1911570432  NOTICE:         m_sampleRates     : 48000
+21:25:54.053 T:1911570432  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_S32LE,AE_FMT_S16LE,AE_FMT_FLOATP,AE_FMT_S32NEP,AE_FMT_S16NEP
+21:25:54.053 T:1911570432  NOTICE:         m_streamTypes     : No passthrough capabilities
+21:25:54.053 T:1911570432  NOTICE: Enumerated ALSA devices:
+21:25:54.053 T:1911570432  NOTICE:     Device 1
+21:25:54.054 T:1911570432  NOTICE:         m_deviceName      : @
+21:25:54.054 T:1911570432  NOTICE:         m_displayName     : Default (bcm2835 ALSA bcm2835 ALSA)
+21:25:54.054 T:1911570432  NOTICE:         m_displayNameExtra:
+21:25:54.054 T:1911570432  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+21:25:54.054 T:1911570432  NOTICE:         m_channels        : FL,FR
+21:25:54.054 T:1911570432  NOTICE:         m_sampleRates     : 8000,11025,16000,22050,32000,44100,48000
+21:25:54.054 T:1911570432  NOTICE:         m_dataFormats     : AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_U8
+21:25:54.054 T:1911570432  NOTICE:         m_streamTypes     : No passthrough capabilities
+21:25:54.064 T:1911570432  NOTICE: Loaded settings file from special://xbmc/system/advancedsettings.xml
+21:25:54.065 T:1911570432  NOTICE: Contents of special://xbmc/system/advancedsettings.xml are...
+                                            <?xml version="1.0" encoding="UTF-8" ?>
+                                            <advancedsettings>
+                                              <fanartres>720</fanartres>
+                                              <imageres>540</imageres>
+                                              <video>
+                                                <busydialogdelayms>750</busydialogdelayms>
+                                              </video>
+                                              <samba>
+                                                <clienttimeout>30</clienttimeout>
+                                              </samba>
+                                              <cache>
+                                                <memorysize>31457280</memorysize>
+                                              </cache>
+                                            </advancedsettings>
+21:25:54.066 T:1911570432  NOTICE: Loaded settings file from special://profile/advancedsettings.xml
+21:25:54.066 T:1911570432  NOTICE: Contents of special://profile/advancedsettings.xml are...
+                                            <!-- Created using Easy Advanced Settings addon -->
+                                            <advancedsettings>
+                                              <network>
+                                                <buffermode>1</buffermode>
+                                                <cachemembuffersize>419430400</cachemembuffersize>
+                                                <readbufferfactor>4.0</readbufferfactor>
+                                              </network>
+                                            </advancedsettings>
+21:25:54.067 T:1911570432  NOTICE: Default Video Player: VideoPlayer
+21:25:54.067 T:1911570432  NOTICE: Default Audio Player: paplayer
+21:25:54.067 T:1911570432  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+21:25:54.067 T:1911570432  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+21:25:54.067 T:1911570432  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+21:25:54.073 T:1911570432  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+21:25:54.074 T:1911570432  NOTICE: Loaded playercorefactory configuration
+21:25:54.074 T:1911570432  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+21:25:54.074 T:1911570432  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+21:25:54.096 T:1911570432  NOTICE: Running database version Addons27
+21:25:55.730 T:1911570432  NOTICE: ADDONS: Using repository repository.xbmc.org
+21:25:55.730 T:1911570432  NOTICE: ADDONS: Using repository repository.loop
+21:25:55.730 T:1911570432  NOTICE: ADDONS: Using repository repository.maverickrepo
+21:25:55.730 T:1911570432  NOTICE: ADDONS: Using repository repository.Rising.Tides
+21:25:55.730 T:1911570432  NOTICE: ADDONS: Using repository repository.supremacy
+21:25:55.730 T:1911570432  NOTICE: ADDONS: Using repository repository.ukturk
+21:25:55.730 T:1911570432  NOTICE: ADDONS: Using repository repository.Wherethemonsterslive
+21:25:55.730 T:1911570432  NOTICE: ADDONS: Using repository repository.universalscrapers
+21:25:55.730 T:1911570432  NOTICE: ADDONS: Using repository incursion.repository
+21:25:55.730 T:1911570432  NOTICE: ADDONS: Using repository repository.tva.common
+21:25:55.730 T:1911570432  NOTICE: ADDONS: Using repository repository.digital
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.steptoes
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.MadHouse
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.skydarks
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.GenTec
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.jsergio
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.bookmark
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.bookmarklite
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.subzero
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.PansBox
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.onenation
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.PureRepo
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.AtomReborn
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.Cypherslocker
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository plugin.video.rsiptv
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.androidbboy
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository griffin
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.cdrepo
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.cherrytv
+21:25:55.731 T:1911570432  NOTICE: ADDONS: Using repository repository.vistafree
+21:25:55.991 T:1911570432  NOTICE: Raspberry PI firmware version: Mar 23 2018 16:31:10 
+                                            Copyright (c) 2012 Broadcom
+                                            version d92349b3d22c277e44d508a2aae6af2b1e5bb224 (clean) (release)
+21:25:55.991 T:1911570432  NOTICE: ARM mem: 512MB GPU mem: 512MB MPG2:0 WVC1:0
+21:25:55.991 T:1911570432  NOTICE: cache.memorysize: 30MB libass.cache: 0MB
+21:25:55.991 T:1911570432  NOTICE: Config:
+                                            arm_freq=1400
+                                            audio_pwm_mode=514
+                                            config_hdmi_boost=5
+                                            core_freq=400
+                                            desired_osc_freq=0x33e140
+                                            desired_osc_freq_boost=0x3c45b0
+                                            disable_commandline_tags=2
+                                            disable_l2cache=1
+                                            display_hdmi_rotate=-1
+                                            display_lcd_rotate=-1
+                                            force_eeprom_read=1
+                                            force_pwm_open=1
+                                            framebuffer_ignore_alpha=1
+                                            framebuffer_swap=1
+                                            gpu_freq=300
+                                            hdmi_channel_map=8
+                                            hdmi_force_cec_address=65535
+                                            init_uart_clock=0x2dc6c00
+                                            lcd_framerate=60
+                                            over_voltage_avs=37500
+                                            over_voltage_avs_boost=0x23186
+                                            over_voltage_sdram_p=2
+                                            pause_burst_frames=1
+                                            program_serial_random=1
+                                            sdram_freq=500
+                                            sdram_schmoo=0x2000020
+21:25:55.991 T:1911570432  NOTICE: Config:
+                                            device_tree=-
+21:25:55.991 T:1911570432  NOTICE: InitWindowSystem: Using EGL Implementation: raspberrypi
+21:25:55.995 T:1911570432  NOTICE: Found resolution 640 x 480 for display 0 with 640 x 480 @ 60.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 640 x 480 for display 0 with 640 x 480 @ 59.940063 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 640 x 480 for display 0 with 640 x 480 @ 75.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 800 x 600 for display 0 with 800 x 600 @ 60.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 800 x 600 for display 0 with 800 x 600 @ 59.940063 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 800 x 600 for display 0 with 800 x 600 @ 75.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1024 x 768 for display 0 with 1024 x 768 @ 60.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1024 x 768 for display 0 with 1024 x 768 @ 59.940063 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1024 x 768 for display 0 with 1024 x 768 @ 70.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1024 x 768 for display 0 with 1024 x 768 @ 75.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1152 x 864 for display 0 with 1152 x 864 @ 75.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1280 x 1024 for display 0 with 1280 x 1024 @ 60.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1280 x 1024 for display 0 with 1280 x 1024 @ 59.940063 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1280 x 1024 for display 0 with 1280 x 1024 @ 75.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1680 x 1050 for display 0 with 1680 x 1050 @ 60.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1680 x 1050 for display 0 with 1680 x 1050 @ 59.940063 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 720 x 480 for display 0 with 720 x 480 @ 60.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 720 x 480 for display 0 with 720 x 480 @ 59.940063 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1280 x 720 for display 0 with 1280 x 720 @ 60.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1280 x 720 for display 0 with 1280 x 720 @ 59.940063 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 60.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 59.940063 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 720 x 576 for display 0 with 720 x 576 @ 50.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1280 x 720 for display 0 with 1280 x 720 @ 50.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 50.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 24.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 23.976025 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 30.000000 Hz
+21:25:55.996 T:1911570432  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 29.970032 Hz
+21:25:55.996 T:1911570432  NOTICE: Found (1920x1080@60.000000) at 36, setting to RES_DESKTOP at 16
+21:25:55.996 T:1911570432  NOTICE: Checking resolution 16
+21:25:56.305 T:1911570432  NOTICE: GL_VENDOR = Broadcom
+21:25:56.305 T:1911570432  NOTICE: GL_RENDERER = VideoCore IV HW
+21:25:56.305 T:1911570432  NOTICE: GL_VERSION = OpenGL ES 2.0
+21:25:56.305 T:1911570432  NOTICE: GL_SHADING_LANGUAGE_VERSION = OpenGL ES GLSL ES 1.00
+21:25:56.305 T:1911570432  NOTICE: GL_EXTENSIONS = GL_OES_compressed_ETC1_RGB8_texture GL_OES_compressed_paletted_texture GL_OES_texture_npot GL_OES_depth24 GL_OES_vertex_half_float GL_OES_EGL_image GL_OES_EGL_image_external GL_EXT_discard_framebuffer GL_OES_rgb8_rgba8 GL_OES_depth32 GL_OES_mapbuffer GL_EXT_texture_format_BGRA8888 GL_APPLE_rgb_422 GL_EXT_debug_marker
+21:25:56.926 T:1911570432   ERROR: ADDON: extension '' is not currently supported for service addon
+21:25:57.570 T:1891627776  NOTICE: Running database version Addons27
+21:25:57.573 T:1891627776  NOTICE: Running database version ViewModes6
+21:25:57.576 T:1891627776  NOTICE: Running database version Textures13
+21:25:57.582 T:1891627776  NOTICE: Running database version MyMusic60
+21:25:57.592 T:1891627776  NOTICE: Running database version MyVideos107
+21:25:57.595 T:1891627776  NOTICE: Running database version TV29
+21:25:57.598 T:1891627776  NOTICE: Running database version Epg11
+21:25:57.602 T:1911570432  NOTICE: start dvd mediatype detection
+21:25:57.616 T:1762018048   ERROR: AddOnLog: Joystick Support: Device "Sony Interactive Entertainment Wireless Controller": can't find <controller> tag
+21:25:57.645 T:1770406656  NOTICE: Register - new cec device registered on cec->RPI: CEC Adapter (2708:1001)
+21:25:57.696 T:1891627776   ERROR: ADDON: extension '' is not currently supported for service addon
+21:25:57.822 T:1762018048  NOTICE: Register - new joystick device registered on addon->peripheral.joystick/0: usb gamepad
+21:25:58.109 T:1911570432   ERROR: Skin includes must start with the <includes> tag
+21:25:58.457 T:1911570432 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+21:25:58.526 T:1911570432   ERROR: ADDON: extension '' is not currently supported for service addon
+21:25:58.572 T:1911570432   ERROR: Window Translator: Can't find window videolibrary
+21:25:58.608 T:1911570432   ERROR: Window Translator: Can't find window mutebug
+21:25:58.667 T:1911570432   ERROR: ADDON: extension '' is not currently supported for service addon
+21:25:58.744 T:1911570432  NOTICE: initialize done
+21:25:58.744 T:1911570432  NOTICE: Running the application...
+21:25:58.753 T:1911570432  NOTICE: starting zeroconf publishing
+21:25:58.753 T:1911570432  NOTICE: starting upnp client
+21:25:58.766 T:1413669632  NOTICE: ES: Starting UDP Event server on port 9777
+21:25:58.766 T:1413669632  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+21:25:59.220 T:1911570432   ERROR: COMXImageFile::ReadFile special://skin/backgrounds/red.jpg not found
+21:25:59.220 T:1911570432  NOTICE: LoadJpeg: unable to load special://skin/backgrounds/red.jpg
+21:25:59.349 T:1336267520   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/e/e7e7e470.png
+21:26:00.717 T:1557553920   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/6/6251f787.png
+21:26:00.855 T:1557553920   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/3/3725bb79.png
+21:26:00.858 T:1396892416   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/a/ad3330c9.png
+21:26:15.640 T:1557553920   ERROR: ADDON: extension '' is not currently supported for service addon
+21:26:22.868 T:1651041024   ERROR: Previous line repeats 3 times.
+21:26:22.868 T:1651041024  NOTICE: Skin Helper Service --> Starting WebService on port 52307
+21:26:22.869 T:1692984064  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.24 started
+21:26:23.199 T:1540776704  NOTICE: [plugin.video.youtube] Startup: detected Krypton (Kodi-17.6), DASH_SUPPORT_ADDON = True
+21:26:31.857 T:1617486592   ERROR: ADDON: extension '' is not currently supported for service addon
+21:26:51.002 T:1481204480   ERROR: Previous line repeats 6 times.
+21:26:51.002 T:1481204480  NOTICE: URLResolver: Initializing URLResolver version: 5.0.15
+21:26:52.893 T:1514758912  NOTICE: [Incursion] ######################### INCURSION ############################
+21:26:52.894 T:1514758912  NOTICE: [Incursion] ####### CURRENT INCURSION VERSIONS REPORT ######################
+21:26:52.894 T:1514758912  NOTICE: [Incursion] ### INCURSION PLUGIN VERSION: 0.1.17 ###
+21:26:52.894 T:1514758912  NOTICE: [Incursion] ### INCURSION SCRIPT VERSION: 1.20 ###
+21:26:52.894 T:1514758912  NOTICE: [Incursion] ###############################################################
+21:27:20.721 T:1489593088  NOTICE: Luxury Wizard: 2018-05-16 21:27:20.535929
+21:27:23.007 T:1489593088  NOTICE: Luxury Wizard: Continuing Start Up Script
+21:27:23.238 T:1489593088  NOTICE: Luxury Wizard: [Path Check] Started
+21:27:23.411 T:1489593088  NOTICE: Luxury Wizard: [Path Check] Good!
+21:27:23.662 T:1489593088  NOTICE: Luxury Wizard: [Auto Install Repo] Started
+21:27:23.735 T:1489593088  NOTICE: Luxury Wizard: [Auto Install Repo] Not Enabled
+21:27:23.964 T:1489593088  NOTICE: Luxury Wizard: [Auto Update Wizard] Started
+21:27:38.067 T:1489593088  NOTICE: Luxury Wizard: [Auto Update Wizard] No New Version v2.5
+21:27:38.108 T:1489593088  NOTICE: Luxury Wizard: [Notifications] Started
+21:27:39.857 T:1489593088  NOTICE: Luxury Wizard: [Notifications] id[15] Dismissed
+21:27:40.030 T:1489593088  NOTICE: Luxury Wizard: [Installed Check] Started
+21:27:42.033 T:1667818240  NOTICE: ResolveURL: Initializing ResolveURL version: 6.0.09
+21:28:09.658 T:1172513536   ERROR: Exception in thread Thread-8:
+                                            Traceback (most recent call last):
+                                              File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+                                                self.run()
+                                              File "/usr/lib/python2.7/threading.py", line 754, in run
+                                                self.__target(*self.__args, **self.__kwargs)
+                                              File "/home/pi/.kodi/addons/plugin.video.transistortv/transistortv_lib/image_proxy.py", line 69, in __run
+                                                self.httpd = MyHTTPServer(server_address, MyRequestHandler)
+                                              File "/home/pi/.kodi/addons/plugin.video.transistortv/transistortv_lib/image_proxy.py", line 83, in __init__
+                                                HTTPServer.__init__(self, server_address, RequestHandlerClass, bind_and_activate)
+                                              File "/usr/lib/python2.7/SocketServer.py", line 417, in __init__
+                                                self.server_bind()
+                                              File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+                                                SocketServer.TCPServer.server_bind(self)
+                                              File "/usr/lib/python2.7/SocketServer.py", line 431, in server_bind
+                                                self.socket.bind(self.server_address)
+                                              File "/usr/lib/python2.7/socket.py", line 228, in meth
+                                                return getattr(self._sock,name)(*args)
+                                            error: [Errno 98] Address already in use
+21:28:14.475 T:1617486592  NOTICE: ResolveURL: Initializing ResolveURL version: 6.0.09
+21:28:15.032 T:1143993088  NOTICE: VideoInfoScanner: Starting scan ..
+21:28:16.043 T:1143993088  NOTICE: VideoInfoScanner: Finished scan. Scanning for video info took 00:01
+21:28:16.048 T:1911570432   ERROR: COMXImageFile::ReadFile special://skin/backgrounds/red.jpg not found
+21:28:16.048 T:1911570432  NOTICE: LoadJpeg: unable to load special://skin/backgrounds/red.jpg
+21:28:18.366 T:1709761280  NOTICE: ResolveURL: Initializing ResolveURL version: 6.0.09
+21:28:24.568 T:1489593088   ERROR: ADDON: extension '' is not currently supported for service addon
+21:28:25.407 T:1667818240  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+21:28:25.580 T:1667818240  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.16.2
+21:28:35.507 T:1172513536 WARNING: Attempt to use invalid handle -1
+21:28:35.511 T:1172513536  NOTICE: [xbmcswift2] Request for "/movies/batch_add_to_library" matches rule for function "movies_batch_add_to_library"
+21:28:36.669 T:1911570432   ERROR: Skin includes must start with the <includes> tag
+21:28:38.985 T:1911570432   ERROR: Window Translator: Can't find window videolibrary
+21:28:38.988 T:1667818240  NOTICE: metahandler: No SQLite rows requiring update
+21:28:39.047 T:1911570432   ERROR: Window Translator: Can't find window mutebug
+21:28:39.056 T:1911570432   ERROR: COMXImageFile::ReadFile special://skin/backgrounds/red.jpg not found
+21:28:39.056 T:1911570432  NOTICE: LoadJpeg: unable to load special://skin/backgrounds/red.jpg
+21:28:39.326 T:1489593088  NOTICE: Luxury Wizard: [Trakt Data] Started
+21:28:39.329 T:1489593088  NOTICE: Luxury Wizard: [Trakt Data] Not Enabled
+21:28:39.389 T:1489593088  NOTICE: Luxury Wizard: [Real Debrid Data] Started
+21:28:39.390 T:1489593088  NOTICE: Luxury Wizard: [Real Debrid Data] Not Enabled
+21:28:39.475 T:1489593088  NOTICE: Luxury Wizard: [Login Data] Started
+21:28:39.476 T:1489593088  NOTICE: Luxury Wizard: [Login Data] Not Enabled
+21:28:39.476 T:1489593088  NOTICE: Luxury Wizard: [Auto Clean Up] Started
+21:28:40.303 T:1489593088  NOTICE: Luxury Wizard: [Auto Clean Up] Cache: On
+21:28:42.458 T:1489593088  NOTICE: Luxury Wizard: [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.urlresolver/cache
+21:28:47.100 T:1911570432   ERROR: Skin includes must start with the <includes> tag
+21:28:47.334 T:1489593088  NOTICE: Luxury Wizard: [Success] wiped /home/pi/.kodi/userdata/addon_data/plugin.video.transistortv/cache
+21:28:47.364 T:1911570432   ERROR: Window Translator: Can't find window videolibrary
+21:28:47.398 T:1911570432   ERROR: Window Translator: Can't find window mutebug
+21:28:47.406 T:1911570432   ERROR: COMXImageFile::ReadFile special://skin/backgrounds/red.jpg not found
+21:28:47.406 T:1911570432  NOTICE: LoadJpeg: unable to load special://skin/backgrounds/red.jpg
+21:28:51.804 T:1489593088  NOTICE: Luxury Wizard: [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.resolveurl/cache
+21:28:51.806 T:1489593088  NOTICE: Luxury Wizard: Ignore Log File: kodi.log
+21:28:51.807 T:1489593088  NOTICE: Luxury Wizard: [Wiped] /home/pi/.kodi/temp/commoncache.socket
+21:28:51.808 T:1489593088  NOTICE: Luxury Wizard: Ignore Log File: kodi.old.log
+21:28:51.808 T:1489593088  NOTICE: Luxury Wizard: [Wiped] /home/pi/.kodi/temp/commoncache.db
+21:28:51.811 T:1489593088  NOTICE: Luxury Wizard: [Success] cleared 4 files from /home/pi/.kodi/temp/temp
+21:28:51.814 T:1489593088  NOTICE: Luxury Wizard: [Auto Clean Up] Old Thumbs: On
+21:28:51.844 T:1489593088  NOTICE: Luxury Wizard: 26 total thumbs cleaned up.
+21:28:54.811 T:1489593088  NOTICE: Luxury Wizard: [Auto Clean Up] Packages: On
+21:29:05.038 T:950006528  NOTICE: ResolveURL: Initializing ResolveURL version: 6.0.09
+21:29:14.823 T:950006528  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+21:29:14.855 T:950006528  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.16.2
+21:29:14.865 T:950006528  NOTICE: metahandler: No SQLite rows requiring update
+21:29:16.398 T:1143993088   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/2/262aa00a.jpg not found
+21:29:16.398 T:1143993088  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/2/262aa00a.jpg
+21:29:16.398 T:1143993088   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/2/262aa00a.jpg
+21:29:16.400 T:1891627776   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/7/71c14f88.jpg not found
+21:29:16.400 T:1891627776  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/7/71c14f88.jpg
+21:29:16.401 T:1891627776   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/7/71c14f88.jpg
+21:29:17.010 T:1891627776 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:17.185 T:1891627776 WARNING: Previous line repeats 2 times.
+21:29:17.185 T:1891627776  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/r70GGoZ5PqqokDDRnVfTN7PPDtJ.jpg
+21:29:17.380 T:1143993088 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:17.381 T:1143993088  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg
+21:29:18.846 T:1134555904   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/3/3543af6a.jpg not found
+21:29:18.846 T:1134555904  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/3/3543af6a.jpg
+21:29:18.846 T:1134555904   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/3/3543af6a.jpg
+21:29:19.301 T:1134555904 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:19.803 T:1134555904 WARNING: Previous line repeats 1 times.
+21:29:19.803 T:1134555904  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/cGhdduplj8YdAwg7iPCeGjO1YvZ.jpg
+21:29:19.910 T:1143993088   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/6/67e807b5.jpg not found
+21:29:19.911 T:1143993088  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/6/67e807b5.jpg
+21:29:19.911 T:1143993088   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/6/67e807b5.jpg
+21:29:19.916 T:1891627776   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/d/d6883340.jpg not found
+21:29:19.917 T:1891627776  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/d/d6883340.jpg
+21:29:19.917 T:1891627776   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/d/d6883340.jpg
+21:29:20.337 T:1143993088 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:20.489 T:1134555904   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/d/debe2303.jpg not found
+21:29:20.490 T:1134555904  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/d/debe2303.jpg
+21:29:20.490 T:1134555904   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/d/debe2303.jpg
+21:29:20.628 T:1891627776 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:20.678 T:1143993088 WARNING: Previous line repeats 1 times.
+21:29:20.678 T:1143993088  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/sM33SANp9z6rXW8Itn7NnG1GOEs.jpg
+21:29:20.783 T:1134555904 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:21.052 T:1891627776 WARNING: Previous line repeats 1 times.
+21:29:21.052 T:1891627776  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg
+21:29:21.451 T:1134555904 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:21.452 T:1134555904  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/30oXQKwibh0uANGMs0Sytw3uN22.jpg
+21:29:21.562 T:1143993088   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/3/3037e2e1.jpg not found
+21:29:21.562 T:1143993088  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/3/3037e2e1.jpg
+21:29:21.562 T:1143993088   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/3/3037e2e1.jpg
+21:29:21.848 T:1143993088 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:21.906 T:1891627776   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/7/7035a3c4.jpg not found
+21:29:21.906 T:1891627776  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/7/7035a3c4.jpg
+21:29:21.906 T:1891627776   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/7/7035a3c4.jpg
+21:29:22.077 T:1143993088 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:22.077 T:1143993088  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/vLCogyfQGxVLDC1gqUdNAIkc29L.jpg
+21:29:22.100 T:1134555904   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/6/65c113f7.jpg not found
+21:29:22.100 T:1134555904  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/6/65c113f7.jpg
+21:29:22.100 T:1134555904   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/6/65c113f7.jpg
+21:29:22.256 T:1891627776 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:22.583 T:1891627776 WARNING: Previous line repeats 2 times.
+21:29:22.584 T:1891627776  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg
+21:29:22.692 T:1134555904 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:22.692 T:1134555904  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/tWqifoYuwLETmmasnGHO7xBjEtt.jpg
+21:29:22.702 T:1143993088   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/7/7f546cf0.jpg not found
+21:29:22.702 T:1143993088  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/7/7f546cf0.jpg
+21:29:22.703 T:1143993088   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/7/7f546cf0.jpg
+21:29:22.961 T:1143993088 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:23.197 T:1143993088 WARNING: Previous line repeats 1 times.
+21:29:23.197 T:1143993088  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/wridRvGxDqGldhzAIh3IcZhHT5F.jpg
+21:29:24.227 T:1891627776   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/c/cfad1865.jpg not found
+21:29:24.227 T:1891627776  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/c/cfad1865.jpg
+21:29:24.227 T:1891627776   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/c/cfad1865.jpg
+21:29:24.475 T:1891627776 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:24.711 T:1891627776 WARNING: Previous line repeats 1 times.
+21:29:24.711 T:1891627776  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
+21:29:24.725 T:1134555904   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/3/36227526.jpg not found
+21:29:24.725 T:1134555904  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/3/36227526.jpg
+21:29:24.725 T:1134555904   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/3/36227526.jpg
+21:29:24.726 T:1143993088   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/0/039ad98b.jpg not found
+21:29:24.726 T:1143993088  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/0/039ad98b.jpg
+21:29:24.727 T:1143993088   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/0/039ad98b.jpg
+21:29:25.045 T:1143993088 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:25.306 T:1143993088 WARNING: Previous line repeats 2 times.
+21:29:25.306 T:1143993088  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/cezWGskPY5x7GaglTTRN4Fugfb8.jpg
+21:29:25.346 T:1134555904 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:25.346 T:1134555904  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
+21:29:25.797 T:1891627776   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/0/0d417e03.jpg not found
+21:29:25.798 T:1891627776  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/0/0d417e03.jpg
+21:29:25.798 T:1891627776   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/0/0d417e03.jpg
+21:29:25.976 T:1134555904   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/2/2f70be5f.jpg not found
+21:29:25.976 T:1134555904  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/2/2f70be5f.jpg
+21:29:25.976 T:1134555904   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/2/2f70be5f.jpg
+21:29:25.978 T:1143993088   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/5/54aac8d2.jpg not found
+21:29:25.978 T:1143993088  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/5/54aac8d2.jpg
+21:29:25.978 T:1143993088   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/5/54aac8d2.jpg
+21:29:26.129 T:1143993088   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/2/27b2c240.png
+21:29:26.357 T:1134555904   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/5/5b07ead8.jpg not found
+21:29:26.357 T:1134555904  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/5/5b07ead8.jpg
+21:29:26.358 T:1134555904   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/5/5b07ead8.jpg
+21:29:26.912 T:1143993088   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/3/33468e6d.jpg not found
+21:29:26.912 T:1143993088  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/3/33468e6d.jpg
+21:29:26.912 T:1143993088   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/3/33468e6d.jpg
+21:29:26.913 T:1134555904   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/3/3ee4f99a.jpg not found
+21:29:26.913 T:1134555904  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/3/3ee4f99a.jpg
+21:29:26.914 T:1134555904   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/3/3ee4f99a.jpg
+21:29:27.089 T:1891627776 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:27.282 T:1134555904 WARNING: Previous line repeats 1 times.
+21:29:27.282 T:1134555904   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/7/784abc21.jpg not found
+21:29:27.282 T:1134555904  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/7/784abc21.jpg
+21:29:27.282 T:1134555904   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/7/784abc21.jpg
+21:29:27.879 T:1143993088 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:27.879 T:1143993088  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/w500/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+21:29:28.415 T:1229976320   ERROR: ADDON: extension '' is not currently supported for service addon
+21:29:28.991 T:1229976320   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/b/b57ccc90.jpg not found
+21:29:28.991 T:1229976320  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/b/b57ccc90.jpg
+21:29:28.991 T:1229976320   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/b/b57ccc90.jpg
+21:29:29.078 T:1891627776 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:29.079 T:1891627776  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/wrqUiMXttHE4UBFMhLHlN601MZh.jpg
+21:29:29.359 T:1134555904 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:29:31.223 T:1134555904 WARNING: Previous line repeats 1 times.
+21:29:31.223 T:1134555904  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/sGzuQYSTwJvLBc2PnuSVLHhuFeh.jpg
+21:29:39.336 T:1911570432  NOTICE: Storing total System Uptime
+21:29:40.326 T:1911570432  NOTICE: Saving settings
+21:29:42.145 T:1911570432  NOTICE: Saving skin settings
+21:29:44.100 T:1911570432  NOTICE: stop all
+21:29:44.914 T:1143993088   ERROR: COMXImageFile::GetCodingType error unsupported image format
+21:29:44.917 T:1143993088   ERROR: Previous line repeats 1 times.
+21:29:44.917 T:1143993088  NOTICE: LoadJpeg: unable to load /home/pi/.kodi/addons/plugin.video.the-loop/fanart.jpg
+21:29:47.258 T:1911570432  NOTICE: stop player
+21:29:47.259 T:1911570432  NOTICE: ES: Stopping event server
+21:29:47.259 T:1911570432  NOTICE: stopping upnp
+21:29:47.412 T:1911570432  NOTICE: stopping zeroconf publishing
+21:29:47.990 T:1413669632  NOTICE: ES: UDP Event server stopped
+21:29:47.999 T:1911570432  NOTICE: stop dvd detect media
+21:29:50.277 T:1911570432  NOTICE: clean cached files!
+21:29:50.303 T:1911570432   ERROR: ADDON: extension '' is not currently supported for service addon
+21:29:50.828 T:1692984064  NOTICE: Skin Helper Service --> Shutdown requested !
+21:29:50.839 T:1692984064  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.24 stopped
+21:30:02.250 T:1911570432  NOTICE: closing down remote control service
+21:30:02.250 T:1911570432  NOTICE: stopped
+21:30:02.453 T:1911570432  NOTICE: destroy
+21:30:02.453 T:1911570432  NOTICE: unload skin
+21:30:07.737 T:1911570432   ERROR: CPythonInvoker(31, /home/pi/.kodi/addons/plugin.video.tooontown/tooontown.py): script didn't stop in 5 seconds - let's kill it
+21:30:15.455 T:1911570432   ERROR: CPythonInvoker(32, /home/pi/.kodi/addons/plugin.video.Asylum/asylum.py): script didn't stop in 5 seconds - let's kill it
+21:30:20.545 T:1911570432  NOTICE: unload sections
+21:30:20.565 T:1911570432  NOTICE: special://profile/ is mapped to: special://masterprofile/
+21:30:20.581 T:1911570432  NOTICE: application stopped...

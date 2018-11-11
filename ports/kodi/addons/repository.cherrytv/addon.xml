@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.cherrytv" name="[I][COLOR=blue]CHERRY[/COLOR] [COLOR=red]TV[/COLOR][/I] Repository" provider-name="KODI CHERRY" version="1.3.5">
+  <extension point="xbmc.addon.repository">
+    <info>https://raw.githubusercontent.com/CherryKodi/CHERRY/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/CherryKodi/CHERRY/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://github.com/CherryKodi/CHERRY/raw/master/zips</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">CHERRY TV Repository</summary>
+    <description lang="en">"CHERRY TV"  podlega prawom własności intelektualnej należącym do KODI CHERRY.CHERRY TV nie udostepnia telewizji online,korzysta jedynie z kont premium udostepnionych w sieci.Zabrania się sprzedażny i rozpowszechniania.</description>
+	<disclaimer lang="en">Kodi jest programem darmowym. Wtyczki, które są zawarte w projekcie CHERRY TV  są również darmowe i powszechnie dostępne w internecie dla każdego.
+CHERRY TV nie dostarcza bezpośrednio telewizji, filmów, seriali, muzyki ani żadnych treści audio/wideo. CHERRY TV nie udostepnia telewizji online,korzysta jedynie z kont premium udostepnionych w sieci.Jest jedynie zbiorem wtyczek. Projekt ten ma jedynie ułatwić użytkownikowi ustawianie programu Kodiczy instalacje wtyczek . Jeżeli dana wtyczka nie działa zgodnie z założeniem należny kontaktować się z jej autorem. Jeżeli stan taki się utrzymuje dłużnej może zostać taka wtyczka usunięta oraz będzie szukana alternatywa.
+</disclaimer>
+    <website>https://cherrytv.webd.pl/</website>
+    <platform>all</platform>
+  </extension>
+</addon>

@@ -1,0 +1,75 @@
+
+
+<dir>
+     <name>Movies</name>
+     <link>file://movies.xml</link>
+     <animated_thumbnail></animated_thumbnail>
+     <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+
+
+<dir>
+    <title>Newest Releases (Rd Only)</title>
+    <Airtable>newest_releases/page1</Airtable>
+    <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+    </dir>
+
+
+<dir>
+     <name>Tv Shows</name>
+     <link>file://tv_shows.xml</link>
+     <animated_thumbnail></animated_thumbnail>
+     <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Tv_new.png</thumbnail>
+     <animated_fanart></animated_fanart>
+     <fanart></fanart>
+</dir>
+
+
+
+<dir> 
+<title>New Shows</title>
+<trakt>https://api.trakt.tv/shows/anticipated</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Tv_new.png</thumbnail>
+</dir>
+
+
+
+<dir>
+  <title>Documentaries</title>
+  <tmdb>genre/movies/99</tmdb>
+  <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Docs_new.png</thumbnail>
+</dir>
+ 
+
+
+<dir>
+  <name>Trakt</name>
+  <link>file://trakt.xml</link>
+  <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Search</title>
+  <tmdb>search</tmdb>
+ <animated_thumbnail></animated_thumbnail>
+     <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Search_new.png</thumbnail>
+     <animated_fanart></animated_fanart>
+     <fanart></fanart>
+</dir>
+
+
+
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.digibox/?action=developer</link>
+<thumbnail></thumbnail>
+</plugin>
+
+
+
+<plugin>
+<name>Settings</name>
+<link>plugin://plugin.video.digibox/?action=openSettings</link>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Settings_new.png</thumbnail>
+</plugin>

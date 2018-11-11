@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[COLORgray]build updater[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2farchive.org%2fdownload%2fkodi_tv_icon_by_outlawninja-d8xywrc%2fkodiworldbuild.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=build+updater&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fbuild+updater&amp;image=https%3A%2F%2Farchive.org%2Fdownload%2Fkodi_tv_icon_by_outlawninja-d8xywrc%2Fkodiworldbuild.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+</shortcuts>

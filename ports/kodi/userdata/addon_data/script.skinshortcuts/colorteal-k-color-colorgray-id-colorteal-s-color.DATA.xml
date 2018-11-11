@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.video.tooontown</defaultID>
+		<label> [COLOR gray]tooontown[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.tooontown/fanart.jpg</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.tooontown",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]Kids Collections[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/script.uranus.artwork/resources/media/Default/halloween.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.uranus/?action=kidsCollections",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]Kids Hub[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.StarTec/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.StarTec/?mode=get_list&amp;url=http%3A%2F%2Fgen-tec.co%2Fgentecwiz%2FPLEASE%2520SUBSCRIBE%2520TO%2520CHARLIE%2520TEC%2520YOUTUBE%2Fstar%2Fkidsmenu.xml&amp;name=%5BCOLOR+yellow%5DKids+Hub%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fgen-tec.co%2Fgentecwiz%2FPLEASE%2520SUBSCRIBE%2520TO%2520CHARLIE%2520TEC%2520YOUTUBE%2Faddonicons%2Fkids.png&amp;fanart=http%3A%2F%2Fimages6.fanpop.com%2Fimage%2Fphotos%2F40100000%2FMickey-Mouse-Club-House-Cartoon-Wallpaper-disney-fairies-40186227-1920-1342.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]kids networks[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/script.nightmare.artwork/resources/media/toon/genres.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=%5BCOLOR+teal%5Dkids+networks%5B%2FCOLOR%5D&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids+networks&amp;image=special%3A%2F%2Fhome%2Faddons%2Fscript.eden.artwork%2Fresources%2Fmedia%2FDefault%2Fkidstv.jpg&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]KIDS CENTRAL[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fwolfpackcrew.co.uk%2fseeddata%2fwolfpackdata%2fspecialist%2520kids.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.wolfpack/?mode=get_list&amp;url=http%3A%2F%2Fwolfpackcrew.co.uk%2Fseeddata%2Fspecialist%2Faddon%2Fkids%2520central.xml&amp;name=%5BCOLOR+FFff15ae0e%5DTHE+SPECIALIST+KIDS+CENTRAL%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fwolfpackcrew.co.uk%2Fseeddata%2Fwolfpackdata%2Fspecialist%2520kids.png&amp;fanart=https%3A%2F%2Fimg0.etsystatic.com%2F000%2F0%2F5250993%2Fil_fullxfull.322507594.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]Kid's Movies[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fstephen-builds.uk%2fart%2fkids%2520movies%25201.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.supremacy/?url=http%3A%2F%2Fstephen-builds.uk%2Fsupremacy%2FKid%27s%2520movies%2Fhome.txt&amp;mode=1&amp;name=%5BCOLOR+aqua%5DKid%27s+Movies%5B%2FCOLOR%5D&amp;fanart=http%3A%2F%2Fstephen-builds.uk%2Fart%2F20839702_10207884860798337_363786087_o.jpg",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]Disney Collection[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/script.uranus.artwork/resources/media/Default/collection.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.uranus/?action=movies&amp;url=tmdbdisney",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.youtube/kodion/search/list/</defaultID>
+		<label>[COLOR teal]Search[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.youtube/resources/media/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.youtube/kodion/search/list/",return)</action>
+	</shortcut>
+</shortcuts>

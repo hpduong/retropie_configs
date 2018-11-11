@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Royal Stone (T).zip</path>
+		<name>Royal Stone (T)</name>
+		<image>./boxart/ggh.png</image>
+		<marquee>./wheel/Royal Stone (T).png</marquee>
+		<video>./snap/Royal Stone (T).mp4</video>
+	</game>
+	<game>
+		<path>./Shining Force III - Final Conflict (T).zip</path>
+		<name>Shining Force III - Final Conflict (T)</name>
+		<image>./boxart/ggh.png</image>
+		<marquee>./wheel/Shining Force III - Final Conflict (T).png</marquee>
+		<video>./snap/Shining Force III - Final Conflict (T).mp4</video>
+	</game>
+	<game>
+		<path>./Sylvan Tale (T).zip</path>
+		<name>Sylvan Tale (T)</name>
+		<image>./boxart/ggh.png</image>
+		<marquee>./wheel/Sylvan Tale (T).png</marquee>
+		<video>./snap/Sylvan Tale (T).mp4</video>
+	</game>
+	<game>
+		<path>./Sonic Drift 1.zip</path>
+		<name>Sonic Drift 1</name>
+		<image>./boxart/ggh.png</image>
+		<video>./snap/Sonic Drift 1.mp4</video>
+		<marquee>./wheel/Sonic Drift 1.png</marquee>
+		<playcount>1</playcount>
+		<lastplayed>20180313T091644</lastplayed>
+	</game>
+</gameList>

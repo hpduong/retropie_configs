@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]Sport365 LIVE[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.sport365.live/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sport365.live/?foldername=Sport365+LIVE&amp;params=%7B%27_service%27%3A+%27sport365%27%2C+%27_act%27%3A+%27ListChannels%27%7D&amp;ex_link=&amp;mode=site2",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]live sport channels[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fvQlkLtY.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.selfless/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftubestrending%2Feverydayupdate%2Fmaster%2Fsports1.xml&amp;mode=1&amp;name=%5BCOLOR+cyan%5D%5BB%5DBliss+Tv++-+%5BCOLOR+yellow%5D%5BB%5D+Sports+Heaven+%5B%2FB%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2Fi.imgur.com%2FjppdYfH.jpg",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]Bliss Tv-LIVE GAMES[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.selfless/fanart.jpg</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.selfless/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftubestrending%2Feverydayupdate%2Fmaster%2Fevil&amp;mode=1&amp;name=%5BCOLOR+cyan%5D%5BB%5D+Bliss+Tv++-+%5BCOLOR+lime%5D%5BB%5D+LIVE+GAMES+-+%5BCOLOR+gold%5DMLB+%7C+UFC+%7C+NBA+%7C+NFL+%7C+NHL+%7C+%5B%2FB%5D++%5BCOLOR+red%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2Fi.imgur.com%2FjppdYfH.jpg",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]CLASSIC SPORTS[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fwww.veryicon.com%2ficon%2fpng%2fFolder%2fMovie%2520Folders%2520-%2520IconSet%2fSport.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.wolfpack/?mode=get_list&amp;url=http%3A%2F%2Fwolfpackcrew.co.uk%2Fseeddata%2FwolfyB%2Fnewmidian%2Fsports.xml&amp;name=%5BCOLOR+FFff2a97dd%5D%5BCOLOR+orangered%5D%5BB%5DC%5B%2FCOLOR%5D%5BCOLOR+ghostwhite%5DLASSIC+SPORTS%5B%2FB%5D%5B%2FCOLOR%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fwww.veryicon.com%2Ficon%2Fpng%2FFolder%2FMovie%2520Folders%2520-%2520IconSet%2FSport.png&amp;fanart=http%3A%2F%2Ffc07.deviantart.net%2Ffs71%2Fi%2F2010%2F208%2F9%2F3%2FNew_ID_yay_by_gg_Midian.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.SportsMatrix</defaultID>
+		<label>[COLOR teal]Sports MatriX[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.SportsMatrix/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.SportsMatrix",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]SPORTS STREAMS[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fwww.kodi-911.com%2f.artwork%2fMainart%2fsportsstreams.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.deceit/?mode=get_list&amp;url=http%3A%2F%2Fwww.kodi-911.com%2F.xmls%2F.mainmenuxmls%2Flivesports.xml&amp;name=%5BCOLORwhite%5D%5BB%5DSPORTS+STREAMS%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fwww.kodi-911.com%2F.artwork%2FMainart%2Fsportsstreams.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.deceit%2Ffanart.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]chronos Live Sports[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.chronos/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.chronos/?url=&amp;mode=105&amp;name=%5BCOLOR+gold%5DLive+Sports%5B%2FCOLOR%5D&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.chronos%2Ffanart.jpg",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]UFC/MMA[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.chronos/fanart.jpg</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.chronos/?url=http%3A%2F%2Fwww.skydarks.com%2Fchronos%2Fufc.txt&amp;mode=1&amp;name=%5BCOLOR+white%5DUFC%2FMMA%5B%2FCOLOR%5D&amp;fanart=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.the-loop</defaultID>
+		<label>[COLOR teal]The Loop[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.the-loop/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.the-loop",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]Maverick Live Sports[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fmavericktv.net%2fdata%2ficons%2f3pm.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.MaverickTV/?url=http%3A%2F%2Fmavericktv.net%2Fdata%2Fsportslinks%2Fprem.xml&amp;mode=1&amp;name=%5BCOLOR+lime%5D%5BB%5DMaverick+Live+Sports%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fmavericktv.net%2Fdata%2Ficons%2F3pm.jpg&amp;fanart=http%3A%2F%2Fcorrectfootball.com%2Fwp-content%2Fuploads%2F2015%2F08%2FPREMIER-LEAGUE.jpg",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.Rising.Tides</defaultID>
+		<label>[COLOR teal]rising tides[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/repository.Rising.Tides/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Rising.Tides",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.SportsDevil</defaultID>
+		<label>[COLOR gray]SportsDevil[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.SportsDevil/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.SportsDevil",return)</action>
+	</shortcut>
+</shortcuts>

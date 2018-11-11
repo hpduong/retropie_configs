@@ -1,0 +1,235 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>MetalliQ Movies</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.metalliq/Movies/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/OpenELEQ/Style/master/MetalliQ/default/movies.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>MetalliQ TV shows</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.metalliq/TVShows/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/OpenELEQ/Style/master/MetalliQ/default/tv.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>MetalliQ Music videos</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.metalliq/Music/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/OpenELEQ/Style/master/MetalliQ/default/musicvideos.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>MetalliQ Channels</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.metalliq/Live/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/OpenELEQ/Style/master/MetalliQ/default/live.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>LIB</name>
+            <path pathversion="1">special://home/userdata/addon_data/context.addtolib/LIB/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>forqed TV shows</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.forqed/TVShows/</path>
+            <thumbnail pathversion="1">tv.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>forqed Music videos</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.forqed/Music/</path>
+            <thumbnail pathversion="1">musicvideos.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Titus TV shows</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.titus/TVShows/</path>
+            <thumbnail pathversion="1">http://www.csaints.com/master/Style/Master/Titus/default/tv.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Titus Music videos</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.titus/Music/</path>
+            <thumbnail pathversion="1">http://www.csaints.com/master/Style/Master/Titus/default/musicvideos.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Titus Channels</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.titus/Live/</path>
+            <thumbnail pathversion="1">http://www.csaints.com/master/Style/Master/Titus/default/live.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>OptiQ Movies</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.OptiQ/Movies/</path>
+            <thumbnail pathversion="1">special://home/addons/plugin.video.OptiQ/resources/themes/optiq/movies.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>OptiQ TV shows</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.OptiQ/TVShows/</path>
+            <thumbnail pathversion="1">special://home/addons/plugin.video.OptiQ/resources/themes/optiq/tv.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>[COLOR limegreen]M[/COLOR]etalli[COLOR limegreen]Q[/COLOR] 4[COLOR limegreen]Q[/COLOR]ed Movies</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.metalliq-forqed/Movies/</path>
+            <thumbnail pathversion="1">http://cellardoortv.com/style/themes/default/movies.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>[COLOR limegreen]M[/COLOR]etalli[COLOR limegreen]Q[/COLOR] 4[COLOR limegreen]Q[/COLOR]ed TV shows</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.metalliq-forqed/TVShows/</path>
+            <thumbnail pathversion="1">http://cellardoortv.com/style/themes/default/tv.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>.kodi</name>
+            <path pathversion="1">special://home/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.luxurywizard</name>
+            <path pathversion="1">http://luxurywizard.space/luxury/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>subzero</name>
+            <path pathversion="1">http://myrazer.me/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>incursion</name>
+            <path pathversion="1">http://addons4kodi.site/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Rising tides</name>
+            <path pathversion="1">http://mullafabz.xyz/Repository/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>ukturk</name>
+            <path pathversion="1">http://addoncloud.org/ukturk/install/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>where the live monsters(wolf-pack)</name>
+            <path pathversion="1">http://midian.srve.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>maverick repo</name>
+            <path pathversion="1">http://mavericktv.net/mavrepo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>supremacy</name>
+            <path pathversion="1">http://supremacy.org.uk/zip/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>loop</name>
+            <path pathversion="1">http://loopaddon.uk/loop/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>steptoes(monster munch)</name>
+            <path pathversion="1">http://steptoesplace.net/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>digibox</name>
+            <path pathversion="1">http://xdigital.xyz.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>pandoras box</name>
+            <path pathversion="1">http://euve251346.serverprofi24.net/pans-repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>madhouse</name>
+            <path pathversion="1">http://mahousecm.com/madhouse/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>vip secret</name>
+            <path pathversion="1">http://team-vipsecret.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>skydarks</name>
+            <path pathversion="1">http://www.skydarks.com/skydarks/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>gentecwiz</name>
+            <path pathversion="1">http://gen-tec.co/gentecwiz/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>androidbboy</name>
+            <path pathversion="1">http://androidbboy.xyz/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>bookmark</name>
+            <path pathversion="1">http://bliss-tv.com/blisstv/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>atom reborn</name>
+            <path pathversion="1">http://myatom.one/rebornrepo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>one nation</name>
+            <path pathversion="1">http://onenation.info/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>pure-repo</name>
+            <path pathversion="1">http://mrblamo.xyz/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>bookmark lite</name>
+            <path pathversion="1">http://bliss-tv.com/lite/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>cypher</name>
+            <path pathversion="1">http://cypher-media.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>cherry tv</name>
+            <path pathversion="1">http://cherrytv.webd.pl/CHERRY/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>cellardoor</name>
+            <path pathversion="1">http://cellardoortv.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>vista</name>
+            <path pathversion="1">http://vistatv.uk/repo/free/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>

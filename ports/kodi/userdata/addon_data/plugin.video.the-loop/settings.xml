@@ -1,0 +1,20 @@
+<settings>
+    <setting id="allow_debrid" value="true" />
+    <setting id="allow_openload" value="true" />
+    <setting id="allow_the_video_me" value="true" />
+    <setting id="allow_vidup_me" value="true" />
+    <setting id="autostart_queue" value="true" />
+    <setting id="cache_folder" value="special://profile/addon_data/plugin.video.the-loop/" />
+    <setting id="debug" value="false" />
+    <setting id="default_link" value="BOTH" />
+    <setting id="disable_metadata_dialog" value="false" />
+    <setting id="enable_gifs" value="false" />
+    <setting id="language_id" value="system" />
+    <setting id="link_fallthrough" value="true" />
+    <setting id="metadata" value="false" />
+    <setting id="movie_metadata_provider" value="Trakt" />
+    <setting id="settings_context" value="false" />
+    <setting id="trailer_context" value="false" />
+    <setting id="tv_metadata_provider" value="Trakt" />
+    <setting id="use_link_dialog" value="true" />
+</settings>

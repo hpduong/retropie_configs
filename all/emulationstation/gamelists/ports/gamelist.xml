@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Pixel.sh</path>
+		<name>Pixel Desktop</name>
+		<desc>Pixel desktop environment.</desc>
+		<image>./images/Pixel.png</image>
+		<marquee>./wheel/Pixel.png</marquee>
+		<video>./snap/Pixel.mp4</video>
+		<releasedate>2016-01-010</releasedate>
+		<developer>Google</developer>
+		<publisher>Google</publisher>
+		<genre>Media</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./jukebox.sh</path>
+		<name>Jukebox</name>
+		<desc>Let's play some music !</desc>
+		<image>./boxart/jukebox.png</image>
+		<marquee>./wheel/jukebox.png</marquee>
+		<video>./snap/jukebox.mp4</video>
+		<releasedate />
+		<developer>jukebox</developer>
+		<publisher>jukebox</publisher>
+		<genre>Media</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Chromium.sh</path>
+		<name>Chromium</name>
+		<desc>Chromium the best way to explore the web.</desc>
+		<image>./boxart/Chromium.png</image>
+		<video>./snap/Chromium.mp4</video>
+		<marquee>./wheel/Chromium.png</marquee>
+		<releasedate></releasedate>
+		<developer>Chromium</developer>
+		<publisher>Chromium</publisher>
+		<genre>Media</genre>
+		<playcount>1</playcount>
+		<lastplayed>20180423T080439</lastplayed>
+	</game>
+	<game>
+		<path>./Kodi.sh</path>
+		<name>Kodi</name>
+		<desc>Stream movies and TV shows from the internet.</desc>
+		<image>./images/kodi-image.png</image>
+		<video>./snap/Kodi.mp4</video>
+		<marquee>~/RetroPie/roms/kodi/wheel/Kodi.png</marquee>
+		<releasedate>2016-01-010</releasedate>
+		<developer>KODI</developer>
+		<publisher>KODI</publisher>
+		<genre>Media</genre>
+		<playcount>3</playcount>
+		<lastplayed>20180423T080733</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,1172 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="97673" source="ScreenScraper">
+		<path>./AcroJet (Japan).zip</path>
+		<name>AcroJet [Japon]</name>
+		<desc>In all ten events you fly a BD5J Acrojet over a series of obstacles: In the Pylon Race you have to fly around pylons and land safe</desc>
+		<marquee>./wheel/AcroJet (Japan).png</marquee>
+		<video>./snap/AcroJet (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>MicroProse Ltd.</developer>
+		<publisher>Systemsoft</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+	</game>
+	<game id="97685" source="ScreenScraper">
+		<path>./Aleste (Japan).zip</path>
+		<name>Aleste [Japon]</name>
+		<desc>Your planet has been overrun by the meanest mutant vegetation ever created in a genetics laboratory. It's taken over buildings, labs, fighter craft... even people! And it's getting bigger... and meaner... with each passing second. But it hasn't taken over you. Now, you're going in on a mission to deliver a POWER STRIKE! You have a special attack ship with the ability to use weapons you free from the ground. The action is hot and heavy. The enemy is coming faster than you could ever believe! So fight hard and fast. If you don't turn the mutated vegetation into a giant tossed salad, they'll turn you into toast!</desc>
+		<marquee>./wheel/Aleste (Japan).png</marquee>
+		<video>./snap/Aleste (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Compile</publisher>
+		<genre>Tir</genre>
+		<players>1</players>
+	</game>
+	<game id="97694" source="ScreenScraper">
+		<path>./American Soccer (Japan).zip</path>
+		<name>American Soccer [Japon]</name>
+		<desc />
+		<marquee>./wheel/American Soccer (Japan).png</marquee>
+		<video>./snap/American Soccer (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nippon Columbia /Colpax/Universal</developer>
+		<publisher>Nidecom</publisher>
+		<genre>Sport</genre>
+		<players>1</players>
+	</game>
+	<game id="97709" source="ScreenScraper">
+		<path>./Arctic - Active Rail Playing (Japan).zip</path>
+		<name>Arctic [Japon]</name>
+		<desc />
+		<marquee>./wheel/Arctic - Active Rail Playing (Japan).png</marquee>
+		<video>./snap/Arctic - Active Rail Playing (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer />
+		<publisher>Pony Canyon</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="97715" source="ScreenScraper">
+		<path>./Arkanoid II - Revenge of Doh (Japan).zip</path>
+		<name>Arkanoid II - Revenge of Doh [Japon]</name>
+		<desc>The mysterious enemy known as DOH has returned to seek vengeance on the Vaus space vessel. The player must once again take control of the Vaus (paddle) and overcome many challenges in order to destroy DOH once and for all. Revenge of Doh sees the player battle through 34 rounds, taken from a grand total of 64.</desc>
+		<marquee>./wheel/Arkanoid II - Revenge of Doh (Japan).png</marquee>
+		<video>./snap/Arkanoid II - Revenge of Doh (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Nidecom</publisher>
+		<genre />
+		<players>1-16</players>
+	</game>
+	<game id="97763" source="ScreenScraper">
+		<path>./Bubble Bobble (Japan).zip</path>
+		<name>Bubble Bobble [Japon]</name>
+		<desc>In the game, each player controls one of the two Bubble Dragons, Bub and Bob. The player can move along platforms, as well as jump to those above and to the side, similar to most platform games.
+
+The player can also blow bubbles. These can trap enemies, who are defeated if the bubble is then burst by the player's spiny back. The bubbles also float for a time before bursting, and can be jumped on, allowing access to otherwise inaccessible areas. Players progress to the next level once all enemies on the current level are defeated.</desc>
+		<marquee>./wheel/Bubble Bobble (Japan).png</marquee>
+		<video>./snap/Bubble Bobble (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Plateforme</genre>
+		<players>1-2</players>
+	</game>
+	<game id="98455" source="ScreenScraper">
+		<path>./Cockpit, The (Japan).zip</path>
+		<name>The Cockpit [Japon]</name>
+		<desc />
+		<marquee>./wheel/Cockpit, The (Japan).png</marquee>
+		<video>./snap/Cockpit, The (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>Nidecom</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="97795" source="ScreenScraper">
+		<path>./Contra (Japan).zip</path>
+		<name>Contra. Gryzor [Japon]</name>
+		<desc>The universe teeters on the brink of total annihilation at the hands of the vile alien warmonger, Red Falcon. Earth's only hope rests with you, a courageous member of the Special Forces elite commando squad. Your mission: Battle deep into the deadly Amazon jungle, where the Red Falcon and his galactic henchmen have transformed ancient Mayan temples into awesome monuments dedicated to mass destruction. A multitude of weapons, from rapid-fire machine guns to high-tech lasers are at your disposal as you sweat blood, fighting past 3-D mazes, underground security systems, and tropical forests surrounded by giant waterfalls and alien cannons. This is the ultimate test for the ultimate guerilla warrior. And if you survive, Earth survives!</desc>
+		<marquee>./wheel/Contra (Japan).png</marquee>
+		<video>./snap/Contra (Japan).mp4</video>
+		<thumbnail />
+		<rating>0.9</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Tir</genre>
+		<players>1</players>
+	</game>
+	<game id="97827" source="ScreenScraper">
+		<path>./Darwin 4078 (Japan).zip</path>
+		<name>Darwin 4078 [Japon]</name>
+		<desc>The game takes place within a gigantic spaceship which has virtually infinite capacity because of its ability to manipulate time and space. The player must deal with enigmatic creatures called EVOL, which consist only of pure energy and need to keep themselves in capsules in order to maintain their existence in the world.</desc>
+		<marquee>./wheel/Darwin 4078 (Japan).png</marquee>
+		<video>./snap/Darwin 4078 (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Tir</genre>
+		<players>1</players>
+	</game>
+	<game id="97845" source="ScreenScraper">
+		<path>./Dires - Giger Loop (Japan).zip</path>
+		<name>Dires - Giger Loop [Japon]</name>
+		<desc />
+		<marquee>./wheel/Dires - Giger Loop (Japan).png</marquee>
+		<video>./snap/Dires - Giger Loop (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Bothtec</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="97856" source="ScreenScraper">
+		<path>./Dragon Buster (Japan).zip</path>
+		<name>Dragon Buster [Japon]</name>
+		<desc />
+		<marquee>./wheel/Dragon Buster (Japan).png</marquee>
+		<video>./snap/Dragon Buster (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namcot</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="97861" source="ScreenScraper">
+		<path>./Dragon Quest (Japan).zip</path>
+		<name>Dragon Quest [Japon]</name>
+		<desc>All is darkness. The Dragon-lord has captured the Princess and stolen Erdrick's powerful ball of light. You are Erdrick's heir. To you has fallen the most dangerous task - to rescue the King's daughter and recover the mystic ball of light. Search out the Dragon-lord's lair and face your destiny. In this role-playing adventure you are the Dragon Warrior!</desc>
+		<marquee>./wheel/Dragon Quest (Japan).png</marquee>
+		<video>./snap/Dragon Quest (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Jeu de rÃ´les</genre>
+		<players>1</players>
+	</game>
+	<game id="95129" source="ScreenScraper">
+		<path>./Dragon Slayer IV - Drasle Family (Japan)(Translated En).zip</path>
+		<name>Dragon Slayer IV - Drasle Family</name>
+		<desc />
+		<marquee>./wheel/Dragon Slayer IV - Drasle Family (Japan)(Translated En).png</marquee>
+		<video>./snap/Dragon Slayer IV - Drasle Family (Japan)(Translated En).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Falcom</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="95129" source="ScreenScraper">
+		<path>./Dragon Slayer IV - Drasle Family (Japan).zip</path>
+		<name>Dragon Slayer 4 - Drasle Family [Japon]</name>
+		<desc />
+		<marquee>./wheel/Dragon Slayer IV - Drasle Family (Japan).png</marquee>
+		<video>./snap/Dragon Slayer IV - Drasle Family (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Falcom</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="97880" source="ScreenScraper">
+		<path>./Druid (Japan).zip</path>
+		<name>Druid [Japon]</name>
+		<desc>Inspired by the arcade game Gauntlet, Druid is a fantasy-themed action-adventure game, where the player plays the part of Hasrinaxx, a druid who is trying to rid the world of the dark mage Acamantor and his army of demons. To do this, Hasrinaxx must travel through several levels.
+
+The first level is a normal landscape, and the ones after that are underground, each one deeper than the previous. Each level is infested with various enemies such as ghosts, giant insects, witches, and the four demon princes. Hasrinaxx can shoot these enemies with three different weapons: water, fire, and electricity, but they all come in a finite supply and are not equally effective on all enemies. Hasrinaxx can also summon a golem to help him, or turn invisible for a brief period.</desc>
+		<marquee>./wheel/Druid (Japan).png</marquee>
+		<video>./snap/Druid (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nippon Dexter</developer>
+		<publisher>Nippon Dexter</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="95158" source="ScreenScraper">
+		<path>./Dynamite Bowl (Japan).zip</path>
+		<name>Dynamite Bowl [Japon]</name>
+		<desc>Dynamite Bowl is a bowling game simulation based on the real bowling sport and can be played up to five players at one of the thirty lanes.
+The game has two difficulty levels.
+Game variables that can be controlled are: your position at the lane, set the strength of the throw and control the loft and curve of the bowling ball.</desc>
+		<marquee>./wheel/Dynamite Bowl (Japan).png</marquee>
+		<video>./snap/Dynamite Bowl (Japan).mp4</video>
+		<thumbnail />
+		<rating>0.65</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Softvision Co., Ltd.</developer>
+		<publisher>Toshiba-EMI Ltd.</publisher>
+		<genre>Sport</genre>
+		<players>1-5</players>
+	</game>
+	<game id="98457" source="ScreenScraper">
+		<path>./Eidolon, The (Europe).zip</path>
+		<name>The Eidolon [Europe]</name>
+		<desc />
+		<marquee>./wheel/Eidolon, The (Europe).png</marquee>
+		<video>./snap/Eidolon, The (Europe).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer />
+		<publisher>Pony Canyon</publisher>
+		<genre />
+		<players>1</players>
+	</game>
+	<game id="97904" source="ScreenScraper">
+		<path>./F-15 Strike Eagle (Japan).zip</path>
+		<name>F-15 Strike Eagle [Japon]</name>
+		<desc />
+		<marquee>./wheel/F-15 Strike Eagle (Japan).png</marquee>
+		<video>./snap/F-15 Strike Eagle (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>System Soft</publisher>
+		<genre />
+		<players>1</players>
+	</game>
+	<game id="97906" source="ScreenScraper">
+		<path>./Famicle Parodic (Japan).zip</path>
+		<name>Famicle Parodic [Japon]</name>
+		<desc>Shoot and bomb your way around in this Xevious-style shooter for the MSX2.</desc>
+		<marquee>./wheel/Famicle Parodic (Japan).png</marquee>
+		<video>./snap/Famicle Parodic (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>BitÂ²</developer>
+		<publisher>BitÂ²</publisher>
+		<genre>Tir</genre>
+		<players>1</players>
+	</game>
+	<game id="97909" source="ScreenScraper">
+		<path>./Family Billiards (Japan).zip</path>
+		<name>Family Billiards [Japon]</name>
+		<desc />
+		<marquee>./wheel/Family Billiards (Japan).png</marquee>
+		<video>./snap/Family Billiards (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Pack In Video</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="97911" source="ScreenScraper">
+		<path>./Family Boxing - MSX Title Match (Japan).zip</path>
+		<name>Family Boxing [Japon]</name>
+		<desc />
+		<marquee>./wheel/Family Boxing - MSX Title Match (Japan).png</marquee>
+		<video>./snap/Family Boxing - MSX Title Match (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>Sony</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="97915" source="ScreenScraper">
+		<path>./Fantasy Zone II - The Tears of Opa-Opa (Japan).zip</path>
+		<name>Fantasy Zone II - The Tears of Opa-Opa [Japon]</name>
+		<desc />
+		<marquee>./wheel/Fantasy Zone II - The Tears of Opa-Opa (Japan).png</marquee>
+		<video>./snap/Fantasy Zone II - The Tears of Opa-Opa (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Pony Canyon</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="97925" source="ScreenScraper">
+		<path>./Fire Ball (Japan).zip</path>
+		<name>Fire Ball [Japon]</name>
+		<desc>Generic Pinball Game</desc>
+		<marquee>./wheel/Fire Ball (Japan).png</marquee>
+		<video>./snap/Fire Ball (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hummingbird Soft</developer>
+		<publisher>Hummingbird Soft</publisher>
+		<genre />
+		<players>1</players>
+	</game>
+	<game id="97953" source="ScreenScraper">
+		<path>./Garyuu Ou (Japan).zip</path>
+		<name>Garyuoh. Dragon King [Japon]</name>
+		<desc />
+		<marquee>./wheel/Garyuu Ou (Japan).png</marquee>
+		<video>./snap/Garyuu Ou (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Xain</developer>
+		<publisher>Xain</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="98460" source="ScreenScraper">
+		<path>./Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).zip</path>
+		<name>The Pro Yakyuu Gekitotsu Pennant Race [Japon]</name>
+		<desc />
+		<marquee>./wheel/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).png</marquee>
+		<video>./snap/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>Konami</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="97958" source="ScreenScraper">
+		<path>./Gekitotsu Pennant Race 2 (Japan) (English Menu).zip</path>
+		<name>Gekitotsu Pennant Race 2 [Japon]</name>
+		<desc />
+		<marquee>./wheel/Gekitotsu Pennant Race 2 (Japan) (English Menu).png</marquee>
+		<video>./snap/Gekitotsu Pennant Race 2 (Japan) (English Menu).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer />
+		<publisher>Konami</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="97968" source="ScreenScraper">
+		<path>./Girly Block (Japan).zip</path>
+		<name>Girly Block [Japon]</name>
+		<desc>A supercomputer called "Omega" has kidnapped a valious asset. At your hands the most powerful unit to stand a chance to rescue her.</desc>
+		<marquee>./wheel/Girly Block (Japan).png</marquee>
+		<video>./snap/Girly Block (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Nippon Telenet</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="97994" source="ScreenScraper">
+		<path>./Han Seimei Senki Andorogynus (Japan).zip</path>
+		<name>Andorogynus [Japon]</name>
+		<desc>In our universe matter and anti-matter co-exist with each other. However, prevalence of anti-matter may create chaos and eventually disrupt the normal flow of things. In a corner of a universe, a concentration of anti-matter led to the creation of an entire star, breeding forms of life threatening to destroy the world. Human beings, in an effort to save the universe, created the powerful Andorogynus - a life form capable of being male and female at once - and sent it on a mission to destroy the creation of anti-matter.</desc>
+		<marquee>./wheel/Han Seimei Senki Andorogynus (Japan).png</marquee>
+		<video>./snap/Han Seimei Senki Andorogynus (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Telenet Japan</developer>
+		<publisher>Telenet Japan</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="97997" source="ScreenScraper">
+		<path>./Hard Ball (Japan).zip</path>
+		<name>Hardball [Japon]</name>
+		<desc />
+		<marquee>./wheel/Hard Ball (Japan).png</marquee>
+		<video>./snap/Hard Ball (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Sony</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="97999" source="ScreenScraper">
+		<path>./Heroes of the Lance (Japan).zip</path>
+		<name>Heroes of the Lance [Japon]</name>
+		<desc>Based on the later parts of the Dragonlance book Dragons of Autumn Twilight, the heroes descend into a ruined city in search of the disks of Mishakal.
+
+The gameplay consists of horizontal fighting with a maze like map using doors to change the view. The party consists of the 8 Heroes of the Lance, using one at a time and the player can switch between them at any time. Each character has different types of attacks and spells making them more suited to fighting different enemies as well as acting as lives.
+
+One of the AD&amp;D games that takes a break from the usual RPG style.</desc>
+		<marquee>./wheel/Heroes of the Lance (Japan).png</marquee>
+		<video>./snap/Heroes of the Lance (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Pony Canyon</developer>
+		<publisher>Pony Canyon</publisher>
+		<genre>Jeu de rÃ´les</genre>
+		<players>1</players>
+	</game>
+	<game id="98003" source="ScreenScraper">
+		<path>./Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan).zip</path>
+		<name>Makaijima - Higemaru [Japon]</name>
+		<desc />
+		<marquee>./wheel/Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan).png</marquee>
+		<video>./snap/Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Capcom</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98008" source="ScreenScraper">
+		<path>./Hinotori - Houou Hen (Japan).zip</path>
+		<name>Hinotori. Firebird [Japon]</name>
+		<desc />
+		<marquee>./wheel/Hinotori - Houou Hen (Japan).png</marquee>
+		<video>./snap/Hinotori - Houou Hen (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Konami</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98011" source="ScreenScraper">
+		<path>./Hole in One Special (Japan).zip</path>
+		<name>Hole in One Special [Japon]</name>
+		<desc>Sequel to "Hole in One", and "Hole in One Professional". This one is for the MSX2 and makes good use of its graphics capabilities.</desc>
+		<marquee>./wheel/Hole in One Special (Japan).png</marquee>
+		<video>./snap/Hole in One Special (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>HAL Labs</developer>
+		<publisher>HAL Labs</publisher>
+		<genre>Sport</genre>
+		<players>1-2</players>
+	</game>
+	<game id="98016" source="ScreenScraper">
+		<path>./Hydlide 3 - The Space Memories (Japan).zip</path>
+		<name>Hydlide III - The Space Memories [Japon]</name>
+		<desc />
+		<marquee>./wheel/Hydlide 3 - The Space Memories (Japan).png</marquee>
+		<video>./snap/Hydlide 3 - The Space Memories (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>T&amp;E Soft</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98022" source="ScreenScraper">
+		<path>./Ikari (Japan).zip</path>
+		<name>Ikari Warriors [Japon]</name>
+		<desc />
+		<marquee>./wheel/Ikari (Japan).png</marquee>
+		<video>./snap/Ikari (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>SNK</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98061" source="ScreenScraper">
+		<path>./Kenpelen Chess (Japan).zip</path>
+		<name>Kempelen Chess</name>
+		<desc />
+		<marquee>./wheel/Kenpelen Chess (Japan).png</marquee>
+		<video>./snap/Kenpelen Chess (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>Pony Canyon</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98068" source="ScreenScraper">
+		<path>./King Kong 2 - Yomigaeru Densetsu (Japan).zip</path>
+		<name>King Kong 2 [Japon]</name>
+		<desc />
+		<marquee>./wheel/King Kong 2 - Yomigaeru Densetsu (Japan).png</marquee>
+		<video>./snap/King Kong 2 - Yomigaeru Densetsu (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer />
+		<publisher>Konami</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="95751" source="ScreenScraper">
+		<path>./King's Valley II - The Seal of El Giza (Japan).zip</path>
+		<name>King's Valley II</name>
+		<desc>The game consists of six pyramids each with its own wall engravings and color pattern; every pyramid contains 10 levels. The idea of the game is to collect crystals called soul stones in each level by solving the different puzzles and evading or killing the enemies using the many tools and weapons available to unlock the exit door that will take you to the next level.</desc>
+		<marquee>./wheel/King's Valley II - The Seal of El Giza (Japan).png</marquee>
+
+		<video>./snap/King's Valley II - The Seal of El Giza (Japan).mp4</video>
+		<thumbnail />
+		<rating>0.85</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game id="98078" source="ScreenScraper">
+		<path>./Koronis Rift (Europe).zip</path>
+		<name>Koronis Rift [Europe]</name>
+		<desc>Koronis Rift is a December 1985 computer game from Lucasfilm Games. It was produced and designed by Noah Falstein.
+
+The game was supplied on a flippy disk. One side had the Atari version, the other side had the Commodore 64 version. A cassette version was also released for the Commodore 64. The Atari version required computers with the GTIA chip installed in order to display properly.</desc>
+		<marquee>./wheel/Koronis Rift (Europe).png</marquee>
+
+		<video>./snap/Koronis Rift (Europe).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Pony Canyon</publisher>
+		<genre />
+		<players>1</players>
+	</game>
+	<game id="98118" source="ScreenScraper">
+		<path>./Lupin Sansei - Babylon no Ougon Densetsu (Japan).zip</path>
+		<name>Arsene Lupin 3rd 2 - Babiron no Ougon Densetsu [Japon]</name>
+		<desc />
+		<marquee>./wheel/Lupin Sansei - Babylon no Ougon Densetsu (Japan).png</marquee>
+		<video>./snap/Lupin Sansei - Babylon no Ougon Densetsu (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>Toho</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98119" source="ScreenScraper">
+		<path>./Lupin Sansei - Cagliostro no Shiro (Japan).zip</path>
+		<name>Arsene Lupin 3rd - Cariostoro no Siro [Japon]</name>
+		<desc />
+		<marquee>./wheel/Lupin Sansei - Cagliostro no Shiro (Japan).png</marquee>
+		<video>./snap/Lupin Sansei - Cagliostro no Shiro (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Toho</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98121" source="ScreenScraper">
+		<path>./Mad Rider (Japan).zip</path>
+		<name>Mad Rider [Japon]</name>
+		<desc>Racing game against the clock. At the beginning you can select between six courses (Megacity, Plateau, Alps, Island, Egyptian and Canyon). Your driving a red sports car, and need to avoid other drivers and obstacles. You don't race other drivers.. If you hit objects you tend to explode, apart from water, oil and Motor Cyclists!? where you spin out and can regain control. The gameplay is laggy and the graphics for an MSX2 game are very poor.</desc>
+		<marquee>./wheel/Mad Rider (Japan).png</marquee>
+		<video>./snap/Mad Rider (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Carry Lab</developer>
+		<publisher>Carry Lab</publisher>
+		<genre>Course, Conduite</genre>
+		<players>1</players>
+	</game>
+	<game id="98140" source="ScreenScraper">
+		<path>./Malaya no Hibou (Japan).zip</path>
+		<name>Malaya no Hihou [Japon]</name>
+		<desc />
+		<marquee>./wheel/Malaya no Hibou (Japan).png</marquee>
+		<video>./snap/Malaya no Hibou (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer />
+		<publisher>Pony Canyon</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98152" source="ScreenScraper">
+		<path>./Metal Gear (Europe).zip</path>
+		<name>Metal Gear [Europe]</name>
+		<desc>En 1995, un groupe de mercenaires provoque une crise en Afrique du Sud en Ã©rigeant une place forte, la forteresse Â« Outer Heaven Â». D'aprÃ¨s le renseignement, Outer Heaven abrite le dÃ©veloppement d'une nouvelle arme qui pourrait menacer l'Ã©quilibre des forces de dissuasion nuclÃ©aire. L'unitÃ© des forces spÃ©ciales Fox Hound est chargÃ©e d'intervenir afin de trouver des informations sur cette arme. Son meilleur agent, Gray Fox est envoyÃ© en mission d'infiltration Ã  Outer Heaven mais tout contact est rompu aprÃ¨s un dernier message : Â« Metal Gear... Â». Fox Hound fait appel Ã  une nouvelle recrue, Solid Snake, pour enquÃªter sur la disparition de Gray Fox et la mystÃ©rieuse arme.</desc>
+		<marquee>./wheel/Metal Gear (Europe).png</marquee>
+		<video>./snap/Metal Gear (Europe).mp4</video>
+		<thumbnail />
+		<rating>1</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="98152" source="ScreenScraper">
+		<path>./Metal Gear (Japan).zip</path>
+		<name>Metal Gear [Japon]</name>
+		<desc>En 1995, un groupe de mercenaires provoque une crise en Afrique du Sud en Ã©rigeant une place forte, la forteresse Â« Outer Heaven Â». D'aprÃ¨s le renseignement, Outer Heaven abrite le dÃ©veloppement d'une nouvelle arme qui pourrait menacer l'Ã©quilibre des forces de dissuasion nuclÃ©aire. L'unitÃ© des forces spÃ©ciales Fox Hound est chargÃ©e d'intervenir afin de trouver des informations sur cette arme. Son meilleur agent, Gray Fox est envoyÃ© en mission d'infiltration Ã  Outer Heaven mais tout contact est rompu aprÃ¨s un dernier message : Â« Metal Gear... Â». Fox Hound fait appel Ã  une nouvelle recrue, Solid Snake, pour enquÃªter sur la disparition de Gray Fox et la mystÃ©rieuse arme.</desc>
+		<marquee>./wheel/Metal Gear (Japan).png</marquee>
+		<video>./snap/Metal Gear (Japan).mp4</video>
+		<thumbnail />
+		<rating>1</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="98163" source="ScreenScraper">
+		<path>./Mirai (Japan).zip</path>
+		<name>Mirai 2. Future 2 [Japon]</name>
+		<desc>Japanese RPG
+
+Two versions exist, one for the MSX1 and one for the MSX2 with better graphics.</desc>
+		<marquee>./wheel/Mirai (Japan).png</marquee>
+		<video>./snap/Mirai (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Xain</developer>
+		<publisher>Xain</publisher>
+		<genre>Jeu de rÃ´les</genre>
+		<players>1</players>
+	</game>
+	<game id="109073" source="ScreenScraper">
+		<path>./Monmon Kaibutsu (Japan).zip</path>
+		<name>Mon Mon Monster [Japon]</name>
+		<desc />
+		<marquee>./wheel/Monmon Kaibutsu (Japan).png</marquee>
+		<video>./snap/Monmon Kaibutsu (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer />
+		<publisher>Hot-b</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98198" source="ScreenScraper">
+		<path>./Ninja-kun - Asura no Shou (Japan).zip</path>
+		<name>Ninja Kun - Ashura no Sho [Japon]</name>
+		<desc />
+		<marquee>./wheel/Ninja-kun - Asura no Shou (Japan).png</marquee>
+		<video>./snap/Ninja-kun - Asura no Shou (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>HAL Laboratory</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98220" source="ScreenScraper">
+		<path>./Ogre (Japan).zip</path>
+		<name>Ogre [Japon]</name>
+		<desc>Ogre is a 2D turn-based strategy game, and a direct computer conversion of Steve Jackson's board game of supertanks going against conventional infantry with howitzers. It plays exactly like the board game - on a hex-based board one player controls ordinary military units (soldiers, tanks etc.), and defends against the second player, who controls a supertank named "Ogre" - Ogre is very powerful, and can easily destroy normal weaponry and ground forces.</desc>
+		<marquee>./wheel/Ogre (Japan).png</marquee>
+		<video>./snap/Ogre (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Systemsoft</publisher>
+		<genre>StratÃ©gie</genre>
+		<players>1</players>
+	</game>
+	<game id="98225" source="ScreenScraper">
+		<path>./Out Run (Japan).zip</path>
+		<name>Out Run [Japon]</name>
+		<desc />
+		<marquee>./wheel/Out Run (Japan).png</marquee>
+		<video>./snap/Out Run (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>Pony Canyon</publisher>
+		<genre>Course, Conduite</genre>
+		<players />
+	</game>
+	<game id="98231" source="ScreenScraper">
+		<path>./Pac-Mania (Japan).zip</path>
+		<name>Pac-Mania [Japon]</name>
+		<desc>Pac-Mania is a variation on the game Pac-Man. You need to guide Pac-Man around a maze and eat all of the dots on the board in order to proceed on to the next round. Numerous, multi-colored ghosts also roam the maze trying to stop you. If you eat one of the power pellets in the maze, the ghosts will temporarily turn blue and run from you. Pac-man can earn bonus points by eating the ghosts when they are in this state. The maze is now in 3-D and is larger than screen which will scroll to follow the action. To help get out of tight spots, Pac-Man now has the ability to jump. But be careful, because some of the ghosts have learned this trick as well and you could end up in a mid air collision!</desc>
+		<marquee>./wheel/Pac-Mania (Japan).png</marquee>
+		<video>./snap/Pac-Mania (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namcot</publisher>
+		<genre />
+		<players>1</players>
+	</game>
+	<game id="98237" source="ScreenScraper">
+		<path>./Penguin-kun Wars 2 (Japan).zip</path>
+		<name>Penguin Kun Wars 2 [Japon]</name>
+		<desc>Penguin-Kun and his friend Penpi-chan are playing a game, when suddenly Penpi-chani is kidnapped. Penguin-kun must challenge the world's finest in order to save her, but a greater evil lurks in the unknown.</desc>
+		<marquee>./wheel/Penguin-kun Wars 2 (Japan).png</marquee>
+		<video>./snap/Penguin-kun Wars 2 (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>ASCII</developer>
+		<publisher>ASCII</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+	</game>
+	<game id="98255" source="ScreenScraper">
+		<path>./Predator (Japan).zip</path>
+		<name>Predator [Japon]</name>
+		<desc />
+		<marquee>./wheel/Predator (Japan).png</marquee>
+		<video>./snap/Predator (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>Pack In Video</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98258" source="ScreenScraper">
+		<path>./Pro Yakyuu Family Stadium - Pennant Race (Japan).zip</path>
+		<name>Pro Yakyuu Family Stadium [Japon]</name>
+		<desc />
+		<marquee>./wheel/Pro Yakyuu Family Stadium - Pennant Race (Japan).png</marquee>
+		<video>./snap/Pro Yakyuu Family Stadium - Pennant Race (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+	</game>
+	<game id="98259" source="ScreenScraper">
+		<path>./Pro Yakyuu Fan - Telenet Stadium (Japan).zip</path>
+		<name>Pro Yakyuu Fan Telenet Stadium [Japon]</name>
+		<desc />
+		<marquee>./wheel/Pro Yakyuu Fan - Telenet Stadium (Japan).png</marquee>
+		<video>./snap/Pro Yakyuu Fan - Telenet Stadium (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>Telenet Japan</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98263" source="ScreenScraper">
+		<path>./Project A2 - Shijousaidai no Hyouteki (Japan).zip</path>
+		<name>Project A2 - Shijousaidai no Hyouteki [Japon]</name>
+		<desc />
+		<marquee>./wheel/Project A2 - Shijousaidai no Hyouteki (Japan).png</marquee>
+		<video>./snap/Project A2 - Shijousaidai no Hyouteki (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Pony Canyon</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98277" source="ScreenScraper">
+		<path>./Quarth (Japan) (Demo).zip</path>
+		<name>Quarth [Japon] (Demo)</name>
+		<desc>Quarth is a combination of Tetris-style gameplay and a fixed shooter in the Space Invaders tradition.</desc>
+		<marquee>./wheel/Quarth (Japan) (Demo).png</marquee>
+		<video>./snap/Quarth (Japan) (Demo).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game id="98282" source="ScreenScraper">
+		<path>./Quinpl (Japan).zip</path>
+		<name>Quinpl [Japon]</name>
+		<desc />
+		<marquee>./wheel/Quinpl (Japan).png</marquee>
+		<video>./snap/Quinpl (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>Bit2</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98295" source="ScreenScraper">
+		<path>./Rastan Saga (Japan).zip</path>
+		<name>Rastan [Japon]</name>
+		<desc />
+		<marquee>./wheel/Rastan Saga (Japan).png</marquee>
+		<video>./snap/Rastan Saga (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>Taito</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98303" source="ScreenScraper">
+		<path>./Replicart (Japan).zip</path>
+		<name>Replicart [Japon]</name>
+		<desc>It is the 22nd century. Earth is invaded by a aliens, led by a gigantic robotic snake. To repel the attack, Earth's scientists construct the Replicart machine, a deadly robot snake. The player takes the role of the pilot of the Replicart.</desc>
+		<marquee>./wheel/Replicart (Japan).png</marquee>
+		<video>./snap/Replicart (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Dual Corporation</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98467" source="ScreenScraper">
+		<path>./Return of Ishtar, The (Japan).zip</path>
+		<name>The Return of Ishtar [Japon]</name>
+		<desc />
+		<marquee>./wheel/Return of Ishtar, The (Japan).png</marquee>
+		<video>./snap/Return of Ishtar, The (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>Namcot</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98305" source="ScreenScraper">
+		<path>./Return of Jelda (Japan).zip</path>
+		<name>Return of Jelda [Japon]</name>
+		<desc />
+		<marquee>./wheel/Return of Jelda (Japan).png</marquee>
+		<video>./snap/Return of Jelda (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Carry Lab</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98310" source="ScreenScraper">
+		<path>./Rick to Mick no Daibouken (Japan).zip</path>
+		<name>Rick to Mick no Daibouken [Japon]</name>
+		<desc />
+		<marquee>./wheel/Rick to Mick no Daibouken (Japan).png</marquee>
+		<video>./snap/Rick to Mick no Daibouken (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Humming Bird Soft</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98340" source="ScreenScraper">
+		<path>./Scramble Formation (Japan).zip</path>
+		<name>Scramble Formation [Japon]</name>
+		<desc />
+		<marquee>./wheel/Scramble Formation (Japan).png</marquee>
+		<video>./snap/Scramble Formation (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Taito</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98386" source="ScreenScraper">
+		<path>./Space Manbow (Japan).zip</path>
+		<name>Space Manbow [Japon]</name>
+		<desc />
+		<marquee>./wheel/Space Manbow (Japan).png</marquee>
+		<video>./snap/Space Manbow (Japan).mp4</video>
+		<thumbnail />
+		<rating>1</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Tir</genre>
+		<players>1</players>
+	</game>
+	<game id="98392" source="ScreenScraper">
+		<path>./Star Virgin (Japan).zip</path>
+		<name>Star Virgin [Japon]</name>
+		<desc>Star Virgins about as obscure as it comes, its a promotional hour long straight to video film from Japan. That was made to promote a little seen videogame of the same name distributed by Activision that only ever appeared on the long forgotten msx system.
+
+Plays out pretty much like a bonkers live action anime movie. Its a camp science fiction fantasy comedy about a girl whose secretly the lone fighter of justice Star Virgin, its her pursuit to stop the planet being attacked from robotic &amp; puppet monsters, giant spiders and whatever else would warrant as being an end of level boss in an 80s video game... at least I think thats the overall idea, because its obviously never been translated into English its hard to totally fathom out what the hells going on, but hey thats the beauty of the Japanese movies right.</desc>
+		<marquee>./wheel/Star Virgin (Japan).png</marquee>
+		<video>./snap/Star Virgin (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Marionette</developer>
+		<publisher>Pony Canyon</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="98395" source="ScreenScraper">
+		<path>./Strategic Mars (Japan).zip</path>
+		<name>Strategic Mars [Japon]</name>
+		<desc />
+		<marquee>./wheel/Strategic Mars (Japan).png</marquee>
+		<video>./snap/Strategic Mars (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>dB-SOFT</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98407" source="ScreenScraper">
+		<path>./Super Daisenryaku (Japan).zip</path>
+		<name>Super Daisenryaku [Japon]</name>
+		<desc>Japanese strategy game</desc>
+		<marquee>./wheel/Super Daisenryaku (Japan).png</marquee>
+		<video>./snap/Super Daisenryaku (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>System Soft</developer>
+		<publisher>MicroCabin</publisher>
+		<genre>StratÃ©gie</genre>
+		<players>1-4</players>
+	</game>
+	<game id="98412" source="ScreenScraper">
+		<path>./Super Load Runner (Japan).zip</path>
+		<name>Super Lode Runner [Japon]</name>
+		<desc />
+		<marquee>./wheel/Super Load Runner (Japan).png</marquee>
+		<video>./snap/Super Load Runner (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Irem</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98414" source="ScreenScraper">
+		<path>./Super Rambo Special (Japan).zip</path>
+		<name>Super Rambo Special [Japon]</name>
+		<desc>Super Rambo Special is a stealth-action-RPG based on the movie Rambo: First Blood Part 2. It was released for the MSX in 1986 and featured some early stealth elements anticipating Metal Gear.</desc>
+		<marquee>./wheel/Super Rambo Special (Japan).png</marquee>
+		<video>./snap/Super Rambo Special (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Pack-In-Video</developer>
+		<publisher>Pack-In-Video</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="98415" source="ScreenScraper">
+		<path>./Super Runner (Japan).zip</path>
+		<name>Super Runner [Japon]</name>
+		<desc>Sports type running game with a twist. This game can be played with two players or against the computer. You need to pick up an object that resembles an American Football and be the first to cross the finish line. The other player needs to try to take the ball from you. For this you can hit and kick each other.
+
+On the first level it is just a straight run, there are no objects or enemies to stop you. But on subsequent levels you will need to avoid varies enemies and use your hitting and kicking to break blocks that are in your way. The blocks can fall on your head which stuns you for a few seconds, likewise if you get hit by an enemy. Get hit too often and you die.</desc>
+		<marquee>./wheel/Super Runner (Japan).png</marquee>
+		<video>./snap/Super Runner (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Pony Canyon</developer>
+		<publisher>Pony Canyon</publisher>
+		<genre>Combat</genre>
+		<players>2</players>
+	</game>
+	<game id="109078" source="ScreenScraper">
+		<path>./Super Tritorn (Japan).zip</path>
+		<name>Super Tritorn [Japon]</name>
+		<desc />
+		<marquee>./wheel/Super Tritorn (Japan).png</marquee>
+		<video>./snap/Super Tritorn (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer />
+		<publisher>Xain</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98438" source="ScreenScraper">
+		<path>./Tengoku Yoitoko (Japan).zip</path>
+		<name>Tengoku Yoitoko. Heaven [Japon]</name>
+		<desc />
+		<marquee>./wheel/Tengoku Yoitoko (Japan).png</marquee>
+		<video>./snap/Tengoku Yoitoko (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Taito</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98442" source="ScreenScraper">
+		<path>./Tetris (Japan).zip</path>
+		<name>Tetris [Japon]</name>
+		<desc />
+		<marquee>./wheel/Tetris (Japan).png</marquee>
+		<video>./snap/Tetris (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>BPS</publisher>
+		<genre />
+		<players>1</players>
+	</game>
+	<game id="98472" source="ScreenScraper">
+		<path>./Treasure of Usas, The (Japan, Europe).zip</path>
+		<name>The Treasure of Usas [Japon]</name>
+		<desc />
+		<marquee>./wheel/Treasure of Usas, The (Japan, Europe).png</marquee>
+		<video>./snap/Treasure of Usas, The (Japan, Europe).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>Konami</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98515" source="ScreenScraper">
+		<path>./Vampire Killer (Japan).zip</path>
+		<name>Vampire Killer</name>
+		<desc />
+		<marquee>./wheel/Vampire Killer (Japan).png</marquee>
+		<video>./snap/Vampire Killer (Japan).mp4</video>
+		<thumbnail />
+		<rating>1</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="98533" source="ScreenScraper">
+		<path>./Woody Poco (Japan).zip</path>
+		<name>Woody Poco [Japon]</name>
+		<desc />
+		<marquee>./wheel/Woody Poco (Japan).png</marquee>
+		<video>./snap/Woody Poco (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer />
+		<publisher>dB-SOFT</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98542" source="ScreenScraper">
+		<path>./Xevious - Fardraut Saga (Japan).zip</path>
+		<name>Xevious - Fardraut Saga [Japon]</name>
+		<desc />
+		<marquee>./wheel/Xevious - Fardraut Saga (Japan).png</marquee>
+		<video>./snap/Xevious - Fardraut Saga (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>Namcot</publisher>
+		<genre />
+		<players>1</players>
+	</game>
+	<game id="98560" source="ScreenScraper">
+		<path>./Yuurei Kun (Japan).zip</path>
+		<name>Yuurei-kun</name>
+		<desc />
+		<marquee>./wheel/Yuurei Kun (Japan).png</marquee>
+		<video>./snap/Yuurei Kun (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer />
+		<publisher>System Sacom</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98561" source="ScreenScraper">
+		<path>./Zanac-Ex (Japan).zip</path>
+		<name>Zanac Ex</name>
+		<desc />
+		<marquee>./wheel/Zanac-Ex (Japan).png</marquee>
+		<video>./snap/Zanac-Ex (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer />
+		<publisher>Pony Canyon</publisher>
+		<genre />
+		<players />
+	</game>
+	<game id="98567" source="ScreenScraper">
+		<path>./Zombie Hunter (Japan).zip</path>
+		<name>Zombie Hunter [Japon]</name>
+		<desc />
+		<marquee>./wheel/Zombie Hunter (Japan).png</marquee>
+		<video>./snap/Zombie Hunter (Japan).mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer />
+		<publisher>Hi-Score Software</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./1942 (Japan).zip</path>
+		<name>1942 [Japon]</name>
+		<desc>1942 est un jeu de tir Ã  dÃ©filement vertical pour un ou deux joueur. L'action se passe en 1942 et vous Ãªtes un pilotes d'Ã©lite "Super Ace". AprÃ¨s avoir dÃ©collÃ© d'un porte-avion vous vous envolez pour combattre des ennemis au sol et en l'air. AprÃ¨s avoir dÃ©truit certains ennemis vous pourrez collecter divers "power up" pour amÃ©liorer votre puissance de feu et vos chances de survie.</desc>
+		<marquee>./wheel/1942 (Japan).png</marquee>
+		<video>./snap/1942 (Japan).mp4</video>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>ASCII Corporation</publisher>
+		<genre>Tir</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20180313T123613</lastplayed>
+	</game>
+</gameList>

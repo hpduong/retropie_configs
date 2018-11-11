@@ -1,0 +1,8 @@
+<settings>
+    <setting id="adult" value="false" />
+    <setting id="count" value="127" />
+    <setting id="enable_meta" value="false" />
+    <setting id="fav" value="no" />
+    <setting id="password" value="" />
+    <setting id="tv" value="Sports" />
+</settings>

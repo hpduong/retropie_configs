@@ -1,0 +1,864 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gameList>
+  <game id="39972" source="ScreenScraper.fr">
+    <path>./alien3.zip</path>
+    <name>Alien3: The Gun (World)</name>
+    <desc>Alien3 the gun fait partie de la deuxième série des jeux (terminator II par exemple) où le joueur tire avec une reproduction de mitraillette. Comme avant lui Operation wolf.
+
+bien bourrin et avec quasiment pas de temps mort, vous exterminerez moults aliens, et j'ai crié et j'ai crié, via mitraillette, lance flammes, grenades, Céline Dion...heu bref, un ancêtre des jeux comme virtua cop, time crisis et house of the dead.
+
+</desc>
+    <rating>0.7</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/alien3.png</marquee>
+    <video>./snap/alien3.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="40053" source="ScreenScraper.fr">
+    <path>./nycaptor.zip</path>
+    <name>Area 51 (Time Warner license, Oct 17, 1996)</name>
+    <desc>This game takes the player through several sections of the facility, including a warehouse and underground tunnels. The player is tasked, along with fellow STAAR members, to penetrate Area 51 and activate the nuclear self-destruct sequence. The player must kill all of the genetically altered soldiers and aliens without harming any allied STAAR team members (at the cost of one life point), however if nothing but three STAAR team members are shot, the Kronn Hunter will be started, taking the role of a Hunter, sent by the Kronn to eliminate the rebels. None of the actual aliens will appear until the office level.
+
+There are five types of different weaponry available to the player during the course of the game. While the player is only given a semi-automatic pistol in the beginning, weapon upgrades are available as targets throughout the game. The pistol can be upgraded to an automatic machine gun, a pump shotgun, and finally an automatic shotgun. The shotgun weaponry allows a greater field of error for targeting an enemy in able to kill it. Both the machine gun and automatic shotgun allow the player to keep the trigger pressed down to unleash rounds. If the player is hit by the enemy at any time, the weapon is downgraded back to the pistol. The player will also find grenades in crates and bonus rooms which, when used, destroys most on screen enemies at once. The player can hold a max of 9 grenades. In addition, yellow boxes and barrels marked with flammable warning symbols can be shot to cause fires or explosions that can harm enemies.
+
+The game is notable for its use of digitized video stored on an on-board hard disk, and the bizarrely-contrasting, unrealistic gibs into which every enemy blows apart when shot, in exactly the same way. While enemies, innocents, and explosions are 2-D digitized video sprites, the levels and vehicles are pre-rendered in 3-D.</desc>
+    <rating>0.7</rating>
+    <releasedate>19960101T000000</releasedate>
+    <developer>Atari</developer>
+    <publisher>Atari</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/nycaptor.png</marquee>
+    <video>./snap/nycaptor.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="40145" source="ScreenScraper.fr">
+    <path>./bang.zip</path>
+    <name>Bang!</name>
+    <desc>Jeu de tir à la première personne où il faudra atteindre de nombreux objectifs divers et variés tels la chasse aux oiseaux afin de remplacer un épouvantails, nettoyer une ville des desperados s'y trouvant ou du tir de précision sur une pièce de monnaie...
+
+Des graphismes gentillets dans le style bande dessinée et une musique entrainante même si répétitive à la longue.
+
+Plus difficile au clavier qu'avec le pistolet sur la vraie borne, mais toujours aussi addictif.
+
+
+Vidéo: 
+
+Scans :
+</desc>
+    <rating>0.7</rating>
+    <releasedate>19980101T000000</releasedate>
+    <publisher>Gaelco</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/bang.png</marquee>
+    <video>./snap/bang.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="40179" source="ScreenScraper.fr">
+    <path>./bbusters.zip</path>
+    <name>Beast Busters (World)</name>
+    <desc>Beast busters est un jeu SNK, paru alors que les jeux de tirs commençaient à investir les salles d'arcade. Comme Operation Wolf, vous allez devoir nettoyer le niveau avant de passer au suivant, sauf qu'ici, ce sont des Morts-vivants qui rappelleront, bien plus tard, les jeux sega de la série The House of The Dead (qui en est à son quatrième épisode à l'heure où j'écris ses lignes).
+Beast Busters aura les honneurs de la 3D (alors que dans le même temps, sega sortait The House of the Dead premier du nom) avec la tentative SNK d'aborder le marché, ce qui se révèlera un échec cinglant pour la firme, qui ne devait pas s'en remettre puisque, obligée de subsister avec sa console 2D alors qu'en face étaient déjà apparues les PS1 et 2, Nintendo 64 et Sega Dreamcast, la firme sombra en 2001.
+Pour en revenir au jeu lui-même, le sang gicle de partout à une époque où les jeux étaient tout de même bien sages, rappelant que SNK est bien le premier éditeur à faire dans le sanglant et les lambeaux de chair généralisés.
+
+
+
+</desc>
+    <rating>0.5</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-3</players>
+    <marquee>./wheel/bbusters.png</marquee>
+    <video>./snap/bbusters.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="40280" source="ScreenScraper.fr">
+    <path>./bloodbro.zip</path>
+    <name>Blood Bros. (set 1)</name>
+    <desc>Dans le Far West, des bandits impitoyables terrorisent la population. A vous de les stopper, eux et leur vaste arsenal d'armes, pour apporter la paix en cette terre tourmentée. Propose un grand nombre d'armes et d'objets du décor destructibles ! Malgré le concept du western, les fonctions du jeu sont quasiment identiques au précédent jeu de tir de TAD Corp "Cabal".</desc>
+    <rating>0.5</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Tad Corporation</developer>
+    <publisher>Tad Corporation</publisher>
+    <genre>Tir-Tir / 3eme Personne</genre>
+    <players>1-2</players>
+    <marquee>./wheel/bloodbro.png</marquee>
+    <video>./snap/bloodbro.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="40340" source="ScreenScraper.fr">
+    <path>./borntofi.zip</path>
+    <name>Born To Fight</name>
+    <desc>A first-person shooter game.</desc>
+    <rating>0.5</rating>
+    <releasedate>20190101T000000</releasedate>
+    <publisher>International Games</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/borntofi.png</marquee>
+    <video>./snap/borntofi.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="40532" source="ScreenScraper.fr">
+    <path>./cheyenne.zip</path>
+    <name>Cheyenne (version 1.0)</name>
+    <desc>A first-person shoot'em up game, with a western motif. The player uses a gun (mounted to the cabinet) to escort the sheriff through a variety of dangers, gathering bounty for capturing criminals. There are 7 levels or scenes plus the bonus level:
+
+</desc>
+    <rating>0.5</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Exidy, Inc.</developer>
+    <publisher>Exidy</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1</players>
+    <marquee>./wheel/cheyenne.png</marquee>
+    <video>./snap/cheyenne.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="40535" source="ScreenScraper.fr">
+    <path>./chiller.zip</path>
+    <name>Chiller (version 3.0)</name>
+    <desc>This is a gun game, and there are four different screens (plus two different bonus screens). The object is simply to shoot everything in sight (and to try and locate any hidden targets on the screen). The game is based on time, and the timer moves faster when you are shooting poorly.
+The first screen is a torture chamber. There are four (still living) human targets on this screen. From left to right they are; a man chained to the wall, a person in a guillotine (shoot the top of the guillotine to decapitate them), a woman strapped in a strange machine, and a man in a head vise (shoot the vise to crush his head). The rest of the room is strewn with blood and loose body parts. You don't simply shoot each target once, instead you shoot each part of the target, which reduces that part to a mess of blood and bones. This is thankfully the most disturbing level in the game.
+The second room is another torture chamber with a river of blood flowing through the middle. This one has five human targets; a man strapped to a board, a man chained to the floor, two people on stretching racks (shoot the wheels to pull them apart), and a woman hung from rope over the river (shoot a pulley to slowly lower her into the river to be eaten by crocodiles). Body parts will flow down the river randomly, and a man will pop out of a door from time to time to toss a blade into one of the helpless victims.
+The third level is a haunted house hallway. There is only one human victim on this level. It is a woman who runs from one doorway to another, shoot out the trapdoor to cause her to fall inside (and then shoot the beast that was chasing her). Your other targets are mostly assorted ghosts, and a few random body parts that will fall from the ceiling.
+The final level is a graveyard. Your only human victim on this level is a woman who is half buried in the ground, shooting her torso multiple times strips off her clothing until she is topless, and the last shot kills her. You other targets are bats, hands that pop up from the ground, and a man who pulls a cart full of body parts (you can't kill him, shooting him just makes him run away, only to return later).
+
+The game repeats the levels over and over again until you manage to find every secret target on each screen (it gives you hints between the levels). Finding all the targets on a single screen earns you a bonus game (a slot machine), while finding all the hidden targets in the game gives you the second bonus game (a shooting gallery), and a free game.</desc>
+    <rating>0.5</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Exidy, Inc.</developer>
+    <publisher>Exidy</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1</players>
+    <marquee>./wheel/chiller.png</marquee>
+    <video>./snap/chiller.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="40576" source="ScreenScraper.fr">
+    <path>./claypign.zip</path>
+    <name>Clay Pigeon (Version 2.0)</name>
+    <desc>The object of Clay Pigeon was to shoot as many clay targets as you can, using an arcade light gun that was shaped like a shotgun. At the start of the game you are given the choice of selecting either Trap Shooting or Skeet Shooting. Trap shooting is where the clay target is thrown directly away from the shooter, while in skeet shooting the target is launched across the shooter's field of vision. The graphics are done in Exidy's realistic style, each round is played against a decent looking outdoor background, and an extremely repetitive announcer yells 'pull' to warn you of each and every target being launched. After several rounds of targets, you finally get to go after some real live animals! The real live animals are of course, ducks! The ducks are small and fly onto the screen in small groups of up to around a half dozen or so, and unlike the earlier title "Vs. Duck Hunt", you cannot miss any of these. Missing any ducks in this round ends the game instantly, and will more than likely have you fumbling for another quarter in an attempt to do it right this time.</desc>
+    <rating>0.5</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Exidy, Inc.</developer>
+    <publisher>Exidy</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/claypign.png</marquee>
+    <video>./snap/claypign.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="40707" source="ScreenScraper.fr">
+    <path>./cracksht.zip</path>
+    <name>Crackshot (Version 2.0)</name>
+    <desc>A First-person shoot'em up gallery style game. A player must use his skill to shoot a number of 'good' targets, while not shooting the 'bad' ones, before time runs out. The game has several levels including a bar, Varmit Alley, Bank Robbers, Robots, Birds, outer space, Bank robbers again and a Bonus 'Slot machine' level.</desc>
+    <rating>0.5</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Exidy, Inc.</developer>
+    <publisher>Exidy</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/cracksht.png</marquee>
+    <video>./snap/cracksht.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="40723" source="ScreenScraper.fr">
+    <path>./crossbow.zip</path>
+    <name>Crossbow (Version 2.0)</name>
+    <desc>Early first-person shoot'em up game with a dungeons and dragons feel about it. Features good speech and screams.
+
+Gameplay requires the player to protect a band of adventurers (referred to as "friends" by the game) from afar by shooting objects that threaten them. The adventurers enter from the left-hand side of the screen and attempt to cross the screen unharmed. If the player helps them reach the opposite side of the screen safely, the adventurers survive to the next scenario, and new adventurers are occasionally granted between scenarios. In addition to the obstacles, the adventurers are vulnerable to the player's shots. The first time the player shoots an adventurer, an on-screen message is shown: "DON'T SHOOT YOUR FRIENDS!" Thereafter, shooting an adventurer will cause him/her to emit a cry of pain, and to walk at a slower pace the rest of the way. A second shot will kill the adventurer.Scenarios are chosen by shooting a destination on a map screen, which include: town, desert, volcano, cave, bridge, jungle, and castle.
+
+The short path to reach the castle is by using the following Color paths -&gt;  Green -&gt; Blue -&gt; Blue -&gt; Red.
+
+The goal is to reach the final scenario, past the castle, in which the player confronts the Masterâwho presumably created the dangers in the game. Defeating the Master of Darkness requires shooting him in the eyes when they turn red (and deadly). The player is treated to a brief congratulation and a challenge to defeat the Master again, but if you dare. Following this screen the player starts over with however many adventurers survived the confrontation.</desc>
+    <rating>0.7</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Exidy, Inc.</developer>
+    <publisher>Exidy</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1</players>
+    <marquee>./wheel/crossbow.png</marquee>
+    <video>./snap/crossbow.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="40904" source="ScreenScraper.fr">
+    <path>./desertgu.zip</path>
+    <name>Desert Gun</name>
+    <desc>A first-person shoot'em up.</desc>
+    <rating>0.1</rating>
+    <releasedate>19770101T000000</releasedate>
+    <publisher>Dave Nutting Associates / Midway</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1</players>
+    <marquee>./wheel/desertgu.png</marquee>
+    <video>./snap/desertgu.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="41000" source="ScreenScraper.fr">
+    <path>./dragngun.zip</path>
+    <name>Dragon Gun (US)</name>
+    <desc>A first-person view shoot'em up game.</desc>
+    <rating>0.7</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Data East</developer>
+    <publisher>Data East</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/dragngun.png</marquee>
+    <video>./snap/dragngun.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="41488" source="ScreenScraper.fr">
+    <path>./golgo13.zip</path>
+    <name>Golgo 13 (Japan, GLG1/VER.A)</name>
+    <desc>A lightgun game in which the player, armed with a semi-automatic sniper rifle takes on the role of the world's most lethal and highly paid assassin, Duke Togo: Codename Golgo 13. Unlike other lightgun games Golgo 13 is very story driven and combines both 3-D and 2-D graphic elements.
+
+The player starts their career with a 100 percent accuracy rating and takes on various assignments. Each assignment begins with a 2D comic book storyline and although in Japanese they should still give the player some idea of the background story. The objective of the chosen assignment is then displayed together with the time limit, target zone, and available ammunition.
+
+At the end of each assignment the player is treated to on screen display of their performance. For each assignment successfully completed a large sum of cash is added to the playerâs total, plus an extra sum is awarded for hitting the target zone. If however the player fails to complete the objective or the timer reaches zero, the playerâs accuracy rating is reduced and the player is then moved on to choose the next assignment. The game is over when the playerâs accuracy rating reaches zero.
+
+At the start of the playerâs career, 5 different assignments are available to choose from and can be completed in any order. Once all 5 assignments have been undertaken a new round of assignments becomes available. In total there are 4 rounds each consisting of 5 assignments, with each round becoming progressively harder. The last round includes a special stage which can only be selected after all the assignments have been completed. Upon completion of the special stage the credits roll and the game ends. The player is then once again returned to the start of the game.</desc>
+    <rating>0.7</rating>
+    <releasedate>19990101T000000</releasedate>
+    <developer>Eighting Co., Ltd.</developer>
+    <publisher>Eighting / Raizing</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1</players>
+    <marquee>./wheel/golgo13.png</marquee>
+    <video>./snap/golgo13.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="41489" source="ScreenScraper.fr">
+    <path>./gollygho.zip</path>
+    <name>Golly! Ghost!</name>
+    <desc>Golly! Ghost! is a video ticket/redemption game. Shoot a specific amount of ghosts before time runs out.</desc>
+    <rating>0.7</rating>
+    <releasedate>19900101T000000</releasedate>
+    <publisher>Namco</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/gollygho.png</marquee>
+    <video>./snap/gollygho.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="41686" source="ScreenScraper.fr">
+    <path>./hitnmiss.zip</path>
+    <name>Hit 'n Miss (version 3.0)</name>
+    <desc>A child-friendly shooting game where you simply avoid the good targets and shoot the bad ones.</desc>
+    <rating>0.6</rating>
+    <releasedate>19870101T000000</releasedate>
+    <publisher>Exidy</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/hitnmiss.png</marquee>
+    <video>./snap/hitnmiss.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="150352" source="ScreenScraper.fr">
+    <path>./jpark.zip</path>
+    <name>Jurassic Park (World)</name>
+    <desc>Jurassic Park is an on-the-rails lightgun game for 1 or 2 players, based on the groundbreaking Steven Spielberg movie of the same name.
+
+Jurassic Park features Sega's often-used and highly effective sprite scaled graphics and is very similar in style to another Sega Lightgun shoot-em-up, 1991's "Rail Chase". For subsequent games in the series, graphics technology had moved on somewhat and scaled sprites were dropped in favour of far superior textured polygons.</desc>
+    <rating>0.8</rating>
+    <releasedate>19930101T000000</releasedate>
+    <marquee>./wheel/jpark.png</marquee>
+    <video>./snap/jpark.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="42137" source="ScreenScraper.fr">
+    <path>./lghost.zip</path>
+    <name>Laser Ghost (World, FD1094 317-0166)</name>
+    <desc>A series of heinous events is in progress. Poltergeists are running rampant in the city. As if that wasn't bad enough, a little girl is kidnapped by one of the ghosts in broad daylight. Now it's up to Bill, Max, and Carol to put an end to the paranormal madness.</desc>
+    <rating>0.6</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Tir avec accessoire-Tir</genre>
+    <players>1-3</players>
+    <marquee>./wheel/lghost.png</marquee>
+    <video>./snap/lghost.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="42133" source="ScreenScraper.fr">
+    <path>./lethalen.zip</path>
+    <name>Lethal Enforcers (ver UAE, 11/19/92 15:04)</name>
+    <desc>Lethal Enforcers © 1992 Konami Company, Ltd
+
+As an undercover police officer the player's mission is to put a stop to an array of criminals ranging from bank robbers, hijackers and numerous other law breakers. As well as upholding the law, players must also try to protect innocent members of the public from the criminal gangs, being careful not to accidentally shoot them. Shooting innocent victims will result in the player's energy level being severely reduced.
+
+Lethal Enforcers is an on-the-rails light-gun game. The player is initially armed only with a standard issue revolver, but weapon upgrades such as a .357 Magnum, a shotgun and an automatic pistol can be collected by shooting at their on-screen counterparts as the game progresses. While some weapons can be reloaded, others can't and are only useful for a limited time. Any weapon upgrades are lost in the event of a player losing a life.</desc>
+    <rating>0.7</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Tir avec accessoire-Tir</genre>
+    <players>1-2</players>
+    <marquee>./wheel/lethalen.png</marquee>
+    <video>./snap/lethalen.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="42134" source="ScreenScraper.fr">
+    <path>./lethalj.zip</path>
+    <name>Lethal Justice (Version 2.3)</name>
+    <desc>An homage for 'Landerland Coin-op Laundry' appears in a level.</desc>
+    <rating>0.5</rating>
+    <releasedate>19960101T000000</releasedate>
+    <developer>The Game Room</developer>
+    <publisher>The Game Room</publisher>
+    <genre>Tir avec accessoire-Tir</genre>
+    <players>1-2</players>
+    <marquee>./wheel/lethalj.png</marquee>
+    <video>./snap/lethalj.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="42170" source="ScreenScraper.fr">
+    <path>./lordgun.zip</path>
+    <name>Lord of Gun (USA)</name>
+    <desc>A light gun shooter similar to "Lethal Enforcers", but with animated graphics. There are 10 stages here.</desc>
+    <rating>0.3</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>IGS Corp.</developer>
+    <publisher>IGS</publisher>
+    <genre>Tir avec accessoire-Tir</genre>
+    <video>./snap/lordgun.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="42193" source="ScreenScraper.fr">
+    <path>./luckywld.zip</path>
+    <name>Lucky &amp; Wild</name>
+    <desc>Lucky &amp; Wild is a hilarious 'drive 'n shoot' game starring two buddy cops on a mission to bring down a mafia gang. Player 1 (Lucky) both drives the car and fires a gun, Player 2 (Wild) uses just a gun. While playing, both cops trade funny banter and dialogue, and even make funny faces in the rearview mirror.</desc>
+    <rating>0.9</rating>
+    <releasedate>19920101T000000</releasedate>
+    <publisher>Namco</publisher>
+    <genre>Course vue 1ere pers.-Course, Conduite</genre>
+    <players>1-2</players>
+    <marquee>./wheel/luckywld.png</marquee>
+    <video>./snap/luckywld.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="78888" source="ScreenScraper.fr">
+    <path>./mechatt.zip</path>
+    <name>Mechanized Attack (World)</name>
+    <desc>The US version is slightly different, it has the "Winners Don't Use Drugs" screen.</desc>
+    <rating>0.7</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Tir avec accessoire-Tir</genre>
+    <players>1-2</players>
+    <marquee>./wheel/mechatt.png</marquee>
+    <video>./snap/mechatt.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="41405" source="ScreenScraper.fr">
+    <path>./gdfs.zip</path>
+    <name>Mobil Suit Gundam Final Shooting (Japan)</name>
+    <rating>0.7</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Banpresto</developer>
+    <publisher>Banpresto</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/gdfs.png</marquee>
+    <video>./snap/gdfs.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="79164" source="ScreenScraper.fr">
+    <path>./nstocker.zip</path>
+    <name>Night Stocker (10/6/86)</name>
+    <desc>This is the first game to combine the shooting with the driving.</desc>
+    <rating>0.5</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Bally Sente</developer>
+    <publisher>Bally Sente</publisher>
+    <genre>Tir-Tir / Véhicule, 1ere personne</genre>
+    <players>1</players>
+    <marquee>./wheel/nstocker.png</marquee>
+    <video>./snap/nstocker.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="41436" source="ScreenScraper.fr">
+    <path>./ghlpanic.zip</path>
+    <name>Oh! Bakyuuun (World, OB2/VER.A)</name>
+    <desc>A first-person shooter similar to the "Point Blank" series.</desc>
+    <rating>0.6</rating>
+    <releasedate>19990101T000000</releasedate>
+    <developer>Eighting Co., Ltd.</developer>
+    <publisher>Eighting / Raizing</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <video>./snap/ghlpanic.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="79087" source="ScreenScraper.fr">
+    <path>./oneshot.zip</path>
+    <name>One Shot One Kill</name>
+    <desc>During the town stage, you can see the famous Korean singer Ser-Tae-Ji.
+</desc>
+    <rating>0.3</rating>
+    <releasedate>19960101T000000</releasedate>
+    <developer>Promat</developer>
+    <publisher>Promat</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/oneshot.png</marquee>
+    <video>./snap/oneshot.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="79107" source="ScreenScraper.fr">
+    <path>./othunder.zip</path>
+    <name>Operation Thunderbolt (World, rev 1)</name>
+    <desc>Terrorists have seized a passenger airplane and will execute all the hostages if their demands are not met. It is up to the veteran soldier known as 'Lone Wolf' to return to action and rescue those hostages before time runs out. Thankfully you are not alone on this mission, so bring a friend and have a blast by blasting the enemies into oblivion!</desc>
+    <rating>0.9</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Taito</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/othunder.png</marquee>
+    <video>./snap/othunder.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="79092" source="ScreenScraper.fr">
+    <path>./opwolf.zip</path>
+    <name>Operation Wolf (World, set 1)</name>
+    <desc>Operation Wolf is a light-gun controlled shoot-em-up in which the player takes on the role of Special Forces operative 'Roy Adams' and must infiltrate and capture six heavily fortified bases, with the ultimate aim of rescuing five trapped hostages and guiding them to safety.
+
+In order to complete each stage, the player must shoot as many enemy soldiers and vehicles as that stage requires. Enemy soldiers can throw hand grenades and knives, while enemy vehicles can shoot missiles and launch rockets. The player's ammunition and grenades are limited, but can be stocked up by shooting barrels and crates. Occasionally a high-powered machine gun power-up appears, allowing the player's gun to have unlimited ammo and an increased rate of fire for 10 seconds. Completing the 'Powder Magazine' stage fills the player's ammunition and grenade supplies to maximum.</desc>
+    <rating>0.9</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Taito</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1</players>
+    <marquee>./wheel/opwolf.png</marquee>
+    <video>./snap/opwolf.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="79093" source="ScreenScraper.fr">
+    <path>./opwolf3.zip</path>
+    <name>Operation Wolf 3 (World)</name>
+    <desc>Operation Wolf 3 is a light-gun controlled shoot-em-up in which a terrorist organization known as 'SKULL' has taken over an island and are armed with nuclear missiles. Two agents, codenamed 'Hornet' and 'Queen Bee' (players one and two respectively) are dispatched by the United Nations taskforce, 'Federation for Freedom', and must take down the SKULL organisation and disarm the nuclear missiles.
+
+Unlike the limited ammo found in the first game in the series, players now have unlimited ammo. As long as the trigger is squeezed, weapons will fire on full automatic. Once the ammo meter is depleted, the rate of fire decreases sharply. When the trigger is released, the meter instantly refills. Players can also carry a limited supply of grenades, although only three bombs can be carried at any one time, as opposed to the nine of the first game. As players progress through the stages, various power-ups can be found, such as stronger weapons and extra grenades. </desc>
+    <rating>0.5</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Taito</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/opwolf3.png</marquee>
+    <video>./snap/opwolf3.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="150140" source="ScreenScraper.fr">
+    <path>./pirates.zip</path>
+    <name>Pirates (set 1)</name>
+    <desc>Un clone de Cabal transposé dans l'univers des Pirates. Il s'agit de nettoyer des tableaux avec votre viseur tout en déplaçant votre personnage de manière à  lui faire éviter les tirs.
+
+</desc>
+    <rating>0.5</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>NIX</developer>
+    <publisher>NIX</publisher>
+    <genre>Tir-Tir / 3eme Personne</genre>
+    <players>1-2</players>
+    <marquee>./wheel/pirates.png</marquee>
+    <video>./snap/pirates.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="42538" source="ScreenScraper.fr">
+    <path>./ptblank.zip</path>
+    <name>Point Blank (World, GN2 Rev B, set 1)</name>
+    <desc>Point Blank is a challenging light gun game where players can select from a variety of target practice mini games.
+
+Many games require skill and accuracy, such as shooting cardboard cutouts of criminals, a one-shot chance at hitting a leaf, aiming for a specific toy from a shelf, and shooting at objects that move across the screen or rush towards the player.
+
+Your 'judgement' is based on your shooting accuracy in some games, and others require you to hit a certain number of targets within the given time.</desc>
+    <rating>0.9</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Namco</developer>
+    <publisher>Namco</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/ptblank.png</marquee>
+    <video>./snap/ptblank.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="42539" source="ScreenScraper.fr">
+    <path>./ptblank2.zip</path>
+    <name>Point Blank 2 (GNB5/VER.A)</name>
+    <desc>This game is known in Japan as "Gunbarl".</desc>
+    <rating>0.6</rating>
+    <releasedate>19990101T000000</releasedate>
+    <developer>Namco</developer>
+    <publisher>Namco</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/ptblank2.png</marquee>
+    <video>./snap/ptblank2.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="42449" source="ScreenScraper.fr">
+    <path>./policetr.zip</path>
+    <name>Police Trainer (rev 1.3)</name>
+    <desc>Jeu de tir, pour un ou deux joueurs, Police Trainer propose une série d'épreuves de tir en stand. Ici pas de sang, vous ne tirez que sur des cibles mobiles de diverses formes. Il faut obtenir un certains nombre de point dans plusieurs épreuves différentes pour prendre du grade. Plus vous avancez dans le jeu et plus la difficulté des épreuves est grandissante. A noter une épreuve en coopération pour les 2 joueurs durant laquelle vous devez détruire toute les bombes présentes à l'écran avant qu'elles n'explosent.
+
+</desc>
+    <rating>0.9</rating>
+    <releasedate>19960101T000000</releasedate>
+    <developer>P &amp; P Marketing</developer>
+    <publisher>P&amp;P Marketing</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/policetr.png</marquee>
+    <video>./snap/policetr.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="42712" source="ScreenScraper.fr">
+    <path>./rchase.zip</path>
+    <name>Rail Chase (World)</name>
+    <desc>Rail Chase est un jeu de 1991 développé par SEGA et jouable jusqu'à 2 joueurs.
+
+Equipé d'une arme à feu, vous prenez place tel Indiana Jones dans un wagonnet évoluant dans différents décors : montagnes, mines, marécages,...
+
+Vous devrez mettre en péril différents ennemis, barricades et obstacles naturels.
+
+</desc>
+    <rating>0.5</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/rchase.png</marquee>
+    <video>./snap/rchase.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="43056" source="ScreenScraper.fr">
+    <path>./shootout.zip</path>
+    <name>Shoot Out (US)</name>
+    <desc>Shoot Out (c) 1985 Data East.  - TECHNICAL -  Main CPU : M6502 (@ 2 Mhz) Sound CPU : M6502 (@ 1.5 Mhz) Sound Chips : YM2203 (@ 1.5 Mhz)  Screen orientation : Horizontal Video resolution : 256 x 240 pixels Screen refresh : 60.00 Hz Palette Colors : 256  Pl</desc>
+    <rating>0.5</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Data East</developer>
+    <publisher>Data East USA</publisher>
+    <genre>Tir-Tir / 3eme Personne</genre>
+    <players>1-2</players>
+    <marquee>./wheel/shootout.png</marquee>
+    <video>./snap/shootout.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="43060" source="ScreenScraper.fr">
+    <path>./showdown.zip</path>
+    <name>Showdown (version 5.0)</name>
+    <desc>A live action western laser disc game by American Laser Games made in 1994 that was eventually re-released by Digital Leisure on the PC in 2004, on Nintendo's Wiiware in 2010, and on PlayStation Network in July 2011.</desc>
+    <rating>0</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Exidy, Inc.</developer>
+    <publisher>Exidy</publisher>
+    <genre>Casino-Casino / Cartes</genre>
+    <players>1</players>
+    <marquee>./wheel/showdown.png</marquee>
+    <video>./snap/showdown.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="43199" source="ScreenScraper.fr">
+    <path>./spacegun.zip</path>
+    <name>Space Gun (World)</name>
+    <desc>As a member of a special Search And Rescue unit. you (and an optional friend) are told to investigate an S.O.S. distress signal that was sent from a space station. what you don't know is that a group of vicious aliens have taken the colonists hostage. luckily for you, you're armed with a plasma pulse gun and four sets of grenades that are quite special (aside from the common grenade that explodes, some will freeze, incinerate, and even slice and dice the aliens).</desc>
+    <rating>0.7</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Taito</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/spacegun.png</marquee>
+    <video>./snap/spacegun.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="43018" source="ScreenScraper.fr">
+    <path>./sgunner.zip</path>
+    <name>Steel Gunner (rev B)</name>
+    <desc>Some major trouble is brewing in the city of Neo Arc. A radical terrorist group known as S.T.U.R.M. is causing problems to the citizens of Neo Arc by kidnapping a well respected quantum physicist and his assistant in order to create an abominable war machine. However there's a ray of hope which come in the form of the police department's counter-terrorist force called Steel Gunner. Now the battle is set for it's up to both Steel Gunner Officers Cliff and Garcia to stop the seemingly merciless wrath of S.T.U.R.M. and it's leader: Gatse Bernard</desc>
+    <rating>0.7</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Namco</developer>
+    <publisher>Namco</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/sgunner.png</marquee>
+    <video>./snap/sgunner.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="43019" source="ScreenScraper.fr">
+    <path>./sgunner2.zip</path>
+    <name>Steel Gunner 2 (US)</name>
+    <desc>Super jeu bien fun de Shoot à la première personne qui fait beaucoup penser aux graphismes d'un jeu de Super Nintendo boostée.
+
+</desc>
+    <rating>0.7</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Namco</developer>
+    <publisher>Namco</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/sgunner2.png</marquee>
+    <video>./snap/sgunner2.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="43521" source="ScreenScraper.fr">
+    <path>./targeth.zip</path>
+    <name>Target Hits (Ver 1.1)</name>
+    <rating>0.5</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Gaelco</developer>
+    <publisher>Gaelco</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <video>./snap/targeth.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="43609" source="ScreenScraper.fr">
+    <path>./tickee.zip</path>
+    <name>Tickee Tickats</name>
+    <desc>A gun shooting game similar to "Point Blank", with ticket redemption on game completion.</desc>
+    <rating>0.3</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Raster Elite</developer>
+    <publisher>Raster Elite</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/tickee.png</marquee>
+    <video>./snap/tickee.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="43786" source="ScreenScraper.fr">
+    <path>./tutstomb.zip</path>
+    <name>Tut's Tomb</name>
+    <rating>0.5</rating>
+    <releasedate>19960101T000000</releasedate>
+    <publisher>Island Design</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/tutstomb.png</marquee>
+    <video>./snap/tutstomb.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="43832" source="ScreenScraper.fr">
+    <path>./undrfire.zip</path>
+    <name>Under Fire (World)</name>
+    <desc>Hoping to compete with Konami's "Lethal Enforcers". this Taito light gun shoot 'em-up has players assuming the role of a special operatives police officer against a vicious gang who's taken over various neighbourhoods, a convenience store, and even an amusement park.</desc>
+    <rating>0.5</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Taito</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/undrfire.png</marquee>
+    <video>./snap/undrfire.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="41054" source="ScreenScraper.fr">
+    <path>./duckhunt.zip</path>
+    <name>Vs. Duck Hunt (set DH3 E)</name>
+    <desc>The arcade version of Duck Hunt has many differences compared to the NES version.
+It has more animations, a slightly different palette and zero game modes. Instead the game starts with the duck hunting game (with multiple ducks, just like Game B on the NES version), the second stage is the clay pigeon shooting game (the dog makes an appearance if you miss), a bonus stage follows where you can shoot lots of ducks for bonus points (as an even bigger bonus you can shoot the dog to make him appear with a cast and crutches and yell at you), then both levels and bonus repeat again followed by an intermission (called "Break Time") where the dog is chasing a duck.</desc>
+    <rating>0.7</rating>
+    <releasedate>19850101T000000</releasedate>
+    <publisher>Nintendo</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <video>./snap/duckhunt.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="43996" source="ScreenScraper.fr">
+    <path>./vsfdf.zip</path>
+    <name>Vs. Freedom Force</name>
+    <desc>Vs. Freedom Force (c) 1988 Konami.  - TECHNICAL -  Main CPU : N2A03 (@ 1.789772 Mhz) Sound Chips : N2A03 (@ 1.789772 Mhz), DAC (@ 1.789772 Mhz)  Screen orientation : Horizontal Video resolution : 256 x 240 pixels Screen refresh : 60.00 Hz Palette colors :</desc>
+    <rating>0.5</rating>
+    <releasedate>19880101T000000</releasedate>
+    <publisher>Sunsoft</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/vsfdf.png</marquee>
+    <video>./snap/vsfdf.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="43999" source="ScreenScraper.fr">
+    <path>./vsgshoe.zip</path>
+    <name>Vs. Gumshoe (set GM5)</name>
+    <rating>0.7</rating>
+    <releasedate>19860101T000000</releasedate>
+    <publisher>Nintendo</publisher>
+    <genre>Plateforme-Plateforme / Run Jump</genre>
+    <players>1</players>
+    <marquee>./wheel/vsgshoe.png</marquee>
+    <video>./snap/vsgshoe.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="41702" source="ScreenScraper.fr">
+    <path>./hogalley.zip</path>
+    <name>Vs. Hogan's Alley (set HA4-1 E-1)</name>
+    <rating>0.5</rating>
+    <releasedate>19850101T000000</releasedate>
+    <publisher>Nintendo</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/hogalley.png</marquee>
+    <video>./snap/hogalley.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="44068" source="ScreenScraper.fr">
+    <path>./whodunit.zip</path>
+    <name>Who Dunit (version 9.0)</name>
+    <desc>A murder mystery shooter where the player uses the gun to protect Max from a variety of attacks as well as give him directions.</desc>
+    <rating>0.5</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Exidy, Inc.</developer>
+    <publisher>Exidy</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/whodunit.png</marquee>
+    <video>./snap/whodunit.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="79238" source="ScreenScraper.fr">
+    <path>./pc_wgnmn.zip</path>
+    <name>Wild Gunman (PlayChoice-10) (PlayChoice-10)</name>
+    <desc>As a lawman in the old west, you carry around a tin star and your NES Zapper. Your goal to to chase down outlaws and then win out over them in a fast-draw competition. Simply put, wait for your opponent to say "Fire" and then shoot first and shoot fast to win.</desc>
+    <rating>0.5</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1</players>
+    <video>./snap/pc_wgnmn.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="44074" source="ScreenScraper.fr">
+    <path>./wildplt.zip</path>
+    <name>Wild Pilot</name>
+    <rating>0</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Jaleco</developer>
+    <publisher>Jaleco</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/wildplt.png</marquee>
+    <video>./snap/wildplt.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="44200" source="ScreenScraper.fr">
+    <path>./zeropnt.zip</path>
+    <name>Zero Point (set 1)</name>
+    <desc>Avec ce jeu, vous retrouverez une multitude de mini-jeux de shoot mettant vos réflexes à rude épreuve.
+
+</desc>
+    <rating>0.7</rating>
+    <releasedate>19980101T000000</releasedate>
+    <developer>Unicorn Group</developer>
+    <publisher>Unico</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/zeropnt.png</marquee>
+    <video>./snap/zeropnt.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="44201" source="ScreenScraper.fr">
+    <path>./zeropnt2.zip</path>
+    <name>Zero Point 2</name>
+    <desc>A l'instar de Zero Point premier du nom, vous retrouverez une multitude d'anciens et de nouveaux mini-jeux de tir misant avant tout sur vos réflexes.
+
+</desc>
+    <rating>0.7</rating>
+    <releasedate>19990101T000000</releasedate>
+    <developer>Unicorn Group</developer>
+    <publisher>Unico</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/zeropnt2.png</marquee>
+    <video>./snap/zeropnt2.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+  <game id="44216" source="ScreenScraper.fr">
+    <path>./zombraid.zip</path>
+    <name>Zombie Raid (9/28/95, US)</name>
+    <desc>C'est un très bon jeu que tout fan de tir devrait posséder. La maniabilité est un peu difficile au début mais une fois les commandes assimilées plus rien ne peut vous arrêtez et vous serez embarqué pour génocide sur la race des morts vivants!!
+
+</desc>
+    <rating>0.9</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>American Sammy</developer>
+    <publisher>American Sammy</publisher>
+    <genre>Tir-Tir avec accessoire</genre>
+    <players>1-2</players>
+    <marquee>./wheel/zombraid.png</marquee>
+    <video>./snap/zombraid.mp4</video>
+    <hidden>false</hidden>
+    <favorite>false</favorite>
+  </game>
+</gameList>

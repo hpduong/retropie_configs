@@ -1,0 +1,521 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./5 Orbs.zip</path>
+		<name>5 Orbs</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/5 Orbs.mp4</video>
+		<marquee>./wheel/5 Orbs.png</marquee>
+		<wheel>./wheel/5 Orbs.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./7th Saga - Redux, The.zip</path>
+		<name>7th Saga - Redux, The</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/7th Saga - Redux, The.mp4</video>
+		<marquee>./wheel/7th Saga - Redux, The.png</marquee>
+		<wheel>./wheel/7th Saga - Redux, The.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./7th Saga - The New Class.zip</path>
+		<name>7th Saga - The New Class</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/7th Saga - The New Class.mp4</video>
+		<marquee>./wheel/7th Saga - The New Class.png</marquee>
+		<wheel>./wheel/7th Saga - The New Class.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./A Super Mario Thing.zip</path>
+		<name>A Super Mario Thing</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/A Super Mario Thing.mp4</video>
+		<marquee>./wheel/A Super Mario Thing.png</marquee>
+		<wheel>./wheel/A Super Mario Thing.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Alex Kidd In Pancake World.zip</path>
+		<name>Alex Kidd In Pancake World</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Alex Kidd In Pancake World.mp4</video>
+		<marquee>./wheel/Alex Kidd In Pancake World.png</marquee>
+		<wheel>./wheel/Alex Kidd In Pancake World.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Banzai Mario World.zip</path>
+		<name>Banzai Mario World</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Banzai Mario World.mp4</video>
+		<marquee>./wheel/Banzai Mario World.png</marquee>
+		<wheel>./wheel/Banzai Mario World.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./BAO Super V.G..zip</path>
+		<name>BAO Super V.G.</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/BAO Super V.G..mp4</video>
+		<marquee>./wheel/BAO Super V.G..png</marquee>
+		<wheel>./wheel/BAO Super V.G..png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Breath of Fire II - Retranslation.zip</path>
+		<name>Breath of Fire II - Retranslation</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Breath of Fire II - Retranslation.mp4</video>
+		<marquee>./wheel/Breath of Fire II - Retranslation.png</marquee>
+		<wheel>./wheel/Breath of Fire II - Retranslation.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Brutal Mario.zip</path>
+		<name>Brutal Mario</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Brutal Mario.mp4</video>
+		<marquee>./wheel/Brutal Mario.png</marquee>
+		<wheel>./wheel/Brutal Mario.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 1.zip</path>
+		<name>BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 1</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 1.mp4</video>
+		<marquee>./wheel/BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 1.png</marquee>
+		<wheel>./wheel/BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 1.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 2.zip</path>
+		<name>BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 2</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 2.mp4</video>
+		<marquee>./wheel/BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 2.png</marquee>
+		<wheel>./wheel/BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 2.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 3.zip</path>
+		<name>BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 3</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 3.mp4</video>
+		<marquee>./wheel/BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 3.png</marquee>
+		<wheel>./wheel/BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 3.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 4.zip</path>
+		<name>BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 4</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 4.mp4</video>
+		<marquee>./wheel/BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 4.png</marquee>
+		<wheel>./wheel/BS The Legend of Zelda - Ancient Stone Tablets - Master Quest 4.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Castlevania - Dracula X - Trevor.zip</path>
+		<name>Castlevania - Dracula X - Trevor</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Castlevania - Dracula X - Trevor.mp4</video>
+		<marquee>./wheel/Castlevania - Dracula X - Trevor.png</marquee>
+		<wheel>./wheel/Castlevania - Dracula X - Trevor.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Castlevania - Dracula X - Unsung Villian.zip</path>
+		<name>Castlevania - Dracula X - Unsung Villian</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Castlevania - Dracula X - Unsung Villian.mp4</video>
+		<marquee>./wheel/Castlevania - Dracula X - Unsung Villian.png</marquee>
+		<wheel>./wheel/Castlevania - Dracula X - Unsung Villian.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Chrono Trigger - Prophet's Guile.zip</path>
+		<name>Chrono Trigger - Prophet's Guile</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Chrono Trigger - Prophet's Guile.mp4</video>
+		<marquee>./wheel/Chrono Trigger - Prophet's Guile.png</marquee>
+		<wheel>./wheel/Chrono Trigger - Prophet's Guile.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Chrono Trigger - Retranslation.zip</path>
+		<name>Chrono Trigger - Retranslation</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Chrono Trigger - Retranslation.mp4</video>
+		<marquee>./wheel/Chrono Trigger - Retranslation.png</marquee>
+		<wheel>./wheel/Chrono Trigger - Retranslation.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Cinnamon Hills.zip</path>
+		<name>Cinnamon Hills</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Cinnamon Hills.mp4</video>
+		<marquee>./wheel/Cinnamon Hills.png</marquee>
+		<wheel>./wheel/Cinnamon Hills.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Hyper Street Kart.zip</path>
+		<name>Hyper Street Kart</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Hyper Street Kart.mp4</video>
+		<marquee>./wheel/Hyper Street Kart.png</marquee>
+		<wheel>./wheel/Hyper Street Kart.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Just Another Mario Hack.zip</path>
+		<name>Just Another Mario Hack</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Just Another Mario Hack.mp4</video>
+		<marquee>./wheel/Just Another Mario Hack.png</marquee>
+		<wheel>./wheel/Just Another Mario Hack.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Killer Instinct - Eyedol Unlocked.zip</path>
+		<name>Killer Instinct - Eyedol Unlocked</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Killer Instinct - Eyedol Unlocked.mp4</video>
+		<marquee>./wheel/Killer Instinct - Eyedol Unlocked.png</marquee>
+		<wheel>./wheel/Killer Instinct - Eyedol Unlocked.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Godess of Wisdom.zip</path>
+		<name>Legend of Zelda, The - Godess of Wisdom</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Legend of Zelda, The - Godess of Wisdom.mp4</video>
+		<marquee>./wheel/Legend of Zelda, The - Godess of Wisdom.png</marquee>
+		<wheel>./wheel/Legend of Zelda, The - Godess of Wisdom.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Paralell Worlds.zip</path>
+		<name>Legend of Zelda, The - Paralell Worlds</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Legend of Zelda, The - Paralell Worlds.mp4</video>
+		<marquee>./wheel/Legend of Zelda, The - Paralell Worlds.png</marquee>
+		<wheel>./wheel/Legend of Zelda, The - Paralell Worlds.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Mario Kart R.zip</path>
+		<name>Mario Kart R</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Mario Kart R.mp4</video>
+		<marquee>./wheel/Mario Kart R.png</marquee>
+		<wheel>./wheel/Mario Kart R.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Mario World - Starlight Remix.zip</path>
+		<name>Mario World - Starlight Remix</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Mario World - Starlight Remix.mp4</video>
+		<marquee>./wheel/Mario World - Starlight Remix.png</marquee>
+		<wheel>./wheel/Mario World - Starlight Remix.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Mario's Awesome Adventure.zip</path>
+		<name>Mario's Awesome Adventure</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Mario's Awesome Adventure.mp4</video>
+		<marquee>./wheel/Mario's Awesome Adventure.png</marquee>
+		<wheel>./wheel/Mario's Awesome Adventure.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Massimo (U).zip</path>
+		<name>Massimo (U)</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Massimo (U).mp4</video>
+		<marquee>./wheel/Massimo (U).png</marquee>
+		<wheel>./wheel/Massimo (U).png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Mushroom Kingdom Meltdown 2.zip</path>
+		<name>Mushroom Kingdom Meltdown 2</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Mushroom Kingdom Meltdown 2.mp4</video>
+		<marquee>./wheel/Mushroom Kingdom Meltdown 2.png</marquee>
+		<wheel>./wheel/Mushroom Kingdom Meltdown 2.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Mushroom Kingdom Meltdown.zip</path>
+		<name>Mushroom Kingdom Meltdown</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Mushroom Kingdom Meltdown.mp4</video>
+		<marquee>./wheel/Mushroom Kingdom Meltdown.png</marquee>
+		<wheel>./wheel/Mushroom Kingdom Meltdown.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Super Mario Bros. Deluxe.zip</path>
+		<name>Super Mario Bros. Deluxe</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Super Mario Bros. Deluxe.mp4</video>
+		<marquee>./wheel/Super Mario Bros. Deluxe.png</marquee>
+		<wheel>./wheel/Super Mario Bros. Deluxe.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Super Mario World - 3+ - The New Islands (SMW1 Hack).zip</path>
+		<name>Super Mario World - 3+ - The New Islands (SMW1 Hack)</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Super Mario World - 3+ - The New Islands (SMW1 Hack).mp4</video>
+		<marquee>./wheel/Super Mario World - 3+ - The New Islands (SMW1 Hack).png</marquee>
+		<wheel>./wheel/Super Mario World - 3+ - The New Islands (SMW1 Hack).png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Super Mario World - Deluxe.zip</path>
+		<name>Super Mario World - Deluxe</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Super Mario World - Deluxe.mp4</video>
+		<marquee>./wheel/Super Mario World - Deluxe.png</marquee>
+		<wheel>./wheel/Super Mario World - Deluxe.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Super Mario World - Return to Dinosaur Land (U).zip</path>
+		<name>Super Mario World - Return to Dinosaur Land (U)</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Super Mario World - Return to Dinosaur Land (U).mp4</video>
+		<marquee>./wheel/Super Mario World - Return to Dinosaur Land (U).png</marquee>
+		<wheel>./wheel/Super Mario World - Return to Dinosaur Land (U).png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Super Pika Land Ultra - Chocolate Version.zip</path>
+		<name>Super Pika Land Ultra - Chocolate Version</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Super Pika Land Ultra - Chocolate Version.mp4</video>
+		<marquee>./wheel/Super Pika Land Ultra - Chocolate Version.png</marquee>
+		<wheel>./wheel/Super Pika Land Ultra - Chocolate Version.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./NBA Jam 2k17.zip</path>
+		<name>NBA Jam 2k17</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/NBA Jam 2k17.mp4</video>
+		<marquee>./wheel/NBA Jam 2k17.png</marquee>
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20170819T194715</lastplayed>
+	</game>
+	<game>
+		<path>./Bowser Rampages Again.zip</path>
+		<name>Bowser Rampages Again</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/Bowser Rampages Again.mp4</video>
+		<marquee>./wheel/Bowser Rampages Again.png</marquee>
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20171005T184032</lastplayed>
+	</game>
+	<game>
+		<path>./F-ZERO - The Lost Tracks.zip</path>
+		<name>F-ZERO - The Lost Tracks</name>
+		<image>./boxart/snesh.png</image>
+		<video>./snap/F-ZERO - The Lost Tracks.mp4</video>
+		<marquee>./wheel/F-ZERO - The Lost Tracks.png</marquee>
+		<rating></rating>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20180313T091300</lastplayed>
+	</game>
+</gameList>

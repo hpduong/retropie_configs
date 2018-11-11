@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameList>
+  <game id="59241" source="ScreenScraper">
+    <path>./alien invaders plus.bin</path>
+    <name>Alien Invaders - Plus [USA]</name>
+    <desc>Il s'agit d'une variante de Space Invaders avec une torsion. Huit robots avec des canons laser et protÃ©gÃ©s par un mur de boucliers avancent dans le secteur du joueur, et avec son canon laser il doit les dÃ©truire. La paroi du bouclier est indestructible, mais les robots et les canons ne le sont pas. Ils vont d'un cÃ´tÃ© Ã  l'autre de l'Ã©cran dans un mouvement alÃ©atoire en tirant vers le bas. Trois boucliers de laser Ã  haute densitÃ© molÃ©culaire sont positionnÃ©s pour dÃ©fendre le canon laser. Chacun d'eux abrite un canon supplÃ©mentaire.
+
+Au lieu de soucoupes volantes de passage comme dans Space Invaders, le joueur doit faire face Ã  l'impitoyable Monstroth, qui tire contre lui. Le joueur contrÃ´le un robot Ã  l'intÃ©rieur du canon laser. Si le canon laser est dÃ©truit, le robot sera laissÃ© sans protection. Le robot peut entrer dans un nouveau canon laser logÃ© dans l'un des boucliers. Une fois que le nouveau canon laser est actif, le bouclier disparait. Une fois que les trois boucliers sont dÃ©truits, Monstroth descendra pour chasser le canon et le robot du joueur.
+
+Le joueur gagne la partie en dÃ©truisant tous les robots et canons ennemis sur l'Ã©cran. Une bataille est perdue lorsque le robot du joueur est dÃ©truit. Le premier cÃ´tÃ© Ã  gagner dix batailles gagne la guerre.</desc>
+    <marquee>./wheel/alien invaders plus.png</marquee>
+    <video>./snap/alien invaders plus.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="59242" source="ScreenScraper">
+    <path>./alpine skiing.bin</path>
+    <name>Alpine Skiing [USA]</name>
+    <desc>Deux joueurs peuvent choisir parmi trois types de compÃ©titions de ski : Slalom, Slalom gÃ©ant et Down Hill. Dans l'Ã©preuve de slalom, les joueurs doivent skier Ã  travers 55 portes. Le vainqueur est le joueur le plus rapide Ã  conclure deux manches sur les parcours. Si un joueur rate une porte, le chronomÃ©trage s'arrÃªte et le compteur enregistre le nombre d'erreurs. Le vainqueur est alors le joueur avec le moins d'erreurs. Le slalom gÃ©ant suit les mÃªmes rÃ¨gles pour le slalom, mais est plus long que le slalom, avec des barriÃ¨res plus Ã©loignÃ©es. Dans l'Ã©vÃ©nement Down Hill, le gagnant est le joueur Ã  atteindre la fin du parcours marquÃ© dans le plus court laps de temps. Si le joueur est hors course, les erreurs sont comptÃ©es Ã  la place, et le gagnant est le joueur avec le moins d'erreurs.
+
+En tout cas, s'emplÃ¢trer dans une porte fera perdre du temps au joueur. Le parcours de chaque joueur est affichÃ©sur une moitiÃ© d'Ã©cran et sÃ©parÃ©ment, mÃªme si leurs progrÃ¨s sont affichÃ©s simultanÃ©ment. Les joueurs peuvent aller hors-piste et envahir la piste de l'autre.
+
+Les joueurs sÃ©lectionnent les Ã©vÃ©nements en tirant vers le bas le stick lorsque le nom de l'Ã©vÃ©nement dÃ©sirÃ© s'affiche Ã  l'Ã©cran. Les skieurs sont contrÃ´lÃ©s avec le stick. En tenant le stick en bas, le skieur descend en ligne droite. En poussant vers le haut, le skieur s'arrÃªte. Droite et gauche changent la direction du skieur et en appuyant sur le bouton d'action il accÃ©lÃ¨re la vitesse du skieur de 30%.</desc>
+    <marquee>./wheel/alpine skiing.png</marquee>
+    <video>./snap/alpine skiing.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Sport</genre>
+    <players>2</players>
+  </game>
+  <game id="59246" source="ScreenScraper">
+    <path>./ATLANTIS.BIN</path>
+    <name>Atlantis [USA]</name>
+    <desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
+    <marquee>./wheel/ATLANTIS.png</marquee>
+    <video>./snap/ATLANTIS.mp4</video>
+    <thumbnail />
+    <rating>0.5</rating>
+    <releasedate>19820101T000000</releasedate>
+    <developer>Imagic</developer>
+    <publisher>Imagic</publisher>
+    <genre>Tir</genre>
+    <players>1-2</players>
+  </game>
+  <game id="59247" source="ScreenScraper">
+    <path>./attack of the timelord.bin</path>
+    <name>Attack of the Timelord [USA]</name>
+    <desc>The player has just attracted the attention of Spyrus the Deathless - Timelord of Chaos, and his only defense is his Time Machine's laser cannon. The Timelord will now send his fleet of Time Ships to destroy the player. In this space shooter the player co</desc>
+    <marquee>./wheel/attack of the timelord.png</marquee>
+    <video>./snap/attack of the timelord.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>Tir</genre>
+    <players>1</players>
+  </game>
+  <game id="59249" source="ScreenScraper">
+    <path>./BASEBALL.BIN</path>
+    <name>Baseball [USA]</name>
+    <desc>the scoreboard at the lower left side of the screen indicate Balls, Strikes and Outs, in that order. Players on defense can control the outfielders with the joystick. D</desc>
+    <marquee>./wheel/BASEBALL.png</marquee>
+    <video>./snap/BASEBALL.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Sport</genre>
+    <players>2</players>
+  </game>
+  <game id="59254" source="ScreenScraper">
+    <path>./blockout &amp; breakdown.bin</path>
+    <name>Blockout + Breakdown [USA]</name>
+    <desc>In Blockout, the object is to blast through the blocks in the shortest amount of time. There are four colored lines of blocks, and each line has an electronic demon. The electronic demons can replac</desc>
+    <marquee>./wheel/blockout &amp; breakdown.png</marquee>
+    <video>./snap/blockout &amp; breakdown.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19810101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+  </game>
+  <game id="59256" source="ScreenScraper">
+    <path>./bowling &amp; basketball.bin</path>
+    <name>Bowling + Basketball [USA]</name>
+    <desc>Bowling!: one to four players take turns in this game. The alley is shown from a top down view and the ball moves back and forth at the foul line. The players have to press the action button to release the ball and can add an effect to it by pressing left</desc>
+    <marquee>./wheel/bowling &amp; basketball.png</marquee>
+    <video>./snap/bowling &amp; basketball.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Sport</genre>
+    <players>1</players>
+  </game>
+  <game id="59259" source="ScreenScraper">
+    <path>./casino slot machine.bin</path>
+    <name>Casino Slot Machine [USA]</name>
+    <desc>As the name implies, this game simulates a casino slot machine. One to four players can place their bets in any of the three horizontal rows or the two diagonal rows. Bets placed can be of $0.10, $0.25 or $1.00.The winning combinations are the following: </desc>
+    <marquee>./wheel/casino slot machine.png</marquee>
+    <video>./snap/casino slot machine.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Jeu de cartes</genre>
+    <players>1-4</players>
+  </game>
+  <game id="59260" source="ScreenScraper">
+    <path>./catch the ball &amp; noughts and crosses.bin</path>
+    <name>Catch the Ball + Noughts and Crosses [Europe]</name>
+    <desc>Catch the Ball puts one or two players in the role of a circus clown who has to catch a while ball which comes rolling down a maze of obstacles. The clown has to try to follow the ball as it falls its unpredictable </desc>
+    <marquee>./wheel/catch the ball &amp; noughts and crosses.png</marquee>
+    <video>./snap/catch the ball &amp; noughts and crosses.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Divers</genre>
+    <players>1-2</players>
+  </game>
+  <game id="59265" source="ScreenScraper">
+    <path>./clay pigeon.bin</path>
+    <name>Clay Pigeon [BrÃ©sil]</name>
+    <desc>As the name implies, Clay Pigeon! is a clay pigeon shooting game. At the left corner, a trap launches targets toward the shooter. The player controls the shooter which stands in the right corner of the screen.  In order to proceed to the next level, the p</desc>
+    <marquee>./wheel/clay pigeon.png</marquee>
+    <video>./snap/clay pigeon.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>01010101T000000</releasedate>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>Tir</genre>
+    <players>1</players>
+  </game>
+  <game id="59268" source="ScreenScraper">
+    <path>./computer golf.bin</path>
+    <name>Computer Golf [USA]</name>
+    <desc>One to four players can take turns playing this golf game. Player control the golfer around the field with the directional stick and hit the ball using the action button. The longer the action button is held, the higher the backswing and the farther the b</desc>
+    <marquee>./wheel/computer golf.png</marquee>
+    <video>./snap/computer golf.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Sport</genre>
+    <players>1-4</players>
+  </game>
+  <game id="59269" source="ScreenScraper">
+    <path>./computer intro.bin</path>
+    <name>Computer Intro [USA]</name>
+    <desc>Computer Intro, as the name implies, is a cartridge intended to educate players in the basics of computer programming. It came with a 104 page manual entitled "A Beginner's Guide to Computer Technology" featuring a brief history of computers and an introd</desc>
+    <marquee>./wheel/computer intro.png</marquee>
+    <video>./snap/computer intro.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>01010101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Ludo-Educatif</genre>
+    <players>1</players>
+  </game>
+  <game id="59272" source="ScreenScraper">
+    <path>./conquest of the world.bin</path>
+    <name>Conquest of the World [USA]</name>
+    <desc>Players choose to play as one of 43 countries and make it their homeland. Each country's military and diplomacy power is reflected by its real life counterpart during the early 1980's. Each country's relationship with one another is also reflected by how it is in real life.
+
+Gameplay involves the use of a gameboard. Gameplay done on the game board contains information which is then entered into the Odyssey 2 for it to handle. Inside the game itself, players do battle by land, air, and sea. Battles involve players controlling either a jet (air force), tank (army), or a submarine (navy) and then battling the other players jet, tank, or submarine. These vehicles are dependent on supplies which are displayed as energy units. Every shot fired and movement made drains the players energy units. The battle ends when all the energy units run out. These combat results are then recorded on the gameboard, which then spurs further entries into the Odyssey 2.
+
+Every battle won and alliance made will increase a country's power. The country with the most power at the end of the game wins.
+
+Besides the gameboard map itself, the game also comes with a 100 power base unit indicators, a Homeland Marker, and six sets of Conquest/Alliance markers.</desc>
+    <marquee>./wheel/conquest of the world.png</marquee>
+    <video>./snap/conquest of the world.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19810101T000000</releasedate>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>StratÃ©gie</genre>
+    <players>2-6</players>
+  </game>
+  <game id="59271" source="ScreenScraper">
+    <path>./cosmic conflict.bin</path>
+    <name>Cosmic Conflict! [USA]</name>
+    <desc>The player is a legendary hero of the Earth Federation, in command of a Centurion star fighter and must defend the galaxy from the Imperial ships attack.
+
+From a first person perspective, the player must destroy fifteen enemy ships. A counter at the lower left corner of the screen shows how many ships are left. On the lower right, a counter marking, at the start of the mission, 1000 megajoules of remaining ship power. The ship needs one megajoule per second to sustain flight, ten megajoules per laser shot released and fifty megajoules per shot taken, to activate the deflector shields.
+
+Three kinds of ships will assault the player's ship: invasion transports, battle frigates, and star fighters. The enemy fleet consists of five star fighters and ten ships randomly distributed among the remaining two kinds. Only star fighters represent a real threat, a general alert will sound and flash at the screen when one of those enter the player's range of sight.
+
+The mission ends when all enemy ships are destroyed or when all the ship's fuel is used.</desc>
+    <marquee>./wheel/cosmic conflict.png</marquee>
+    <video>./snap/cosmic conflict.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>01010101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="59274" source="ScreenScraper">
+    <path>./demon attack.bin</path>
+    <name>Demon Attack [USA]</name>
+    <desc>Demon Attack is an arcade action game with gameplay similar to Space Invaders. You control a laser canon at the bottom of the screen, and need to destroy wave after wave of brightly colored demons. The demons bounce around the screen in bizarre patterns, and try to destroy your canon with bombs or lasers. When you shoot a demon, it will be replaced with another or will split into two smaller demons depending on which wave you are playing. When the required number of demons for the current round is finally destroyed, you can move on to the next, more difficult round.</desc>
+    <marquee>./wheel/demon attack.png</marquee>
+    <video>./snap/demon attack.mp4</video>
+    <thumbnail />
+    <rating>0.45</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Imagic</developer>
+    <publisher>Imagic</publisher>
+    <genre>StratÃ©gie</genre>
+    <players>1-2</players>
+  </game>
+  <game id="59279" source="ScreenScraper">
+    <path>./DYNASTY.BIN</path>
+    <name>Dynasty [USA]</name>
+    <desc>Dynasty! is an Othello clone. The playfield is an 8 x 8 matrix of dots and the objective is to occupy as much of it as possible. The game begins with two pieces of each color at the center of the matrix and players take turns placing new pieces in it. The</desc>
+    <marquee>./wheel/DYNASTY.png</marquee>
+    <video>./snap/DYNASTY.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>StratÃ©gie</genre>
+    <players>1-2</players>
+  </game>
+  <game id="59280" source="ScreenScraper">
+    <path>./electronic table soccer.bin</path>
+    <name>Electronic Table Soccer [USA]</name>
+    <desc>As the name implies, this is a foosball game. One or two players control three rows of players: the goalkeeper, three middle fielders and two attackers. To control the goalkeeper, the player to the left has to use the up-left and down-left directions in t</desc>
+    <marquee>./wheel/electronic table soccer.png</marquee>
+    <video>./snap/electronic table soccer.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19810101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Sport</genre>
+    <players>1-2</players>
+  </game>
+  <game id="59286" source="ScreenScraper">
+    <path>./FROGGER.BIN</path>
+    <name>Frogger [Europe]</name>
+    <desc>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.
+
+The road is full of cars and trucks, at variable speeds. The river water itself is fatal, as are the snakes which hover within on later levels. Frogger must use the arrangement of logs, turtles (which are only there for a short time) and alligators (but stay away form their faces), and then jump into one of the open home-cells, ideally one containing a fly for extra points. Once all holes have been filled, you move onto the next, harder, level.</desc>
+    <marquee>./wheel/FROGGER.png</marquee>
+    <video>./snap/FROGGER.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Parker Brothers</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="59367" source="ScreenScraper">
+    <path>./great wall street fortune hunt.bin</path>
+    <name>The Great Wall Street Fortune Hunt [USA]</name>
+    <desc>The Great Wall Street Fortune Hunt is another game in the Master Strategy Series, a series of part console, part board games on the OdysseyÂ².
+
+This is a stock exchange simulator. One or two players (or groups, if more than 2 people are playing) take the role of investors (or investment syndicates) trying to anticipate investment fluctuations to take advantage of buying and selling opportunities which occurs during the game.
+
+The main screen is divided in three sections. The upper section displays the investment choices and prices per share scrolling from right to left. The middle section displays news flashes related to the market and the lower section displays each player's investment portfolio and capital. A grey bar chart to the right displays the overall market performance during each quarter of a year.
+
+Each investor starts with $100,000 and can enter a maximum of seven investments into the computer. The investments are bought using the keyboard by entering the letters representing it (IBM, for instance) and the number of shares wanted. The shares can be sold in lots of 100. All investments entered must be sold at the end of each year (four quarters, each quarter taking about 5 minutes of real time). The computer will signal the end of each quarter. The winner is the investor accumulating the greatest net worth after 5 years.
+
+The game can be played in four levels of progressively increased complexity:
+Straight Investment Transactions
+2. Straight Investment Transactions &amp; Treasury Bills
+3. Straight Investment Transactions &amp; Treasury Bills &amp; Buying on Margin
+4. Straight Investment Transactions &amp; Treasury Bills &amp; Buying on Margin &amp; Stock Options
+
+The gameboard is used to keep track of information dealt with off-screen. It is divided in 4 sections: investment positions, T-Bill market, time frame indicator and prime rate indicator.
+
+Each investor receives a set of numbered share/margin tokens to be placed in the share section of the gameboard for every straight transaction done. There are 30 different investments available and each investment has a different sensitivity to changing national and international conditions in three areas as shown in the gameboard: Gross National Product, Prime Interest Rate and Political Instability. The news flashes presented in the screen will affect the investments according to there three indicators.
+
+The time frame indicator is used to keep track of which quarter the game is currently on.
+
+The T-Bill market and Prime Interest Rate parts of the gameboard are only used in level 2 games or higher. The Prime Interest Rate is the interest banks quote as charging their best corporate customers. It is directly related to the interest rate on Treasury Bills. The prime rate will be reported by the news bulletins on the screen and must be marked with the appropriate tokens on the gameboard.
+
+The level 3 adds the option of buying stocks on margin, i.e., with money borrowed from the broker. The computer only keeps track of investments bought in cash, so this kind of transaction must be tracked with the help of a proper token in the gameboard.
+
+The level 4 adds option trades to the game. Options give the investor the right, but not the obligation, to buy or sell securities at current prices at the beginning of the following quarter. It is basically a bet about the rise or fall of a specific security price.
+
+Besides the gameboard, each player has his/her own investment record pad to better keep track of his/her transactions.</desc>
+    <marquee>./wheel/great wall street fortune hunt.png</marquee>
+    <video>./snap/great wall street fortune hunt.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19820101T000000</releasedate>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>Simulation</genre>
+    <players>1-2</players>
+  </game>
+  <game id="59290" source="ScreenScraper">
+    <path>./hockey - soccer.bin</path>
+    <name>Hockey + Soccer [USA]</name>
+    <desc>Two titles are available in this cart:
+Hockey!: five field players and one goalkeeper are displayed at each side of the field. The player closest to the puck will be displayed holding the hockey stick and will be controlled by using the joystick. The goalkeeper will follow his movements. Making body contact will immobilize the players, and they can be separated by using the directional stick. To shoot the puck, the action button must be pressed. The game lasts three periods of five minutes each.
+
+Soccer!: five field players and one goalkeeper are displayed at each side of the field. The player closest to the ball will be displayed flashing and will be controlled by using the joystick. The goalkeeper will follow his movements. Making body contact will immobilize the players, and they can be separated by using the directional stick. If too many players get in touch, the game will be stopped. The propelled when a player hits it with head or legs. Pressing the action button when touching the ball will propel it farther. The game lasts two periods of five minutes each.
+When the console is started the name of the two games will alternately be displayed on the screen. To select one of them the player must move the joystick when the desired game's name is displayed.</desc>
+    <marquee>./wheel/hockey - soccer.png</marquee>
+    <video>./snap/hockey - soccer.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19810101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Sport</genre>
+    <players>2</players>
+  </game>
+  <game id="59292" source="ScreenScraper">
+    <path>./invaders from hyperspace.bin</path>
+    <name>Invaders from Hyperspace [USA]</name>
+    <desc>The players are in the Battle Control Central at the heart of the United Planets Interstellar Galactic Empire. From there, they monitor the activity of the twin solar systems of Terien and Lorien, forty-three billion light years away. Their mission is to </desc>
+    <marquee>./wheel/invaders from hyperspace.png</marquee>
+    <video>./snap/invaders from hyperspace.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Tir</genre>
+    <players>2</players>
+  </game>
+  <game id="59293" source="ScreenScraper">
+    <path>./i've got your number.bin</path>
+    <name>I've Got Your Number [USA]</name>
+    <desc>Two sets of orbiting symbols is presented at the center of the screen, while an equation is presented in the bottom side of the screen. One of the variables in the</desc>
+    <marquee>./wheel/i've got your number.png</marquee>
+    <video>./snap/i've got your number.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>01010101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Ludo-Educatif</genre>
+    <players>2</players>
+  </game>
+  <game id="59298" source="ScreenScraper">
+    <path>./kc krazy chase.bin</path>
+    <name>K.C.'s Krazy Chase [USA]</name>
+    <desc>K.C. Munchkin is back for a different kind of snack - the Dratapillar of Venus, who has come to snack on some trees in K.C.'s maze. Chase after the Dratapillar and devour its sections without running into the head or any of the Munchers in the maze. You c</desc>
+    <marquee>./wheel/kc krazy chase.png</marquee>
+    <video>./snap/kc krazy chase.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19820101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="59297" source="ScreenScraper">
+    <path>./kc munchkin.bin</path>
+    <name>K.C. Munchkin [USA]</name>
+    <desc>K.C. Munchkin is a blue furry antennaed critter who's hungry for Munchies that float around in a maze. However, there are three antennaed Munchers who are hungry for K.C., so K.C. must avoid running into them unless he eats the special blinking Munchies t</desc>
+    <marquee>./wheel/kc munchkin.png</marquee>
+    <video>./snap/kc munchkin.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19820101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="59299" source="ScreenScraper">
+    <path>./keyboard creations.bin</path>
+    <name>Keyboard Creations [USA]</name>
+    <desc>Keyboard Creations! lets the player type in a main message which will continually scroll across the screen. The game also lets the player set up an "alarm" message which can pop up every 30 seconds. The player can also set a digital clock to keep track of time.
+
+The instruction manual suggests the following games that can be played:
+
+Movie Madness!: 1 player names a movie and it's up to the other player to type in as many people that are associated with that movie. The main objective is to fill in as many characters(up to 99) of the main message as possible within an agreed amount of time. Then player 2 takes his turn and the player with the most characters filled in wins.
+
+Sportscaster!: Played the same way as Movie Madness, except this time involves naming players of sports teams instead.
+
+Identograms!: One player enters a series of clues on a subject and the other player has a limited amount of time to identify the subject. If the subject is displayed on the screen before the player guesses it, the player loses the game.
+
+Source Word!: One player names a source word and the other player has only 5 minutes to type in as many word variations as they can  by using only the letters contained in the source word. The words may be of any length but no letter can be used more than it appears in the source word. Then player 2 takes his turn and the player with the most characters filled in wins.
+
+Tell Tale!: Players take turns entering words of a sentence. A player completing the sentence before the 98th character is out of the game. A player unable to complete a sentence on exactly the 98th space is out of the game. The game continues until only one player is left. If a player ends the sentence on exactly the 98th space, that player is the winner of the game.
+
+Nincompoop!: Player 1 names any vowel the Nincompoop. Then players take turns entering words of increasing length (from 2-5 characters, then the cycle repeats). Anytime the Nincompoop vowel is used the player types Nincompoop in, instead of the vowel that would usually belong there. A player who cannot fit a word of the required length into the 99th space is out of the game. After that player is eliminated, the game starts with anew. The last surviving player is the winner.
+
+Chain Letters!: One player names a category then types in a word that would fit in that category. Then the next player has to type in a word that starts with the last letter of that word that still fits in the current category. A player breaking the letter chain is out of the game and the surviving players continue.until only one player is left, or until a player ends a chain on exactly the 99th space. If a player cannot name a category word that fits into the 99th space, that player loses. A new category is selected after that, with the other surviving players continuing on the game. 
+
+Quiz Wiz!: One player programs a series a math problems for the other player to solve in a limited amount of time. The player wins if they arrive at the answer before it appears on the screen.</desc>
+    <marquee>./wheel/keyboard creations.png</marquee>
+    <video>./snap/keyboard creations.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19810101T000000</releasedate>
+    <developer />
+    <publisher>North American Philips Consumer Electronics Corp.</publisher>
+    <genre>Ludo-Educatif</genre>
+    <players />
+  </game>
+  <game id="59762" source="ScreenScraper">
+    <path>./killer bees.bin</path>
+    <name>Killer Bees [USA]</name>
+    <desc>The player control the white bees swarm, trying to kill the Beebots by flying over them and sti</desc>
+    <marquee>./wheel/killer bees.png</marquee>
+    <video>./snap/killer bees.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="59239" source="ScreenScraper">
+    <path>./labyrinth &amp; supermind.bin</path>
+    <name>Labyrinth Game, A + Supermind [Europe]</name>
+    <desc>Deux titres sont disponibles dans ce pack:
+Un jeu de labyrinthe comme son nom l'indque. Le joueur doit dÃ©placer un pion du cÃ´tÃ© gauche d'un labyrinthe vers la sortie sur le cÃ´tÃ© droit. Chaque match se compose d'une sÃ©rie de 10 et le labyrinthe change Ã  chaque lancement d'un nouveau jeu. Le pion est contrÃ´lÃ© avec le joystick et a touche action le fait se dÃ©placer plus rapidement. Il y a 16 variations possibles, y compris les motifs stationnaires et mobiles et les sorties, pour un joueur, deux joueurs ou un joueur contre l'ordinateur (un jeu Â«Cat and MouseÂ» oÃ¹ l'ordinateur joue un pion qui tente d'attraper le pion du joueur).
+
+Supermind est un jeu de code. Quatre points d'interrogation seront affichÃ©s ainsi que le nombre de symboles Ã  saisir (4 au dÃ©but). Le joueur entre quatre symboles de son choix et s'ils sont corrects mais mal placÃ©s, un numÃ©ro rouge apparaÃ®tra Ã  droite de l'Ã©cran (avec le nombre de symboles corrects devinÃ©s). Si le symbole est correct et placÃ© dans le bon ordre, il sera affichÃ© en blanc. L'ordinateur conserve la trace du nombre d'essais effectuÃ©s et le jeu se termine lorsque tous les symboles ont Ã©tÃ© dÃ©couverts et placÃ©s dans le bon ordre.</desc>
+    <marquee>./wheel/labyrinth &amp; supermind.png</marquee>
+    <video>./snap/labyrinth &amp; supermind.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19810101T000000</releasedate>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>Divers</genre>
+    <players>1</players>
+  </game>
+  <game id="59312" source="ScreenScraper">
+    <path>./matchmaker - logix - buzzword.bin</path>
+    <name>Matchmaker + Logix + Buzzword [USA]</name>
+    <desc>Matchmaker! (selected by pressing "1") is a regular Memory game. A matrix with 20 letters appears on the screen and the player has to find pairs of symbols hidden by the letters. Two counters will be display</desc>
+    <marquee>./wheel/matchmaker - logix - buzzword.png</marquee>
+    <video>./snap/matchmaker - logix - buzzword.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Divers</genre>
+    <players>1-2</players>
+  </game>
+  <game id="59313" source="ScreenScraper">
+    <path>./math-a-magic - echo.bin</path>
+    <name>Math-A-Magic + Echo [USA]</name>
+    <desc>Math-A-Magic! is an "electronic arithmetic teacher". The player can chose up to three variations of mathematical games.In the first variation, the player will have to solve regular math problems. He first chooses th</desc>
+    <marquee>./wheel/math-a-magic - echo.png</marquee>
+    <video>./snap/math-a-magic - echo.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>01010101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Divers</genre>
+    <players>1</players>
+  </game>
+  <game id="59319" source="ScreenScraper">
+    <path>./MORSE.BIN</path>
+    <name>Morse [Europe]</name>
+    <desc>Morse teaches the code to players. There are 4 types of games which can be selected in a menu screen:The first type is a Morse code learning game. The player selects the game speed (4 to 30 words per minute) and level (1 to all 36 characters available). The computer will play the Morse signal for the first symbol (Q) and the player has to type in the symbol. After learning two signals, the game starts properly by introducing a row of trees in the top of the screen. An arrow is also displayed near the 4th tree from the left and a man on the right side. For each 10 correctly responded symbols the man takes down one tree. When he reaches the arrow, a new symbol is introduced and the process starts over again. The sequence of symbols is: Q, 7, Z, G, 0, 9, 8, O, 1, J, P, W, L, R, A, M, 6, B, X, D, Y, C, K, N, 2, 3, F, U, 4, 5, V, H, S, I, T and E.
+
+2. The second type lets the player type individual symbols and listen to their respective codes.
+
+3. The third type is similar to the second one, but in this one the player types a sequence of symbols and then press "enter" to ask the computer to play the respective code.
+
+4. In the fourth type the player uses the "action" button of the joystick to enter codes into and the computer plays them and shows the respective symbol entered.</desc>
+    <marquee>./wheel/MORSE.png</marquee>
+    <video>./snap/MORSE.mp4</video>
+    <thumbnail />
+    <rating>0.55</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>Ludo-Educatif</genre>
+    <players>1</players>
+  </game>
+  <game id="59330" source="ScreenScraper">
+    <path>./out of this world - helicopter rescue.bin</path>
+    <name>Out of this World + Helicopter Rescue [USA]</name>
+    <desc>Out of This World! is a slightly upgraded version of Space Rendezvous. It is somewhat similar to Lunar Lander. Two players have to try to link up their spaceships to the orbiting mother ship, while avoiding hitting </desc>
+    <marquee>./wheel/out of this world - helicopter rescue.png</marquee>
+    <video>./snap/out of this world - helicopter rescue.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Divers</genre>
+    <players>1-2</players>
+  </game>
+  <game id="59331" source="ScreenScraper">
+    <path>./p.t. barnum's acrobats.bin</path>
+    <name>P.T. Barnum's Acrobats [USA]</name>
+    <desc>Three rows of colored balloons are displayed at the top of the screen, moving back and forward: a blue, a yellow and a red row. The players control two acrobats jumping ov</desc>
+    <marquee>./wheel/p.t. barnum's acrobats.png</marquee>
+    <video>./snap/p.t. barnum's acrobats.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19810101T000000</releasedate>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="59332" source="ScreenScraper">
+    <path>./PACHINKO.BIN</path>
+    <name>Pachinko [USA]</name>
+    <desc>Pachinko! is based on the Japanese gaming device of the same name. The players are shown right below a giant Pachinko game. Five cups are placed across the screen, with two rotors, one at each side, and the Magic Mountain in the middle. The object of the </desc>
+    <marquee>./wheel/PACHINKO.png</marquee>
+    <video>./snap/PACHINKO.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19810101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>StratÃ©gie</genre>
+    <players>1-2</players>
+  </game>
+  <game id="59335" source="ScreenScraper">
+    <path>./pick axe pete.bin</path>
+    <name>Pick Axe Pete [USA]</name>
+    <desc>Pick Axe Pete is in the Misty Mountain Mine, trying to strike it rich. The player controls Pick Axe Pete in a platformed mine. Three doors leading to deeper parts of the mine are displayed, and from them, gold bearing rocks will burst in random intervals.</desc>
+    <marquee>./wheel/pick axe pete.png</marquee>
+    <video>./snap/pick axe pete.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19820101T000000</releasedate>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="59339" source="ScreenScraper">
+    <path>./pocket-billiards.bin</path>
+    <name>Pocket Billiards [USA]</name>
+    <desc>In this pool title, two players can choose either one of the two games available: 8-ball or Rotation. The games are selected by pressing any direction in the joystick while their names are displayed on screen.  In the 8-ball game, the winner is the first </desc>
+    <marquee>./wheel/pocket-billiards.png</marquee>
+    <video>./snap/pocket-billiards.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19810101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Divers</genre>
+    <players>2</players>
+  </game>
+  <game id="59342" source="ScreenScraper">
+    <path>./power lords.bin</path>
+    <name>Power Lords [USA]</name>
+    <desc>The player has arrived at Vulcan Rock, an artificial planetoid defended by a laser-eyed space serpent and other minions of the evil Extra-Terrestrial Alliance. Now he must defend himself from them, as well as the volcano itself.
+
+Controlling his spaceship with the control stick and shooting laser blasts with the action button, the player must avoid falling lava, rocks, the serpent's laser rays. Shooting the serpent will stun it, and shooting the rocks will destroy them. If the ship goes out of screen by one of its sides, it will come back in the opposite side.
+
+From times to times, Gryptogg, Raygoth and Arkus of the Extra-Terrestrial Alliance will open doors in the volcano firing a gravitational ray, which will drag the player's ship to it. The higher the score, the stronger the ray will be. It can be stopped by blasting the door with laser.
+
+The player earns 3 points for blasting lava during volcanic eruption, 15 points for stunning the space serpent, 45 points for hitting an open door, 75 points for destroying a lava rock and 1000 points for surviving a volcanic eruption.</desc>
+    <marquee>./wheel/power lords.png</marquee>
+    <video>./snap/power lords.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>Tir</genre>
+    <players>1</players>
+  </game>
+  <game id="59345" source="ScreenScraper">
+    <path>./q-bert.bin</path>
+    <name>Qbert [Europe]</name>
+    <desc>Q*bert is a conversion of the popular arcade game. The goal is to change all of the tiles on a pyramid to the target color. To do this you guide Q*bert around the pyramid, and every tile he hops on will change color. On early levels, a single hop will cha</desc>
+    <marquee>./wheel/q-bert.png</marquee>
+    <video>./snap/q-bert.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>D. Gottlieb &amp; Company</developer>
+    <publisher>Parker Brothers</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="59369" source="ScreenScraper">
+    <path>./quest for the rings.bin</path>
+    <name>Quest for the Rings [USA]</name>
+    <desc>Quest for the Rings is a fantasy strategy game using the combination of a game board, tokens, keyboard overlay and the computer to play the game. The game board is used to hide the ten ring tokens with various monster tokens under the castle tokens by the</desc>
+    <marquee>./wheel/quest for the rings.png</marquee>
+    <video>./snap/quest for the rings.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19810101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Divers</genre>
+    <players>1-5</players>
+  </game>
+  <game id="59354" source="ScreenScraper">
+    <path>./showdown in 2100 ad.bin</path>
+    <name>Showdown in 2100 A.D. [USA]</name>
+    <desc>In an authentic acre of the old west, two gunslingers (human or android) duel for their lives. Each one has six bullets in his gun, and trees are placed all around.
+
+Each player has to hit his opponent ten times in order to win. At each hit, both players get their guns reloaded. They can also reload their guns anytime by taking the hidden bullets in the tree that matches their outfit.
+
+The bullets will ricochet in the trees and the top and bottom edges of the screen, thus the players can hit themselves with their own bullets, scoring a hit to the opponent. It can also be used as a strategy to hit the opponent in a non direct trajectory.</desc>
+    <marquee>./wheel/showdown in 2100 ad.png</marquee>
+    <video>./snap/showdown in 2100 ad.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Action</genre>
+    <players>1-2</players>
+  </game>
+  <game id="59355" source="ScreenScraper">
+    <path>./sid the spellbinder.bin</path>
+    <name>Sid the Spellbinder [USA]</name>
+    <desc>Sid the Spellbinder was one of the three games specifically designed to use the resources of The Voice. It is some sort of Space Invaders variation, in which instead of shooting space invaders, the player has to shoot Sid the Spellbinder, a giant segmente</desc>
+    <marquee>./wheel/sid the spellbinder.png</marquee>
+    <video>./snap/sid the spellbinder.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>01010101T000000</releasedate>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>Ludo-Educatif</genre>
+    <players>1</players>
+  </game>
+  <game id="59357" source="ScreenScraper">
+    <path>./smithereens.bin</path>
+    <name>Smithereens [USA]</name>
+    <desc>This game takes place in a time when knights were bold and castle crumbling was one of the most popular sports. In this Artillery clone, two players must try to destroy each other's castle with their catapults. By pressing any direction in the joystick, t</desc>
+    <marquee>./wheel/smithereens.png</marquee>
+    <video>./snap/smithereens.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>StratÃ©gie</genre>
+    <players>2</players>
+  </game>
+  <game id="59244" source="ScreenScraper">
+    <path>./subchase - armored encounter.bin</path>
+    <name>Armored Encounter + Sub Chase [USA]</name>
+    <desc>War is hell, but this Multi-Mode cartridge makes it fun. 
+Armored Encounter! is a clone of Atari's Tank (AKA Combat). Two player-controlled tanks shoot at each other across a wide play field. Variations allow for different field layouts, land mines, and guided missiles.
+In Sub Chase! players control an airplane and a submarine that scroll horizontally across the screen. Players score points for shooting the other, but lose points if a stray shot strikes one of two neutral vessels in the middle of the screen. In both games, the player who scores highest after three minutes wins.</desc>
+    <marquee>./wheel/subchase - armored encounter.png</marquee>
+    <video>./snap/subchase - armored encounter.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Divers</genre>
+    <players>2</players>
+  </game>
+  <game id="59363" source="ScreenScraper">
+    <path>./sup cobra.bin</path>
+    <name>Super Cobra [Europe]</name>
+    <desc>Super Cobra is a side scrolling shooter based on the arcade game. You're a chopper pilot on a surveillance mission in enemy territory; your goal is to make it through the various obstacle courses alive and score as many points as possible. Tall buildings, mountains, narrow tunnels, and various enemies (such as tanks, rockets, mines, and more) can all get in the way and destroy your chopper if you aren't careful. To help defend yourself, the chopper is armed with a machine gun and bombs which can be used to destroy the enemy tanks and rockets. To make the task more difficult, your chopper has a limited amount of fuel. Throughout the landscapes are fuel tanks; if one of these is shot or bombed, you will be awarded extra fuel. As the levels progress, the enemies become more aggressive, fuel becomes more scarce, and the landscape becomes trickier to navigate.</desc>
+    <marquee>./wheel/sup cobra.png</marquee>
+    <video>./snap/sup cobra.mp4</video>
+    <thumbnail />
+    <rating>0.7</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Parker Brothers</publisher>
+    <genre>Tir</genre>
+    <players>1</players>
+  </game>
+  <game id="59365" source="ScreenScraper">
+    <path>./take the money and run.bin</path>
+    <name>Take the Money and Run [USA]</name>
+    <desc>After a time travel, the players are trapped in the Land of Keynesium, in 231,000 A.D. The Keynesians are deeply interested in the 20th Century economic life, and they build more than a trillion different mazes populated by robots representing the economi</desc>
+    <marquee>./wheel/take the money and run.png</marquee>
+    <video>./snap/take the money and run.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+  </game>
+  <game id="59370" source="ScreenScraper">
+    <path>./thunderball.bin</path>
+    <name>Thunderball [USA]</name>
+    <desc>In this pinball game, up to four players will take turns playing five balls in either one of the two playing modes.</desc>
+    <marquee>./wheel/thunderball.png</marquee>
+    <video>./snap/thunderball.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19800101T000000</releasedate>
+    <developer>Philips Interactive Media</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>Divers</genre>
+    <players>1-4</players>
+  </game>
+  <game id="59371" source="ScreenScraper">
+    <path>./TURTLES.BIN</path>
+    <name>Turtles [USA]</name>
+    <desc>Turtles, also known as Turpin, puts you into the role of the maternalistic turtle who tries to save the kidturtles from a bunch of bad bugs (or, in some versions, bad cars). It takes place in a Pacman-esque labyrinth, with turtle boxes in the centre and corners of the screen. Run into a box to release the turtle kid inside. Opening a box makes a little house show up, and you must go with the kidturtle to the house before you can release the next one. All the while, you must avoid the bugs/cars running around the maze. If they get too close, you can release a mine which will stun them temporarily. When you run out of mines, you must resupply by passing over a star in the centre of the screen. Beware, though, because the simpleminded bugs become smarter as time passes; this is symbolised by their changing colours. On later levels, those sneaky beetles can also come out of the boxes supposed to hold kidturtles. Watch out!
+
+Each level is a floor in a house, and between levels you can see the turtle climbing to the next floor until it reaches the top.</desc>
+    <marquee>./wheel/TURTLES.png</marquee>
+    <video>./snap/TURTLES.mp4</video>
+    <thumbnail />
+    <rating>0.75</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Philips Interactive Media</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+  </game>
+  <game id="59373" source="ScreenScraper">
+    <path>./type and tell.bin</path>
+    <name>Type &amp; Tell [USA]</name>
+    <desc>Type &amp; Tell! lets the player type in a word or a message and then have the words spoken back to them by utilizing the Odyssey 2's voice module.The instruction manual suggests the following games that can be played:Garble! - Players take turns typing in on</desc>
+    <marquee>./wheel/type and tell.png</marquee>
+    <video>./snap/type and tell.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>01010101T000000</releasedate>
+    <developer />
+    <publisher>North American Philips Consumer Electronics Corp.</publisher>
+    <genre>Ludo-Educatif</genre>
+    <players />
+  </game>
+  <game id="59376" source="ScreenScraper">
+    <path>./volleyball.bin</path>
+    <name>Volleyball [USA]</name>
+    <desc>While the packaging promises "an electronic simulation so real you can even spike a shot", this is in fact a volleyball game (the first for a home console) which has a very loose interpretation of the standard rules. In fact, it can be described as a cros</desc>
+    <marquee>./wheel/volleyball.png</marquee>
+    <video>./snap/volleyball.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19810101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>Sport</genre>
+    <players>1-2</players>
+  </game>
+  <game id="59379" source="ScreenScraper">
+    <path>./war of nerves.bin</path>
+    <name>War of Nerves [USA]</name>
+    <desc>Two armies share the screen, the Army of Northwestonia in the upper left corner and the Army of Southeasternia in the lower right corner. The pla</desc>
+    <marquee>./wheel/war of nerves.png</marquee>
+    <video>./snap/war of nerves.mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>19810101T000000</releasedate>
+    <developer>Magnavox</developer>
+    <publisher>Magnavox</publisher>
+    <genre>StratÃ©gie</genre>
+    <players>1-2</players>
+  </game>
+</gameList>

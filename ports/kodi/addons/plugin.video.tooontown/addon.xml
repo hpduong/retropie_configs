@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.tooontown" version="1.0.2.9" name=" tooontown" provider-name="Bone Crusher">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		        <import addon="script.nightmare.artwork" />
+		        <import addon="script.AnArchy.metadata" />
+                <import addon="script.module.resolveurl" />
+                <import addon="script.module.metahandler" />
+                <import addon="script.module.requests" />
+                <import addon="script.module.beautifulsoup" />
+                <import addon="script.module.bc.common" />
+                <import addon="script.module.futures" />
+		        <import addon="repository.MadHouse" />				
+                <import addon="script.module.universalscrapers" />
+				<import addon="script.tooontown.Greeting" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="tooontown.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">[COLOR yellow]Europe/London[/COLOR]</summary>
+		<description lang="en">Movie, TV Show, and Playlist Add-on</description>
+		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+		<platform>all</platform>
+		<forum></forum>
+		<website></website>
+		<source></source>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news></news>
+	</extension>
+</addon>

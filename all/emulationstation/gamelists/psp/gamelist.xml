@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Chessmaster - The Art of Learning (USA).iso</path>
+		<name>Chessmaster : EntraÃ®nez-vous aux Echecs [Europe]</name>
+		<desc>L'une des plus vieilles licences du jeu vidÃ©o revient sur PSP. Chessmaster propose de disputer des parties libres ou classÃ©es contre un large panel d'adversaires, regroupÃ©s en niveaux de difficultÃ©. Au programme Ã©galement, plus de 6 mini-jeux pour passer le temps.</desc>
+		<marquee>./wheel/Chessmaster - The Art of Learning (USA).png</marquee>
+		<video>./snap/Chessmaster - The Art of Learning (USA).jpg</video>
+		<rating>0.6</rating>
+		<releasedate>20080313T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<playcount>4</playcount>
+		<lastplayed>20180313T100623</lastplayed>
+	</game>
+	<game>
+		<path>./Ultimate Board Game Collection (USA).iso</path>
+		<name>Ultimate Board Game Collection [Europe]</name>
+		<desc>Ultimate Board Game Collection includes a large group of tabletop and board games, some classic and some unique. It contains 24 games in all, arranged into categories, and supports up to 6 players:
+
+All-Time Favorites: Backgammon, Checkers, Chess, Chinese Checkers, Reversi
+ 
+Words &amp; Numbers: Anagrams, Dice, Kakuro, Sudoku, Word Cubes
+Puzzle Games: Concentration, Enigma, Jigsaws, Mahjong
+Family Favorites: 3-D Tic-Tac-Toe, Naval Battle, Parcheesi, Quattro, Snakes and Ladders
+Strategy Games: Dominoes, Go, Mancala, Gomoku, Shogi
+
+This PSP version has more games than the Playstation 2 or Wii versions, and has some additional features. It allows players to play their own MP3 audio tracks off of a memory stick, and two of the games, Jigsaws and Concentration, have the option to upload custom images to jazz up the atmosphere. Also included are 27 unlockable trophies as goals to work for. The in-game tutorial provides help for any unfamiliar games.</desc>
+		<marquee>./wheel/Ultimate Board Game Collection (USA).png</marquee>
+		<video>./snap/Ultimate Board Game Collection (USA).jpg</video>
+		<rating>0</rating>
+		<releasedate>01010101T000000</releasedate>
+		<developer>Mere Mortals</developer>
+		<publisher>Valcon Games LLC</publisher>
+		<genre>StratÃ©gie</genre>
+		<players></players>
+		<playcount>2</playcount>
+		<lastplayed>20180313T094049</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,10 @@
+v1.0.3
+- TV Maze.py Updated (Credit TonyH)
+
+v1.0.2
+- Fixed Trakt.py
+- Added Dom Parser.py (Credit Maud'Dib)
+- Added Watchcartoon.py (Credit Maud'Dib)
+
+v1.0.1
+- Initial Release

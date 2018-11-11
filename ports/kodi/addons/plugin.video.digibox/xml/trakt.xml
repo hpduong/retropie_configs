@@ -1,0 +1,80 @@
+<dir>
+    <title>[B][COLOR dodgerblue]Authorize Your Trakt[/COLOR][/B]</title>
+    <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+    <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+    <fanart></fanart>
+</dir>
+
+ <dir>
+      <title>Trending Movies</title>
+      <trakt>https://api.trakt.tv/movies/trending</trakt>
+     <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+</dir>
+
+    <dir>
+      <title>Popular Movies</title>
+      <trakt>https://api.trakt.tv/movies/popular</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+    </dir>
+
+    <dir>
+      <title>Movie Watchlist</title>
+      <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+    </dir>
+
+    <dir>
+      <title>Movie Collection</title>
+      <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+    </dir>
+
+    <dir>
+      <title>Trending Shows</title>
+      <trakt>https://api.trakt.tv/shows/trending</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+    </dir>
+
+
+    <dir>
+      <title>Popular Shows</title>
+      <trakt>https://api.trakt.tv/shows/popular</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+    </dir>
+
+    <dir>
+      <title>TV Watchlist</title>
+      <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+    </dir>
+
+    <dir>
+      <title>TV Collection</title>
+      <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+    </dir>
+
+    <dir>
+      <title>My lists</title>
+      <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+    </dir>
+
+    <dir>
+      <title>My Liked Lists</title>
+      <trakt>https://api.trakt.tv/users/likes/lists</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+    </dir>
+
+<plugin>
+<name>[B][COLOR dodgerblue]Clear Cache Update-List[/COLOR][/B]</name>
+<link>plugin://plugin.video.yourpluginname/?mode=clearCache</link>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+</plugin>
+
+
+ <dir>
+      <title>Search Trakt</title>
+      <trakt>search</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Trakt_new.png</thumbnail>
+    </dir>

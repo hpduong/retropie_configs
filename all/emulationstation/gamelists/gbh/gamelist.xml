@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Akumajou Dracula - Shikkokutaru Zensoukyoku (Speed Up).zip</path>
+		<name>Akumajou Dracula - Shikkokutaru Zensoukyoku (Speed Up)</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Akumajou Dracula - Shikkokutaru Zensoukyoku (Speed Up).mp4</video>
+		<marquee>./wheel/Akumajou Dracula - Shikkokutaru Zensoukyoku (Speed Up).png</marquee>
+		<wheel>./wheel/Akumajou Dracula - Shikkokutaru Zensoukyoku (Speed Up).png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Castlevania - Legends by Silver X (Speed).zip</path>
+		<name>Castlevania - Legends by Silver X (Speed)</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Castlevania - Legends by Silver X (Speed).mp4</video>
+		<marquee>./wheel/Castlevania - Legends by Silver X (Speed).png</marquee>
+		<wheel>./wheel/Castlevania - Legends by Silver X (Speed).png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Castlevania Adventure, The (Graphics Improved).zip</path>
+		<name>Castlevania Adventure, The (Graphics Improved)</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Castlevania Adventure, The (Graphics Improved).mp4</video>
+		<marquee>./wheel/Castlevania Adventure, The (Graphics Improved).png</marquee>
+		<wheel>./wheel/Castlevania Adventure, The (Graphics Improved).png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Castlevania II - Belmont's Revenge (Speed Up).zip</path>
+		<name>Castlevania II - Belmont's Revenge (Speed Up)</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Castlevania II - Belmont's Revenge (Speed Up).mp4</video>
+		<marquee>./wheel/Castlevania II - Belmont's Revenge (Speed Up).png</marquee>
+		<wheel>./wheel/Castlevania II - Belmont's Revenge (Speed Up).png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Link's Awakening (Restored Edition).zip</path>
+		<name>Legend of Zelda, The - Link's Awakening (Restored Edition)</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Legend of Zelda, The - Link's Awakening (Restored Edition).mp4</video>
+		<marquee>./wheel/Legend of Zelda, The - Link's Awakening (Restored Edition).png</marquee>
+		<wheel>./wheel/Legend of Zelda, The - Link's Awakening (Restored Edition).png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Metroid II - Return of Samus (Incandescent Color Theme).zip</path>
+		<name>Metroid II - Return of Samus (Incandescent Color Theme)</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Metroid II - Return of Samus (Incandescent Color Theme).mp4</video>
+		<marquee>./wheel/Metroid II - Return of Samus (Incandescent Color Theme).png</marquee>
+		<wheel>./wheel/Metroid II - Return of Samus (Incandescent Color Theme).png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Metroid II DX by Redrum.zip</path>
+		<name>Metroid II DX by Redrum</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Metroid II DX by Redrum.mp4</video>
+		<marquee>./wheel/Metroid II DX by Redrum.png</marquee>
+		<wheel>./wheel/Metroid II DX by Redrum.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Pokemon II.zip</path>
+		<name>Pokemon II</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Pokemon II.mp4</video>
+		<marquee>./wheel/Pokemon II.png</marquee>
+		<wheel>./wheel/Pokemon II.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Pokemon Neo - Adventure.zip</path>
+		<name>Pokemon Neo - Adventure</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Pokemon Neo - Adventure.mp4</video>
+		<marquee>./wheel/Pokemon Neo - Adventure.png</marquee>
+		<wheel>./wheel/Pokemon Neo - Adventure.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Pokemon Platinum.zip</path>
+		<name>Pokemon Platinum</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Pokemon Platinum.mp4</video>
+		<marquee>./wheel/Pokemon Platinum.png</marquee>
+		<wheel>./wheel/Pokemon Platinum.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Pokemon Red Upgrade.zip</path>
+		<name>Pokemon Red Upgrade</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Pokemon Red Upgrade.mp4</video>
+		<marquee>./wheel/Pokemon Red Upgrade.png</marquee>
+		<wheel>./wheel/Pokemon Red Upgrade.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Pokemon Rocket - Jessie Version.zip</path>
+		<name>Pokemon Rocket - Jessie Version</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Pokemon Rocket - Jessie Version.mp4</video>
+		<marquee>./wheel/Pokemon Rocket - Jessie Version.png</marquee>
+		<wheel>./wheel/Pokemon Rocket - Jessie Version.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Pokemon Z V3.0.zip</path>
+		<name>Pokemon Z V3.0</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Pokemon Z V3.0.mp4</video>
+		<marquee>./wheel/Pokemon Z V3.0.png</marquee>
+		<wheel>./wheel/Pokemon Z V3.0.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Rockman World 4.zip</path>
+		<name>Rockman World 4</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Rockman World 4.mp4</video>
+		<marquee>./wheel/Rockman World 4.png</marquee>
+		<wheel>./wheel/Rockman World 4.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Super Mario Land (New GFX Color Edition).zip</path>
+		<name>Super Mario Land (New GFX Color Edition)</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Super Mario Land (New GFX Color Edition).mp4</video>
+		<marquee>./wheel/Super Mario Land (New GFX Color Edition).png</marquee>
+		<wheel>./wheel/Super Mario Land (New GFX Color Edition).png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Super Mario Land 2 DX.zip</path>
+		<name>Super Mario Land 2 DX</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Super Mario Land 2 DX.mp4</video>
+		<marquee>./wheel/Super Mario Land 2 DX.png</marquee>
+		<wheel>./wheel/Super Mario Land 2 DX.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Super Pika Land.zip</path>
+		<name>Super Pika Land</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Super Pika Land.mp4</video>
+		<marquee>./wheel/Super Pika Land.png</marquee>
+		<wheel>./wheel/Super Pika Land.png</wheel>
+		<desc />
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Pokemon Blue Upgrade.zip</path>
+		<name>Pokemon Blue Upgrade</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Pokemon Blue Upgrade.mp4</video>
+		<marquee>./wheel/Pokemon Blue Upgrade.png</marquee>
+		<rating />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>2</playcount>
+		<lastplayed>20171005T012053</lastplayed>
+	</game>
+	<game>
+		<path>./Castlevania Legends (Speed Up).zip</path>
+		<name>Castlevania Legends (Speed Up)</name>
+		<image>./boxart/gbh.png</image>
+		<video>./snap/Castlevania Legends (Speed Up).mp4</video>
+		<marquee>./wheel/Castlevania Legends (Speed Up).png</marquee>
+		<rating></rating>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20180312T163814</lastplayed>
+	</game>
+</gameList>

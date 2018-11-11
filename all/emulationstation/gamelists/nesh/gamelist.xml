@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Castlevania 2 - Simon's Quest - Readaction.zip</path>
+		<name>Castlevania 2 - Simon's Quest - Readaction</name>
+		<image>./boxart/nesh.png</image>
+		<marquee>./wheel/Castlevania 2 - Simon's Quest - Readaction.png</marquee>
+		<video>./snap/Castlevania 2 - Simon's Quest - Readaction.mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda - Outlands.zip</path>
+		<name>Legend of Zelda - Outlands</name>
+		<image>./boxart/nesh.png</image>
+		<marquee>./wheel/Legend of Zelda - Outlands.png</marquee>
+		<video>./snap/Legend of Zelda - Outlands.mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man - In The Mushroom Kingdom.zip</path>
+		<name>Mega Man - In The Mushroom Kingdom</name>
+		<image>./boxart/nesh.png</image>
+		<marquee>./wheel/Mega Man - In The Mushroom Kingdom.png</marquee>
+		<video>./snap/Mega Man - In The Mushroom Kingdom.mp4</video>
+	</game>
+	<game>
+		<path>./Metroid Rogue Dawn.zip</path>
+		<name>Metroid Rogue Dawn</name>
+		<image>./boxart/nesh.png</image>
+		<marquee>./wheel/Metroid Rogue Dawn.png</marquee>
+		<video>./snap/Metroid Rogue Dawn.mp4</video>
+	</game>
+	<game>
+		<path>./Tecmo Super Bowl 2017.zip</path>
+		<name>Tecmo Super Bowl 2017</name>
+		<image>./boxart/nesh.png</image>
+		<marquee>./wheel/Tecmo Super Bowl 2017.png</marquee>
+		<video>./snap/Tecmo Super Bowl 2017.mp4</video>
+	</game>
+	<game>
+		<path>./Mario Adventure.zip</path>
+		<name>Mario Adventure</name>
+		<image>./boxart/nesh.png</image>
+		<video>./snap/Mario Adventure.mp4</video>
+		<marquee>./wheel/Mario Adventure.png</marquee>
+		<playcount>1</playcount>
+		<lastplayed>20180313T090934</lastplayed>
+	</game>
+</gameList>

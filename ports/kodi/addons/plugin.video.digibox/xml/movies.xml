@@ -1,0 +1,104 @@
+
+
+<dir>
+    <title>Newest Releases</title>  <title>Direct Links Reqiure Real-debrid</title>
+    <Airtable>newest_releases/page1</Airtable>
+    <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+    </dir>
+
+
+
+<dir>
+  <title>Trending Movies</title>
+  <trakt>https://api.trakt.tv/movies/trending</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+
+
+<dir>
+  <title>Popular</title>
+  <tmdb>movies/popular</tmdb>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+
+<dir>
+  <title>Now Playing</title>
+  <tmdb>movies/now_playing</tmdb>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Top Rated</title>
+  <tmdb>movies/top_rated</tmdb>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+
+<dir>
+<name>Collection</name>
+<link>file://Collection.xml</link>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <name>Boxsets</name>
+  <link>file://boxsets.xml</link>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+  <summary></summary>
+</dir>
+  
+
+
+<dir>
+    <title>Kids Boxsets</title>
+    <link>file://shared lists/kids_boxset.xml</link>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+  </dir>
+
+
+<dir>
+<title>Oscar Winner</title>
+<trakt>https://api.trakt.tv/users/mrblue74/lists/best-picture-oscar-winner-movies/items</trakt>
+<summary>Winners of Best Picture Award</summary>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+</dir>
+
+
+  <dir>
+    <title>Upcoming Movies</title>
+    <tmdb>movie/upcoming</tmdb>
+    <summary>Shows Trailers For Upcoming Movies</summary>
+ <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+  </dir>
+
+
+<dir>
+    <title>Genres</title>
+    <link>file://shared lists/genre_movies.xml</link>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+  </dir>
+  
+<dir>
+    <title>Years</title>
+    <link>file://Years-Movie.xml</link>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+  </dir>
+
+<dir>
+     <name>Actors</name>
+     <link>file://actors.xml</link>
+     <animated_thumbnail></animated_thumbnail>
+    <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Movie_new.png</thumbnail>
+     <animated_fanart></animated_fanart>
+     <fanart></fanart>
+</dir>
+
+<dir>
+  <title>Search</title>
+  <tmdb>search</tmdb>
+  <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Search_new.png</thumbnail>
+</dir>

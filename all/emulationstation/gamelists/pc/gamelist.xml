@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameList>
+	<game>
+		<path>./absolute.bat</path>
+		<name>Absolute Pinball</name>
+		<desc>Absolute Pinball is a pinball game which features four tables with different themes: Desert Run (car tour from Paris to Dakar), Aquatic Adventure (treasure hunt at a beach), The Dream Factory (Hollywood) and Balls 'n Bats (Baseball). All tables feature three flippers and several mini games on the scoreboard, e.g. swimming away from sharks. Also worth mentioning are the five graphics mode which range from a classic scrolling table to a transverse view which shows the whole table at one. The controls follow the genre standard.</desc>
+		<image>./snap/absolute.jpg</image>
+		<releasedate>19960711T000000</releasedate>
+		<developer>Unique Dev</developer>
+		<publisher>21st Century</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./epicpin.bat</path>
+		<name>Epic Pinball</name>
+		<desc>Epic Pinball is pinball game. You control the plunger and flippers to try and send the silver ball to specific areas of the table in order to progress. The early shareware release featured only a single table called Android (later renamed to Super Android), but the registered release was sold in three different packs, each with four tables. Some of the tables are quite traditional in their design, but others, like Enigma, can only exist digitally. A later CD-ROM version of the game was released which added a 13th and final table. To add even further confusion, a couple of the tables were also released as stand-alone games.</desc>
+		<image>./snap/epicpin.jpg</image>
+		<releasedate>19930206T000000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>Epic Games</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./extreme.bat</path>
+		<name>Extreme Pinball</name>
+		<desc>Extreme Pinball is Epic Megagames' successor to Epic Pinball. It contains four pinball tables: Rock Fantasy, Medieval Knights, Urban Chaos, and Monkey Mayhem, each with a different theme. Compared to Epic Pinball, it has a larger, 320x400 resolution, as well as taller tables, both allowing for more objects. It also has a typical Dot Matrix Display where the scoreboard shows 3D-rendered animations as well. The controls are more sensitive with a faster ball.</desc>
+		<image>./snap/extreme.jpg</image>
+		<releasedate>19951202T000000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>EA</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./pb2000.bat</path>
+		<name>Pinball 2000</name>
+		<desc>A pinball game with two tables, Rocket and Graveyard. It was derived from an Amiga game by Digital Illusions called Pinball Dreams. The game supports up to 8 players in a versus fight for points and bonuses.</desc>
+		<image>./snap/pb2000.jpg</image>
+		<releasedate>19951005T000000</releasedate>
+		<developer>Expert</developer>
+		<publisher>21st Century</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./pb4000.bat</path>
+		<name>Pinball 4000</name>
+		<desc>Definitely a dated, redistributed discount package with typical Spidersoft 2D tables. Casino actually has the same features but a different layout as Jackpot in Total Pinball 3D. Fluffy muzak soundtrack with some OK sound and speech effects. Few and simple targets but fairly good and conceptual story lines if you can stand it that long. Tables too long with many "bald spots" where additional targets could have been placed.</desc>
+		<image>./snap/pb4000.jpg</image>
+		<releasedate>19940309T000000</releasedate>
+		<developer>Spidersoft</developer>
+		<publisher>21st Century</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./pdreams.bat</path>
+		<name>Pinball Dreams</name>
+		<desc>The first in a line of pinball games from 21st Century and Digital Illusions, with four tables covering themes such as the wild west for Steel Wheel, space rockets for Ignition, a haunted graveyard for Nightmare and pop music for Beat Box. The portable versions for the Game Boy and Game Gear only have 3 of the 4 original tables with the removal of Beat Box.</desc>
+		<image>./snap/pdreams.jpg</image>
+		<releasedate>19930206T000000</releasedate>
+		<developer>Spidersoft</developer>
+		<publisher>21st Century</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./pdreams2.bat</path>
+		<name>Pinball Dreams 2</name>
+		<desc>The sequel to Pinball Dreams with 4 entirely new tables: Neptune: with an undersea theme. Safari: with an obvious safari theme. Revenge of the Robot Warriors: with a sci-fi them. Stall Turn: with an aviation theme.</desc>
+		<image>./snap/pdreams2.jpg</image>
+		<releasedate>19941112T000000</releasedate>
+		<developer>Spidersoft</developer>
+		<publisher>21st Century</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./illusion.bat</path>
+		<name>Pinball Illusions</name>
+		<desc>Pinball Illusions is the successor to the Pinball Fantasies, using an upgraded game engine. The tables are Babewatch, Law &amp; Justice, Extreme Sports and (on PC CD versions) The Vikings. These contain ramps, bonus areas and combo sequences to set up. All the artwork were produced in true 256 colors from the ground up for AGA Amigas and the PC, rather than originating in 32 colors on older Amigas.</desc>
+		<image>./snap/illusion.jpg</image>
+		<releasedate>19951005T000000</releasedate>
+		<developer>Digital Illusions</developer>
+		<publisher>21st Cent</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./psychop.bat</path>
+		<name>Psycho Pinball</name>
+		<desc>Psycho Pinball is another pinball game in the style first introduced in Pinball Dreams and later popularized in Pinball Fantasies. Standard features of these types of pinball simulations include an animated backglass display, multiple bonuses including a multi-ball, extra ball, etc., and background music that changes based on active specials.</desc>
+		<image>./snap/psychop.jpg</image>
+		<releasedate>19951005T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./royflush.bat</path>
+		<name>Royal Flush</name>
+		<desc>Royal Flush is a simulation of the real life pinball machine of the same name by Gottlieb. The main focus lies on a realistic feeling and the ball physics. The game is played with just four buttons: two to handle the two paddles, one to release the balls, and one to simulate the shaking on a real pinball machine. The whole table uses a poker design. There are multiple ways to receive bonus points, e.g. hitting one of the five cards on the upper part, three bumpers or The Hole which gives you a lot of points and lands the ball on the right paddle. Depending on the graphics card there are two ways how the machine is simulated: it is either stationary (you see the hole table at once) or it scrolls with the playing ball.</desc>
+		<image>./snap/royflush.jpg</image>
+		<releasedate>19941205T000000</releasedate>
+		<developer>Amtex</developer>
+		<publisher>Broderbund</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./silvball.bat</path>
+		<name>Silverball</name>
+		<desc>Silverball is basically a commercially published version of the game Epic Pinball. The game engine is nearly the same, only the tables themselves are different. It comes with four tables: Fantasy, Blood, Snooker Champ, and Odyssey. Some distributions (Silverball Plus 2) include two extra tables, Warbot and Duel, which are more or less the same as the Excalibur and Magic tables from Epic Pinball with some different art and music. Finally, a seventh table, Nova, may or may not be a part of the game.</desc>
+		<image>./snap/silvball.jpg</image>
+		<releasedate>19931005T000000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>Microleague</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./tristan.bat</path>
+		<name>Tristan Pinball</name>
+		<desc>Solid State Pinball: Tristan is a pinball simulator which features a single medieval-themed board (hence the title) displayed in a single screen with score and bonus indicators filling the rest of the screen. Includes multiplayer hot-seat support in which each player plays a ball and switches when losing and also features the ability to nudge and tilt the machine, besides regular paddle controls.</desc>
+		<image>./snap/tristan.jpg</image>
+		<releasedate>19910706T000000</releasedate>
+		<developer>Littlewing</developer>
+		<publisher>Amtex</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./8balldlx.bat</path>
+		<name>8 Ball Deluxe</name>
+		<desc>The game is based on the original Eight Ball Deluxe pinball machine by Bally from 1981. With support to high resolutions (1024x768) it only includes one pinball game. As special features the player can change the voltage levels and an un-common magnet ball option that allows guiding the ball and discovering the different combos for a best score. </desc>
+		<image>./snap/8balldlx.jpg</image>
+		<releasedate>19930208T000000</releasedate>
+		<developer>PAS Systems</developer>
+		<publisher>Amtex</publisher>
+		<genre>Pinball</genre>
+		<playcount>1</playcount>
+		<lastplayed>20180122T182826</lastplayed>
+	</game>
+	<game>
+		<path>./pfant.bat</path>
+		<name>Pinball Fantasies</name>
+		<desc>After the success of Pinball Dreams on several systems, a sequel featuring four new tables was created. The gameplay is much the same as the first game, with realistic physics, multi-player options and a high score table to aim for. The tables are Partyland, Speed Devils, Billion Dollar Gameshow and Stones 'n' Bones, taking in a funfair, racing cars, a tacky game-show, and a graveyard. Each one has a range of ramps, combos, light sequences and targets to shoot, as well as general themes which are less influenced by real tables than those in Pinball Dreams.</desc>
+		<image>./snap/pfant.jpg</image>
+		<releasedate>19940210T000000</releasedate>
+		<developer>Digital Illusions</developer>
+		<publisher>21st Century</publisher>
+		<genre>Pinball</genre>
+		<playcount>1</playcount>
+		<lastplayed>20180122T182850</lastplayed>
+	</game>
+	<game>
+		<path>./pbworld.bat</path>
+		<name>Pinball World</name>
+		<desc>As its namesake, Pinball World has nine pinball tables (rather then usual four), based on places around the globe - Africa, Australia, Far East, Germany, Hollywood, United Kingdom, New York, North Pole and South America. Players start the game at unique pinball table menu using flippers to shoot the ball towards their chosen destination. Each pinball table has hidden access to other countries. This is achieved by activating the relevant lights or earning enough to get bonus points.</desc>
+		<image>./snap/pbworld.jpg</image>
+		<releasedate>19940104T000000</releasedate>
+		<developer>Spidersoft</developer>
+		<publisher>21st Century</publisher>
+		<genre>Pinball</genre>
+		<playcount>1</playcount>
+		<lastplayed>20180122T183130</lastplayed>
+	</game>
+	<game>
+		<path>/home/pi/RetroPie/roms/pc/Alone In The Dark.bat</path>
+		<name>Alone In The Dark</name>
+		<playcount>1</playcount>
+		<lastplayed>20180123T102635</lastplayed>
+	</game>
+	<game>
+		<path>/home/pi/RetroPie/roms/pc/Back To The Future Part II.bat</path>
+		<name>Back To The Future Part II</name>
+		<playcount>3</playcount>
+		<lastplayed>20180123T102923</lastplayed>
+	</game>
+	<game>
+		<path>/home/pi/RetroPie/roms/pc/back To The Future Part II/dosbox.bat</path>
+		<name>dosbox</name>
+		<playcount>1</playcount>
+		<lastplayed>20180123T102846</lastplayed>
+	</game>
+</gameList>

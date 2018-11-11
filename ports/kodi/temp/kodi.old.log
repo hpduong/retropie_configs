@@ -1,0 +1,730 @@
+﻿21:01:30.795 T:1911480320  NOTICE: special://profile/ is mapped to: special://masterprofile/
+21:01:30.795 T:1911480320  NOTICE: -----------------------------------------------------------------------
+21:01:30.795 T:1911480320  NOTICE: Starting Kodi (17.6 Git:20171115-d69a54a). Platform: Linux ARM 32-bit
+21:01:30.795 T:1911480320  NOTICE: Using Release Kodi x32 build (version for Raspberry Pi)
+21:01:30.795 T:1911480320  NOTICE: Kodi compiled Nov 23 2017 by GCC 6.3.0 for Linux ARM 32-bit version 4.9.53 (264501)
+21:01:30.796 T:1911480320  NOTICE: Running on Raspbian GNU/Linux 9 (stretch), kernel: Linux ARM 32-bit version 4.14.30-v7+
+21:01:30.801 T:1911480320  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+21:01:30.801 T:1911480320  NOTICE: Host CPU: ARMv7 Processor rev 4 (v7l), 4 cores available
+21:01:30.801 T:1911480320  NOTICE: ARM Features: Neon enabled
+21:01:30.801 T:1911480320  NOTICE: special://xbmc/ is mapped to: /usr/share/kodi
+21:01:30.801 T:1911480320  NOTICE: special://xbmcbin/ is mapped to: /usr/lib/arm-linux-gnueabihf/kodi
+21:01:30.801 T:1911480320  NOTICE: special://xbmcbinaddons/ is mapped to: /usr/lib/arm-linux-gnueabihf/kodi/addons
+21:01:30.801 T:1911480320  NOTICE: special://masterprofile/ is mapped to: /home/pi/.kodi/userdata
+21:01:30.801 T:1911480320  NOTICE: special://envhome/ is mapped to: /home/pi
+21:01:30.801 T:1911480320  NOTICE: special://home/ is mapped to: /home/pi/.kodi
+21:01:30.801 T:1911480320  NOTICE: special://temp/ is mapped to: /home/pi/.kodi/temp
+21:01:30.801 T:1911480320  NOTICE: special://logpath/ is mapped to: /home/pi/.kodi/temp
+21:01:30.801 T:1911480320  NOTICE: The executable running is: /usr/lib/arm-linux-gnueabihf/kodi/kodi_v7.bin
+21:01:30.801 T:1911480320  NOTICE: Local hostname: retropie
+21:01:30.802 T:1911480320  NOTICE: Log File is located: /home/pi/.kodi/temp//kodi.log
+21:01:30.802 T:1911480320  NOTICE: -----------------------------------------------------------------------
+21:01:30.870 T:1911480320   ERROR: DBus: Error org.freedesktop.DBus.Error.ServiceUnknown - The name org.freedesktop.UPower was not provided by any .service files
+21:01:31.177 T:1911480320  NOTICE: load settings...
+21:01:31.256 T:1911480320  NOTICE: Found 2 Lists of Devices
+21:01:31.256 T:1911480320  NOTICE: Enumerated PI devices:
+21:01:31.256 T:1911480320  NOTICE:     Device 1
+21:01:31.256 T:1911480320  NOTICE:         m_deviceName      : HDMI
+21:01:31.256 T:1911480320  NOTICE:         m_displayName     : HDMI
+21:01:31.256 T:1911480320  NOTICE:         m_displayNameExtra:
+21:01:31.256 T:1911480320  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+21:01:31.256 T:1911480320  NOTICE:         m_channels        : FL,FR
+21:01:31.256 T:1911480320  NOTICE:         m_sampleRates     : 8000,11025,16000,22050,24000,32000,44100,48000,88200,96000,176400,192000
+21:01:31.256 T:1911480320  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_S32NE,AE_FMT_S16NE,AE_FMT_S32LE,AE_FMT_S16LE,AE_FMT_FLOATP,AE_FMT_S32NEP,AE_FMT_S16NEP,AE_FMT_RAW
+21:01:31.256 T:1911480320  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512
+21:01:31.256 T:1911480320  NOTICE:     Device 2
+21:01:31.256 T:1911480320  NOTICE:         m_deviceName      : Analogue
+21:01:31.256 T:1911480320  NOTICE:         m_displayName     : Analogue
+21:01:31.256 T:1911480320  NOTICE:         m_displayNameExtra:
+21:01:31.256 T:1911480320  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+21:01:31.256 T:1911480320  NOTICE:         m_channels        : FL,FR
+21:01:31.257 T:1911480320  NOTICE:         m_sampleRates     : 48000
+21:01:31.257 T:1911480320  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_S32LE,AE_FMT_S16LE,AE_FMT_FLOATP,AE_FMT_S32NEP,AE_FMT_S16NEP
+21:01:31.257 T:1911480320  NOTICE:         m_streamTypes     : No passthrough capabilities
+21:01:31.257 T:1911480320  NOTICE:     Device 3
+21:01:31.257 T:1911480320  NOTICE:         m_deviceName      : Both
+21:01:31.257 T:1911480320  NOTICE:         m_displayName     : HDMI and Analogue
+21:01:31.257 T:1911480320  NOTICE:         m_displayNameExtra:
+21:01:31.257 T:1911480320  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+21:01:31.257 T:1911480320  NOTICE:         m_channels        : FL,FR
+21:01:31.257 T:1911480320  NOTICE:         m_sampleRates     : 48000
+21:01:31.257 T:1911480320  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_S32LE,AE_FMT_S16LE,AE_FMT_FLOATP,AE_FMT_S32NEP,AE_FMT_S16NEP
+21:01:31.257 T:1911480320  NOTICE:         m_streamTypes     : No passthrough capabilities
+21:01:31.257 T:1911480320  NOTICE: Enumerated ALSA devices:
+21:01:31.257 T:1911480320  NOTICE:     Device 1
+21:01:31.257 T:1911480320  NOTICE:         m_deviceName      : @
+21:01:31.257 T:1911480320  NOTICE:         m_displayName     : Default (bcm2835 ALSA bcm2835 ALSA)
+21:01:31.257 T:1911480320  NOTICE:         m_displayNameExtra:
+21:01:31.257 T:1911480320  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+21:01:31.257 T:1911480320  NOTICE:         m_channels        : FL,FR
+21:01:31.257 T:1911480320  NOTICE:         m_sampleRates     : 8000,11025,16000,22050,32000,44100,48000
+21:01:31.257 T:1911480320  NOTICE:         m_dataFormats     : AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_U8
+21:01:31.257 T:1911480320  NOTICE:         m_streamTypes     : No passthrough capabilities
+21:01:31.273 T:1911480320  NOTICE: Loaded settings file from special://xbmc/system/advancedsettings.xml
+21:01:31.274 T:1911480320  NOTICE: Contents of special://xbmc/system/advancedsettings.xml are...
+                                            <?xml version="1.0" encoding="UTF-8" ?>
+                                            <advancedsettings>
+                                              <fanartres>720</fanartres>
+                                              <imageres>540</imageres>
+                                              <video>
+                                                <busydialogdelayms>750</busydialogdelayms>
+                                              </video>
+                                              <samba>
+                                                <clienttimeout>30</clienttimeout>
+                                              </samba>
+                                              <cache>
+                                                <memorysize>31457280</memorysize>
+                                              </cache>
+                                            </advancedsettings>
+21:01:31.276 T:1911480320  NOTICE: Loaded settings file from special://profile/advancedsettings.xml
+21:01:31.276 T:1911480320  NOTICE: Contents of special://profile/advancedsettings.xml are...
+                                            <!-- Created using Easy Advanced Settings addon -->
+                                            <advancedsettings>
+                                              <network>
+                                                <buffermode>1</buffermode>
+                                                <cachemembuffersize>419430400</cachemembuffersize>
+                                                <readbufferfactor>4.0</readbufferfactor>
+                                              </network>
+                                            </advancedsettings>
+21:01:31.277 T:1911480320  NOTICE: Default Video Player: VideoPlayer
+21:01:31.277 T:1911480320  NOTICE: Default Audio Player: paplayer
+21:01:31.277 T:1911480320  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+21:01:31.277 T:1911480320  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+21:01:31.277 T:1911480320  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+21:01:31.284 T:1911480320  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+21:01:31.287 T:1911480320  NOTICE: Loaded playercorefactory configuration
+21:01:31.287 T:1911480320  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+21:01:31.287 T:1911480320  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+21:01:31.321 T:1911480320  NOTICE: Running database version Addons27
+21:01:33.272 T:1911480320  NOTICE: ADDONS: Using repository repository.xbmc.org
+21:01:33.272 T:1911480320  NOTICE: ADDONS: Using repository repository.loop
+21:01:33.272 T:1911480320  NOTICE: ADDONS: Using repository repository.maverickrepo
+21:01:33.272 T:1911480320  NOTICE: ADDONS: Using repository repository.Rising.Tides
+21:01:33.272 T:1911480320  NOTICE: ADDONS: Using repository repository.supremacy
+21:01:33.272 T:1911480320  NOTICE: ADDONS: Using repository repository.ukturk
+21:01:33.272 T:1911480320  NOTICE: ADDONS: Using repository repository.Wherethemonsterslive
+21:01:33.272 T:1911480320  NOTICE: ADDONS: Using repository repository.universalscrapers
+21:01:33.272 T:1911480320  NOTICE: ADDONS: Using repository incursion.repository
+21:01:33.272 T:1911480320  NOTICE: ADDONS: Using repository repository.tva.common
+21:01:33.272 T:1911480320  NOTICE: ADDONS: Using repository repository.digital
+21:01:33.272 T:1911480320  NOTICE: ADDONS: Using repository repository.steptoes
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.MadHouse
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.skydarks
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.GenTec
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.jsergio
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.bookmark
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.bookmarklite
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.subzero
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.PansBox
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.onenation
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.PureRepo
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.AtomReborn
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.Cypherslocker
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository plugin.video.rsiptv
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.androidbboy
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository griffin
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.cdrepo
+21:01:33.273 T:1911480320  NOTICE: ADDONS: Using repository repository.cherrytv
+21:01:33.536 T:1911480320  NOTICE: Raspberry PI firmware version: Mar 23 2018 16:31:10 
+                                            Copyright (c) 2012 Broadcom
+                                            version d92349b3d22c277e44d508a2aae6af2b1e5bb224 (clean) (release)
+21:01:33.536 T:1911480320  NOTICE: ARM mem: 512MB GPU mem: 512MB MPG2:0 WVC1:0
+21:01:33.536 T:1911480320  NOTICE: cache.memorysize: 30MB libass.cache: 0MB
+21:01:33.537 T:1911480320  NOTICE: Config:
+                                            arm_freq=1400
+                                            audio_pwm_mode=514
+                                            config_hdmi_boost=5
+                                            core_freq=400
+                                            desired_osc_freq=0x33e140
+                                            desired_osc_freq_boost=0x3c45b0
+                                            disable_commandline_tags=2
+                                            disable_l2cache=1
+                                            display_hdmi_rotate=-1
+                                            display_lcd_rotate=-1
+                                            force_eeprom_read=1
+                                            force_pwm_open=1
+                                            framebuffer_ignore_alpha=1
+                                            framebuffer_swap=1
+                                            gpu_freq=300
+                                            hdmi_channel_map=8
+                                            hdmi_force_cec_address=65535
+                                            init_uart_clock=0x2dc6c00
+                                            lcd_framerate=60
+                                            over_voltage_avs=37500
+                                            over_voltage_avs_boost=0x23186
+                                            over_voltage_sdram_p=2
+                                            pause_burst_frames=1
+                                            program_serial_random=1
+                                            sdram_freq=500
+                                            sdram_schmoo=0x2000020
+21:01:33.537 T:1911480320  NOTICE: Config:
+                                            device_tree=-
+21:01:33.537 T:1911480320  NOTICE: InitWindowSystem: Using EGL Implementation: raspberrypi
+21:01:33.541 T:1911480320  NOTICE: Found resolution 640 x 480 for display 0 with 640 x 480 @ 60.000000 Hz
+21:01:33.541 T:1911480320  NOTICE: Found resolution 640 x 480 for display 0 with 640 x 480 @ 59.940063 Hz
+21:01:33.541 T:1911480320  NOTICE: Found resolution 640 x 480 for display 0 with 640 x 480 @ 75.000000 Hz
+21:01:33.541 T:1911480320  NOTICE: Found resolution 800 x 600 for display 0 with 800 x 600 @ 60.000000 Hz
+21:01:33.541 T:1911480320  NOTICE: Found resolution 800 x 600 for display 0 with 800 x 600 @ 59.940063 Hz
+21:01:33.541 T:1911480320  NOTICE: Found resolution 800 x 600 for display 0 with 800 x 600 @ 75.000000 Hz
+21:01:33.541 T:1911480320  NOTICE: Found resolution 1024 x 768 for display 0 with 1024 x 768 @ 60.000000 Hz
+21:01:33.541 T:1911480320  NOTICE: Found resolution 1024 x 768 for display 0 with 1024 x 768 @ 59.940063 Hz
+21:01:33.541 T:1911480320  NOTICE: Found resolution 1024 x 768 for display 0 with 1024 x 768 @ 70.000000 Hz
+21:01:33.541 T:1911480320  NOTICE: Found resolution 1024 x 768 for display 0 with 1024 x 768 @ 75.000000 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1152 x 864 for display 0 with 1152 x 864 @ 75.000000 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1280 x 1024 for display 0 with 1280 x 1024 @ 60.000000 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1280 x 1024 for display 0 with 1280 x 1024 @ 59.940063 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1280 x 1024 for display 0 with 1280 x 1024 @ 75.000000 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1680 x 1050 for display 0 with 1680 x 1050 @ 60.000000 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1680 x 1050 for display 0 with 1680 x 1050 @ 59.940063 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 720 x 480 for display 0 with 720 x 480 @ 60.000000 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 720 x 480 for display 0 with 720 x 480 @ 59.940063 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1280 x 720 for display 0 with 1280 x 720 @ 60.000000 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1280 x 720 for display 0 with 1280 x 720 @ 59.940063 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 60.000000 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 59.940063 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 720 x 576 for display 0 with 720 x 576 @ 50.000000 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1280 x 720 for display 0 with 1280 x 720 @ 50.000000 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 50.000000 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 24.000000 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 23.976025 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 30.000000 Hz
+21:01:33.542 T:1911480320  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 29.970032 Hz
+21:01:33.542 T:1911480320  NOTICE: Found (1920x1080@60.000000) at 36, setting to RES_DESKTOP at 16
+21:01:33.542 T:1911480320  NOTICE: Checking resolution 16
+21:01:33.836 T:1911480320  NOTICE: GL_VENDOR = Broadcom
+21:01:33.836 T:1911480320  NOTICE: GL_RENDERER = VideoCore IV HW
+21:01:33.836 T:1911480320  NOTICE: GL_VERSION = OpenGL ES 2.0
+21:01:33.836 T:1911480320  NOTICE: GL_SHADING_LANGUAGE_VERSION = OpenGL ES GLSL ES 1.00
+21:01:33.836 T:1911480320  NOTICE: GL_EXTENSIONS = GL_OES_compressed_ETC1_RGB8_texture GL_OES_compressed_paletted_texture GL_OES_texture_npot GL_OES_depth24 GL_OES_vertex_half_float GL_OES_EGL_image GL_OES_EGL_image_external GL_EXT_discard_framebuffer GL_OES_rgb8_rgba8 GL_OES_depth32 GL_OES_mapbuffer GL_EXT_texture_format_BGRA8888 GL_APPLE_rgb_422 GL_EXT_debug_marker
+21:01:34.444 T:1911480320   ERROR: ADDON: extension '' is not currently supported for service addon
+21:01:36.026 T:1890579200  NOTICE: Running database version Addons27
+21:01:36.031 T:1890579200  NOTICE: Running database version ViewModes6
+21:01:36.037 T:1890579200  NOTICE: Running database version Textures13
+21:01:36.050 T:1890579200  NOTICE: Running database version MyMusic60
+21:01:36.069 T:1890579200  NOTICE: Running database version MyVideos107
+21:01:36.076 T:1890579200  NOTICE: Running database version TV29
+21:01:36.082 T:1890579200  NOTICE: Running database version Epg11
+21:01:36.089 T:1911480320  NOTICE: start dvd mediatype detection
+21:01:36.124 T:1762018048   ERROR: AddOnLog: Joystick Support: Device "Sony Interactive Entertainment Wireless Controller": can't find <controller> tag
+21:01:36.161 T:1770406656  NOTICE: Register - new cec device registered on cec->RPI: CEC Adapter (2708:1001)
+21:01:36.195 T:1890579200   ERROR: ADDON: extension '' is not currently supported for service addon
+21:01:36.336 T:1762018048  NOTICE: Register - new joystick device registered on addon->peripheral.joystick/0: usb gamepad
+21:01:36.614 T:1911480320   ERROR: Skin includes must start with the <includes> tag
+21:01:36.961 T:1911480320 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+21:01:37.033 T:1911480320   ERROR: ADDON: extension '' is not currently supported for service addon
+21:01:37.083 T:1911480320   ERROR: Window Translator: Can't find window videolibrary
+21:01:37.119 T:1911480320   ERROR: Window Translator: Can't find window mutebug
+21:01:37.148 T:1911480320   ERROR: ADDON: extension '' is not currently supported for service addon
+21:01:37.211 T:1911480320  NOTICE: initialize done
+21:01:37.211 T:1911480320  NOTICE: Running the application...
+21:01:37.259 T:1911480320  NOTICE: starting zeroconf publishing
+21:01:37.259 T:1911480320  NOTICE: starting upnp client
+21:01:37.274 T:1381122816  NOTICE: ES: Starting UDP Event server on port 9777
+21:01:37.275 T:1381122816  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+21:01:37.742 T:1911480320   ERROR: COMXImageFile::ReadFile special://skin/backgrounds/red.jpg not found
+21:01:37.742 T:1911480320  NOTICE: LoadJpeg: unable to load special://skin/backgrounds/red.jpg
+21:01:46.773 T:1550304000   ERROR: ADDON: extension '' is not currently supported for service addon
+21:02:13.901 T:1692910336   ERROR: Previous line repeats 12 times.
+21:02:13.901 T:1692910336  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.24 started
+21:02:13.902 T:1659355904  NOTICE: Skin Helper Service --> Starting WebService on port 52307
+21:02:19.215 T:1474380544  NOTICE: URLResolver: Initializing URLResolver version: 5.0.15
+21:02:20.787 T:1617412864   ERROR: ADDON: extension '' is not currently supported for service addon
+21:02:29.674 T:1533526784   ERROR: Previous line repeats 4 times.
+21:02:29.674 T:1533526784  NOTICE: [plugin.video.youtube] Startup: detected Krypton (Kodi-17.6), DASH_SUPPORT_ADDON = True
+21:02:31.456 T:1508360960  NOTICE: [Incursion] ######################### INCURSION ############################
+21:02:31.456 T:1508360960  NOTICE: [Incursion] ####### CURRENT INCURSION VERSIONS REPORT ######################
+21:02:31.456 T:1508360960  NOTICE: [Incursion] ### INCURSION PLUGIN VERSION: 0.1.17 ###
+21:02:31.456 T:1508360960  NOTICE: [Incursion] ### INCURSION SCRIPT VERSION: 1.20 ###
+21:02:31.457 T:1508360960  NOTICE: [Incursion] ###############################################################
+21:02:34.794 T:1550304000   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+21:02:34.794 T:1550304000   ERROR: CCurlFile::Open failed with code 0 for http://androidbboy.xyz/plugins/addons.xml.md5
+21:02:34.795 T:1550304000   ERROR: Open - failed to open source <http://androidbboy.xyz/plugins/addons.xml.md5>
+21:02:34.795 T:1550304000   ERROR: CRepository: failed read 'http://androidbboy.xyz/plugins/addons.xml.md5'
+21:02:34.837 T:1550304000   ERROR: ADDON: extension '' is not currently supported for service addon
+21:02:35.820 T:1583858432   ERROR: Previous line repeats 1 times.
+21:02:35.820 T:1583858432  NOTICE: ResolveURL: Initializing ResolveURL version: 5.0.09
+21:02:41.585 T:1482769152  NOTICE: Previous line repeats 1 times.
+21:02:41.585 T:1482769152  NOTICE: Luxury Wizard: 2018-05-16 21:02:41.572309
+21:02:44.804 T:1482769152  NOTICE: Luxury Wizard: Continuing Start Up Script
+21:02:45.675 T:1482769152  NOTICE: Luxury Wizard: [Path Check] Started
+21:02:45.676 T:1482769152  NOTICE: Luxury Wizard: [Path Check] Good!
+21:02:45.678 T:1482769152  NOTICE: Luxury Wizard: [Auto Install Repo] Started
+21:02:45.679 T:1482769152  NOTICE: Luxury Wizard: [Auto Install Repo] Not Enabled
+21:02:45.680 T:1482769152  NOTICE: Luxury Wizard: [Auto Update Wizard] Started
+21:02:49.164 T:1482769152  NOTICE: Luxury Wizard: [Auto Update Wizard] No New Version v2.5
+21:02:49.762 T:1482769152  NOTICE: Luxury Wizard: [Notifications] Started
+21:02:50.699 T:1482769152  NOTICE: Luxury Wizard: [Notifications] id: 15
+21:02:50.914 T:1482769152 WARNING: CSkinInfo: failed to load skin settings
+21:02:54.458 T:1171256064  NOTICE: URLResolver: Initializing URLResolver version: 5.0.15
+21:02:55.089 T:1171256064  NOTICE: Cyphers Transistor Movies and Television: Version: |1.0.0| Queries: |{'mode': 'prune_cache'}|
+21:02:55.090 T:1171256064  NOTICE: Cyphers Transistor Movies and Television: Args: |['plugin://plugin.video.transistortv/', '-1', '?mode=prune_cache']|
+21:02:56.376 T:1448526592   ERROR: ADDON: extension '' is not currently supported for service addon
+21:02:58.900 T:1179644672   ERROR: Previous line repeats 1 times.
+21:02:58.900 T:1179644672 WARNING: Attempt to use invalid handle -1
+21:02:58.903 T:1179644672  NOTICE: [xbmcswift2] Request for "/movies/batch_add_to_library" matches rule for function "movies_batch_add_to_library"
+21:03:02.136 T:1448526592  NOTICE: VideoInfoScanner: Starting scan ..
+21:03:02.878 T:1448526592  NOTICE: VideoInfoScanner: Finished scan. Scanning for video info took 00:00
+21:03:02.890 T:1911480320   ERROR: COMXImageFile::ReadFile special://skin/backgrounds/red.jpg not found
+21:03:02.891 T:1911480320  NOTICE: LoadJpeg: unable to load special://skin/backgrounds/red.jpg
+21:03:04.334 T:1276490496  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+21:03:04.748 T:1276490496  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.16.2
+21:03:04.766 T:1276490496  NOTICE: metahandler: No SQLite rows requiring update
+21:03:06.010 T:1221587712   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/7/7e5c8969.jpg not found
+21:03:06.010 T:1221587712  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/7/7e5c8969.jpg
+21:03:06.011 T:1221587712   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/7/7e5c8969.jpg
+21:03:06.318 T:1890579200   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/f/f9924893.jpg not found
+21:03:06.318 T:1890579200  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/f/f9924893.jpg
+21:03:06.319 T:1890579200   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/f/f9924893.jpg
+21:03:07.132 T:1221587712 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:03:07.460 T:1221587712 WARNING: Previous line repeats 2 times.
+21:03:07.460 T:1221587712  NOTICE: LoadJpeg: unable to load https://image.tmdb.org/t/p/w300/hzeJtLmBpbUghACbJw4rFaDwzfs.jpg
+21:03:07.603 T:1890579200 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:03:07.603 T:1890579200  NOTICE: LoadJpeg: unable to load https://image.tmdb.org/t/p/w300/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
+21:03:17.480 T:1229976320   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/0/017e3336.jpg not found
+21:03:17.480 T:1229976320  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/0/017e3336.jpg
+21:03:17.480 T:1229976320   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/0/017e3336.jpg
+21:03:17.754 T:1229976320 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:03:18.046 T:1229976320 WARNING: Previous line repeats 1 times.
+21:03:18.047 T:1229976320  NOTICE: LoadJpeg: unable to load https://image.tmdb.org/t/p/w1280/ji5NNXbqe9LkIySKwseEVqmzHFx.jpg
+21:03:18.537 T:1890579200   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/9/9e27b50c.jpg not found
+21:03:18.537 T:1890579200  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/9/9e27b50c.jpg
+21:03:18.537 T:1890579200   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/9/9e27b50c.jpg
+21:03:18.729 T:1890579200 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:03:18.931 T:1890579200 WARNING: Previous line repeats 1 times.
+21:03:18.931 T:1890579200  NOTICE: LoadJpeg: unable to load https://image.tmdb.org/t/p/w300/qRmQazyIBZR4pQIk9VruiZul0Au.jpg
+21:03:28.921 T:1204810496   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+21:03:28.921 T:1204810496   ERROR: CCurlFile::Open failed with code 0 for http://androidbboy.xyz/plugins/addons.xml.md5
+21:03:28.936 T:1204810496   ERROR: Open - failed to open source <http://androidbboy.xyz/plugins/addons.xml.md5>
+21:03:28.937 T:1204810496   ERROR: CRepository: failed read 'http://androidbboy.xyz/plugins/addons.xml.md5'
+21:03:31.238 T:1204810496   ERROR: ADDON: extension '' is not currently supported for service addon
+21:03:32.204 T:1196421888   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/2/2231f520.jpg not found
+21:03:32.204 T:1196421888  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/2/2231f520.jpg
+21:03:32.204 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/2/2231f520.jpg
+21:03:32.206 T:1229976320   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/0/062937df.jpg not found
+21:03:32.206 T:1229976320  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/0/062937df.jpg
+21:03:32.207 T:1229976320   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/0/062937df.jpg
+21:03:32.330 T:1204810496   ERROR: ADDON: extension '' is not currently supported for service addon
+21:03:32.383 T:1229976320 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:03:32.605 T:1229976320 WARNING: Previous line repeats 2 times.
+21:03:32.605 T:1229976320  NOTICE: LoadJpeg: unable to load https://image.tmdb.org/t/p/w300/k4FwHlMhuRR5BISY2Gm2QZHlH5Q.jpg
+21:03:32.613 T:1482769152  NOTICE: Luxury Wizard: [Notification] NotifyID 15 Dismissed
+21:03:32.624 T:1482769152  NOTICE: Luxury Wizard: [Notifications] Complete
+21:03:32.625 T:1482769152  NOTICE: Luxury Wizard: [Installed Check] Started
+21:03:32.625 T:1482769152  NOTICE: Luxury Wizard: [Installed Check] Not Enabled
+21:03:32.625 T:1482769152  NOTICE: Luxury Wizard: [Build Check] Started
+21:03:32.626 T:1482769152  NOTICE: Luxury Wizard: [Build Check] Build Installed
+21:03:32.626 T:1482769152  NOTICE: Luxury Wizard: [Build Check] Build Installed: Checking Updates
+21:03:32.979 T:1196421888 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:03:33.559 T:1196421888  NOTICE: LoadJpeg: unable to load https://image.tmdb.org/t/p/w1280/rMQMrq1Rdx4Y2R7phsaoVVjljTK.jpg
+21:03:33.586 T:1482769152  NOTICE: Luxury Wizard: [Check Updates] [Installed Version: 1.7.9] [Current Version: 1.8.0] Opening Update Window
+21:03:33.590 T:1482769152 WARNING: CSkinInfo: failed to load skin settings
+21:03:35.600 T:1482769152  NOTICE: Luxury Wizard: [Check Updates] [Installed Version: 1.7.9] [Current Version: 1.8.0] [User Selected: Fresh Install build]
+21:03:35.602 T:1482769152  NOTICE: Luxury Wizard: [Check Updates] [Next Check: 2018-05-16]
+21:03:35.637 T:1482769152  NOTICE: Luxury Wizard: [Trakt Data] Started
+21:03:35.638 T:1482769152  NOTICE: Luxury Wizard: [Trakt Data] Not Enabled
+21:03:35.638 T:1482769152  NOTICE: Luxury Wizard: [Real Debrid Data] Started
+21:03:35.639 T:1482769152  NOTICE: Luxury Wizard: [Real Debrid Data] Not Enabled
+21:03:35.639 T:1482769152  NOTICE: Luxury Wizard: [Login Data] Started
+21:03:35.639 T:1482769152  NOTICE: Luxury Wizard: [Login Data] Not Enabled
+21:03:35.640 T:1482769152  NOTICE: Luxury Wizard: [Auto Clean Up] Started
+21:03:35.653 T:1482769152  NOTICE: Luxury Wizard: [Auto Clean Up] Cache: On
+21:03:35.671 T:1482769152  NOTICE: Luxury Wizard: [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.urlresolver/cache
+21:03:36.104 T:1448526592   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/7/781fb572.jpg not found
+21:03:36.104 T:1448526592  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/7/781fb572.jpg
+21:03:36.104 T:1448526592   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/7/781fb572.jpg
+21:03:36.363 T:1448526592 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+21:03:36.552 T:1448526592 WARNING: Previous line repeats 1 times.
+21:03:36.552 T:1448526592  NOTICE: LoadJpeg: unable to load https://image.tmdb.org/t/p/w1280/fHNLkrIJuhiP7QPhBtySYuK7RlT.jpg
+21:03:37.076 T:1482769152  NOTICE: Luxury Wizard: [Success] wiped /home/pi/.kodi/userdata/addon_data/plugin.video.transistortv/cache
+21:03:37.153 T:1482769152  NOTICE: Luxury Wizard: [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.resolveurl/cache
+21:03:37.155 T:1482769152  NOTICE: Luxury Wizard: Ignore Log File: kodi.log
+21:03:37.155 T:1482769152  NOTICE: Luxury Wizard: [Wiped] /home/pi/.kodi/temp/commoncache.socket
+21:03:37.156 T:1482769152  NOTICE: Luxury Wizard: Ignore Log File: kodi.old.log
+21:03:37.156 T:1482769152  NOTICE: Luxury Wizard: [Wiped] /home/pi/.kodi/temp/commoncache.db
+21:03:37.157 T:1482769152  NOTICE: Luxury Wizard: [Success] cleared 4 files from /home/pi/.kodi/temp/temp
+21:03:37.159 T:1482769152  NOTICE: Luxury Wizard: [Auto Clean Up] Old Thumbs: On
+21:03:38.454 T:939516672  NOTICE: Luxury Wizard: [ Version : '2.5' ] [ Mode : 'install' ] [ Name : 'Kodi World' ] [ Url : 'fresh' ]
+21:03:38.481 T:1482769152  NOTICE: Luxury Wizard: 106 total thumbs cleaned up.
+21:03:38.778 T:1482769152  NOTICE: Luxury Wizard: [Auto Clean Up] Packages: On
+21:04:01.365 T:939516672  NOTICE: Luxury Wizard: Ignoring Addons27.db on v17.6
+21:04:01.366 T:939516672  NOTICE: Luxury Wizard: Keep Log File: kodi.log
+21:04:01.366 T:939516672  NOTICE: Luxury Wizard: Keep Log File: kodi.old.log
+21:04:05.932 T:1196421888   ERROR: ExtractFrame: Could not decode a frame
+21:04:18.244 T:1890579200   ERROR: Previous line repeats 1 times.
+21:04:24.032 T:1890579200   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+21:04:24.032 T:1890579200   ERROR: CCurlFile::Open failed with code 0 for http://androidbboy.xyz/plugins/addons.xml.md5
+21:04:24.032 T:1890579200   ERROR: Open - failed to open source <http://androidbboy.xyz/plugins/addons.xml.md5>
+21:04:24.032 T:1890579200   ERROR: CRepository: failed read 'http://androidbboy.xyz/plugins/addons.xml.md5'
+21:04:51.778 T:1196421888   ERROR: Exception in thread Thread-28:
+                                            Traceback (most recent call last):
+                                              File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+                                                self.run()
+                                              File "/usr/lib/python2.7/threading.py", line 754, in run
+                                                self.__target(*self.__args, **self.__kwargs)
+                                              File "/home/pi/.kodi/addons/plugin.video.transistortv/transistortv_lib/image_proxy.py", line 69, in __run
+                                              File "/home/pi/.kodi/addons/plugin.video.transistortv/transistortv_lib/image_proxy.py", line 83, in __init__
+                                              File "/usr/lib/python2.7/SocketServer.py", line 417, in __init__
+                                                self.server_bind()
+                                              File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+                                                SocketServer.TCPServer.server_bind(self)
+                                              File "/usr/lib/python2.7/SocketServer.py", line 431, in server_bind
+                                                self.socket.bind(self.server_address)
+                                              File "/usr/lib/python2.7/socket.py", line 228, in meth
+                                                return getattr(self._sock,name)(*args)
+                                            error: [Errno 98] Address already in use
+21:05:09.609 T:1890579200   ERROR: ADDON: extension '' is not currently supported for service addon
+21:08:25.425 T:939516672   ERROR: EXCEPTION Thrown (PythonToCppException) : -->Python callback/script returned the following error<--
+                                             - NOTE: IGNORING THIS CAN LEAD TO MEMORY LEAKS!
+                                            Error Type: <class 'socket.timeout'>
+                                            Error Contents: timed out
+                                            Traceback (most recent call last):
+                                              File "/home/pi/.kodi/addons/plugin.program.luxurywizard/default.py", line 2255, in <module>
+                                                elif mode=='install'        : buildWizard(name, url)
+                                              File "/home/pi/.kodi/addons/plugin.program.luxurywizard/default.py", line 1325, in buildWizard
+                                                freshStart(name)
+                                              File "/home/pi/.kodi/addons/plugin.program.luxurywizard/default.py", line 2093, in freshStart
+                                                buildWizard(install, 'normal', over=True)
+                                              File "/home/pi/.kodi/addons/plugin.program.luxurywizard/default.py", line 1357, in buildWizard
+                                                downloader.download(buildzip, lib, DP)
+                                              File "/home/pi/.kodi/addons/plugin.program.luxurywizard/resources/libs/downloader.py", line 35, in download
+                                                urllib.urlretrieve(url, dest, lambda nb, bs, fs: _pbhook(nb, bs, fs, dp, start_time))
+                                              File "/usr/lib/python2.7/urllib.py", line 98, in urlretrieve
+                                                return opener.retrieve(url, filename, reporthook, data)
+                                              File "/usr/lib/python2.7/urllib.py", line 273, in retrieve
+                                                block = fp.read(bs)
+                                              File "/usr/lib/python2.7/socket.py", line 384, in read
+                                                data = self._sock.recv(left)
+                                            timeout: timed out
+                                            -->End of Python script error report<--
+21:08:55.259 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/8/80af5bdc.png
+21:08:55.260 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/d/d2f798d0.jpg not found
+21:08:55.260 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/d/d2f798d0.jpg
+21:08:55.261 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/d/d2f798d0.jpg
+21:08:55.262 T:939516672   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/0/0f293820.jpg not found
+21:08:55.262 T:939516672  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/0/0f293820.jpg
+21:08:55.263 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/0/0f293820.jpg
+21:08:55.264 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/7/712d72b4.png
+21:08:55.266 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/a/a483173f.png
+21:08:55.268 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/9/9de736f0.png
+21:08:55.274 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/1/1d996aae.png
+21:08:55.276 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/6/68f0e5bb.png
+21:08:55.280 T:939516672   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/f/f52d9a43.jpg not found
+21:08:55.280 T:939516672  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/f/f52d9a43.jpg
+21:08:55.280 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/4/44b3c189.png
+21:08:55.280 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/f/f52d9a43.jpg
+21:08:55.282 T:1196421888   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/f/f0057af4.jpg not found
+21:08:55.282 T:1196421888  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/f/f0057af4.jpg
+21:08:55.282 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/f/f0057af4.jpg
+21:08:55.283 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/a/a6365d1b.jpg not found
+21:08:55.283 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:08:55.283 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:08:55.285 T:939516672   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/f/f2c89458.jpg not found
+21:08:55.285 T:939516672  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/f/f2c89458.jpg
+21:08:55.285 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/f/f2c89458.jpg
+21:08:55.286 T:1196421888   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/6/62bc928d.jpg not found
+21:08:55.286 T:1196421888  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/6/62bc928d.jpg
+21:08:55.287 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/6/62bc928d.jpg
+21:08:55.288 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/c/c3bbcfff.png
+21:08:55.290 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/8/88876b40.png
+21:08:55.298 T:1890579200   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/3/3c506150.png
+21:08:55.584 T:1797255936  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/a/a6365d1b.jpg 540x540
+21:08:56.256 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/8/80af5bdc.png
+21:08:56.258 T:1196421888   ERROR: ADDON: extension '' is not currently supported for service addon
+21:08:56.259 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/d/d2f798d0.jpg not found
+21:08:56.259 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/d/d2f798d0.jpg
+21:08:56.259 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/d/d2f798d0.jpg
+21:08:56.262 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/0/0f293820.jpg not found
+21:08:56.262 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/0/0f293820.jpg
+21:08:56.262 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/0/0f293820.jpg
+21:08:56.264 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/7/712d72b4.png
+21:08:56.267 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/a/a483173f.png
+21:08:56.270 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/9/9de736f0.png
+21:08:56.272 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/6/656a8d10.jpg not found
+21:08:56.272 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/6/656a8d10.jpg
+21:08:56.272 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/6/656a8d10.jpg
+21:08:56.275 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/6/62bc928d.jpg not found
+21:08:56.275 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/6/62bc928d.jpg
+21:08:56.275 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/6/62bc928d.jpg
+21:08:56.279 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/1/1d996aae.png
+21:08:56.280 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/6/68f0e5bb.png
+21:08:56.283 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/7/70dfc408.jpg not found
+21:08:56.284 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/7/70dfc408.jpg
+21:08:56.284 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/7/70dfc408.jpg
+21:08:56.287 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/1/1578c1f2.jpg not found
+21:08:56.288 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/1/1578c1f2.jpg
+21:08:56.288 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/1/1578c1f2.jpg
+21:08:56.288 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/0/04fa6a46.png
+21:08:56.290 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/3/39dd1839.png
+21:08:56.291 T:1196421888   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/f/f52d9a43.jpg not found
+21:08:56.291 T:1196421888  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/f/f52d9a43.jpg
+21:08:56.291 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/f/f52d9a43.jpg
+21:08:56.301 T:939516672   ERROR: ADDON: extension '' is not currently supported for service addon
+21:08:57.635 T:1797255936   ERROR: Previous line repeats 1 times.
+21:08:57.636 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/8/80af5bdc.png
+21:08:59.705 T:1890579200   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/7/712d72b4.png
+21:08:59.706 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/1/1d996aae.png
+21:08:59.707 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/6/68f0e5bb.png
+21:08:59.708 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/f/f52d9a43.jpg not found
+21:08:59.708 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/f/f52d9a43.jpg
+21:08:59.708 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/f/f52d9a43.jpg
+21:08:59.709 T:1890579200   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/4/44b3c189.png
+21:08:59.709 T:1911480320   ERROR: Texture manager unable to load file: /home/pi/.kodi/addons/plugin.video.metalliq-forqed/icon.gif
+21:08:59.710 T:1196421888   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/f/f0057af4.jpg not found
+21:08:59.710 T:1196421888  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/f/f0057af4.jpg
+21:08:59.711 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/f/f0057af4.jpg
+21:08:59.943 T:939516672   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/a/a6365d1b.jpg not found
+21:08:59.943 T:939516672  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:08:59.943 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:08:59.945 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/f/f2c89458.jpg not found
+21:08:59.945 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/f/f2c89458.jpg
+21:08:59.945 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/f/f2c89458.jpg
+21:08:59.948 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/6/62bc928d.jpg not found
+21:08:59.948 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/6/62bc928d.jpg
+21:08:59.949 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/6/62bc928d.jpg
+21:08:59.951 T:1911480320   ERROR: Texture manager unable to load file: /home/pi/.kodi/addons/script.asylum.Greeting/icon.gif
+21:08:59.953 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/c/c3bbcfff.png
+21:08:59.953 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/3/3c506150.png
+21:08:59.954 T:1890579200   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/8/88876b40.png
+21:08:59.955 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/4/42edef96.png
+21:08:59.957 T:1890579200   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/4/4a63c104.png
+21:08:59.958 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/d/de7e4461.png
+21:08:59.959 T:1890579200   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/6/66cb1a2d.png
+21:08:59.961 T:1196421888   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/7/72c90836.jpg not found
+21:08:59.961 T:1196421888  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/7/72c90836.jpg
+21:08:59.962 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/7/72c90836.jpg
+21:08:59.963 T:1890579200   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/1/14ae6453.png
+21:08:59.965 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/8/8b1713cb.png
+21:09:00.283 T:939516672  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/a/a6365d1b.jpg 540x540
+21:09:02.889 T:1890579200   ERROR: GetDirectory - Error getting
+21:09:02.958 T:1196421888   ERROR: Previous line repeats 2 times.
+21:09:02.958 T:1196421888   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/6/62bc928d.jpg not found
+21:09:02.958 T:1196421888  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/6/62bc928d.jpg
+21:09:02.958 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/6/62bc928d.jpg
+21:09:02.959 T:1911480320   ERROR: Texture manager unable to load file: /home/pi/.kodi/addons/script.asylum.Greeting/icon.gif
+21:09:02.960 T:1890579200   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/4/42edef96.png
+21:09:02.961 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/8/88876b40.png
+21:09:02.962 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/a/a6365d1b.jpg not found
+21:09:02.962 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:09:02.962 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:09:02.962 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/c/c3bbcfff.png
+21:09:02.963 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/3/3c506150.png
+21:09:02.964 T:1196421888   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/f/f2c89458.jpg not found
+21:09:02.964 T:1196421888  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/f/f2c89458.jpg
+21:09:02.964 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/f/f2c89458.jpg
+21:09:02.964 T:939516672   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/7/72c90836.jpg not found
+21:09:02.964 T:939516672  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/7/72c90836.jpg
+21:09:02.964 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/7/72c90836.jpg
+21:09:02.965 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/4/4a63c104.png
+21:09:02.967 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/1/14ae6453.png
+21:09:02.968 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/d/de7e4461.png
+21:09:02.968 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/6/66cb1a2d.png
+21:09:02.970 T:1890579200   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/8/8b1713cb.png
+21:09:03.244 T:1797255936  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/a/a6365d1b.jpg 540x540
+21:09:04.036 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/a/a6365d1b.jpg not found
+21:09:04.036 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:09:04.037 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:09:04.255 T:1196421888   ERROR: CreateThumb: can't open output file: special://masterprofile/Thumbnails/8/84b0119e.jpg
+21:09:04.289 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/1/14ae6453.png
+21:09:04.426 T:1797255936  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/a/a6365d1b.jpg 540x540
+21:09:04.464 T:1196421888  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/8/84b0119e.jpg 869x540
+21:09:06.904 T:1890579200   ERROR: CreateThumb: can't open output file: special://masterprofile/Thumbnails/8/84b0119e.jpg
+21:09:07.130 T:1890579200  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/8/84b0119e.jpg 869x540
+21:09:09.957 T:929035008  NOTICE: Luxury Wizard: [ Version : '2.5' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+21:09:13.295 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/a/a6365d1b.jpg not found
+21:09:13.295 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:09:13.295 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:09:13.452 T:1196421888   ERROR: CreateThumb: can't open output file: special://masterprofile/Thumbnails/8/84b0119e.jpg
+21:09:13.651 T:1797255936  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/a/a6365d1b.jpg 540x540
+21:09:13.669 T:1196421888  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/8/84b0119e.jpg 869x540
+21:09:19.954 T:1229976320  NOTICE: Luxury Wizard: [ Version : '2.5' ] [ Mode : 'builds' ] [ Name : 'None' ] [ Url : 'None' ]
+21:09:29.741 T:1797255936   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/a/a6365d1b.jpg not found
+21:09:29.741 T:1797255936  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:09:29.741 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:09:29.919 T:939516672   ERROR: CreateThumb: can't open output file: special://masterprofile/Thumbnails/8/84b0119e.jpg
+21:09:30.129 T:1797255936  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/a/a6365d1b.jpg 540x540
+21:09:30.150 T:939516672  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/8/84b0119e.jpg 869x540
+21:09:30.618 T:1196421888   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/4/4d221b88.jpg not found
+21:09:30.618 T:1196421888  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/4/4d221b88.jpg
+21:09:30.618 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/4/4d221b88.jpg
+21:09:30.622 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/1/13685cf2.png
+21:09:41.795 T:1448665856  NOTICE: Luxury Wizard: [ Version : '2.5' ] [ Mode : 'viewbuild' ] [ Name : 'Kodi World' ] [ Url : 'None' ]
+21:09:42.329 T:1196421888  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/4/4d221b88.jpg 1280x720
+21:09:56.866 T:1890579200   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/4/4d221b88.jpg not found
+21:09:56.866 T:1890579200  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/4/4d221b88.jpg
+21:09:56.866 T:1890579200   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/4/4d221b88.jpg
+21:09:56.870 T:1797255936   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/1/13685cf2.png
+21:09:59.537 T:939516672   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/a/a6365d1b.jpg not found
+21:09:59.537 T:939516672  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:09:59.538 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/a/a6365d1b.jpg
+21:09:59.699 T:1196421888   ERROR: CreateThumb: can't open output file: special://masterprofile/Thumbnails/8/84b0119e.jpg
+21:09:59.901 T:939516672  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/a/a6365d1b.jpg 540x540
+21:09:59.922 T:1196421888  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/8/84b0119e.jpg 869x540
+21:10:00.084 T:939516672   ERROR: COMXImageFile::ReadFile special://masterprofile/Thumbnails/4/4d221b88.jpg not found
+21:10:00.084 T:939516672  NOTICE: LoadJpeg: unable to load special://masterprofile/Thumbnails/4/4d221b88.jpg
+21:10:00.084 T:939516672   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/4/4d221b88.jpg
+21:10:00.170 T:1196421888   ERROR: DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/1/13685cf2.png
+21:10:03.819 T:1221587712  NOTICE: Luxury Wizard: [ Version : '2.5' ] [ Mode : 'install' ] [ Name : 'Kodi World' ] [ Url : 'fresh' ]
+21:10:08.403 T:1221587712  NOTICE: Luxury Wizard: Ignoring Addons27.db on v17.6
+21:10:08.404 T:1221587712  NOTICE: Luxury Wizard: Keep Log File: kodi.log
+21:10:08.404 T:1221587712  NOTICE: Luxury Wizard: Keep Log File: kodi.old.log
+21:10:08.817 T:1890579200  NOTICE: CreateThumbnailFromSurface: unable to create thumbnail special://masterprofile/Thumbnails/4/4d221b88.jpg 1280x720
+21:13:45.513 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/
+21:13:45.515 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/credits.txt
+21:13:45.516 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/startup.py
+21:13:45.516 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/addon.xml
+21:13:45.517 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/fanart.jpg
+21:13:45.517 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/LICENSE
+21:13:45.518 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/
+21:13:45.518 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/tempaddon.xml
+21:13:45.519 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/
+21:13:45.520 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/
+21:13:45.520 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/
+21:13:45.521 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/LogViewer.xml
+21:13:45.522 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Textbox.xml
+21:13:45.522 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Contact.xml
+21:13:45.523 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/FirstRunSaveData.xml
+21:13:45.523 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/APK.xml
+21:13:45.524 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Notifications.xml
+21:13:45.524 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/loguploader.xml
+21:13:45.525 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/BuildUpdate.xml
+21:13:45.525 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/FirstRunBuild.xml
+21:13:45.526 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/
+21:13:45.526 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/
+21:13:45.527 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/MenuItemNF.png
+21:13:45.527 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/MenuItemFO.png
+21:13:45.528 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/radiobutton-focus.png
+21:13:45.528 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/radiobutton-nofocus.png
+21:13:45.529 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/
+21:13:45.529 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/spmc.png
+21:13:45.529 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/bgg2.png
+21:13:45.530 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-black.png
+21:13:45.531 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/ContentPanel.png
+21:13:45.532 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-white.png
+21:13:45.532 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/dialogheader.png
+21:13:45.533 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-dialog-bg.png
+21:13:45.533 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/
+21:13:45.534 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V-focus.png
+21:13:45.534 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-fo.png
+21:13:45.534 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V.png
+21:13:45.535 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/DialogCloseButton.png
+21:13:45.535 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-nofo.png
+21:13:45.536 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/KeyboardKey.png
+21:13:45.536 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/testbuttonnf.png
+21:13:45.536 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/DialogCloseButton-focus.png
+21:13:45.537 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V-background.png
+21:13:45.537 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/testbuttonfo.png
+21:13:45.537 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/button-focus_lightblue.png
+21:13:45.538 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/button-focus_grey.png
+21:13:45.538 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/KeyboardKeyNF.png
+21:13:45.538 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/
+21:13:45.539 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/osd_slider_nib.png
+21:13:45.539 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/osd_slider_nibNF.png
+21:13:45.540 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/slider1.png
+21:13:45.540 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/__init__.py
+21:13:45.540 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/settings.xml
+21:13:45.541 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/art/
+21:13:45.541 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/art/fanart.jpg
+21:13:45.541 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/art/ContentPanel.png
+21:13:45.542 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/
+21:13:45.542 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/debridit.py
+21:13:45.543 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/yt.py
+21:13:45.543 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/skinSwitch.py
+21:13:45.543 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/extract.py
+21:13:45.544 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/__init__.py
+21:13:45.544 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/uploadLog.py
+21:13:45.544 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/wizard.py
+21:13:45.545 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/notify.py
+21:13:45.545 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/loginit.py
+21:13:45.545 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/traktit.py
+21:13:45.546 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/downloader.py
+21:13:45.546 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/__init__.pyo
+21:13:45.546 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/extract.pyo
+21:13:45.547 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/wizard.pyo
+21:13:45.547 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/downloader.pyo
+21:13:45.548 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/skinSwitch.pyo
+21:13:45.548 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/notify.pyo
+21:13:45.548 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/loginit.pyo
+21:13:45.549 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/debridit.pyo
+21:13:45.549 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/traktit.pyo
+21:13:45.550 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/uploadLog.pyo
+21:13:45.550 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/libs/yt.pyo
+21:13:45.551 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/resources/__init__.pyo
+21:13:45.551 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/pyqrcode/
+21:13:45.552 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/pyqrcode/png.py
+21:13:45.552 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/pyqrcode/__init__.py
+21:13:45.553 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/pyqrcode/builder.py
+21:13:45.554 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/pyqrcode/tables.py
+21:13:45.554 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/pyqrcode/__init__.pyo
+21:13:45.555 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/pyqrcode/tables.pyo
+21:13:45.555 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/pyqrcode/builder.pyo
+21:13:45.556 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/uservar.py
+21:13:45.557 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/changelog.txt
+21:13:45.557 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/default.py
+21:13:45.558 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/icon.png
+21:13:45.558 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.program.luxurywizard/uservar.pyo
+21:13:57.262 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/repository.AtomReborn/Thumbs.db
+21:13:57.976 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.module.resolveurl/resources/.gitignore
+21:14:22.295 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.SportsDevil/.gitignore
+21:15:26.528 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.module.urlresolver/.gitignore
+21:15:55.405 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/AddonWindow/Thumbs.db
+21:15:55.411 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/Button/Thumbs.db
+21:15:55.425 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/List/Thumbs.db
+21:15:55.441 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/Scrollbar/Thumbs.db
+21:15:55.442 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/Thumbs.db
+21:15:55.452 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.Asylum/resources/skins/icons/Thumbs.db
+21:15:56.663 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.uranus.artwork/resources/media/Default/Thumbs.db
+21:18:44.499 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.Yoda.artwork/resources/media/Yoda/Thumbs.db
+21:18:44.569 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.Yoda.artwork/Thumbs.db
+21:19:18.614 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/repository.bookmark/Thumbs.db
+21:19:19.775 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.module.universalscrapers/.DS_Store
+21:19:19.826 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.module.universalscrapers/lib/.DS_Store
+21:19:19.834 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.module.universalscrapers/lib/universalscrapers/.DS_Store
+21:19:37.588 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.Yoda.metadata/Thumbs.db
+21:19:38.850 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.module.Yoda/Thumbs.db
+21:19:48.380 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.Yoda/resources/screenshots/Thumbs.db
+21:19:48.384 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.Yoda/Thumbs.db
+21:19:50.160 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.module.ATFlive/Thumbs.db
+21:19:50.274 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/repository.Cypherslocker/Thumbs.db
+21:19:51.078 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/.DS_Store
+21:19:51.367 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/.DS_Store
+21:19:51.383 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/.DS_Store
+21:19:51.387 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/audiodb/.DS_Store
+21:19:51.405 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/.DS_Store
+21:19:51.421 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/library/.DS_Store
+21:19:51.452 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/navigation/.DS_Store
+21:19:51.491 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/play/.DS_Store
+21:19:51.537 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/utils/.DS_Store
+21:19:51.585 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/requests_cache/.DS_Store
+21:19:51.594 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/requests_cache/backends/.DS_Store
+21:19:51.614 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/requests_cache/backends/storage/.DS_Store
+21:19:51.653 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/tmdbsimple/.DS_Store
+21:19:51.697 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/trakt/.DS_Store
+21:19:51.708 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/tvdb_api/.DS_Store
+21:19:51.716 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/plugin.video.metalliq-forqed/resources/lib/xbmcswift2/.DS_Store
+21:20:00.728 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.extendedinfo/.DS_Store
+21:20:07.258 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.extendedinfo/resources/skins/Default/media/.DS_Store
+21:20:07.282 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.extendedinfo/resources/skins/Default/media/common/.DS_Store
+21:20:29.148 T:1221587712  NOTICE: Luxury Wizard: Skipping: addons/script.extendedinfo/resources/skins/Default/media/icons/.DS_Store
+21:20:50.481 T:1221587712  NOTICE: Luxury Wizard: Skipping: userdata/addon_data/script.module.metahandler/meta_cache/video_cache.db
+21:20:51.048 T:1221587712  NOTICE: Luxury Wizard: Skipping: userdata/addon_data/plugin.program.luxurywizard/
+21:20:51.049 T:1221587712  NOTICE: Luxury Wizard: Skipping: userdata/addon_data/plugin.program.luxurywizard/wizard.log
+21:20:51.049 T:1221587712  NOTICE: Luxury Wizard: Skipping: userdata/addon_data/plugin.program.luxurywizard/settings.xml
+21:20:52.527 T:1221587712  NOTICE: Luxury Wizard: lookandfeel.enablerssfeeds saved to false
+21:20:52.610 T:1221587712  NOTICE: Luxury Wizard: lookandfeel.font saved to "Default"
+21:20:52.675 T:1221587712  NOTICE: Luxury Wizard: lookandfeel.rssedit saved to ""
+21:20:52.737 T:1221587712  NOTICE: Luxury Wizard: lookandfeel.skincolors saved to "SKINDEFAULT"
+21:20:52.751 T:1221587712  NOTICE: Luxury Wizard: lookandfeel.skintheme saved to "SKINDEFAULT"
+21:20:52.763 T:1221587712  NOTICE: Luxury Wizard: lookandfeel.skinzoom saved to 0
+21:20:52.776 T:1221587712  NOTICE: Luxury Wizard: lookandfeel.soundskin saved to "resource.uisounds.kodi"
+21:20:52.788 T:1221587712  NOTICE: Luxury Wizard: lookandfeel.startupwindow saved to 10000
+21:20:52.801 T:1221587712  NOTICE: Luxury Wizard: lookandfeel.stereostrength saved to 5
+21:20:52.802 T:1221587712  NOTICE: Luxury Wizard: [Default Skin Check]
+21:20:52.802 T:1221587712  NOTICE: Luxury Wizard: Reading gui file: /home/pi/.kodi/userdata/guisettings.xml
+21:20:52.803 T:1221587712  NOTICE: Luxury Wizard: Opening gui settings
+21:20:52.818 T:1221587712  NOTICE: Luxury Wizard: Matches: ['skin.konfluence']
+21:20:52.895 T:1221587712  NOTICE: Luxury Wizard: [Default Skin Check] Skin name: Kodiworld
+21:20:52.896 T:1221587712  NOTICE: Luxury Wizard: [Default Skin Check] Skin id: skin.konfluence
+21:20:52.958 T:1221587712  NOTICE: Luxury Wizard: [Default Skin Check] End
+21:20:54.764 T:1221587712  NOTICE: Luxury Wizard: INSTALLED 100: [ERRORS:0]
+21:20:56.461 T:1221587712  NOTICE: Luxury Wizard: Updated plugin.program.luxurywizard in db
+21:24:50.311 T:1221587712  NOTICE: Luxury Wizard: Force Closing Kodi: Platform[linux]

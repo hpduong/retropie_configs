@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]Apk Installer[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.program.luxurywizard/icon.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.luxurywizard/?mode=apk",return)</action>
+	</shortcut>
+</shortcuts>

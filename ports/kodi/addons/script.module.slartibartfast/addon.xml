@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.slartibartfast" name="Deep-Thought" version="1.3.2" provider-name="VistaTV">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" />
+	<import addon="script.module.urlresolver" />
+    <import addon="script.module.beautifulsoup4" />
+	<import addon="script.video.F4mProxy" />
+	<import addon="script.cerebro.pairwith" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>all</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Dependency Addon for Vista TV</summary>
+    <description lang="en">Dependency Addon for Vista TV</description>
+	<disclaimer lang="en">Dependency Addon for Vista TV</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>

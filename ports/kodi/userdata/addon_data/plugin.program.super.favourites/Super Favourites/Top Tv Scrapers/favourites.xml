@@ -1,0 +1,10 @@
+<favourites>
+	<favourite name="[COLOR gray]yoda TV Section[/COLOR]" thumb="special://home/addons/plugin.video.Yoda/icon.jpg">ActivateWindow(10025,&quot;plugin://plugin.video.Yoda/?action=tvNavigator&quot;,return)</favourite>
+	<favourite name="[COLOR teal]incursion TV Section[/COLOR]" thumb="special://home/addons/plugin.video.incursion/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.incursion/?action=tvNavigator&quot;,return)</favourite>
+	<favourite name="[COLOR gray]uranus TV Section[/COLOR]" thumb="special://home/addons/plugin.video.uranus/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.uranus/?action=tvNavigator&quot;,return)</favourite>
+	<favourite name="[COLOR teal]Supremacy Tv Section[/COLOR]" thumb="special://home/addons/plugin.video.supremacy/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.supremacy/?fanart=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.supremacy%2ffanart.jpg&amp;mode=400&amp;name=%5bCOLORaqua%5dScraper%20Tv%20Shows%5b%2fCOLOR%5d&amp;url&quot;,return)</favourite>
+	<favourite name="[COLOR gray]asylum TV Section[/COLOR]" thumb="special://home/addons/plugin.video.Asylum/fanart.jpg">ActivateWindow(10025,&quot;plugin://plugin.video.Asylum/?action=tvNavigator&quot;,return)</favourite>
+	<favourite name="[COLOR teal]cyphers-transistors TV Section (SALTS FORK)[/COLOR]" thumb="special://home/addons/plugin.video.transistortv/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.transistortv/?mode=browse&amp;section=TV&quot;,return)</favourite>
+	<favourite name="[COLOR gray]startibartfast tv section[/COLOR]" thumb="https://github.com/biglad/CerebroTVRepo/raw/master/zips/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.slartibartfast/?action=tvNavigator&quot;,return)</favourite>
+	<favourite name="[COLOR teal]Search[/COLOR]" thumb="special://home/addons/script.incursion.artwork/resources/media/incursion/search.png">ActivateWindow(10025,&quot;plugin://plugin.video.incursion/?action=tvSearch&quot;,return)</favourite>
+</favourites>

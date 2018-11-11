@@ -1,0 +1,70 @@
+
+
+
+<dir>
+   
+       <title>Anticipated Shows</title>
+       <trakt>https://api.trakt.tv/shows/anticipated</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Tv_new.png</thumbnail>
+ 
+</dir>
+
+
+ <dir>
+        <title>Newest</title>
+		<imdburl>tvshows/new</imdburl>
+		<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Tv_new.png</thumbnail>
+ <dir>
+
+      <title>Trending Shows</title>
+      <trakt>https://api.trakt.tv/shows/trending</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Tv_new.png</thumbnail>
+    </dir>
+
+    <dir>
+      <title>Popular Shows</title>
+      <trakt>https://api.trakt.tv/shows/popular</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Tv_new.png</thumbnail>
+    </dir>
+
+<dir>
+  <title>Airing Today</title>
+  <tmdb>tv/today</tmdb>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Tv_new.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Genres</title>
+    <link>file://shared lists/genre_tv.xml</link>
+    <summary>Search Shows by Genre</summary>
+    <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Tv_new.png</thumbnail>
+  </dir>
+
+<dir>
+    <title>Networks</title>
+    <link>file://networks.xml</link>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Tv_new.png</thumbnail>
+  </dir>
+
+<dir>
+<title>Top Rated</title>
+<trakt>https://api.trakt.tv/users/justin/lists/imdb-top-rated-tv-shows/items</trakt>
+<thumbnail>special://home/addons/plugin.video.digibox/resources/media/Tv_new.png</thumbnail>
+</dir>
+
+<dir>
+    <title>On The Air</title>
+    <tmdb>tv/on_the_air</tmdb>
+    <summary>Shows Airing in Next 7 Days</summary>
+    <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Tv_new.png</thumbnail>
+  </dir>
+
+
+  <dir>
+  <title>Search</title>
+  <tmdb>search</tmdb>
+ <animated_thumbnail></animated_thumbnail>
+     <thumbnail>special://home/addons/plugin.video.digibox/resources/media/Search_new.png</thumbnail>
+     <animated_fanart></animated_fanart>
+     <fanart></fanart>
+    </dir>

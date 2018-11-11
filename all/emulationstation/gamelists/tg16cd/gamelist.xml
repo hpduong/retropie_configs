@@ -1,0 +1,1209 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./4 in 1 Super CD (USA).ccd</path>
+		<name>4 In 1 Super CD</name>
+		<desc>This compilation disc was packed in with the TurboDuo in North America, giving buyers easy access to Bonk's Adventure, Bonk's Revenge, Bomberman, and Gate of Thunder.Despite appearing to contain only three games, Bomberman can be accessed by pressing Up, Right, Down, Left, II at the game select menu.</desc>
+		<image>./boxart/4 in 1 Super CD (USA).png</image>
+		<marquee>./wheel/4 in 1 Super CD (USA).png</marquee>
+		<video>./snap/4 in 1 Super CD (USA).mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19921010T000000</releasedate>
+		<developer>Turbo Technologies, Inc.</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Adventure</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Beyond Shadowgate (USA).ccd</path>
+		<name>Beyond Shadowgate</name>
+		<desc>As the last descendant in the "Line of Kings", Prince Erik is summoned home to regain his rightful place on his father's throne. But alas, Prince Erik is accused of his father's murder by the evil Royal Advisor Belezaar, and is thrown into the dungeon to be executed at dawn. Your mission and destiny are intertwined. Escape the dungeon and start your long journey toward the land deep within Castle Shadowgate. Your quest is to free the kingdom from the evil grips of the Warlock Lord. You will need to make good use of all the resources you can find throughout your journey. Evil abounds, and creatures great and small will try to defeat you! Use the good that comes of it because the Legend of Shadowgate rests in your hands!</desc>
+		<image>./boxart/Beyond Shadowgate (USA).png</image>
+		<marquee>./wheel/Beyond Shadowgate (USA).png</marquee>
+		<video>./snap/Beyond Shadowgate (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>ICOM</developer>
+		<publisher>Turbo Technologies</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Bonk 3 - Bonk's Big Adventure (USA).ccd</path>
+		<name>Bonk 3: Bonk's Big Adventure (Turbo Chip)</name>
+		<desc>Bonk's Big Adventure is the third instalment in the side-scrolling platformer series. As in previous games, the player assumes the role of a caveman named Bonk who headbutts his way through various enemies in order to defeat King Drool. Familiar moves include swinging on trees, bouncing off walls, breaking blocks and climbing walls with his teeth. Compared to the previous games, he walks and moves a little faster.</desc>
+		<image>./boxart/Bonk 3 - Bonk's Big Adventure (USA).png</image>
+		<marquee>./wheel/Bonk 3 - Bonk's Big Adventure (USA).png</marquee>
+		<video>./snap/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
+		<releasedate>19930402T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>NEC</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Buster Bros. (USA).ccd</path>
+		<name>Buster Bros.</name>
+		<desc>Your goal is to destroy the balloons which bounce around the playfield. To accomplish this, you can shoot hooks which travel upwards, and blow up any balloon they touch. Depending on their size, they either split on two smaller ones, or evaporate if they're at their minimum size. Apart from balloons, some levels also have barriers that have to be destroyed with your hooks, since they often block your access to balloons. There are also some barriers which cannot ever be destroyed. Your character has the ability to climb ladders, but cannot jump.</desc>
+		<image>./boxart/Buster Bros. (USA).png</image>
+		<marquee>./wheel/Buster Bros. (USA).png</marquee>
+		<video>./snap/Buster Bros. (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre />
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Camp California (USA).ccd</path>
+		<name>Camp California</name>
+		<desc>Early CD-ROM platfomer featuring real Beach Boys music for the TurboGrafx-CD. It is a partial follow up/spin-off of Yo' Bro, the skateboarding TG16 game which also used licensed Beach Boys music.</desc>
+		<image>./boxart/Camp California (USA).png</image>
+		<marquee>./wheel/Camp California (USA).png</marquee>
+		<video>./snap/Camp California (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>Turbo Technologies</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Cosmic Fantasy 2 (USA).ccd</path>
+		<name>Cosmic Fantasy 2</name>
+		<desc>Turn your imagination over to a Cosmic Fantasy of epic proportions! Laura has been kidnapped, and you must reach her before it's too late! Cut a swath of destruction through the throng of monsters blocking the path to Galam's hideout to save her. Along the way, make friends, solve puzzles, and learn magic while inching your way toward a confrontation that will shake the cosmos! Interactive fantasy role-playing takes on a whole new dimension with the addition of animated intermissions that will get you involved in the story! And, what's more, the true RPG-style combat interface will put you right in the action. What are you waiting for?</desc>
+		<image>./boxart/Cosmic Fantasy 2 (USA).png</image>
+		<marquee>./wheel/Cosmic Fantasy 2 (USA).png</marquee>
+		<video>./snap/Cosmic Fantasy 2 (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Telenet Japan</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Dragon Slayer - The Legend of Heroes (USA).ccd</path>
+		<name>Dragon Slayer: The Legend of Heroes</name>
+		<desc>In this epic role-playing game, you must guide Prince Logan all accross the beautiful and dngerious world of Isrenasa in the quest to regain his throne. This game features a huge world to explore and many companions to join you on your journey. This game features one of the largest quests and most advanced interface of any role-playing game for the TurboDuo system.</desc>
+		<image>./boxart/Dragon Slayer - The Legend of Heroes (USA).png</image>
+		<marquee>./wheel/Dragon Slayer - The Legend of Heroes (USA).png</marquee>
+		<video>./snap/Dragon Slayer - The Legend of Heroes (USA).mp4</video>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>2</playcount>
+		<lastplayed>20151024T165753</lastplayed>
+	</game>
+	<game>
+		<path>./Dungeon Explorer II (USA).ccd</path>
+		<name>Dungeon Explorer II</name>
+		<image>./boxart/Dungeon Explorer II (USA).png</image>
+		<marquee>./wheel/Dungeon Explorer II (USA).png</marquee>
+		<video>./snap/Dungeon Explorer II (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Dungeon Master - Theron's Quest (USA).ccd</path>
+		<name>Dungeon Master: Theron's Quest</name>
+		<desc>Terrifyingly brutal beasts! Monstrous mazes! Treacherous pits of evil! The adventure of a lifetime is here....Theron's Quest!!
+
+The Monastery at Ya-Brodin has fallen to the Cult of Deaths and the Brotherhood of Enlightenment, the true keepers of Magic, have been slaughtered. The Seven Great Treasures now lie in the hands of foul beings who will stop at nothing to hold onto their massive powers. But Theron, with a courage beyond belief, has decided to seek out the Cult of Deaths and win back the Treasures. If he succeeds, he will become a High Lord. If not, the land will see eternal darkness.</desc>
+		<image>./boxart/Dungeon Master - Theron's Quest (USA).png</image>
+		<marquee>./wheel/Dungeon Master - Theron's Quest (USA).png</marquee>
+		<video>./snap/Dungeon Master - Theron's Quest (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Victor Entertainment, Inc.</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Dynastic Hero, The (USA).ccd</path>
+		<name>Dynastic Hero</name>
+		<desc>However, The Dynastic Hero is actually a slightly-rebranded version of Wonder Boy in Monster World (Master System/Genesis) with pallete-swapped visuals (think Doki Doki Panic vs North America’s Super Mario Bros. 2).</desc>
+		<image>./boxart/Dynastic Hero, The (USA).png</image>
+		<marquee>./wheel/Dynastic Hero, The (USA).png</marquee>
+		<video>./snap/Dynastic Hero, The (USA).mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19940520T000000</releasedate>
+		<developer>Hudson Soft Company, Ltd.</developer>
+		<publisher>Hudson Soft Company, Ltd.</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Exile (USA).ccd</path>
+		<name>Exile</name>
+		<desc>Become Sadler the desert warrior as he travels the known world in search of the precious Holimax! Join forces with Rumi, Kindi, and Fakhyle to piece together the puzzle that will allow you to find the Holimax and use it to overthrow the ruthless Klispin Crusaders! But keep your cool! In this quest, you'll have to trudge through waist deep snow, jump through haunted forests, plan a jailbreak, slink through creepy towers, and defeat terrifying monsters if you're going to get anywhere! Hurry! There is only one Holimax, and the enemy forces are closing in!</desc>
+		<image>./boxart/Exile (USA).png</image>
+		<marquee>./wheel/Exile (USA).png</marquee>
+		<video>./snap/Exile (USA).mp4</video>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Telenet</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Exile 2 - Wicked Phenomenon (USA).ccd</path>
+		<name>Exile</name>
+		<desc>The last game in the trilogy was released for the Turbo Duo in 1992, and translated by Working Designs in 1993. It was released in North America on July 31, 1993. It was published by Nihon Telenet in Japan.[6] Although Sadler returns as the main character, this was the only game in the series that allowed the player to use other characters. Although the previous games featured heavy religious elements, Sadler is now striving to defeat chaos and solve the mystery of an ancient tower. Characters who perished in earlier games were revived with little or no explanation. The game was also considerably shorter than the previous entries in the series.
+
+The game's cover art featured a photograph, a rarity for North America, of the game's final boss, handcrafted. Vic Ireland commented on it, saying that "The Exile 2 cover is polarizing. People love it or hate it. It's basically aping a style of diorama that was really popular to advertise games in Japan. NCS/MASAYA did quite a bit of it, and I wanted to bring that to the US as well. So, I chose Exile 2 as the game to try this on. The practical effects guy who did the little models on the set in the ad, had done FX work for movies like Tremors and has since done work for WETA in Australia. The smoke was a time exposure to give it a thickness and glow. When we ran the ad, EGM or Gamepro (I can't remember) sent us a survey they did months later with their readers that had that ad listed as the 'most remembered' ad from the whole magazine, which, I think, justified the experiment. We tried it again for Vasteel, but the results weren't that great, so we only used part of one of the space scenes on the back cover of the jewel case."</desc>
+		<image>./boxart/Exile 2 - Wicked Phenomenon (USA).png</image>
+		<marquee>./wheel/Exile 2 - Wicked Phenomenon (USA).png</marquee>
+		<video>./snap/Exile 2 - Wicked Phenomenon (USA).mp4</video>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Telenet</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Cotton - Fantastic Night Dreams (USA).ccd</path>
+		<name>Fantastic Night Dreams: Cotton</name>
+		<image>./boxart/Cotton - Fantastic Night Dreams (USA).png</image>
+		<marquee>./wheel/Cotton - Fantastic Night Dreams (USA).png</marquee>
+		<video>./snap/Cotton - Fantastic Night Dreams (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Fighting Street (USA).ccd</path>
+		<name>Fighting Street</name>
+		<desc>Deep inside you there lurks a warrior. Let him loose! And test him against the martial arts champions of 5 nations. Grit your teeth, pump up and take after Retsu and Geki from Japan. Most worthy opponents! But watch out for the baddest - Adon and Sagat, a couple of Thai's. Mike and Joe (USA), Birdi and Eagle (UK), Lee and Gen (China) all have their own special "tricks." Be quick and strong, or be gone!</desc>
+		<image>./boxart/Fighting Street (USA).png</image>
+		<marquee>./wheel/Fighting Street (USA).png</marquee>
+		<video>./snap/Fighting Street (USA).mp4</video>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Final Zone II (USA).ccd</path>
+		<name>Final Zone II</name>
+		<image>./boxart/Final Zone II (USA).png</image>
+		<marquee>./wheel/Final Zone II (USA).png</marquee>
+		<video>./snap/Final Zone II (USA).mp4</video>
+		<releasedate>19900101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Forgotten Worlds (USA).ccd</path>
+		<name>Forgotten Worlds</name>
+		<desc>The planet used to be beautiful, with gorgeous cities and gleaming countrysides. Until the Aliens attacked! With fire, bombs, and napalm they devastated the world! They made the planet so abominable that it became an outcast in the universe - the Forgotten World. Until you, the Nameless One, appear. You're a Super Warrior of incredible power and energy. You make it your business to reclaim the panet for its rightful owners - the Human Beings!</desc>
+		<image>./boxart/Forgotten Worlds (USA).png</image>
+		<marquee>./wheel/Forgotten Worlds (USA).png</marquee>
+		<video>./snap/Forgotten Worlds (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer>CAPCOM</developer>
+		<publisher>NEC</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Godzilla (USA).ccd</path>
+		<name>Godzilla</name>
+		<desc>This interpretation of the famous giant monster from the Japanese cinematic industry takes form of a fighting game, only instead of the usual brave martial artists the players control horrifying monsters from the traditional  Toho lineage: the titular beast itself, Rodan, Anguirus, Ghidorah, and others. The game has two modes: Normal and Vs. The latter is essentially a two-player mode, which allows the players to engage in giant monster battles in a variety of scenarios. Most of the monsters, however, are locked in the Vs. mode before the player has completed the Normal mode.
+
+The Normal mode puts the player in control of Godzilla, who has to go through five stages before reaching the final boss. Each stage has two battles against two different creatures in two different locations, from which the player has to complete only one in order to proceed to the next stage. Depending on the player's performance, points are awarded; in order to be able to compete against different final bosses, the player has to accumulate more points. If the player only has the minimum required points, only one final boss will be available.
+
+The combat system is similar to other fighting games, with various combinations of buttons executing different moves. Naturally, the normal "punch-kick" scheme is modified to suit the monsters' shapes and biological peculiarities. For example, monsters with tails can use tail spin attacks; fire-breathing monsters have a range fire attack, etc. Most of the monsters (including Godzilla) have a move when they hold the opponent and suck its blood.</desc>
+		<image>./boxart/Godzilla (USA).png</image>
+		<marquee>./wheel/Godzilla (USA).png</marquee>
+		<video>./snap/Godzilla (USA).mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930226T000000</releasedate>
+		<developer>Hudson Soft Company, Ltd.</developer>
+		<publisher>Toho Co.,Ltd.</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Implode (USA).ccd</path>
+		<name>Implode</name>
+		<desc>Not much is known about this game :)</desc>
+		<image>./boxart/Implode (USA).png</image>
+		<marquee>./wheel/Implode (USA).png</marquee>
+		<video>./snap/Implode (USA).mp4</video>
+		<releasedate>19920501T000000</releasedate>
+		<developer>Cinemaware</developer>
+		<publisher>NEC</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./It Came From The Desert (USA).ccd</path>
+		<name>It Came From The Desert</name>
+		<desc>It Came from the Desert is a remake of the the original 1989 Amiga game of the same name, but with a vast amount of changes and improvements. The basic setting was kept identical. It is a mix of action and adventure elements, largely inspired from cult-horror B-Movies of the 50's and 60's, and the 1954 film Them in particular. The player plays the part of Dr. Greg Bradley, a geologist and the newest resident in town. Eager to satisfy his scientific mind, Bradley sets out to examine the crash-site of a mysterious meteor, but what he finds is not at all what he had been looking for.</desc>
+		<image>./boxart/It Came From The Desert (USA).png</image>
+		<marquee>./wheel/It Came From The Desert (USA).png</marquee>
+		<video>./snap/It Came From The Desert (USA).mp4</video>
+		<releasedate>19920501T000000</releasedate>
+		<developer>Cinemaware</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./J. B. Harold Murder Club (USA).ccd</path>
+		<name>J.B. Harold Murder Club</name>
+		<image>./boxart/J. B. Harold Murder Club (USA).png</image>
+		<marquee>./wheel/J. B. Harold Murder Club (USA).png</marquee>
+		<video>./snap/J. B. Harold Murder Club (USA).mp4</video>
+		<releasedate>19910101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Jack Nicklaus Turbo Golf (USA).ccd</path>
+		<name>Jack Nicklaus Turbo Golf</name>
+		<desc>Jack Nicklaus: Turbo Golf is a Sports game, developed by Accolade and published by Victor Interactive Software, which was released in 1990.</desc>
+		<image>./boxart/Jack Nicklaus Turbo Golf (USA).png</image>
+		<marquee>./wheel/Jack Nicklaus Turbo Golf (USA).png</marquee>
+		<video>./snap/Jack Nicklaus Turbo Golf (USA).mp4</video>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Accolade</developer>
+		<publisher>Victor Interactive Software</publisher>
+		<genre>Sports</genre>
+		<players />
+	</game>
+	<game>
+		<path>./John Madden Duo CD Football (USA).ccd</path>
+		<name>John Madden Duo CD Football</name>
+		<image>./boxart/John Madden Duo CD Football (USA).png</image>
+		<marquee>./wheel/John Madden Duo CD Football (USA).png</marquee>
+		<video>./snap/John Madden Duo CD Football (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer />
+		<publisher>Hudson</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Last Alert (USA).ccd</path>
+		<name>Last Alert</name>
+		<image>./boxart/Last Alert (USA).png</image>
+		<marquee>./wheel/Last Alert (USA).png</marquee>
+		<video>./snap/Last Alert (USA).mp4</video>
+		<releasedate>19900101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Loom (USA).ccd</path>
+		<name>Loom</name>
+		<image>./boxart/Loom (USA).png</image>
+		<marquee>./wheel/Loom (USA).png</marquee>
+		<video>./snap/Loom (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Lords of the Rising Sun (USA).ccd</path>
+		<name>Lords of the Rising Sun</name>
+		<image>./boxart/Lords of the Rising Sun (USA).png</image>
+		<marquee>./wheel/Lords of the Rising Sun (USA).png</marquee>
+		<video>./snap/Lords of the Rising Sun (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Lords of Thunder (USA).ccd</path>
+		<name>Lords of Thunder</name>
+		<desc>Lords of Thunder is a side-scrolling shooter that has you take on the role of a legendary warrior, blasting enemies to heavy-metal tunes. Your enemies are plotting to revive Zaggart, "The Dark One," who was sealed beneath the six continents of Mistral. It's up to Landis, descendant of the heroic Dyu, to stop them.</desc>
+		<image>./boxart/Lords of Thunder (USA).png</image>
+		<marquee>./wheel/Lords of Thunder (USA).png</marquee>
+		<video>./snap/Lords of Thunder (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>RED Entertainment</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Magical Dinosaur Tour (USA).ccd</path>
+		<name>Magical Chase</name>
+		<desc>Ripple is a student of magic, and her teacher is a terrifying witch. Ripple is particularly afraid of her teacher right now, because she's just broken a promise she made to the witch: Ripple took a peek inside the forbidden book Sleeping Demons! No sooner had she opened the cover then out jumped six demons, all of which raced away! Unless she can catch all six demons and get them back inside the book, the witch will turn Ripple into a frog for breaking her promise! So Ripple sets off on her quest with her two Elf-Star friends, Topsy and Turvy. Good luck, Ripple!</desc>
+		<image>./boxart/Magical Dinosaur Tour (USA).png</image>
+		<marquee>./wheel/Magical Dinosaur Tour (USA).png</marquee>
+		<video>./snap/Magical Dinosaur Tour (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Quest</developer>
+		<publisher>NEC</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Might and Magic III - Isles of Terra (USA).ccd</path>
+		<name>Might and Magic III: Isles of Terra</name>
+		<desc>Emerging from the depths of the nebulous void, there came four lords. To each lord, a dominion: fire, water, air, and earth. But each lord lusted for more - to be the ultimate ruler of the void. The four lords of the elements descended into a hideous conflict that unleashed a raging storm.</desc>
+		<image>./boxart/Might and Magic III - Isles of Terra (USA).png</image>
+		<marquee>./wheel/Might and Magic III - Isles of Terra (USA).png</marquee>
+		<video>./snap/Might and Magic III - Isles of Terra (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>New World Computing</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Prince of Persia (USA).ccd</path>
+		<name>Prince of Persia</name>
+		<image>./boxart/Prince of Persia (USA).png</image>
+		<marquee>./wheel/Prince of Persia (USA).png</marquee>
+		<video>./snap/Prince of Persia (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>2</playcount>
+		<lastplayed>20160311T183306</lastplayed>
+	</game>
+	<game>
+		<path>./Riot Zone (USA).ccd</path>
+		<name>Riot Zone</name>
+		<desc>Riot Zone is a side-scrolling fighting game that follows two heroes as they fight to take down an evil organization. The crime syndicate Dragon Zone has kidnapped Hawk's girlfriend and it's up to him and his partner detective, Tony, to get her back. Join them as they jump "fists first" into the grim Kowloon district.</desc>
+		<image>./boxart/Riot Zone (USA).png</image>
+		<marquee>./wheel/Riot Zone (USA).png</marquee>
+		<video>./snap/Riot Zone (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Agenda / Hudson Soft</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Shadow of the Beast (USA).ccd</path>
+		<name>Shadow of the Beast</name>
+		<desc>Shadow of the Beast is a 2D Platformer game, developed by DMA Design and published by Victor Interactive Software, which was released in 1992.</desc>
+		<image>./boxart/Shadow of the Beast (USA).png</image>
+		<marquee>./wheel/Shadow of the Beast (USA).png</marquee>
+		<video>./snap/Shadow of the Beast (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Shape Shifter (USA).ccd</path>
+		<name>Shape Shifter</name>
+		<desc>Far below the three moons that hang in the midnight sky lies the land of Krelion. And the people of this land live in an age of perfect peace and prosperity known as the Age of Light, a time by a band of powerful wizards known as the Ring of Five.
+
+But, on the 11th moon of the Age of Light, a dark wave of evil has begun to sweep across the land, leaving a wide path of destructing in its wake. And the Ring of Five, which has protected Krelion for centuries untold has suddenly vanished from the land. Their fate is left in the unholy hands of three evil beings from the shadow realm known as the Dark Ones.
+
+Now the mid-summer equinox is almost at hand. And with this event, the Dark Ones will shatter the barrier that lies between Krelion and the shadow realm. But there is a single light in the darkness. His name is Lykas and he has the power to change his shape at will. Hopefully, he can save Krelion before it is too late ... before the land is plunged into a dark, eternal nightmare... never to awaken...</desc>
+		<image>./boxart/Shape Shifter (USA).png</image>
+		<marquee>./wheel/Shape Shifter (USA).png</marquee>
+		<video>./snap/Shape Shifter (USA).mp4</video>
+		<releasedate>19920925T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20151024T104934</lastplayed>
+	</game>
+	<game>
+		<path>./Sherlock Holmes Consulting Detective Vol 2 (USA).ccd</path>
+		<name>Sherlock Holmes Consulting Detective Vol 2</name>
+		<image>./boxart/Sherlock Holmes Consulting Detective Vol 2 (USA).png</image>
+		<marquee>./wheel/Sherlock Holmes Consulting Detective Vol 2 (USA).png</marquee>
+		<video>./snap/Sherlock Holmes Consulting Detective Vol 2 (USA).mp4</video>
+		<rating>0.4</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>Sega</publisher>
+		<genre>Detective</genre>
+	</game>
+	<game>
+		<path>./Sherlock Holmes Consulting Detective (USA).ccd</path>
+		<name>Sherlock Holmes: Consulting Detective</name>
+		<image>./boxart/Sherlock Holmes Consulting Detective (USA).png</image>
+		<marquee>./wheel/Sherlock Holmes Consulting Detective (USA).png</marquee>
+		<video>./snap/Sherlock Holmes Consulting Detective (USA).mp4</video>
+		<rating>0.4</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>Sega</publisher>
+		<genre>Detective</genre>
+	</game>
+	<game>
+		<path>./Sim Earth - The Living Planet (USA).ccd</path>
+		<name>SimEarth: The Living Planet</name>
+		<image>./boxart/Sim Earth - The Living Planet (USA).png</image>
+		<marquee>./wheel/Sim Earth - The Living Planet (USA).png</marquee>
+		<video>./snap/Sim Earth - The Living Planet (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Splash Lake (USA).ccd</path>
+		<name>Splash Lake</name>
+		<desc>Splash Lake is an action-puzzle game for the TurboGrafx-CD and PC Engine CD-ROM. The player is an ostrich named Ozzie and must walk around a grid, pecking at certain lynchpin areas of the ground in order to collapse parts of the level into the ocean. The goal is to remove all enemies by dropping the ground they're walking on. It is structurally similar to Dig Dug 2.
+
+The game has a multiplayer mode, which allows two players to try to outmaneuver and out-think each other.</desc>
+		<image>./boxart/Splash Lake (USA).png</image>
+		<marquee>./wheel/Splash Lake (USA).png</marquee>
+		<video>./snap/Splash Lake (USA).mp4</video>
+		<rating>0.5</rating>
+		<releasedate>19910628T000000</releasedate>
+		<developer>Bits Laboratory</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Air Zonk (USA).ccd</path>
+		<name>Super Air Zonk</name>
+		<desc>Super Air Zonk is an Action game, developed by Dual and published by Hudson, which was released in Japan in 1993.</desc>
+		<image>./boxart/Super Air Zonk (USA).png</image>
+		<marquee>./wheel/Super Air Zonk (USA).png</marquee>
+		<video>./snap/Super Air Zonk (USA).mp4</video>
+		<releasedate>19930730T000000</releasedate>
+		<developer>Dual</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Fantasy Star Soldier (USA).ccd</path>
+		<name>Super Star Soldier</name>
+		<desc>The special attack squad, lead by the Mother Brain, has launched an all out invasion on Earth. Take your small-scale fighter, the Neo Caesar, with its arsenal of 4 regular weapons and 2 special weapons, and send them back where they belong! In addition to the Normal Game mode in this vertical-scrolling shooting game, there are 2-minute and 5-minute Time Attack modes and a mode where high-scores can be checked. Normal Game is made up of 8 different stages, and in each stage (except Stage 7), a boss awaits you at the end.</desc>
+		<image>./boxart/Fantasy Star Soldier (USA).png</image>
+		<marquee>./wheel/Fantasy Star Soldier (USA).png</marquee>
+		<video>./snap/Fantasy Star Soldier (USA).mp4</video>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Inter State</developer>
+		<publisher>NEC</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Syd Mead's Terra Forming (USA).ccd</path>
+		<name>Syd Mead's Terraforming</name>
+		<image>./boxart/Syd Mead's Terra Forming (USA).png</image>
+		<marquee>./wheel/Syd Mead's Terra Forming (USA).png</marquee>
+		<video>./snap/Syd Mead's Terra Forming (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer />
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Addams Family, The (USA).ccd</path>
+		<name>The Addams Family</name>
+		<image>./boxart/Addams Family, The (USA).png</image>
+		<marquee>./wheel/Addams Family, The (USA).png</marquee>
+		<video>./snap/Addams Family, The (USA).mp4</video>
+		<releasedate>19910101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Valis II (USA).ccd</path>
+		<name>Valis III</name>
+		<desc>Once again, you must unleash the fury of the legendary Valis sword! Ramses, fiendish lord of the Spirit World, has begun his invasion. As Yuko, you must battle the bloodthirsty forces that world annihilate your people. But this time, you are not alone! You can transform into fierce allies with their own devastating weapons. Attack with the magic of fire, ice and thunder. Then risk death in a duel with Ramses himself, as you uncover his secret plot to possess Valis and rule the universe!</desc>
+		<image>./boxart/Valis II (USA).png</image>
+		<marquee>./wheel/Valis II (USA).png</marquee>
+		<video>./snap/Valis II (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Telenet Japan</developer>
+		<publisher>NEC</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Valis III (USA).ccd</path>
+		<name>Valis III</name>
+		<desc>Once again, you must unleash the fury of the legendary Valis sword! Ramses, fiendish lord of the Spirit World, has begun his invasion. As Yuko, you must battle the bloodthirsty forces that world annihilate your people. But this time, you are not alone! You can transform into fierce allies with their own devastating weapons. Attack with the magic of fire, ice and thunder. Then risk death in a duel with Ramses himself, as you uncover his secret plot to possess Valis and rule the universe!</desc>
+		<image>./boxart/Valis III (USA).png</image>
+		<marquee>./wheel/Valis III (USA).png</marquee>
+		<video>./snap/Valis III (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Telenet Japan</developer>
+		<publisher>NEC</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Vasteel (USA).ccd</path>
+		<name>Vasteel</name>
+		<desc>The Emperor is dead. Now begins the bloodiest chapter in the history of the Vasteel solar system! Jump right into the action as you choose to play as either Falial, the newly crowned emperor, or his brother Stefan, leader of the rebel army. In addition to a first-of-it's-kind on-line guide that actually speaks to aid you in your weapon's choice, there are over 70 types of armored robots and transports to lead you to victory. Set up the battles on the overhead strategy map, then go in and duke out the actual fight arcade style! Vasteel also offers the option of a 2 player VS mode where you can match wits and arcade skill with a friend.</desc>
+		<image>./boxart/Vasteel (USA).png</image>
+		<marquee>./wheel/Vasteel (USA).png</marquee>
+		<video>./snap/Vasteel (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Human Entertainment</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Wonder Boy III - Monster Lair (USA).ccd</path>
+		<name>Wonder Boy III Monster Lair</name>
+		<desc>Wonder Boy III: Monster Lair is a quite different game to most of the games in the Wonder Boy series. You play a green-haired dude who must attack the invaders that attempt to collect weapons and use them to destroy the land. The game starts out like a simple platform game, but it's just when Wonder Boy enters the skull further on that the game is transformed into a shoot 'em up, so basically the gameplay consists of action and shooter scenes.
+
+In the action scenes, your vitality decreases as you make your way towards the skull, but this can be restored by collecting fruit. A wide variety of weapons can be picked up, and not only does these allow you to use the weapons for a limited amount of time, but they also increase your vitality.
+
+In the shooter scenes, you ride your pink friend as you make your way through the scene. Here, your vitality remains static unless you are hit by an enemy passing by. As usual, there is a boss waiting for you at the end which you must defeat. Every boss changes color to show how much damage has been done to it. You have to defeat some bosses in two stages.
+
+If your vitality gets low in each scene, you'll lose a life. You can also choose to have Wonder Girl join you, as two players can play the game.</desc>
+		<image>./boxart/Wonder Boy III - Monster Lair (USA).png</image>
+		<marquee>./wheel/Wonder Boy III - Monster Lair (USA).png</marquee>
+		<video>./snap/Wonder Boy III - Monster Lair (USA).mp4</video>
+		<rating>0.4</rating>
+		<releasedate>19890801T000000</releasedate>
+		<developer>Westone Co., Ltd.</developer>
+		<publisher>NEC Home Electronics (U.S.A.) Inc.</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Ys Book I &amp; II - Ancient Ys Vanished (USA).ccd</path>
+		<name>Ys Book I &amp; II</name>
+		<desc>Journey through the Ancient Land of Ys, a once peaceful and prosperous country suddenly thrust deep into an empty abyss of isolation. The secret to restoring peace rests in the six books of the wise priests. 700 years have passed, and now you have a chance to unlock the mystery. Stunning graphics, intense stereo sound and profound gameplay make this a CD adventure you'll never forget ... and may never return from.</desc>
+		<image>./boxart/Ys Book I &amp; II - Ancient Ys Vanished (USA).png</image>
+		<marquee>./wheel/Ys Book I &amp; II - Ancient Ys Vanished (USA).png</marquee>
+		<video>./snap/Ys Book I &amp; II - Ancient Ys Vanished (USA).mp4</video>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Ys III - Wanderers from Ys (USA).ccd</path>
+		<name>Ys III: Wanderers from Ys</name>
+		<desc>As Adol, hero of Ys Book I &amp; II, your most fearsome new adventure is about to begin! The curse of the monster Demanicus terrorizes your friend Dogi's homeland. Chaos rules as blood-thirsty creatures threaten innocent lives. Only you have the courage and strength to defeat them! Gather your fiercest swords and deadly amulet to battle these horrific creatures with a thrilling new action view. Survive the fiery depths of Alcaino. Conquer the terrifying Nekevil. But stay alert, brave Adol! The fury of Demanicus awaits your final epic struggle!</desc>
+		<image>./boxart/Ys III - Wanderers from Ys (USA).png</image>
+		<marquee>./wheel/Ys III - Wanderers from Ys (USA).png</marquee>
+		<video>./snap/Ys III - Wanderers from Ys (USA).mp4</video>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Exile 2 - Wicked Phenomenon (USA).cue</path>
+		<name>Exile</name>
+		<desc>The last game in the trilogy was released for the Turbo Duo in 1992, and translated by Working Designs in 1993. It was released in North America on July 31, 1993. It was published by Nihon Telenet in Japan.[6] Although Sadler returns as the main character, this was the only game in the series that allowed the player to use other characters. Although the previous games featured heavy religious elements, Sadler is now striving to defeat chaos and solve the mystery of an ancient tower. Characters who perished in earlier games were revived with little or no explanation. The game was also considerably shorter than the previous entries in the series.
+
+The game's cover art featured a photograph, a rarity for North America, of the game's final boss, handcrafted. Vic Ireland commented on it, saying that "The Exile 2 cover is polarizing. People love it or hate it. It's basically aping a style of diorama that was really popular to advertise games in Japan. NCS/MASAYA did quite a bit of it, and I wanted to bring that to the US as well. So, I chose Exile 2 as the game to try this on. The practical effects guy who did the little models on the set in the ad, had done FX work for movies like Tremors and has since done work for WETA in Australia. The smoke was a time exposure to give it a thickness and glow. When we ran the ad, EGM or Gamepro (I can't remember) sent us a survey they did months later with their readers that had that ad listed as the 'most remembered' ad from the whole magazine, which, I think, justified the experiment. We tried it again for Vasteel, but the results weren't that great, so we only used part of one of the space scenes on the back cover of the jewel case."</desc>
+		<image>./boxart/Exile 2 - Wicked Phenomenon (USA).png</image>
+		<marquee>./wheel/Exile 2 - Wicked Phenomenon (USA).png</marquee>
+		<video>./snap/Exile 2 - Wicked Phenomenon (USA).mp4</video>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Telenet</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./4 in 1 Super CD (USA).cue</path>
+		<name>4 In 1 Super CD</name>
+		<desc>This compilation disc was packed in with the TurboDuo in North America, giving buyers easy access to Bonk's Adventure, Bonk's Revenge, Bomberman, and Gate of Thunder.Despite appearing to contain only three games, Bomberman can be accessed by pressing Up, Right, Down, Left, II at the game select menu.</desc>
+		<image>./boxart/4 in 1 Super CD (USA).png</image>
+		<marquee>./wheel/4 in 1 Super CD (USA).png</marquee>
+		<video>./snap/4 in 1 Super CD (USA).mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19921010T000000</releasedate>
+		<developer>Turbo Technologies, Inc.</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Adventure</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Beyond Shadowgate (USA).cue</path>
+		<name>Beyond Shadowgate</name>
+		<desc>As the last descendant in the "Line of Kings", Prince Erik is summoned home to regain his rightful place on his father's throne. But alas, Prince Erik is accused of his father's murder by the evil Royal Advisor Belezaar, and is thrown into the dungeon to be executed at dawn. Your mission and destiny are intertwined. Escape the dungeon and start your long journey toward the land deep within Castle Shadowgate. Your quest is to free the kingdom from the evil grips of the Warlock Lord. You will need to make good use of all the resources you can find throughout your journey. Evil abounds, and creatures great and small will try to defeat you! Use the good that comes of it because the Legend of Shadowgate rests in your hands!</desc>
+		<image>./boxart/Beyond Shadowgate (USA).png</image>
+		<marquee>./wheel/Beyond Shadowgate (USA).png</marquee>
+		<video>./snap/Beyond Shadowgate (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>ICOM</developer>
+		<publisher>Turbo Technologies</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Camp California (USA).cue</path>
+		<name>Camp California</name>
+		<desc>Early CD-ROM platfomer featuring real Beach Boys music for the TurboGrafx-CD. It is a partial follow up/spin-off of Yo' Bro, the skateboarding TG16 game which also used licensed Beach Boys music.</desc>
+		<image>./boxart/Camp California (USA).png</image>
+		<marquee>./wheel/Camp California (USA).png</marquee>
+		<video>./snap/Camp California (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>Turbo Technologies</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Cosmic Fantasy 2 (USA).cue</path>
+		<name>Cosmic Fantasy 2</name>
+		<desc>Turn your imagination over to a Cosmic Fantasy of epic proportions! Laura has been kidnapped, and you must reach her before it's too late! Cut a swath of destruction through the throng of monsters blocking the path to Galam's hideout to save her. Along the way, make friends, solve puzzles, and learn magic while inching your way toward a confrontation that will shake the cosmos! Interactive fantasy role-playing takes on a whole new dimension with the addition of animated intermissions that will get you involved in the story! And, what's more, the true RPG-style combat interface will put you right in the action. What are you waiting for?</desc>
+		<image>./boxart/Cosmic Fantasy 2 (USA).png</image>
+		<marquee>./wheel/Cosmic Fantasy 2 (USA).png</marquee>
+		<video>./snap/Cosmic Fantasy 2 (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Telenet Japan</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Dragon Slayer - The Legend of Heroes (USA).cue</path>
+		<name>Dragon Slayer: The Legend of Heroes</name>
+		<desc>In this epic role-playing game, you must guide Prince Logan all accross the beautiful and dngerious world of Isrenasa in the quest to regain his throne. This game features a huge world to explore and many companions to join you on your journey. This game features one of the largest quests and most advanced interface of any role-playing game for the TurboDuo system.</desc>
+		<image>./boxart/Dragon Slayer - The Legend of Heroes (USA).png</image>
+		<marquee>./wheel/Dragon Slayer - The Legend of Heroes (USA).png</marquee>
+		<video>./snap/Dragon Slayer - The Legend of Heroes (USA).mp4</video>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>2</playcount>
+		<lastplayed>20151024T165753</lastplayed>
+	</game>
+	<game>
+		<path>./Dungeon Explorer II (USA).cue</path>
+		<name>Dungeon Explorer II</name>
+		<image>./boxart/Dungeon Explorer II (USA).png</image>
+		<marquee>./wheel/Dungeon Explorer II (USA).png</marquee>
+		<video>./snap/Dungeon Explorer II (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Dynastic Hero, The (USA).cue</path>
+		<name>Dynastic Hero</name>
+		<desc>However, The Dynastic Hero is actually a slightly-rebranded version of Wonder Boy in Monster World (Master System/Genesis) with pallete-swapped visuals (think Doki Doki Panic vs North America’s Super Mario Bros. 2).</desc>
+		<image>./boxart/Dynastic Hero, The (USA).png</image>
+		<marquee>./wheel/Dynastic Hero, The (USA).png</marquee>
+		<video>./snap/Dynastic Hero, The (USA).mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19940520T000000</releasedate>
+		<developer>Hudson Soft Company, Ltd.</developer>
+		<publisher>Hudson Soft Company, Ltd.</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Exile (USA).cue</path>
+		<name>Exile</name>
+		<desc>Become Sadler the desert warrior as he travels the known world in search of the precious Holimax! Join forces with Rumi, Kindi, and Fakhyle to piece together the puzzle that will allow you to find the Holimax and use it to overthrow the ruthless Klispin Crusaders! But keep your cool! In this quest, you'll have to trudge through waist deep snow, jump through haunted forests, plan a jailbreak, slink through creepy towers, and defeat terrifying monsters if you're going to get anywhere! Hurry! There is only one Holimax, and the enemy forces are closing in!</desc>
+		<image>./boxart/Exile (USA).png</image>
+		<marquee>./wheel/Exile (USA).png</marquee>
+		<video>./snap/Exile (USA).mp4</video>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Telenet</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Cotton - Fantastic Night Dreams (USA).cue</path>
+		<name>Fantastic Night Dreams: Cotton</name>
+		<image>./boxart/Cotton - Fantastic Night Dreams (USA).png</image>
+		<marquee>./wheel/Cotton - Fantastic Night Dreams (USA).png</marquee>
+		<video>./snap/Cotton - Fantastic Night Dreams (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Fighting Street (USA).cue</path>
+		<name>Fighting Street</name>
+		<desc>Deep inside you there lurks a warrior. Let him loose! And test him against the martial arts champions of 5 nations. Grit your teeth, pump up and take after Retsu and Geki from Japan. Most worthy opponents! But watch out for the baddest - Adon and Sagat, a couple of Thai's. Mike and Joe (USA), Birdi and Eagle (UK), Lee and Gen (China) all have their own special "tricks." Be quick and strong, or be gone!</desc>
+		<image>./boxart/Fighting Street (USA).png</image>
+		<marquee>./wheel/Fighting Street (USA).png</marquee>
+		<video>./snap/Fighting Street (USA).mp4</video>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Final Zone II (USA).cue</path>
+		<name>Final Zone II</name>
+		<image>./boxart/Final Zone II (USA).png</image>
+		<marquee>./wheel/Final Zone II (USA).png</marquee>
+		<video>./snap/Final Zone II (USA).mp4</video>
+		<releasedate>19900101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Forgotten Worlds (USA).cue</path>
+		<name>Forgotten Worlds</name>
+		<desc>The planet used to be beautiful, with gorgeous cities and gleaming countrysides. Until the Aliens attacked! With fire, bombs, and napalm they devastated the world! They made the planet so abominable that it became an outcast in the universe - the Forgotten World. Until you, the Nameless One, appear. You're a Super Warrior of incredible power and energy. You make it your business to reclaim the panet for its rightful owners - the Human Beings!</desc>
+		<image>./boxart/Forgotten Worlds (USA).png</image>
+		<marquee>./wheel/Forgotten Worlds (USA).png</marquee>
+		<video>./snap/Forgotten Worlds (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer>CAPCOM</developer>
+		<publisher>NEC</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Godzilla (USA).cue</path>
+		<name>Godzilla</name>
+		<desc>This interpretation of the famous giant monster from the Japanese cinematic industry takes form of a fighting game, only instead of the usual brave martial artists the players control horrifying monsters from the traditional  Toho lineage: the titular beast itself, Rodan, Anguirus, Ghidorah, and others. The game has two modes: Normal and Vs. The latter is essentially a two-player mode, which allows the players to engage in giant monster battles in a variety of scenarios. Most of the monsters, however, are locked in the Vs. mode before the player has completed the Normal mode.
+
+The Normal mode puts the player in control of Godzilla, who has to go through five stages before reaching the final boss. Each stage has two battles against two different creatures in two different locations, from which the player has to complete only one in order to proceed to the next stage. Depending on the player's performance, points are awarded; in order to be able to compete against different final bosses, the player has to accumulate more points. If the player only has the minimum required points, only one final boss will be available.
+
+The combat system is similar to other fighting games, with various combinations of buttons executing different moves. Naturally, the normal "punch-kick" scheme is modified to suit the monsters' shapes and biological peculiarities. For example, monsters with tails can use tail spin attacks; fire-breathing monsters have a range fire attack, etc. Most of the monsters (including Godzilla) have a move when they hold the opponent and suck its blood.</desc>
+		<image>./boxart/Godzilla (USA).png</image>
+		<marquee>./wheel/Godzilla (USA).png</marquee>
+		<video>./snap/Godzilla (USA).mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930226T000000</releasedate>
+		<developer>Hudson Soft Company, Ltd.</developer>
+		<publisher>Toho Co.,Ltd.</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Implode (USA).cue</path>
+		<name>Implode</name>
+		<desc>Not much is known about this game :)</desc>
+		<image>./boxart/Implode (USA).png</image>
+		<marquee>./wheel/Implode (USA).png</marquee>
+		<video>./snap/Implode (USA).mp4</video>
+		<releasedate>19920501T000000</releasedate>
+		<developer>Cinemaware</developer>
+		<publisher>NEC</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./It Came From The Desert (USA).cue</path>
+		<name>It Came From The Desert</name>
+		<desc>It Came from the Desert is a remake of the the original 1989 Amiga game of the same name, but with a vast amount of changes and improvements. The basic setting was kept identical. It is a mix of action and adventure elements, largely inspired from cult-horror B-Movies of the 50's and 60's, and the 1954 film Them in particular. The player plays the part of Dr. Greg Bradley, a geologist and the newest resident in town. Eager to satisfy his scientific mind, Bradley sets out to examine the crash-site of a mysterious meteor, but what he finds is not at all what he had been looking for.</desc>
+		<image>./boxart/It Came From The Desert (USA).png</image>
+		<marquee>./wheel/It Came From The Desert (USA).png</marquee>
+		<video>./snap/It Came From The Desert (USA).mp4</video>
+		<releasedate>19920501T000000</releasedate>
+		<developer>Cinemaware</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./J. B. Harold Murder Club (USA).cue</path>
+		<name>J.B. Harold Murder Club</name>
+		<image>./boxart/J. B. Harold Murder Club (USA).png</image>
+		<marquee>./wheel/J. B. Harold Murder Club (USA).png</marquee>
+		<video>./snap/J. B. Harold Murder Club (USA).mp4</video>
+		<releasedate>19910101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Jack Nicklaus Turbo Golf (USA).cue</path>
+		<name>Jack Nicklaus Turbo Golf</name>
+		<desc>Jack Nicklaus: Turbo Golf is a Sports game, developed by Accolade and published by Victor Interactive Software, which was released in 1990.</desc>
+		<image>./boxart/Jack Nicklaus Turbo Golf (USA).png</image>
+		<marquee>./wheel/Jack Nicklaus Turbo Golf (USA).png</marquee>
+		<video>./snap/Jack Nicklaus Turbo Golf (USA).mp4</video>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Accolade</developer>
+		<publisher>Victor Interactive Software</publisher>
+		<genre>Sports</genre>
+		<players />
+	</game>
+	<game>
+		<path>./John Madden Duo CD Football (USA).cue</path>
+		<name>John Madden Duo CD Football</name>
+		<image>./boxart/John Madden Duo CD Football (USA).png</image>
+		<marquee>./wheel/John Madden Duo CD Football (USA).png</marquee>
+		<video>./snap/John Madden Duo CD Football (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer />
+		<publisher>Hudson</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Last Alert (USA).cue</path>
+		<name>Last Alert</name>
+		<image>./boxart/Last Alert (USA).png</image>
+		<marquee>./wheel/Last Alert (USA).png</marquee>
+		<video>./snap/Last Alert (USA).mp4</video>
+		<releasedate>19900101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Loom (USA).cue</path>
+		<name>Loom</name>
+		<image>./boxart/Loom (USA).png</image>
+		<marquee>./wheel/Loom (USA).png</marquee>
+		<video>./snap/Loom (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Lords of the Rising Sun (USA).cue</path>
+		<name>Lords of the Rising Sun</name>
+		<image>./boxart/Lords of the Rising Sun (USA).png</image>
+		<marquee>./wheel/Lords of the Rising Sun (USA).png</marquee>
+		<video>./snap/Lords of the Rising Sun (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Lords of Thunder (USA).cue</path>
+		<name>Lords of Thunder</name>
+		<desc>Lords of Thunder is a side-scrolling shooter that has you take on the role of a legendary warrior, blasting enemies to heavy-metal tunes. Your enemies are plotting to revive Zaggart, "The Dark One," who was sealed beneath the six continents of Mistral. It's up to Landis, descendant of the heroic Dyu, to stop them.</desc>
+		<image>./boxart/Lords of Thunder (USA).png</image>
+		<marquee>./wheel/Lords of Thunder (USA).png</marquee>
+		<video>./snap/Lords of Thunder (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>RED Entertainment</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Magical Dinosaur Tour (USA).cue</path>
+		<name>Magical Chase</name>
+		<desc>Ripple is a student of magic, and her teacher is a terrifying witch. Ripple is particularly afraid of her teacher right now, because she's just broken a promise she made to the witch: Ripple took a peek inside the forbidden book Sleeping Demons! No sooner had she opened the cover then out jumped six demons, all of which raced away! Unless she can catch all six demons and get them back inside the book, the witch will turn Ripple into a frog for breaking her promise! So Ripple sets off on her quest with her two Elf-Star friends, Topsy and Turvy. Good luck, Ripple!</desc>
+		<image>./boxart/Magical Dinosaur Tour (USA).png</image>
+		<marquee>./wheel/Magical Dinosaur Tour (USA).png</marquee>
+		<video>./snap/Magical Dinosaur Tour (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Quest</developer>
+		<publisher>NEC</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Might and Magic III - Isles of Terra (USA).cue</path>
+		<name>Might and Magic III: Isles of Terra</name>
+		<desc>Emerging from the depths of the nebulous void, there came four lords. To each lord, a dominion: fire, water, air, and earth. But each lord lusted for more - to be the ultimate ruler of the void. The four lords of the elements descended into a hideous conflict that unleashed a raging storm.</desc>
+		<image>./boxart/Might and Magic III - Isles of Terra (USA).png</image>
+		<marquee>./wheel/Might and Magic III - Isles of Terra (USA).png</marquee>
+		<video>./snap/Might and Magic III - Isles of Terra (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>New World Computing</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Prince of Persia (USA).cue</path>
+		<name>Prince of Persia</name>
+		<image>./boxart/Prince of Persia (USA).png</image>
+		<marquee>./wheel/Prince of Persia (USA).png</marquee>
+		<video>./snap/Prince of Persia (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>2</playcount>
+		<lastplayed>20160311T183306</lastplayed>
+	</game>
+	<game>
+		<path>./Riot Zone (USA).cue</path>
+		<name>Riot Zone</name>
+		<desc>Riot Zone is a side-scrolling fighting game that follows two heroes as they fight to take down an evil organization. The crime syndicate Dragon Zone has kidnapped Hawk's girlfriend and it's up to him and his partner detective, Tony, to get her back. Join them as they jump "fists first" into the grim Kowloon district.</desc>
+		<image>./boxart/Riot Zone (USA).png</image>
+		<marquee>./wheel/Riot Zone (USA).png</marquee>
+		<video>./snap/Riot Zone (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Agenda / Hudson Soft</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Shadow of the Beast (USA).cue</path>
+		<name>Shadow of the Beast</name>
+		<desc>Shadow of the Beast is a 2D Platformer game, developed by DMA Design and published by Victor Interactive Software, which was released in 1992.</desc>
+		<image>./boxart/Shadow of the Beast (USA).png</image>
+		<marquee>./wheel/Shadow of the Beast (USA).png</marquee>
+		<video>./snap/Shadow of the Beast (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Shape Shifter (USA).cue</path>
+		<name>Shape Shifter</name>
+		<desc>Far below the three moons that hang in the midnight sky lies the land of Krelion. And the people of this land live in an age of perfect peace and prosperity known as the Age of Light, a time by a band of powerful wizards known as the Ring of Five.
+
+But, on the 11th moon of the Age of Light, a dark wave of evil has begun to sweep across the land, leaving a wide path of destructing in its wake. And the Ring of Five, which has protected Krelion for centuries untold has suddenly vanished from the land. Their fate is left in the unholy hands of three evil beings from the shadow realm known as the Dark Ones.
+
+Now the mid-summer equinox is almost at hand. And with this event, the Dark Ones will shatter the barrier that lies between Krelion and the shadow realm. But there is a single light in the darkness. His name is Lykas and he has the power to change his shape at will. Hopefully, he can save Krelion before it is too late ... before the land is plunged into a dark, eternal nightmare... never to awaken...</desc>
+		<image>./boxart/Shape Shifter (USA).png</image>
+		<marquee>./wheel/Shape Shifter (USA).png</marquee>
+		<video>./snap/Shape Shifter (USA).mp4</video>
+		<releasedate>19920925T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20151024T104934</lastplayed>
+	</game>
+	<game>
+		<path>./Sherlock Holmes Consulting Detective Vol 2 (USA).cue</path>
+		<name>Sherlock Holmes Consulting Detective Vol 2</name>
+		<image>./boxart/Sherlock Holmes Consulting Detective Vol 2 (USA).png</image>
+		<marquee>./wheel/Sherlock Holmes Consulting Detective Vol 2 (USA).png</marquee>
+		<video>./snap/Sherlock Holmes Consulting Detective Vol 2 (USA).mp4</video>
+		<rating>0.4</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>Sega</publisher>
+		<genre>Detective</genre>
+	</game>
+	<game>
+		<path>./Sherlock Holmes Consulting Detective (USA).cue</path>
+		<name>Sherlock Holmes: Consulting Detective</name>
+		<image>./boxart/Sherlock Holmes Consulting Detective (USA).png</image>
+		<marquee>./wheel/Sherlock Holmes Consulting Detective (USA).png</marquee>
+		<video>./snap/Sherlock Holmes Consulting Detective (USA).mp4</video>
+		<rating>0.4</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>Sega</publisher>
+		<genre>Detective</genre>
+	</game>
+	<game>
+		<path>./Sim Earth - The Living Planet (USA).cue</path>
+		<name>SimEarth: The Living Planet</name>
+		<image>./boxart/Sim Earth - The Living Planet (USA).png</image>
+		<marquee>./wheel/Sim Earth - The Living Planet (USA).png</marquee>
+		<video>./snap/Sim Earth - The Living Planet (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Splash Lake (USA).cue</path>
+		<name>Splash Lake</name>
+		<desc>Splash Lake is an action-puzzle game for the TurboGrafx-CD and PC Engine CD-ROM. The player is an ostrich named Ozzie and must walk around a grid, pecking at certain lynchpin areas of the ground in order to collapse parts of the level into the ocean. The goal is to remove all enemies by dropping the ground they're walking on. It is structurally similar to Dig Dug 2.
+
+The game has a multiplayer mode, which allows two players to try to outmaneuver and out-think each other.</desc>
+		<image>./boxart/Splash Lake (USA).png</image>
+		<marquee>./wheel/Splash Lake (USA).png</marquee>
+		<video>./snap/Splash Lake (USA).mp4</video>
+		<rating>0.5</rating>
+		<releasedate>19910628T000000</releasedate>
+		<developer>Bits Laboratory</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Air Zonk (USA).cue</path>
+		<name>Super Air Zonk</name>
+		<desc>Super Air Zonk is an Action game, developed by Dual and published by Hudson, which was released in Japan in 1993.</desc>
+		<image>./boxart/Super Air Zonk (USA).png</image>
+		<marquee>./wheel/Super Air Zonk (USA).png</marquee>
+		<video>./snap/Super Air Zonk (USA).mp4</video>
+		<releasedate>19930730T000000</releasedate>
+		<developer>Dual</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Fantasy Star Soldier (USA).cue</path>
+		<name>Super Star Soldier</name>
+		<desc>The special attack squad, lead by the Mother Brain, has launched an all out invasion on Earth. Take your small-scale fighter, the Neo Caesar, with its arsenal of 4 regular weapons and 2 special weapons, and send them back where they belong! In addition to the Normal Game mode in this vertical-scrolling shooting game, there are 2-minute and 5-minute Time Attack modes and a mode where high-scores can be checked. Normal Game is made up of 8 different stages, and in each stage (except Stage 7), a boss awaits you at the end.</desc>
+		<image>./boxart/Fantasy Star Soldier (USA).png</image>
+		<marquee>./wheel/Fantasy Star Soldier (USA).png</marquee>
+		<video>./snap/Fantasy Star Soldier (USA).mp4</video>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Inter State</developer>
+		<publisher>NEC</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Syd Mead's Terra Forming (USA).cue</path>
+		<name>Syd Mead's Terraforming</name>
+		<image>./boxart/Syd Mead's Terra Forming (USA).png</image>
+		<marquee>./wheel/Syd Mead's Terra Forming (USA).png</marquee>
+		<video>./snap/Syd Mead's Terra Forming (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer />
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Addams Family, The (USA).cue</path>
+		<name>The Addams Family</name>
+		<image>./boxart/Addams Family, The (USA).png</image>
+		<marquee>./wheel/Addams Family, The (USA).png</marquee>
+		<video>./snap/Addams Family, The (USA).mp4</video>
+		<releasedate>19910101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Valis II (USA).cue</path>
+		<name>Valis III</name>
+		<desc>Once again, you must unleash the fury of the legendary Valis sword! Ramses, fiendish lord of the Spirit World, has begun his invasion. As Yuko, you must battle the bloodthirsty forces that world annihilate your people. But this time, you are not alone! You can transform into fierce allies with their own devastating weapons. Attack with the magic of fire, ice and thunder. Then risk death in a duel with Ramses himself, as you uncover his secret plot to possess Valis and rule the universe!</desc>
+		<image>./boxart/Valis II (USA).png</image>
+		<marquee>./wheel/Valis II (USA).png</marquee>
+		<video>./snap/Valis II (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Telenet Japan</developer>
+		<publisher>NEC</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Valis III (USA).cue</path>
+		<name>Valis III</name>
+		<desc>Once again, you must unleash the fury of the legendary Valis sword! Ramses, fiendish lord of the Spirit World, has begun his invasion. As Yuko, you must battle the bloodthirsty forces that world annihilate your people. But this time, you are not alone! You can transform into fierce allies with their own devastating weapons. Attack with the magic of fire, ice and thunder. Then risk death in a duel with Ramses himself, as you uncover his secret plot to possess Valis and rule the universe!</desc>
+		<image>./boxart/Valis III (USA).png</image>
+		<marquee>./wheel/Valis III (USA).png</marquee>
+		<video>./snap/Valis III (USA).mp4</video>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Telenet Japan</developer>
+		<publisher>NEC</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Vasteel (USA).cue</path>
+		<name>Vasteel</name>
+		<desc>The Emperor is dead. Now begins the bloodiest chapter in the history of the Vasteel solar system! Jump right into the action as you choose to play as either Falial, the newly crowned emperor, or his brother Stefan, leader of the rebel army. In addition to a first-of-it's-kind on-line guide that actually speaks to aid you in your weapon's choice, there are over 70 types of armored robots and transports to lead you to victory. Set up the battles on the overhead strategy map, then go in and duke out the actual fight arcade style! Vasteel also offers the option of a 2 player VS mode where you can match wits and arcade skill with a friend.</desc>
+		<image>./boxart/Vasteel (USA).png</image>
+		<marquee>./wheel/Vasteel (USA).png</marquee>
+		<video>./snap/Vasteel (USA).mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Human Entertainment</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Wonder Boy III - Monster Lair (USA).cue</path>
+		<name>Wonder Boy III Monster Lair</name>
+		<desc>Wonder Boy III: Monster Lair is a quite different game to most of the games in the Wonder Boy series. You play a green-haired dude who must attack the invaders that attempt to collect weapons and use them to destroy the land. The game starts out like a simple platform game, but it's just when Wonder Boy enters the skull further on that the game is transformed into a shoot 'em up, so basically the gameplay consists of action and shooter scenes.
+
+In the action scenes, your vitality decreases as you make your way towards the skull, but this can be restored by collecting fruit. A wide variety of weapons can be picked up, and not only does these allow you to use the weapons for a limited amount of time, but they also increase your vitality.
+
+In the shooter scenes, you ride your pink friend as you make your way through the scene. Here, your vitality remains static unless you are hit by an enemy passing by. As usual, there is a boss waiting for you at the end which you must defeat. Every boss changes color to show how much damage has been done to it. You have to defeat some bosses in two stages.
+
+If your vitality gets low in each scene, you'll lose a life. You can also choose to have Wonder Girl join you, as two players can play the game.</desc>
+		<image>./boxart/Wonder Boy III - Monster Lair (USA).png</image>
+		<marquee>./wheel/Wonder Boy III - Monster Lair (USA).png</marquee>
+		<video>./snap/Wonder Boy III - Monster Lair (USA).mp4</video>
+		<rating>0.4</rating>
+		<releasedate>19890801T000000</releasedate>
+		<developer>Westone Co., Ltd.</developer>
+		<publisher>NEC Home Electronics (U.S.A.) Inc.</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Ys III - Wanderers from Ys (USA).cue</path>
+		<name>Ys III: Wanderers from Ys</name>
+		<desc>As Adol, hero of Ys Book I &amp; II, your most fearsome new adventure is about to begin! The curse of the monster Demanicus terrorizes your friend Dogi's homeland. Chaos rules as blood-thirsty creatures threaten innocent lives. Only you have the courage and strength to defeat them! Gather your fiercest swords and deadly amulet to battle these horrific creatures with a thrilling new action view. Survive the fiery depths of Alcaino. Conquer the terrifying Nekevil. But stay alert, brave Adol! The fury of Demanicus awaits your final epic struggle!</desc>
+		<image>./boxart/Ys III - Wanderers from Ys (USA).png</image>
+		<marquee>./wheel/Ys III - Wanderers from Ys (USA).png</marquee>
+		<video>./snap/Ys III - Wanderers from Ys (USA).mp4</video>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Bonk 3 - Bonk's Big Adventure (USA).cue</path>
+		<name>Bonk 3: Bonk's Big Adventure (Turbo Chip)</name>
+		<desc>Bonk's Big Adventure is the third instalment in the side-scrolling platformer series. As in previous games, the player assumes the role of a caveman named Bonk who headbutts his way through various enemies in order to defeat King Drool. Familiar moves include swinging on trees, bouncing off walls, breaking blocks and climbing walls with his teeth. Compared to the previous games, he walks and moves a little faster.</desc>
+		<image>./boxart/Bonk 3 - Bonk's Big Adventure (USA).png</image>
+		<video>./snap/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
+		<marquee>./wheel/Bonk 3 - Bonk's Big Adventure (USA).png</marquee>
+		<releasedate>19930402T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>NEC</publisher>
+		<genre>Platform</genre>
+		<playcount>2</playcount>
+		<lastplayed>20180312T163248</lastplayed>
+	</game>
+	<game>
+		<path>./Buster Bros. (USA).cue</path>
+		<name>Buster Bros.</name>
+		<desc>Your goal is to destroy the balloons which bounce around the playfield. To accomplish this, you can shoot hooks which travel upwards, and blow up any balloon they touch. Depending on their size, they either split on two smaller ones, or evaporate if they're at their minimum size. Apart from balloons, some levels also have barriers that have to be destroyed with your hooks, since they often block your access to balloons. There are also some barriers which cannot ever be destroyed. Your character has the ability to climb ladders, but cannot jump.</desc>
+		<image>./boxart/Buster Bros. (USA).png</image>
+		<video>./snap/Buster Bros. (USA).mp4</video>
+		<marquee>./wheel/Buster Bros. (USA).png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre></genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20180312T163341</lastplayed>
+	</game>
+	<game>
+		<path>./Dungeon Master - Theron's Quest (USA).cue</path>
+		<name>Dungeon Master: Theron's Quest</name>
+		<desc>Terrifyingly brutal beasts! Monstrous mazes! Treacherous pits of evil! The adventure of a lifetime is here....Theron's Quest!!
+
+The Monastery at Ya-Brodin has fallen to the Cult of Deaths and the Brotherhood of Enlightenment, the true keepers of Magic, have been slaughtered. The Seven Great Treasures now lie in the hands of foul beings who will stop at nothing to hold onto their massive powers. But Theron, with a courage beyond belief, has decided to seek out the Cult of Deaths and win back the Treasures. If he succeeds, he will become a High Lord. If not, the land will see eternal darkness.</desc>
+		<image>./boxart/Dungeon Master - Theron's Quest (USA).png</image>
+		<video>./snap/Dungeon Master - Theron's Quest (USA).mp4</video>
+		<marquee>./wheel/Dungeon Master - Theron's Quest (USA).png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Victor Entertainment, Inc.</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>2</playcount>
+		<lastplayed>20180312T163409</lastplayed>
+	</game>
+	<game>
+		<path>./Ys Book I &amp; II - Ancient Ys Vanished (USA).cue</path>
+		<name>Ys Book I &amp; II</name>
+		<desc>Journey through the Ancient Land of Ys, a once peaceful and prosperous country suddenly thrust deep into an empty abyss of isolation. The secret to restoring peace rests in the six books of the wise priests. 700 years have passed, and now you have a chance to unlock the mystery. Stunning graphics, intense stereo sound and profound gameplay make this a CD adventure you'll never forget ... and may never return from.</desc>
+		<image>./boxart/Ys Book I &amp; II - Ancient Ys Vanished (USA).png</image>
+		<video>./snap/Ys Book I &amp; II - Ancient Ys Vanished (USA).mp4</video>
+		<marquee>./wheel/Ys Book I &amp; II - Ancient Ys Vanished (USA).png</marquee>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>2</playcount>
+		<lastplayed>20180312T163450</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.video.AtTheFlix</defaultID>
+		<label>[COLOR teal]At The Flix[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.AtTheFlix/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.AtTheFlix",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.deceit</defaultID>
+		<label>[COLOR gray]Deceit[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.deceit/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.deceit",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.ATOMREBORN</defaultID>
+		<label>[COLOR teal]Atom Reborn[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.ATOMREBORN/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ATOMREBORN",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.monstermunch</defaultID>
+		<label>[COLOR gray]Monster munch[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.monstermunch/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.monstermunch",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.wolfpack</defaultID>
+		<label>[COLOR teal]Wolf Pack[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.wolfpack/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.wolfpack",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.supremacy</defaultID>
+		<label>[COLOR gray]supremacy[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.supremacy/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.supremacy",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.Atriox</defaultID>
+		<label>[COLOR teal]Atriox[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.Atriox/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Atriox",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.themagicdragon</defaultID>
+		<label>[COLOR gray]The Magic Dragon[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.themagicdragon/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.themagicdragon",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.metalliq-forqed</defaultID>
+		<label>[COLOR teal]MetalliQ 4Qed[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.metalliq-forqed/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.metalliq-forqed",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.MaverickTV</defaultID>
+		<label>[COLOR gray]Maverick TV[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.MaverickTV/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.MaverickTV",return)</action>
+	</shortcut>
+</shortcuts>

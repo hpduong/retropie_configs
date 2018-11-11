@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <gameList>
+      <game id="11111" source="theGamesDB.net">
+          <path>./Chromium.sh</path>
+          <name>Chromium</name>
+          <desc>Chromium the best way to explore the web.</desc>
+          <image>./boxart/Chromium.png</image>
+          <marquee>./wheel/Chromium.png</marquee>
+          <video>./snap/Chromium.mp4</video>
+          <releasedate></releasedate>
+          <developer>Chromium</developer>
+          <publisher>Chromium</publisher>
+          <genre>Media</genre>
+          <players>1</players>
+      </game>
+  </gameList>

@@ -1,0 +1,976 @@
+[2018-05-08 00:14:46] 2018-05-08 00:14:46.515587
+[2018-05-08 00:14:47] Continuing Start Up Script
+[2018-05-08 00:14:47] [Path Check] Started
+[2018-05-08 00:14:47] [Path Check] Good!
+[2018-05-08 00:14:47] [Auto Install Repo] Started
+[2018-05-08 00:14:47] [Auto Install Repo] Not Enabled
+[2018-05-08 00:14:47] [Auto Update Wizard] Started
+[2018-05-08 00:14:47] 2018-05-08 00:14:47.647896
+[2018-05-08 00:14:48] Continuing Start Up Script
+[2018-05-08 00:14:48] [Path Check] Started
+[2018-05-08 00:14:48] [Path Check] Good!
+[2018-05-08 00:14:48] [Auto Install Repo] Started
+[2018-05-08 00:14:48] [Auto Install Repo] Not Enabled
+[2018-05-08 00:14:48] [Auto Update Wizard] Started
+[2018-05-08 00:14:49] [Auto Update Wizard] No New Version v2.5
+[2018-05-08 00:14:49] [Notifications] Started
+[2018-05-08 00:14:50] [Notifications] id: 9
+[2018-05-08 00:14:50] [Auto Update Wizard] No New Version v2.5
+[2018-05-08 00:14:50] [Notifications] Started
+[2018-05-08 00:14:51] [Notifications] id: 9
+[2018-05-08 00:15:07] [Notification] NotifyID 9 Dismissed
+[2018-05-08 00:15:07] [Notifications] Complete
+[2018-05-08 00:15:07] [Installed Check] Started
+[2018-05-08 00:15:07] [Installed Check] Not Enabled
+[2018-05-08 00:15:07] [Build Check] Started
+[2018-05-08 00:15:07] [Build Check] First Run
+[2018-05-08 00:15:21] [Check Updates] [User Selected: Open Build Menu] [Next Check: 2018-05-08]
+[2018-05-08 00:15:21] [Trakt Data] Started
+[2018-05-08 00:15:21] [Trakt Data] Not Enabled
+[2018-05-08 00:15:21] [Real Debrid Data] Started
+[2018-05-08 00:15:21] [Real Debrid Data] Not Enabled
+[2018-05-08 00:15:21] [Login Data] Started
+[2018-05-08 00:15:21] [Login Data] Not Enabled
+[2018-05-08 00:15:21] [Auto Clean Up] Started
+[2018-05-08 00:15:21] [Auto Clean Up] Cache: On
+[2018-05-08 00:15:21] Ignore Log File: kodi.log
+[2018-05-08 00:15:21] [Success] cleared 1 files from /home/pi/.kodi/temp/temp
+[2018-05-08 00:15:21] [Auto Clean Up] Old Thumbs: On
+[2018-05-08 00:15:21] 0 total thumbs cleaned up.
+[2018-05-08 00:15:22] [Auto Clean Up] Packages: On
+[2018-05-08 00:15:24] [ Version : '2.5' ] [ Mode : 'builds' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-05-08 00:16:03] [Notification] NotifyID 9 Dismissed
+[2018-05-08 00:16:03] [Notifications] Complete
+[2018-05-08 00:16:03] [Installed Check] Started
+[2018-05-08 00:16:03] [Installed Check] Not Enabled
+[2018-05-08 00:16:03] [Build Check] Started
+[2018-05-08 00:16:03] [Build Check] First Run
+[2018-05-08 00:16:11] [First Run] [User Selected: Ignore Build Menu] [Next Check: 2018-05-08]
+[2018-05-08 00:16:12] [Trakt Data] Started
+[2018-05-08 00:16:12] [Trakt Data] Not Enabled
+[2018-05-08 00:16:12] [Real Debrid Data] Started
+[2018-05-08 00:16:12] [Real Debrid Data] Not Enabled
+[2018-05-08 00:16:12] [Login Data] Started
+[2018-05-08 00:16:12] [Login Data] Not Enabled
+[2018-05-08 00:16:12] [Auto Clean Up] Started
+[2018-05-08 00:16:12] [Auto Clean Up] Cache: On
+[2018-05-08 00:16:12] Ignore Log File: kodi.log
+[2018-05-08 00:16:12] [Auto Clean Up] Old Thumbs: On
+[2018-05-08 00:16:12] 0 total thumbs cleaned up.
+[2018-05-08 00:16:12] [Auto Clean Up] Packages: On
+[2018-05-08 00:16:49] [ Version : '2.5' ] [ Mode : 'togglesetting' ] [ Name : 'show17' ] [ Url : 'None' ]
+[2018-05-08 00:16:51] [ Version : '2.5' ] [ Mode : 'builds' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-05-08 00:17:06] [ Version : '2.5' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-05-08 00:17:19] [ Version : '2.5' ] [ Mode : 'builds' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-05-08 00:17:28] [ Version : '2.5' ] [ Mode : 'togglesetting' ] [ Name : 'show17' ] [ Url : 'None' ]
+[2018-05-08 00:17:31] [ Version : '2.5' ] [ Mode : 'builds' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-05-08 00:17:55] [ Version : '2.5' ] [ Mode : 'togglesetting' ] [ Name : 'show17' ] [ Url : 'None' ]
+[2018-05-08 00:17:58] [ Version : '2.5' ] [ Mode : 'builds' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-05-08 00:18:04] [ Version : '2.5' ] [ Mode : 'togglesetting' ] [ Name : 'show17' ] [ Url : 'None' ]
+[2018-05-08 00:18:06] [ Version : '2.5' ] [ Mode : 'builds' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-05-08 00:18:13] [ Version : '2.5' ] [ Mode : 'viewbuild' ] [ Name : 'Kodi World' ] [ Url : 'None' ]
+[2018-05-08 00:18:27] [ Version : '2.5' ] [ Mode : 'install' ] [ Name : 'Kodi World' ] [ Url : 'fresh' ]
+[2018-05-08 00:18:34] Ignoring Addons27.db on v17.6
+[2018-05-08 00:18:34] Keep Log File: kodi.log
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/credits.txt
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/startup.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/addon.xml
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/fanart.jpg
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/LICENSE
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/tempaddon.xml
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/LogViewer.xml
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Textbox.xml
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Contact.xml
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/FirstRunSaveData.xml
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/APK.xml
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Notifications.xml
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/loguploader.xml
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/BuildUpdate.xml
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/FirstRunBuild.xml
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/MenuItemNF.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/MenuItemFO.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/radiobutton-focus.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/radiobutton-nofocus.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/spmc.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/bgg2.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-black.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/ContentPanel.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-white.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/dialogheader.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-dialog-bg.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V-focus.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-fo.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/DialogCloseButton.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-nofo.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/KeyboardKey.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/testbuttonnf.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/DialogCloseButton-focus.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V-background.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/testbuttonfo.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/button-focus_lightblue.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/button-focus_grey.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/KeyboardKeyNF.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/osd_slider_nib.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/osd_slider_nibNF.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/slider1.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/__init__.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/settings.xml
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/art/
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/art/fanart.jpg
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/art/ContentPanel.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/debridit.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/yt.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/skinSwitch.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/extract.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/__init__.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/uploadLog.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/wizard.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/notify.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/loginit.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/traktit.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/downloader.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/__init__.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/extract.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/wizard.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/downloader.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/skinSwitch.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/notify.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/loginit.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/debridit.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/traktit.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/uploadLog.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/libs/yt.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/resources/__init__.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/pyqrcode/
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/pyqrcode/png.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/pyqrcode/__init__.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/pyqrcode/builder.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/pyqrcode/tables.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/pyqrcode/__init__.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/pyqrcode/tables.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/pyqrcode/builder.pyo
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/uservar.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/changelog.txt
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/default.py
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/icon.png
+[2018-05-08 00:22:34] Skipping: addons/plugin.program.luxurywizard/uservar.pyo
+[2018-05-08 00:22:42] Skipping: addons/repository.zt/Thumbs.db
+[2018-05-08 00:22:42] Skipping: addons/repository.AtomReborn/Thumbs.db
+[2018-05-08 00:22:44] Skipping: addons/plugin.video.SportsDevil/.gitignore
+[2018-05-08 00:22:53] Skipping: addons/script.module.urlresolver/.gitignore
+[2018-05-08 00:23:01] Skipping: addons/repository.csaints/Thumbs.db
+[2018-05-08 00:23:38] Skipping: addons/repository.bookmark/Thumbs.db
+[2018-05-08 00:23:41] Skipping: addons/script.module.universalscrapers/.DS_Store
+[2018-05-08 00:23:41] Skipping: addons/script.module.universalscrapers/lib/.DS_Store
+[2018-05-08 00:23:41] Skipping: addons/script.module.universalscrapers/lib/universalscrapers/.DS_Store
+[2018-05-08 00:23:42] Skipping: addons/script.numbers.artwork/resources/media/.DS_Store
+[2018-05-08 00:23:45] Skipping: addons/script.module.ATFlive/Thumbs.db
+[2018-05-08 00:23:45] Skipping: addons/repository.Cypherslocker/Thumbs.db
+[2018-05-08 00:23:47] Skipping: userdata/addon_data/script.module.metahandler/meta_cache/video_cache.db
+[2018-05-08 00:23:47] Skipping: userdata/addon_data/plugin.program.luxurywizard/
+[2018-05-08 00:23:47] Skipping: userdata/addon_data/plugin.program.luxurywizard/wizard.log
+[2018-05-08 00:23:47] Skipping: userdata/addon_data/plugin.program.luxurywizard/settings.xml
+[2018-05-08 00:23:48] lookandfeel.enablerssfeeds saved to false
+[2018-05-08 00:23:48] lookandfeel.font saved to "Default"
+[2018-05-08 00:23:48] lookandfeel.rssedit saved to ""
+[2018-05-08 00:23:48] lookandfeel.skincolors saved to "SKINDEFAULT"
+[2018-05-08 00:23:48] lookandfeel.skintheme saved to "SKINDEFAULT"
+[2018-05-08 00:23:48] lookandfeel.skinzoom saved to 0
+[2018-05-08 00:23:48] lookandfeel.soundskin saved to "resource.uisounds.kodi"
+[2018-05-08 00:23:48] lookandfeel.startupwindow saved to 10000
+[2018-05-08 00:23:48] lookandfeel.stereostrength saved to 5
+[2018-05-08 00:23:48] [Default Skin Check]
+[2018-05-08 00:23:48] Reading gui file: /home/pi/.kodi/userdata/guisettings.xml
+[2018-05-08 00:23:48] Opening gui settings
+[2018-05-08 00:23:48] Matches: ['skin.konfluence']
+[2018-05-08 00:23:48] [Default Skin Check] Skin name: Kodiworld
+[2018-05-08 00:23:48] [Default Skin Check] Skin id: skin.konfluence
+[2018-05-08 00:23:48] [Default Skin Check] End
+[2018-05-08 00:23:50] INSTALLED 100: [ERRORS:0]
+[2018-05-08 00:23:51] Updated plugin.program.luxurywizard in db
+[2018-05-08 00:23:58] Force Closing Kodi: Platform[linux]
+[2018-05-08 00:25:34] 2018-05-08 00:25:34.186779
+[2018-05-08 00:25:35] Continuing Start Up Script
+[2018-05-08 00:25:35] [Path Check] Started
+[2018-05-08 00:25:35] [Path Check] Good!
+[2018-05-08 00:25:35] [Auto Install Repo] Started
+[2018-05-08 00:25:35] [Auto Install Repo] Not Enabled
+[2018-05-08 00:25:35] [Auto Update Wizard] Started
+[2018-05-08 00:25:39] [Auto Update Wizard] No New Version v2.5
+[2018-05-08 00:25:39] [Notifications] Started
+[2018-05-08 00:25:42] [Notifications] id[9] Dismissed
+[2018-05-08 00:25:42] [Installed Check] Started
+[2018-05-08 00:25:54] [Trakt Data] Started
+[2018-05-08 00:25:54] [Trakt Data] Not Enabled
+[2018-05-08 00:25:55] [Real Debrid Data] Started
+[2018-05-08 00:25:55] [Real Debrid Data] Not Enabled
+[2018-05-08 00:25:55] [Login Data] Started
+[2018-05-08 00:25:55] [Login Data] Not Enabled
+[2018-05-08 00:25:55] [Auto Clean Up] Started
+[2018-05-08 00:25:55] [Auto Clean Up] Cache: On
+[2018-05-08 00:25:57] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-05-08 00:25:57] [Success] wiped /home/pi/.kodi/userdata/addon_data/plugin.video.transistortv/cache 
+[2018-05-08 00:26:00] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.resolveurl/cache 
+[2018-05-08 00:26:00] Ignore Log File: kodi.log
+[2018-05-08 00:26:00] [Wiped] /home/pi/.kodi/temp/commoncache.socket
+[2018-05-08 00:26:00] Ignore Log File: kodi.old.log
+[2018-05-08 00:26:00] [Wiped] /home/pi/.kodi/temp/commoncache.db
+[2018-05-08 00:26:00] [Success] cleared 4 files from /home/pi/.kodi/temp/temp
+[2018-05-08 00:26:00] [Auto Clean Up] Old Thumbs: On
+[2018-05-08 00:26:01] 3 total thumbs cleaned up.
+[2018-05-08 00:26:02] [Auto Clean Up] Packages: On
+[2018-05-08 00:36:21] 2018-05-08 00:36:21.440895
+[2018-05-08 00:36:22] Continuing Start Up Script
+[2018-05-08 00:36:22] [Path Check] Started
+[2018-05-08 00:36:22] [Path Check] Good!
+[2018-05-08 00:36:22] [Auto Install Repo] Started
+[2018-05-08 00:36:22] [Auto Install Repo] Not Enabled
+[2018-05-08 00:36:22] [Auto Update Wizard] Started
+[2018-05-08 00:36:25] [Auto Update Wizard] No New Version v2.5
+[2018-05-08 00:36:25] [Notifications] Started
+[2018-05-08 00:36:26] [Notifications] id[9] Dismissed
+[2018-05-08 00:36:26] [Installed Check] Started
+[2018-05-08 00:36:26] [Installed Check] Not Enabled
+[2018-05-08 00:36:26] [Build Check] Started
+[2018-05-08 00:36:26] [Build Check] Build Installed
+[2018-05-08 00:36:26] [Build Check] Build Installed: Checking Updates
+[2018-05-08 00:36:26] [Check Updates] [Installed Version: 1.7.6] [Current Version: 1.7.6]
+[2018-05-08 00:36:26] [Trakt Data] Started
+[2018-05-08 00:36:26] [Trakt Data] Not Enabled
+[2018-05-08 00:36:26] [Real Debrid Data] Started
+[2018-05-08 00:36:26] [Real Debrid Data] Not Enabled
+[2018-05-08 00:36:26] [Login Data] Started
+[2018-05-08 00:36:26] [Login Data] Not Enabled
+[2018-05-08 00:36:26] [Auto Clean Up] Started
+[2018-05-08 00:36:26] [Auto Clean Up] Cache: On
+[2018-05-08 00:36:26] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-05-08 00:36:26] [Success] wiped /home/pi/.kodi/userdata/addon_data/plugin.video.transistortv/cache 
+[2018-05-08 00:36:26] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.resolveurl/cache 
+[2018-05-08 00:36:26] Ignore Log File: kodi.log
+[2018-05-08 00:36:26] [Wiped] /home/pi/.kodi/temp/commoncache.socket
+[2018-05-08 00:36:26] Ignore Log File: kodi.old.log
+[2018-05-08 00:36:26] [Wiped] /home/pi/.kodi/temp/commoncache.db
+[2018-05-08 00:36:26] [Success] cleared 4 files from /home/pi/.kodi/temp/temp
+[2018-05-08 00:36:26] [Auto Clean Up] Old Thumbs: On
+[2018-05-08 00:36:26] 0 total thumbs cleaned up.
+[2018-05-08 00:36:26] [Auto Clean Up] Packages: On
+[2018-05-10 14:41:44] 2018-05-10 14:41:43.947124
+[2018-05-10 14:41:45] Continuing Start Up Script
+[2018-05-10 14:41:45] [Path Check] Started
+[2018-05-10 14:41:45] [Path Check] Good!
+[2018-05-10 14:41:45] [Auto Install Repo] Started
+[2018-05-10 14:41:45] [Auto Install Repo] Not Enabled
+[2018-05-10 14:41:45] [Auto Update Wizard] Started
+[2018-05-10 14:41:48] [Auto Update Wizard] No New Version v2.5
+[2018-05-10 14:41:48] [Notifications] Started
+[2018-05-10 14:41:49] [Notifications] id: 10
+[2018-05-10 14:42:00] [Notification] NotifyID 10 Dismissed
+[2018-05-10 14:42:00] [Notifications] Complete
+[2018-05-10 14:42:00] [Installed Check] Started
+[2018-05-10 14:42:00] [Installed Check] Not Enabled
+[2018-05-10 14:42:00] [Build Check] Started
+[2018-05-10 14:42:00] [Build Check] Build Installed
+[2018-05-10 14:42:00] [Build Check] Build Installed: Checking Updates
+[2018-05-10 14:42:00] [Check Updates] [Installed Version: 1.7.6] [Current Version: 1.7.7] Opening Update Window
+[2018-05-10 14:42:13] [Check Updates] [Installed Version: 1.7.6] [Current Version: 1.7.7] [User Selected: Fresh Install build]
+[2018-05-10 14:42:13] [Check Updates] [Next Check: 2018-05-10]
+[2018-05-10 14:42:13] [Trakt Data] Started
+[2018-05-10 14:42:13] [Trakt Data] Not Enabled
+[2018-05-10 14:42:13] [Real Debrid Data] Started
+[2018-05-10 14:42:13] [Real Debrid Data] Not Enabled
+[2018-05-10 14:42:13] [Login Data] Started
+[2018-05-10 14:42:13] [Login Data] Not Enabled
+[2018-05-10 14:42:13] [Auto Clean Up] Started
+[2018-05-10 14:42:13] [Auto Clean Up] Cache: On
+[2018-05-10 14:42:15] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-05-10 14:42:15] [Success] wiped /home/pi/.kodi/userdata/addon_data/plugin.video.transistortv/cache 
+[2018-05-10 14:42:15] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.resolveurl/cache 
+[2018-05-10 14:42:15] Ignore Log File: kodi.log
+[2018-05-10 14:42:15] [Wiped] /home/pi/.kodi/temp/commoncache.socket
+[2018-05-10 14:42:15] Ignore Log File: kodi.old.log
+[2018-05-10 14:42:15] [Wiped] /home/pi/.kodi/temp/commoncache.db
+[2018-05-10 14:42:15] [Success] cleared 4 files from /home/pi/.kodi/temp/temp
+[2018-05-10 14:42:15] [Auto Clean Up] Old Thumbs: On
+[2018-05-10 14:42:16] [ Version : '2.5' ] [ Mode : 'install' ] [ Name : 'Kodi World' ] [ Url : 'fresh' ]
+[2018-05-10 14:42:16] 120 total thumbs cleaned up.
+[2018-05-10 14:42:16] [Auto Clean Up] Packages: On
+[2018-05-10 14:42:32] Ignoring Addons27.db on v17.6
+[2018-05-10 14:42:32] Keep Log File: kodi.log
+[2018-05-10 14:42:32] Keep Log File: kodi.old.log
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/credits.txt
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/startup.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/addon.xml
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/fanart.jpg
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/LICENSE
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/tempaddon.xml
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/LogViewer.xml
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Textbox.xml
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Contact.xml
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/FirstRunSaveData.xml
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/APK.xml
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Notifications.xml
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/loguploader.xml
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/BuildUpdate.xml
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/FirstRunBuild.xml
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/MenuItemNF.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/MenuItemFO.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/radiobutton-focus.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/radiobutton-nofocus.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/spmc.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/bgg2.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-black.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/ContentPanel.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-white.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/dialogheader.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-dialog-bg.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V-focus.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-fo.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/DialogCloseButton.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-nofo.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/KeyboardKey.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/testbuttonnf.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/DialogCloseButton-focus.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V-background.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/testbuttonfo.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/button-focus_lightblue.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/button-focus_grey.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/KeyboardKeyNF.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/osd_slider_nib.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/osd_slider_nibNF.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/slider1.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/__init__.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/settings.xml
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/art/
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/art/fanart.jpg
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/art/ContentPanel.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/debridit.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/yt.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/skinSwitch.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/extract.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/__init__.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/uploadLog.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/wizard.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/notify.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/loginit.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/traktit.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/downloader.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/__init__.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/extract.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/wizard.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/downloader.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/skinSwitch.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/notify.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/loginit.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/debridit.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/traktit.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/uploadLog.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/libs/yt.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/resources/__init__.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/pyqrcode/
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/pyqrcode/png.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/pyqrcode/__init__.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/pyqrcode/builder.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/pyqrcode/tables.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/pyqrcode/__init__.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/pyqrcode/tables.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/pyqrcode/builder.pyo
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/uservar.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/changelog.txt
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/default.py
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/icon.png
+[2018-05-10 14:45:51] Skipping: addons/plugin.program.luxurywizard/uservar.pyo
+[2018-05-10 14:46:03] Skipping: addons/repository.zt/Thumbs.db
+[2018-05-10 14:46:04] Skipping: addons/repository.AtomReborn/Thumbs.db
+[2018-05-10 14:46:07] Skipping: addons/plugin.video.SportsDevil/.gitignore
+[2018-05-10 14:46:13] Skipping: addons/script.module.urlresolver/.gitignore
+[2018-05-10 14:46:16] Skipping: addons/repository.csaints/Thumbs.db
+[2018-05-10 14:46:56] Skipping: addons/repository.bookmark/Thumbs.db
+[2018-05-10 14:47:00] Skipping: addons/script.module.universalscrapers/.DS_Store
+[2018-05-10 14:47:00] Skipping: addons/script.module.universalscrapers/lib/.DS_Store
+[2018-05-10 14:47:00] Skipping: addons/script.module.universalscrapers/lib/universalscrapers/.DS_Store
+[2018-05-10 14:47:05] Skipping: addons/script.numbers.artwork/resources/media/.DS_Store
+[2018-05-10 14:47:06] Skipping: addons/script.module.ATFlive/Thumbs.db
+[2018-05-10 14:47:06] Skipping: addons/repository.Cypherslocker/Thumbs.db
+[2018-05-10 14:47:09] Skipping: userdata/addon_data/script.module.metahandler/meta_cache/video_cache.db
+[2018-05-10 14:47:09] Skipping: userdata/addon_data/plugin.program.luxurywizard/
+[2018-05-10 14:47:09] Skipping: userdata/addon_data/plugin.program.luxurywizard/wizard.log
+[2018-05-10 14:47:09] Skipping: userdata/addon_data/plugin.program.luxurywizard/settings.xml
+[2018-05-10 14:47:09] lookandfeel.enablerssfeeds saved to false
+[2018-05-10 14:47:09] lookandfeel.font saved to "Default"
+[2018-05-10 14:47:09] lookandfeel.rssedit saved to ""
+[2018-05-10 14:47:09] lookandfeel.skincolors saved to "SKINDEFAULT"
+[2018-05-10 14:47:09] lookandfeel.skintheme saved to "SKINDEFAULT"
+[2018-05-10 14:47:09] lookandfeel.skinzoom saved to 0
+[2018-05-10 14:47:09] lookandfeel.soundskin saved to "resource.uisounds.kodi"
+[2018-05-10 14:47:09] lookandfeel.startupwindow saved to 10000
+[2018-05-10 14:47:10] lookandfeel.stereostrength saved to 5
+[2018-05-10 14:47:10] [Default Skin Check]
+[2018-05-10 14:47:10] Reading gui file: /home/pi/.kodi/userdata/guisettings.xml
+[2018-05-10 14:47:10] Opening gui settings
+[2018-05-10 14:47:10] Matches: ['skin.konfluence']
+[2018-05-10 14:47:10] [Default Skin Check] Skin name: Kodiworld
+[2018-05-10 14:47:10] [Default Skin Check] Skin id: skin.konfluence
+[2018-05-10 14:47:10] [Default Skin Check] End
+[2018-05-10 14:47:12] INSTALLED 100: [ERRORS:0]
+[2018-05-10 14:47:13] Updated plugin.program.luxurywizard in db
+[2018-05-10 14:47:35] Force Closing Kodi: Platform[linux]
+[2018-05-10 14:49:02] 2018-05-10 14:49:02.358675
+[2018-05-10 14:49:03] Continuing Start Up Script
+[2018-05-10 14:49:03] [Path Check] Started
+[2018-05-10 14:49:03] [Path Check] Good!
+[2018-05-10 14:49:04] [Auto Install Repo] Started
+[2018-05-10 14:49:04] [Auto Install Repo] Not Enabled
+[2018-05-10 14:49:04] [Auto Update Wizard] Started
+[2018-05-10 14:49:08] [Auto Update Wizard] No New Version v2.5
+[2018-05-10 14:49:08] [Notifications] Started
+[2018-05-10 14:49:09] [Notifications] id[10] Dismissed
+[2018-05-10 14:49:09] [Installed Check] Started
+[2018-05-10 14:49:26] [Trakt Data] Started
+[2018-05-10 14:49:26] [Trakt Data] Not Enabled
+[2018-05-10 14:49:26] [Real Debrid Data] Started
+[2018-05-10 14:49:26] [Real Debrid Data] Not Enabled
+[2018-05-10 14:49:27] [Login Data] Started
+[2018-05-10 14:49:27] [Login Data] Not Enabled
+[2018-05-10 14:49:27] [Auto Clean Up] Started
+[2018-05-10 14:49:27] [Auto Clean Up] Cache: On
+[2018-05-10 14:49:31] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-05-10 14:49:33] [Success] wiped /home/pi/.kodi/userdata/addon_data/plugin.video.transistortv/cache 
+[2018-05-10 14:49:35] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.resolveurl/cache 
+[2018-05-10 14:49:35] Ignore Log File: kodi.log
+[2018-05-10 14:49:35] [Wiped] /home/pi/.kodi/temp/commoncache.socket
+[2018-05-10 14:49:35] Ignore Log File: kodi.old.log
+[2018-05-10 14:49:35] [Wiped] /home/pi/.kodi/temp/commoncache.db
+[2018-05-10 14:49:35] [Success] cleared 4 files from /home/pi/.kodi/temp/temp
+[2018-05-10 14:49:35] [Auto Clean Up] Old Thumbs: On
+[2018-05-10 14:49:36] 116 total thumbs cleaned up.
+[2018-05-10 14:49:37] [Auto Clean Up] Packages: On
+[2018-05-13 13:09:45] 2018-05-13 13:09:44.740374
+[2018-05-13 13:09:46] Continuing Start Up Script
+[2018-05-13 13:09:46] [Path Check] Started
+[2018-05-13 13:09:46] [Path Check] Good!
+[2018-05-13 13:09:46] [Auto Install Repo] Started
+[2018-05-13 13:09:46] [Auto Install Repo] Not Enabled
+[2018-05-13 13:09:46] [Auto Update Wizard] Started
+[2018-05-13 13:09:50] [Auto Update Wizard] No New Version v2.5
+[2018-05-13 13:09:50] [Notifications] Started
+[2018-05-13 13:09:52] [Notifications] id: 13
+[2018-05-13 13:10:06] [Notification] NotifyID 13 Dismissed
+[2018-05-13 13:10:06] [Notifications] Complete
+[2018-05-13 13:10:06] [Installed Check] Started
+[2018-05-13 13:10:06] [Installed Check] Not Enabled
+[2018-05-13 13:10:06] [Build Check] Started
+[2018-05-13 13:10:06] [Build Check] Build Installed
+[2018-05-13 13:10:06] [Build Check] Build Installed: Checking Updates
+[2018-05-13 13:10:07] [Check Updates] [Installed Version: 1.7.7] [Current Version: 1.7.9] Opening Update Window
+[2018-05-13 13:10:20] [Check Updates] [Installed Version: 1.7.7] [Current Version: 1.7.9] [User Selected: Fresh Install build]
+[2018-05-13 13:10:21] [Check Updates] [Next Check: 2018-05-13]
+[2018-05-13 13:10:21] [Trakt Data] Started
+[2018-05-13 13:10:21] [Trakt Data] Not Enabled
+[2018-05-13 13:10:21] [Real Debrid Data] Started
+[2018-05-13 13:10:21] [Real Debrid Data] Not Enabled
+[2018-05-13 13:10:21] [Login Data] Started
+[2018-05-13 13:10:21] [Login Data] Not Enabled
+[2018-05-13 13:10:21] [Auto Clean Up] Started
+[2018-05-13 13:10:21] [Auto Clean Up] Cache: On
+[2018-05-13 13:10:22] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-05-13 13:10:30] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.resolveurl/cache 
+[2018-05-13 13:10:30] Ignore Log File: kodi.log
+[2018-05-13 13:10:30] [Wiped] /home/pi/.kodi/temp/commoncache.socket
+[2018-05-13 13:10:30] Ignore Log File: kodi.old.log
+[2018-05-13 13:10:30] [Wiped] /home/pi/.kodi/temp/commoncache.db
+[2018-05-13 13:10:30] [Success] cleared 4 files from /home/pi/.kodi/temp/temp
+[2018-05-13 13:10:30] [Auto Clean Up] Old Thumbs: On
+[2018-05-13 13:10:34] 963 total thumbs cleaned up.
+[2018-05-13 13:10:36] [ Version : '2.5' ] [ Mode : 'install' ] [ Name : 'Kodi World' ] [ Url : 'fresh' ]
+[2018-05-13 13:10:43] [Auto Clean Up] Packages: On
+[2018-05-13 13:11:23] Ignoring Addons27.db on v17.6
+[2018-05-13 13:11:24] Keep Log File: kodi.log
+[2018-05-13 13:11:24] Keep Log File: kodi.old.log
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/credits.txt
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/startup.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/addon.xml
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/fanart.jpg
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/LICENSE
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/tempaddon.xml
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/LogViewer.xml
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Textbox.xml
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Contact.xml
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/FirstRunSaveData.xml
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/APK.xml
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Notifications.xml
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/loguploader.xml
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/BuildUpdate.xml
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/FirstRunBuild.xml
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/MenuItemNF.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/MenuItemFO.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/radiobutton-focus.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/radiobutton-nofocus.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/spmc.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/bgg2.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-black.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/ContentPanel.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-white.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/dialogheader.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-dialog-bg.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V-focus.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-fo.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/DialogCloseButton.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-nofo.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/KeyboardKey.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/testbuttonnf.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/DialogCloseButton-focus.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V-background.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/testbuttonfo.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/button-focus_lightblue.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/button-focus_grey.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/KeyboardKeyNF.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/osd_slider_nib.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/osd_slider_nibNF.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/slider1.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/__init__.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/settings.xml
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/art/
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/art/fanart.jpg
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/art/ContentPanel.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/debridit.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/yt.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/skinSwitch.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/extract.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/__init__.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/uploadLog.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/wizard.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/notify.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/loginit.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/traktit.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/downloader.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/__init__.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/extract.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/wizard.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/downloader.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/skinSwitch.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/notify.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/loginit.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/debridit.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/traktit.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/uploadLog.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/libs/yt.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/resources/__init__.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/pyqrcode/
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/pyqrcode/png.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/pyqrcode/__init__.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/pyqrcode/builder.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/pyqrcode/tables.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/pyqrcode/__init__.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/pyqrcode/tables.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/pyqrcode/builder.pyo
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/uservar.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/changelog.txt
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/default.py
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/icon.png
+[2018-05-13 13:15:23] Skipping: addons/plugin.program.luxurywizard/uservar.pyo
+[2018-05-13 13:15:45] Skipping: addons/repository.AtomReborn/Thumbs.db
+[2018-05-13 13:15:52] Skipping: addons/plugin.video.SportsDevil/.gitignore
+[2018-05-13 13:17:17] Skipping: addons/script.module.urlresolver/.gitignore
+[2018-05-13 13:17:35] Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/AddonWindow/Thumbs.db
+[2018-05-13 13:17:35] Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/Button/Thumbs.db
+[2018-05-13 13:17:35] Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/List/Thumbs.db
+[2018-05-13 13:17:35] Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/Scrollbar/Thumbs.db
+[2018-05-13 13:17:35] Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/Thumbs.db
+[2018-05-13 13:17:35] Skipping: addons/plugin.video.Asylum/resources/skins/icons/Thumbs.db
+[2018-05-13 13:17:53] Skipping: addons/script.uranus.artwork/resources/media/Default/Thumbs.db
+[2018-05-13 13:20:40] Skipping: addons/script.Yoda.artwork/resources/media/Yoda/Thumbs.db
+[2018-05-13 13:20:40] Skipping: addons/script.Yoda.artwork/Thumbs.db
+[2018-05-13 13:21:09] Skipping: addons/repository.bookmark/Thumbs.db
+[2018-05-13 13:21:10] Skipping: addons/script.module.universalscrapers/.DS_Store
+[2018-05-13 13:21:10] Skipping: addons/script.module.universalscrapers/lib/.DS_Store
+[2018-05-13 13:21:10] Skipping: addons/script.module.universalscrapers/lib/universalscrapers/.DS_Store
+[2018-05-13 13:21:32] Skipping: addons/script.Yoda.metadata/Thumbs.db
+[2018-05-13 13:21:33] Skipping: addons/script.module.Yoda/Thumbs.db
+[2018-05-13 13:21:33] Skipping: addons/plugin.video.Yoda/resources/screenshots/Thumbs.db
+[2018-05-13 13:21:33] Skipping: addons/plugin.video.Yoda/Thumbs.db
+[2018-05-13 13:21:44] Skipping: addons/script.module.ATFlive/Thumbs.db
+[2018-05-13 13:21:44] Skipping: addons/repository.Cypherslocker/Thumbs.db
+[2018-05-13 13:21:45] Skipping: addons/plugin.video.metalliq-forqed/.DS_Store
+[2018-05-13 13:21:45] Skipping: addons/plugin.video.metalliq-forqed/resources/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/audiodb/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/library/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/navigation/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/play/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/utils/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/requests_cache/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/requests_cache/backends/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/requests_cache/backends/storage/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/tmdbsimple/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/trakt/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/tvdb_api/.DS_Store
+[2018-05-13 13:21:46] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/xbmcswift2/.DS_Store
+[2018-05-13 13:22:01] Skipping: addons/script.extendedinfo/.DS_Store
+[2018-05-13 13:22:23] Skipping: addons/script.extendedinfo/resources/skins/Default/media/.DS_Store
+[2018-05-13 13:22:48] Skipping: addons/script.extendedinfo/resources/skins/Default/media/common/.DS_Store
+[2018-05-13 13:23:02] Skipping: addons/script.extendedinfo/resources/skins/Default/media/icons/.DS_Store
+[2018-05-13 13:23:29] Skipping: userdata/addon_data/script.module.metahandler/meta_cache/video_cache.db
+[2018-05-13 13:23:29] Skipping: userdata/addon_data/plugin.program.luxurywizard/
+[2018-05-13 13:23:29] Skipping: userdata/addon_data/plugin.program.luxurywizard/wizard.log
+[2018-05-13 13:23:29] Skipping: userdata/addon_data/plugin.program.luxurywizard/settings.xml
+[2018-05-13 13:23:31] lookandfeel.enablerssfeeds saved to false
+[2018-05-13 13:23:31] lookandfeel.font saved to "Default"
+[2018-05-13 13:23:31] lookandfeel.rssedit saved to ""
+[2018-05-13 13:23:31] lookandfeel.skincolors saved to "SKINDEFAULT"
+[2018-05-13 13:23:31] lookandfeel.skintheme saved to "SKINDEFAULT"
+[2018-05-13 13:23:31] lookandfeel.skinzoom saved to 0
+[2018-05-13 13:23:31] lookandfeel.soundskin saved to "resource.uisounds.kodi"
+[2018-05-13 13:23:31] lookandfeel.startupwindow saved to 10000
+[2018-05-13 13:23:31] lookandfeel.stereostrength saved to 5
+[2018-05-13 13:23:31] [Default Skin Check]
+[2018-05-13 13:23:31] Reading gui file: /home/pi/.kodi/userdata/guisettings.xml
+[2018-05-13 13:23:31] Opening gui settings
+[2018-05-13 13:23:32] Matches: ['skin.konfluence']
+[2018-05-13 13:23:32] [Default Skin Check] Skin name: Kodiworld
+[2018-05-13 13:23:32] [Default Skin Check] Skin id: skin.konfluence
+[2018-05-13 13:23:32] [Default Skin Check] End
+[2018-05-13 13:23:42] INSTALLED 100: [ERRORS:0]
+[2018-05-13 13:23:43] Updated plugin.program.luxurywizard in db
+[2018-05-13 13:23:50] Force Closing Kodi: Platform[linux]
+[2018-05-13 13:25:58] 2018-05-13 13:25:58.349660
+[2018-05-13 13:26:02] Continuing Start Up Script
+[2018-05-13 13:26:02] [Path Check] Started
+[2018-05-13 13:26:02] [Path Check] Good!
+[2018-05-13 13:26:02] [Auto Install Repo] Started
+[2018-05-13 13:26:02] [Auto Install Repo] Not Enabled
+[2018-05-13 13:26:02] [Auto Update Wizard] Started
+[2018-05-13 13:26:22] [Auto Update Wizard] No New Version v2.5
+[2018-05-13 13:26:23] [Notifications] Started
+[2018-05-13 13:26:24] [Notifications] id[13] Dismissed
+[2018-05-13 13:26:28] [Installed Check] Started
+[2018-05-13 13:26:51] [Trakt Data] Started
+[2018-05-13 13:26:52] [Trakt Data] Not Enabled
+[2018-05-13 13:26:52] [Real Debrid Data] Started
+[2018-05-13 13:26:52] [Real Debrid Data] Not Enabled
+[2018-05-13 13:26:52] [Login Data] Started
+[2018-05-13 13:26:52] [Login Data] Not Enabled
+[2018-05-13 13:26:52] [Auto Clean Up] Started
+[2018-05-13 13:26:52] [Auto Clean Up] Cache: On
+[2018-05-13 13:26:53] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-05-13 13:26:55] [Success] wiped /home/pi/.kodi/userdata/addon_data/plugin.video.transistortv/cache 
+[2018-05-13 13:26:56] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.resolveurl/cache 
+[2018-05-13 13:26:56] Ignore Log File: kodi.log
+[2018-05-13 13:26:56] [Wiped] /home/pi/.kodi/temp/commoncache.socket
+[2018-05-13 13:26:56] Ignore Log File: kodi.old.log
+[2018-05-13 13:26:56] [Wiped] /home/pi/.kodi/temp/commoncache.db
+[2018-05-13 13:26:56] [Success] cleared 4 files from /home/pi/.kodi/temp/temp
+[2018-05-13 13:26:56] [Auto Clean Up] Old Thumbs: On
+[2018-05-13 13:27:14] 822 total thumbs cleaned up.
+[2018-05-13 13:27:19] [Auto Clean Up] Packages: On
+[2018-05-13 13:31:22] 2018-05-13 13:31:22.006052
+[2018-05-13 13:31:23] Continuing Start Up Script
+[2018-05-13 13:31:23] [Path Check] Started
+[2018-05-13 13:31:23] [Path Check] Good!
+[2018-05-13 13:31:23] [Auto Install Repo] Started
+[2018-05-13 13:31:23] [Auto Install Repo] Not Enabled
+[2018-05-13 13:31:23] [Auto Update Wizard] Started
+[2018-05-13 13:31:26] [Auto Update Wizard] No New Version v2.5
+[2018-05-13 13:31:26] [Notifications] Started
+[2018-05-13 13:31:27] [Notifications] id[13] Dismissed
+[2018-05-13 13:31:27] [Installed Check] Started
+[2018-05-13 13:31:27] [Installed Check] Not Enabled
+[2018-05-13 13:31:27] [Build Check] Started
+[2018-05-13 13:31:27] [Build Check] Build Installed
+[2018-05-13 13:31:27] [Build Check] Build Installed: Checking Updates
+[2018-05-13 13:31:28] [Check Updates] [Installed Version: 1.7.9] [Current Version: 1.7.9]
+[2018-05-13 13:31:28] [Trakt Data] Started
+[2018-05-13 13:31:28] [Trakt Data] Not Enabled
+[2018-05-13 13:31:28] [Real Debrid Data] Started
+[2018-05-13 13:31:28] [Real Debrid Data] Not Enabled
+[2018-05-13 13:31:28] [Login Data] Started
+[2018-05-13 13:31:28] [Login Data] Not Enabled
+[2018-05-13 13:31:28] [Auto Clean Up] Started
+[2018-05-13 13:31:28] [Auto Clean Up] Cache: On
+[2018-05-13 13:31:28] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-05-13 13:31:28] [Success] wiped /home/pi/.kodi/userdata/addon_data/plugin.video.transistortv/cache 
+[2018-05-13 13:31:28] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.resolveurl/cache 
+[2018-05-13 13:31:28] Ignore Log File: kodi.log
+[2018-05-13 13:31:28] [Wiped] /home/pi/.kodi/temp/commoncache.socket
+[2018-05-13 13:31:28] Ignore Log File: kodi.old.log
+[2018-05-13 13:31:28] [Wiped] /home/pi/.kodi/temp/commoncache.db
+[2018-05-13 13:31:28] [Success] cleared 4 files from /home/pi/.kodi/temp/temp
+[2018-05-13 13:31:28] [Auto Clean Up] Old Thumbs: On
+[2018-05-13 13:31:28] 0 total thumbs cleaned up.
+[2018-05-13 13:31:29] [Auto Clean Up] Packages: On
+[2018-05-16 21:02:41] 2018-05-16 21:02:41.572309
+[2018-05-16 21:02:45] Continuing Start Up Script
+[2018-05-16 21:02:45] [Path Check] Started
+[2018-05-16 21:02:45] [Path Check] Good!
+[2018-05-16 21:02:45] [Auto Install Repo] Started
+[2018-05-16 21:02:45] [Auto Install Repo] Not Enabled
+[2018-05-16 21:02:45] [Auto Update Wizard] Started
+[2018-05-16 21:02:49] [Auto Update Wizard] No New Version v2.5
+[2018-05-16 21:02:49] [Notifications] Started
+[2018-05-16 21:02:50] [Notifications] id: 15
+[2018-05-16 21:03:32] [Notification] NotifyID 15 Dismissed
+[2018-05-16 21:03:32] [Notifications] Complete
+[2018-05-16 21:03:32] [Installed Check] Started
+[2018-05-16 21:03:32] [Installed Check] Not Enabled
+[2018-05-16 21:03:32] [Build Check] Started
+[2018-05-16 21:03:32] [Build Check] Build Installed
+[2018-05-16 21:03:32] [Build Check] Build Installed: Checking Updates
+[2018-05-16 21:03:33] [Check Updates] [Installed Version: 1.7.9] [Current Version: 1.8.0] Opening Update Window
+[2018-05-16 21:03:35] [Check Updates] [Installed Version: 1.7.9] [Current Version: 1.8.0] [User Selected: Fresh Install build]
+[2018-05-16 21:03:35] [Check Updates] [Next Check: 2018-05-16]
+[2018-05-16 21:03:35] [Trakt Data] Started
+[2018-05-16 21:03:35] [Trakt Data] Not Enabled
+[2018-05-16 21:03:35] [Real Debrid Data] Started
+[2018-05-16 21:03:35] [Real Debrid Data] Not Enabled
+[2018-05-16 21:03:35] [Login Data] Started
+[2018-05-16 21:03:35] [Login Data] Not Enabled
+[2018-05-16 21:03:35] [Auto Clean Up] Started
+[2018-05-16 21:03:35] [Auto Clean Up] Cache: On
+[2018-05-16 21:03:35] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-05-16 21:03:37] [Success] wiped /home/pi/.kodi/userdata/addon_data/plugin.video.transistortv/cache 
+[2018-05-16 21:03:37] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.resolveurl/cache 
+[2018-05-16 21:03:37] Ignore Log File: kodi.log
+[2018-05-16 21:03:37] [Wiped] /home/pi/.kodi/temp/commoncache.socket
+[2018-05-16 21:03:37] Ignore Log File: kodi.old.log
+[2018-05-16 21:03:37] [Wiped] /home/pi/.kodi/temp/commoncache.db
+[2018-05-16 21:03:37] [Success] cleared 4 files from /home/pi/.kodi/temp/temp
+[2018-05-16 21:03:37] [Auto Clean Up] Old Thumbs: On
+[2018-05-16 21:03:38] [ Version : '2.5' ] [ Mode : 'install' ] [ Name : 'Kodi World' ] [ Url : 'fresh' ]
+[2018-05-16 21:03:38] 106 total thumbs cleaned up.
+[2018-05-16 21:03:38] [Auto Clean Up] Packages: On
+[2018-05-16 21:04:01] Ignoring Addons27.db on v17.6
+[2018-05-16 21:04:01] Keep Log File: kodi.log
+[2018-05-16 21:04:01] Keep Log File: kodi.old.log
+[2018-05-16 21:09:09] [ Version : '2.5' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-05-16 21:09:19] [ Version : '2.5' ] [ Mode : 'builds' ] [ Name : 'None' ] [ Url : 'None' ]
+[2018-05-16 21:09:41] [ Version : '2.5' ] [ Mode : 'viewbuild' ] [ Name : 'Kodi World' ] [ Url : 'None' ]
+[2018-05-16 21:10:03] [ Version : '2.5' ] [ Mode : 'install' ] [ Name : 'Kodi World' ] [ Url : 'fresh' ]
+[2018-05-16 21:10:08] Ignoring Addons27.db on v17.6
+[2018-05-16 21:10:08] Keep Log File: kodi.log
+[2018-05-16 21:10:08] Keep Log File: kodi.old.log
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/credits.txt
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/startup.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/addon.xml
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/fanart.jpg
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/LICENSE
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/tempaddon.xml
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/LogViewer.xml
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Textbox.xml
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Contact.xml
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/FirstRunSaveData.xml
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/APK.xml
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/Notifications.xml
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/loguploader.xml
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/BuildUpdate.xml
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/1080i/FirstRunBuild.xml
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/MenuItemNF.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/MenuItemFO.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/radiobutton-focus.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/RadioButton/radiobutton-nofocus.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/spmc.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/bgg2.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-black.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/ContentPanel.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-white.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/dialogheader.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Background/loguploader-dialog-bg.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V-focus.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-fo.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/DialogCloseButton.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-nofo.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/KeyboardKey.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/testbuttonnf.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/DialogCloseButton-focus.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/scrollbar-V-background.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/testbuttonfo.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/button-focus_lightblue.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/button-focus_grey.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Button/KeyboardKeyNF.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/osd_slider_nib.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/osd_slider_nibNF.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/skins/DefaultSkin/media/Slider/slider1.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/__init__.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/settings.xml
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/art/
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/art/fanart.jpg
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/art/ContentPanel.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/debridit.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/yt.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/skinSwitch.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/extract.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/__init__.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/uploadLog.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/wizard.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/notify.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/loginit.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/traktit.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/downloader.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/__init__.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/extract.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/wizard.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/downloader.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/skinSwitch.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/notify.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/loginit.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/debridit.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/traktit.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/uploadLog.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/libs/yt.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/resources/__init__.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/pyqrcode/
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/pyqrcode/png.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/pyqrcode/__init__.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/pyqrcode/builder.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/pyqrcode/tables.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/pyqrcode/__init__.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/pyqrcode/tables.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/pyqrcode/builder.pyo
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/uservar.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/changelog.txt
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/default.py
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/icon.png
+[2018-05-16 21:13:45] Skipping: addons/plugin.program.luxurywizard/uservar.pyo
+[2018-05-16 21:13:57] Skipping: addons/repository.AtomReborn/Thumbs.db
+[2018-05-16 21:13:57] Skipping: addons/script.module.resolveurl/resources/.gitignore
+[2018-05-16 21:14:22] Skipping: addons/plugin.video.SportsDevil/.gitignore
+[2018-05-16 21:15:26] Skipping: addons/script.module.urlresolver/.gitignore
+[2018-05-16 21:15:55] Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/AddonWindow/Thumbs.db
+[2018-05-16 21:15:55] Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/Button/Thumbs.db
+[2018-05-16 21:15:55] Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/List/Thumbs.db
+[2018-05-16 21:15:55] Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/Scrollbar/Thumbs.db
+[2018-05-16 21:15:55] Skipping: addons/plugin.video.Asylum/resources/skins/Default/media/Thumbs.db
+[2018-05-16 21:15:55] Skipping: addons/plugin.video.Asylum/resources/skins/icons/Thumbs.db
+[2018-05-16 21:15:56] Skipping: addons/script.uranus.artwork/resources/media/Default/Thumbs.db
+[2018-05-16 21:18:44] Skipping: addons/script.Yoda.artwork/resources/media/Yoda/Thumbs.db
+[2018-05-16 21:18:44] Skipping: addons/script.Yoda.artwork/Thumbs.db
+[2018-05-16 21:19:18] Skipping: addons/repository.bookmark/Thumbs.db
+[2018-05-16 21:19:19] Skipping: addons/script.module.universalscrapers/.DS_Store
+[2018-05-16 21:19:19] Skipping: addons/script.module.universalscrapers/lib/.DS_Store
+[2018-05-16 21:19:19] Skipping: addons/script.module.universalscrapers/lib/universalscrapers/.DS_Store
+[2018-05-16 21:19:37] Skipping: addons/script.Yoda.metadata/Thumbs.db
+[2018-05-16 21:19:38] Skipping: addons/script.module.Yoda/Thumbs.db
+[2018-05-16 21:19:48] Skipping: addons/plugin.video.Yoda/resources/screenshots/Thumbs.db
+[2018-05-16 21:19:48] Skipping: addons/plugin.video.Yoda/Thumbs.db
+[2018-05-16 21:19:50] Skipping: addons/script.module.ATFlive/Thumbs.db
+[2018-05-16 21:19:50] Skipping: addons/repository.Cypherslocker/Thumbs.db
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/audiodb/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/library/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/navigation/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/play/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/meta/utils/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/requests_cache/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/requests_cache/backends/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/requests_cache/backends/storage/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/tmdbsimple/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/trakt/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/tvdb_api/.DS_Store
+[2018-05-16 21:19:51] Skipping: addons/plugin.video.metalliq-forqed/resources/lib/xbmcswift2/.DS_Store
+[2018-05-16 21:20:00] Skipping: addons/script.extendedinfo/.DS_Store
+[2018-05-16 21:20:07] Skipping: addons/script.extendedinfo/resources/skins/Default/media/.DS_Store
+[2018-05-16 21:20:07] Skipping: addons/script.extendedinfo/resources/skins/Default/media/common/.DS_Store
+[2018-05-16 21:20:29] Skipping: addons/script.extendedinfo/resources/skins/Default/media/icons/.DS_Store
+[2018-05-16 21:20:50] Skipping: userdata/addon_data/script.module.metahandler/meta_cache/video_cache.db
+[2018-05-16 21:20:51] Skipping: userdata/addon_data/plugin.program.luxurywizard/
+[2018-05-16 21:20:51] Skipping: userdata/addon_data/plugin.program.luxurywizard/wizard.log
+[2018-05-16 21:20:51] Skipping: userdata/addon_data/plugin.program.luxurywizard/settings.xml
+[2018-05-16 21:20:52] lookandfeel.enablerssfeeds saved to false
+[2018-05-16 21:20:52] lookandfeel.font saved to "Default"
+[2018-05-16 21:20:52] lookandfeel.rssedit saved to ""
+[2018-05-16 21:20:52] lookandfeel.skincolors saved to "SKINDEFAULT"
+[2018-05-16 21:20:52] lookandfeel.skintheme saved to "SKINDEFAULT"
+[2018-05-16 21:20:52] lookandfeel.skinzoom saved to 0
+[2018-05-16 21:20:52] lookandfeel.soundskin saved to "resource.uisounds.kodi"
+[2018-05-16 21:20:52] lookandfeel.startupwindow saved to 10000
+[2018-05-16 21:20:52] lookandfeel.stereostrength saved to 5
+[2018-05-16 21:20:52] [Default Skin Check]
+[2018-05-16 21:20:52] Reading gui file: /home/pi/.kodi/userdata/guisettings.xml
+[2018-05-16 21:20:52] Opening gui settings
+[2018-05-16 21:20:52] Matches: ['skin.konfluence']
+[2018-05-16 21:20:52] [Default Skin Check] Skin name: Kodiworld
+[2018-05-16 21:20:52] [Default Skin Check] Skin id: skin.konfluence
+[2018-05-16 21:20:52] [Default Skin Check] End
+[2018-05-16 21:20:54] INSTALLED 100: [ERRORS:0]
+[2018-05-16 21:20:56] Updated plugin.program.luxurywizard in db
+[2018-05-16 21:24:50] Force Closing Kodi: Platform[linux]
+[2018-05-16 21:27:20] 2018-05-16 21:27:20.535929
+[2018-05-16 21:27:23] Continuing Start Up Script
+[2018-05-16 21:27:23] [Path Check] Started
+[2018-05-16 21:27:23] [Path Check] Good!
+[2018-05-16 21:27:23] [Auto Install Repo] Started
+[2018-05-16 21:27:23] [Auto Install Repo] Not Enabled
+[2018-05-16 21:27:23] [Auto Update Wizard] Started
+[2018-05-16 21:27:38] [Auto Update Wizard] No New Version v2.5
+[2018-05-16 21:27:38] [Notifications] Started
+[2018-05-16 21:27:39] [Notifications] id[15] Dismissed
+[2018-05-16 21:27:40] [Installed Check] Started
+[2018-05-16 21:28:39] [Trakt Data] Started
+[2018-05-16 21:28:39] [Trakt Data] Not Enabled
+[2018-05-16 21:28:39] [Real Debrid Data] Started
+[2018-05-16 21:28:39] [Real Debrid Data] Not Enabled
+[2018-05-16 21:28:39] [Login Data] Started
+[2018-05-16 21:28:39] [Login Data] Not Enabled
+[2018-05-16 21:28:39] [Auto Clean Up] Started
+[2018-05-16 21:28:40] [Auto Clean Up] Cache: On
+[2018-05-16 21:28:42] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-05-16 21:28:47] [Success] wiped /home/pi/.kodi/userdata/addon_data/plugin.video.transistortv/cache 
+[2018-05-16 21:28:51] [Success] wiped /home/pi/.kodi/userdata/addon_data/script.module.resolveurl/cache 
+[2018-05-16 21:28:51] Ignore Log File: kodi.log
+[2018-05-16 21:28:51] [Wiped] /home/pi/.kodi/temp/commoncache.socket
+[2018-05-16 21:28:51] Ignore Log File: kodi.old.log
+[2018-05-16 21:28:51] [Wiped] /home/pi/.kodi/temp/commoncache.db
+[2018-05-16 21:28:51] [Success] cleared 4 files from /home/pi/.kodi/temp/temp
+[2018-05-16 21:28:51] [Auto Clean Up] Old Thumbs: On
+[2018-05-16 21:28:51] 26 total thumbs cleaned up.
+[2018-05-16 21:28:54] [Auto Clean Up] Packages: On

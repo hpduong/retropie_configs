@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR teal]Cleaning Tools[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.program.luxurywizard/icon.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.luxurywizard/?mode=maint&amp;name=clean",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]trakt login[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2ffrancisuniverse.files.wordpress.com%2f2017%2f07%2ftrakttvthumbmail.png%3fw%3d1200/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=%5BCOLOR+gray%5Dtrakt+login%5B%2FCOLOR%5D&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftrakt+login&amp;image=https%3A%2F%2Ffrancisuniverse.files.wordpress.com%2F2017%2F07%2Ftrakttvthumbmail.png%3Fw%3D1200&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>7</defaultID>
+		<label>[COLOR teal]File manager[/COLOR]</label>
+		<label2>Common menu item</label2>
+		<icon>DefaultFolder.png</icon>
+		<thumb />
+		<action>ActivateWindow(FileManager)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>10007</defaultID>
+		<label>[COLOR gray]System information[/COLOR]</label>
+		<label2>Common menu item</label2>
+		<icon>special://skin/extras/icons/sysinfo.png</icon>
+		<thumb />
+		<action>ActivateWindow(SystemInfo)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>13200</defaultID>
+		<label>[COLOR teal]Profiles[/COLOR]</label>
+		<label2>Common menu item</label2>
+		<icon>special://skin/extras/icons/actor.png</icon>
+		<thumb />
+		<action>ActivateWindow(Profiles)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gray]connect to real debrid[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fkoditips.com%2fwp-content%2fuploads%2freal-debrid-addon.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=connect+to+real+debrid&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fconnect+to+real+debrid&amp;image=http%3A%2F%2Fkoditips.com%2Fwp-content%2Fuploads%2Freal-debrid-addon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+</shortcuts>

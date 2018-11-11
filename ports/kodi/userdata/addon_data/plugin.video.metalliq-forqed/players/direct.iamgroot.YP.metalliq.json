@@ -1,0 +1,30 @@
+{
+ "name"         : "Direct - [COLOR FF0084FF]I Am Groot[/COLOR] ([COLOR gold]YP[/COLOR])",
+ "repository"   : "repository.iamgroot",
+ "plugin"       : "plugin.video.iamgroot",
+ "priority"     : 200,
+ "id"           : "I Am Groot",
+ "filters"      : {},
+ "postprocess"  : "",
+ "movies"       : [
+  [
+   {
+    "link"      : "plugin://plugin.video.iamgroot/?url=Movies&mode=1501&name={title_+}+%28{year}%29+&iconimage=&fanart=&description=&extra=%3E{title}%3E%{year}%29%3E",
+    "steps"     : [],
+    "action"    : "ACTIVATE"
+   }
+  ]
+ ],
+ "tvshows"      : [
+  [
+   {
+    "link"      : "plugin://plugin.video.iamgroot/?url=&mode=307&name=Episode+{episode}+-+Turn&iconimage=&fanart=&description=++++&extra=SPLITTER%3E{showname}%3E{year}%3E{year}%3E{season}%3E{episode}%3E",
+    "steps"     : [],
+    "action"    : "ACTIVATE"
+   }
+  ]
+ ],
+ "musicvideos"  : [],
+ "music"        : [],
+ "live"         : []
+}

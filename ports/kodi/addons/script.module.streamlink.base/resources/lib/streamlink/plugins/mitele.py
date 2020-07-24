@@ -82,7 +82,7 @@ class Mitele(Plugin):
         channel = self._url_re.match(self.url).group("channel")
         domain = self._channel_domains[channel]
         path = m.group("path")
-        path_suffix = "master.m3u8?{suffix}".format(suffix=suffix)
+        path_suffix = "main.m3u8?{suffix}".format(suffix=suffix)
 
         hls_url = urljoin(domain, path)
         hls_url = urljoin(hls_url, path_suffix)

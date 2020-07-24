@@ -25,7 +25,7 @@ class BBCiPlayer(Plugin):
         )
     """, re.VERBOSE)
     mediator_re = re.compile(r'window\.mediatorDefer\s*=\s*page\([^,]*,\s*({.*?})\);', re.DOTALL)
-    tvip_re = re.compile(r'event_master_brand=(\w+?)&')
+    tvip_re = re.compile(r'event_main_brand=(\w+?)&')
     account_locals_re = re.compile(r'window.bbcAccount.locals\s*=\s*({.*?});')
     swf_url = "http://emp.bbci.co.uk/emp/SMPf/1.18.3/StandardMediaPlayerChromelessFlash.swf"
     hash = base64.b64decode(b"N2RmZjc2NzFkMGM2OTdmZWRiMWQ5MDVkOWExMjE3MTk5MzhiOTJiZg==")

@@ -209,7 +209,7 @@ class Daisuki(Plugin):
         init_data = parse_json(aes_decrypt(aeskey, rtn))
 
         parsed = urlparse(init_data["play_url"])
-        if parsed.scheme != "https" or not parsed.path.startswith("/i/") or not parsed.path.endswith("/master.m3u8"):
+        if parsed.scheme != "https" or not parsed.path.startswith("/i/") or not parsed.path.endswith("/main.m3u8"):
             return
         hlsstream_url = init_data["play_url"]
 

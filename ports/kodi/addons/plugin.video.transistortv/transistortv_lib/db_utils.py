@@ -539,7 +539,7 @@ class DB_Connection():
         if self.db_type == DB_TYPES.MYSQL:
             sql = 'SHOW TABLES LIKE ?'
         else:
-            sql = 'select name from sqlite_master where type="table" and name = ?'
+            sql = 'select name from sqlite_main where type="table" and name = ?'
         rows = self.__execute(sql, (table,))
 
         if not rows:
@@ -679,7 +679,7 @@ class DB_Connection():
         if self.db_type == DB_TYPES.MYSQL:
             sql = 'show tables'
         else:
-            sql = 'select name from sqlite_master where type="table"'
+            sql = 'select name from sqlite_main where type="table"'
         rows = self.__execute(sql)
         db_objects = [row[0] for row in rows]
 

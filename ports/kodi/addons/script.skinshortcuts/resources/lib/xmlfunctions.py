@@ -16,7 +16,7 @@ ADDON        = xbmcaddon.Addon()
 ADDONID      = sys.modules[ "__main__" ].ADDONID
 ADDONVERSION = ADDON.getAddonInfo('version')
 KODIVERSION  = xbmc.getInfoLabel( "System.BuildVersion" ).split(".")[0]
-MASTERPATH   = os.path.join( xbmc.translatePath( "special://masterprofile/addon_data/" ).decode('utf-8'), ADDONID ).encode('utf-8')
+MASTERPATH   = os.path.join( xbmc.translatePath( "special://mainprofile/addon_data/" ).decode('utf-8'), ADDONID ).encode('utf-8')
 LANGUAGE     = ADDON.getLocalizedString
 
 import datafunctions, template
@@ -70,12 +70,12 @@ class XMLFunctions():
                 if "://" in dir:
                     dir = xbmc.translatePath( dir ).decode( "utf-8" )
                 else:
-                    # Base if off of the master profile
-                    dir = xbmc.translatePath( os.path.join( "special://masterprofile", dir ) ).decode( "utf-8" )
+                    # Base if off of the main profile
+                    dir = xbmc.translatePath( os.path.join( "special://mainprofile", dir ) ).decode( "utf-8" )
                 profilelist.append( [ dir, "StringCompare(System.ProfileName," + name.decode( "utf-8" ) + ")", name.decode( "utf-8" ) ] )
                 
         else:
-            profilelist = [["special://masterprofile", None]]
+            profilelist = [["special://mainprofile", None]]
  
         if self.shouldwerun( profilelist ) == False:
             log( "Menu is up to date" )

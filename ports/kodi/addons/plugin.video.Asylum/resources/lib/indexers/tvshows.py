@@ -148,7 +148,7 @@ class tvshows:
         self.competition_link = 'http://www.imdb.com/search/title?count=50&keywords=competition&ref_=gnr_kw_ag,desc&start=1&title_type=tv_series,tv_special'
         self.conspiracy_link = 'http://www.imdb.com/search/title?count=50&keywords=conspiracy&ref_=gnr_kw_ag,desc&start=1&title_type=tv_series,tv_special'
         self.corruption_link = 'http://www.imdb.com/search/title?count=50&keywords=corruption&ref_=gnr_kw_ag,desc&start=1&title_type=tv_series,tv_special'
-        self.criminalmastermind_link = 'http://www.imdb.com/search/title?count=50&keywords=criminal-mastermind&ref_=gnr_kw_ag,desc&start=1&title_type=tv_series,tv_special'
+        self.criminalmainmind_link = 'http://www.imdb.com/search/title?count=50&keywords=criminal-mastermind&ref_=gnr_kw_ag,desc&start=1&title_type=tv_series,tv_special'
         self.cult_link = 'http://www.imdb.com/search/title?count=50&keywords=cult&ref_=gnr_kw_ag,desc&start=1&title_type=tv_series,tv_special'
         self.cultfilm_link = 'http://www.imdb.com/search/title?count=50&keywords=cult-film&ref_=gnr_kw_ag,desc&start=1&title_type=tv_series,tv_special'
         self.cyberpunk_link = 'http://www.imdb.com/search/title?count=50&keywords=cyberpunk&ref_=gnr_kw_ag,desc&start=1&title_type=tv_series,tv_special'

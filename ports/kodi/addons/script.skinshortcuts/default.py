@@ -28,7 +28,7 @@ CWD          = ADDON.getAddonInfo('path').decode("utf-8")
 ADDONNAME    = ADDON.getAddonInfo('name').decode("utf-8")
 RESOURCE     = xbmc.translatePath( os.path.join( CWD, 'resources', 'lib' ) ).decode("utf-8")
 DATAPATH     = os.path.join( xbmc.translatePath( "special://profile/" ).decode( 'utf-8' ), "addon_data", ADDONID )
-MASTERPATH   = os.path.join( xbmc.translatePath( "special://masterprofile/" ).decode( 'utf-8' ), "addon_data", ADDONID )
+MASTERPATH   = os.path.join( xbmc.translatePath( "special://mainprofile/" ).decode( 'utf-8' ), "addon_data", ADDONID )
 
 sys.path.append(RESOURCE)
 
@@ -53,7 +53,7 @@ class Main:
         self._parse_argv()
         self.WINDOW = xbmcgui.Window(10000)
         
-        # Create data and master paths if not exists
+        # Create data and main paths if not exists
         if not xbmcvfs.exists(DATAPATH):
             xbmcvfs.mkdir(DATAPATH)
         if not xbmcvfs.exists(MASTERPATH):

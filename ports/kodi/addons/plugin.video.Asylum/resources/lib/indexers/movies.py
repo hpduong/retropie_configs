@@ -164,7 +164,7 @@ class movies:
         self.competition_link = 'http://www.imdb.com/search/title?count=50&keywords=competition&ref_=gnr_kw_ag,desc&start=1'
         self.conspiracy_link = 'http://www.imdb.com/search/title?count=50&keywords=conspiracy&ref_=gnr_kw_ag,desc&start=1'
         self.corruption_link = 'http://www.imdb.com/search/title?count=50&keywords=corruption&ref_=gnr_kw_ag,desc&start=1'
-        self.criminalmastermind_link = 'http://www.imdb.com/search/title?count=50&keywords=criminal-mastermind&ref_=gnr_kw_ag,desc&start=1'
+        self.criminalmainmind_link = 'http://www.imdb.com/search/title?count=50&keywords=criminal-mastermind&ref_=gnr_kw_ag,desc&start=1'
         self.cult_link = 'http://www.imdb.com/search/title?count=50&keywords=cult&ref_=gnr_kw_ag,desc&start=1'
         self.cultfilm_link = 'http://www.imdb.com/search/title?count=50&keywords=cult-film&ref_=gnr_kw_ag,desc&start=1'
         self.cyberpunk_link = 'http://www.imdb.com/search/title?count=50&keywords=cyberpunk&ref_=gnr_kw_ag,desc&start=1'

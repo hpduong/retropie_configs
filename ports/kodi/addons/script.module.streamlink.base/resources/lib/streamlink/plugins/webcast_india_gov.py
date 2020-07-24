@@ -21,7 +21,7 @@ class WebcastIndiaGov(Plugin):
                 url_content = http.get('http://webcast.gov.in/mobilevideo.asp?id=div' + requested_channel).text
             else:
                 url_content = http.get(self.url).text
-            hls_url = url_content[: url_content.rindex('master.m3u8') + 11]
+            hls_url = url_content[: url_content.rindex('main.m3u8') + 11]
             hls_url = hls_url[hls_url.rindex('"') + 1:]
             return HLSStream.parse_variant_playlist(self.session, hls_url)
         except BaseException:

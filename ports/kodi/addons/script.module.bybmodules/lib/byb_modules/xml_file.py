@@ -4,7 +4,7 @@ import xbmc_executebuiltin
 
 def xml_item_count(source, block, tag_to_count):
 	''' source == route to file can either be a url or special path
-	block == master tag 
+	block == main tag 
 	tag_to_count == tag you wish to count
 	returns a int value of count
 	'''

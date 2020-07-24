@@ -194,7 +194,7 @@ def addTorrent(parameters, remove=False, all=False):
     
     if "torrent_file" not in parameters:
         dialog = xbmcgui.Dialog()
-        link = dialog.browseSingle(1, 'Select .torrent file', 'files', '.torrent', False, False, 'special://masterprofile/script_data/Kodi Lyrics').decode('utf-8')
+        link = dialog.browseSingle(1, 'Select .torrent file', 'files', '.torrent', False, False, 'special://mainprofile/script_data/Kodi Lyrics').decode('utf-8')
     else:
         link=parameters['torrent_file']
     file=open(link, 'rb')

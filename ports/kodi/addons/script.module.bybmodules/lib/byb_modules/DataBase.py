@@ -83,7 +83,7 @@ def count_item_DB(file,table,row,match,operator=None):
 def del_all_data_DB(filename):
     conn = sqlite3.connect(filename)
     cursor = conn.cursor()
-    res = conn.execute("SELECT name FROM sqlite_master WHERE type='table';")
+    res = conn.execute("SELECT name FROM sqlite_main WHERE type='table';")
     for name in res:
         sql = 'DELETE FROM '+name[0]
         print sql
@@ -130,7 +130,7 @@ def read_DB_col(filename,table,col):
 			
 def table_names_DB(filename):
 	conn = sqlite3.connect(filename)
-	res = conn.execute("SELECT name FROM sqlite_master WHERE type='table';")
+	res = conn.execute("SELECT name FROM sqlite_main WHERE type='table';")
 	for name in res:
 		TableNames.append(name[0])
 	koding.dolog(TableNames,line_info=True)
